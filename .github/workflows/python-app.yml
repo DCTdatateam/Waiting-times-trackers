@@ -70,6 +70,12 @@ jobs:
       env:
         key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
         
+    - name: Run cancer script
+      run: |
+        python 'py/cancer.py'
+      env:
+        key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
+        
     - name: commit files
       run: |
         git config --local user.name actions-user
