@@ -1,1 +1,2 @@
-
+This repo contains all the code that is generated through Github Actions workflow.
+Each csv powers a different chart in Flourish.
