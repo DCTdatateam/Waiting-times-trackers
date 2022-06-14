@@ -75,9 +75,6 @@ jobs:
         git config --local user.name actions-user
         git config --local user.email "actions@github.com"
         git add data/*
-        rm -rf .git/
-        git init
-        git remote add origin https://repository.remote.url
         git commit -m "GH ACTION Headlines $(date)"
         git push f- origin main
       env:
