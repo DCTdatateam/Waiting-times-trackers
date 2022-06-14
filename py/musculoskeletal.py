@@ -19,5 +19,18 @@ Musculoskeletal2= merge2.rename(columns={'PatientsSeen': 'Number of patients see
 from datetime import datetime
 Musculoskeletal['Month'] = pd.to_datetime(Musculoskeletal['Month'], format='%Y%m').dt.strftime('%d/%m/%y')
 
+#filtering the dataset into different sections so it can be used in flourish
+Musculoskeletal_chiro_podia= Musculoskeletal[Musculoskeletal['Specialty']=='Chiropody/Podiatry']
+Musculoskeletal_occupationaltherapy= Musculoskeletal[Musculoskeletal['Specialty']=='Occupational Therapy']
+Musculoskeletal_Orthotics= Musculoskeletal[Musculoskeletal['Specialty']=='Orthotics']
+Musculoskeletal_Physiotherapy= Musculoskeletal[Musculoskeletal['Specialty']=='Physiotherapy']
+
+
+#writing to csv
 Musculoskeletal.to_csv(r'data/Musculoskeletal.csv')
 Musculoskeletal2.to_csv(r'data/Musculoskeletalseen.csv')
+
+Musculoskeletal_chiro_podia.to_csv(r'data/Musculoskeletal_chiropody_podiatry.csv')
+Musculoskeletal_occupationaltherapy.to_csv(r'data/Musculoskeletal_occupationaltherapy.csv')
+Musculoskeletal_Orthotics.to_csv(r'data/Musculoskeletal_orthotics.csv')
+Musculoskeletal_Physiotherapy.to_csv(r'data/Musculoskeletal_physiotherapy.csv')
