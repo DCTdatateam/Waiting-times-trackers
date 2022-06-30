@@ -31,8 +31,14 @@ CAHMSdata2 = CAHMSdata1.rename(columns={'TotalPatientsSeen': 'Total patients see
 
 #making new datasets for charts
 PatientsSeenFinal= CAHMSdata1.drop(columns=['Number of patients waiting from 0 to 18 weeks', 'Number of patients waiting between 19 and 35 weeks', 'Number of patients waiting between 36 and 52 weeks', 'Number of patients waiting more than 52 weeks', 'Number of referrals accepted','Number of referrals received' ])
-PatientsWaitingFinal= CAHMSdata1.drop(columns=['Total patients seen', 'Number of patients waiting between 19 and 35 weeks', 'Number of patients seen in 0 to 18 weeks', 'Number of patients seen in 19 to 35 weeks', 'Number of patients seen in 36 to 52 weeks', 'Number of patients seen in over 52 weeks', 'Median number of weeks patients seen in', '90thPercentileWeeksPatientsSeen', 'Number of referrals accepted','Number of referrals received' ])
+PatientsWaitingFinal= CAHMSdata1.drop(columns=['Total patients seen', 'Number of patients seen in 0 to 18 weeks', 'Number of patients seen in 19 to 35 weeks', 'Number of patients seen in 36 to 52 weeks', 'Number of patients seen in over 52 weeks', 'Median number of weeks patients seen in', '90thPercentileWeeksPatientsSeen', 'Number of referrals accepted','Number of referrals received' ])
 ReferralsFinal= CAHMSdata1.drop(columns=['Total patients seen', 'Number of patients waiting between 19 and 35 weeks', 'Number of patients seen in 0 to 18 weeks', 'Number of patients seen in 19 to 35 weeks', 'Number of patients seen in 36 to 52 weeks', 'Number of patients seen in over 52 weeks', 'Median number of weeks patients seen in', '90thPercentileWeeksPatientsSeen', 'Number of patients waiting from 0 to 18 weeks', 'Number of patients waiting between 19 and 35 weeks', 'Number of patients waiting between 36 and 52 weeks', 'Number of patients waiting more than 52 weeks'])
+
+Seenmerged= PatientsSeenFinal['Number of patients seen in 19 to 35 weeks']+PatientsSeenFinal['Number of patients seen in 36 to 52 weeks']+PatientsSeenFinal['Number of patients seen in over 52 weeks']
+PatientsSeenFinal['Number of patients seen in over 18 weeks'] = Seenmerged
+
+Waitingmerged= PatientsWaitingFinal['Number of patients waiting between 19 and 35 weeks']+PatientsWaitingFinal['Number of patients waiting between 36 and 52 weeks']+PatientsWaitingFinal['Number of patients waiting more than 52 weeks']
+PatientsWaitingFinal['Number of patients waiting over 18 weeks'] = Waitingmerged
 
 
 #saving the final merged dataset with all the improvements as a csv - there's three because there's three different charts linked to this -decided after coding!
