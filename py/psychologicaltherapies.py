@@ -22,8 +22,15 @@ Psychologicaltherapies1['Month'] = pd.to_datetime(Psychologicaltherapies1['Month
 Merge3['Month'] = pd.to_datetime(Merge3['Month'], format='%Y%m').dt.strftime('%d/%m/%y')
 
 #renaming columns for flourish visualisation
-Psychologicaltherapies2 = Psychologicaltherapies1.rename(columns={'TotalPatientsWaiting': 'Total patients waiting', 'NumberOfPatientsWaiting0To18Weeks': 'Number of patients waiting 0 to 18 weeks','NumberOfPatientsWaiting19To35Weeks': 'Number of patients waiting 19 to 35 weeks', 'NumberOfPatientsWaiting36To52Weeks': 'Number of patients waiting 36 to 52 weeks', 'NumberOfPatientsWaitingOver52Weeks': 'Number of patients waiting over 52 weeks'}, inplace=True)
+Psychologicaltherapies2 = Psychologicaltherapies1.rename(columns={'TotalPatientsWaiting': 'Total patients waiting', 'NumberOfPatientsWaiting0To18Weeks': 'Number of patients waiting 0 to 18 weeks','NumberOfPatientsWaiting19To35Weeks': 'Number of patients waiting 19 to 35 weeks', 'NumberOfPatientsWaiting36To52Weeks': 'Number of patients waiting 36 to 52 weeks', 'NumberOfPatientsWaitingOver52Weeks': 'Number of patients waiting over 52 weeks', 'HBName': 'Health board'}, inplace=True)
 Merge4 = Merge3.rename(columns={'TotalPatientsSeen': 'Total patients seen', 'NumberOfPatientsSeen0To18Weeks': 'Number of patients seen in 0 to 18 weeks','NumberOfPatientsSeen19To35Weeks': 'Number of patients seen in 19 to 35 weeks', 'NumberOfPatientsSeen36To52Weeks': 'Number of patients seen in 36 to 52 weeks', 'NumberOfPatientsSeenOver52Weeks': 'Number of patients seen in over 52 weeks', 'MedianWeeksPatientsSeen': 'Median number of weeks patients were seen in', '90thPercentileWeeksPatientsSeen': '90th percentile weeks patients seen in', 'HBName': 'Health board'}, inplace=True)
+
+#creating a new column to merge 
+Seenmerged= Merge3['Number of patients seen in 19 to 35 weeks']+Merge3['Number of patients seen in 36 to 52 weeks']+Merge3['Number of patients seen in over 52 weeks']
+Merge3['Number of patients seen in over 18 weeks'] = Seenmerged
+
+Waitingmerged= Psychologicaltherapies1['Number of patients waiting 19 to 35 weeks']+Psychologicaltherapies1['Number of patients waiting 36 to 52 weeks']+Psychologicaltherapies1['Number of patients waiting over 52 weeks']
+Psychologicaltherapies1['Number of patients waiting over 18 weeks'] = Waitingmerged
 
 
 #saving the final dataset as a csv
