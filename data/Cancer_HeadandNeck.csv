@@ -43,931 +43,1041 @@
 460,2021Q2,S08000015,Head & Neck,7.0,7.0,NHS Ayrshire and Arran
 473,2021Q3,S08000015,Head & Neck,12.0,9.0,NHS Ayrshire and Arran
 483,2021Q4,S08000015,Head & Neck,14.0,11.0,NHS Ayrshire and Arran
-499,2012Q1,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-508,2012Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-519,2012Q3,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
-530,2012Q4,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
-540,2013Q1,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
-549,2013Q2,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
-559,2013Q3,S08000017,Head & Neck,4.0,3.0,NHS Dumfries and Galloway
-569,2013Q4,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
-580,2014Q1,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-590,2014Q2,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
-611,2014Q4,S08000017,Head & Neck,4.0,4.0,NHS Dumfries and Galloway
-621,2015Q1,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
-632,2015Q2,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
-643,2015Q3,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
-654,2015Q4,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-673,2016Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-684,2016Q3,S08000017,Head & Neck,2.0,1.0,NHS Dumfries and Galloway
-693,2016Q4,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
-704,2017Q1,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
-715,2017Q2,S08000017,Head & Neck,4.0,4.0,NHS Dumfries and Galloway
-735,2017Q4,S08000017,Head & Neck,2.0,1.0,NHS Dumfries and Galloway
-745,2018Q1,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
-756,2018Q2,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
-767,2018Q3,S08000017,Head & Neck,4.0,4.0,NHS Dumfries and Galloway
-777,2018Q4,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-787,2019Q1,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-798,2019Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-809,2019Q3,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
-818,2019Q4,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-828,2020Q1,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
-838,2020Q2,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
-848,2020Q3,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-858,2020Q4,S08000017,Head & Neck,6.0,6.0,NHS Dumfries and Galloway
-870,2021Q1,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
-880,2021Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-890,2021Q3,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
-972,2020Q4,S08000017,Head & Neck,6.0,6.0,NHS Dumfries and Galloway
-987,2021Q1,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
-999,2021Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
-1011,2021Q3,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
-1036,2012Q1,S08000020,Head & Neck,23.0,23.0,NHS Grampian
-1043,2012Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1047,2012Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1052,2012Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1061,2012Q2,S08000020,Head & Neck,22.0,21.0,NHS Grampian
-1074,2012Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1080,2012Q3,S08000020,Head & Neck,25.0,23.0,NHS Grampian
-1100,2012Q4,S08000020,Head & Neck,22.0,21.0,NHS Grampian
-1115,2012Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1124,2013Q1,S08000020,Head & Neck,19.0,17.0,NHS Grampian
-1132,2013Q1,S08000020,Head & Neck,2.0,2.0,NHS Grampian
-1135,2013Q1,S08000020,Head & Neck,1.0,0.0,NHS Grampian
-1144,2013Q2,S08000020,Head & Neck,26.0,25.0,NHS Grampian
-1158,2013Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1163,2013Q3,S08000020,Head & Neck,35.0,33.0,NHS Grampian
-1185,2013Q4,S08000020,Head & Neck,21.0,21.0,NHS Grampian
-1197,2013Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1204,2014Q1,S08000020,Head & Neck,22.0,21.0,NHS Grampian
-1211,2014Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1218,2014Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1226,2014Q2,S08000020,Head & Neck,19.0,18.0,NHS Grampian
-1249,2014Q3,S08000020,Head & Neck,36.0,34.0,NHS Grampian
-1256,2014Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1266,2014Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1276,2014Q4,S08000020,Head & Neck,30.0,30.0,NHS Grampian
-1283,2014Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1290,2014Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1295,2015Q1,S08000020,Head & Neck,29.0,28.0,NHS Grampian
-1311,2015Q2,S08000020,Head & Neck,19.0,18.0,NHS Grampian
-1331,2015Q3,S08000020,Head & Neck,35.0,34.0,NHS Grampian
-1345,2015Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1354,2015Q4,S08000020,Head & Neck,24.0,23.0,NHS Grampian
-1371,2015Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1379,2016Q1,S08000020,Head & Neck,25.0,25.0,NHS Grampian
-1394,2016Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1403,2016Q2,S08000020,Head & Neck,27.0,26.0,NHS Grampian
-1420,2016Q3,S08000020,Head & Neck,23.0,23.0,NHS Grampian
-1434,2016Q3,S08000020,Head & Neck,3.0,3.0,NHS Grampian
-1443,2016Q4,S08000020,Head & Neck,18.0,18.0,NHS Grampian
-1456,2016Q4,S08000020,Head & Neck,2.0,2.0,NHS Grampian
-1467,2017Q1,S08000020,Head & Neck,31.0,31.0,NHS Grampian
-1479,2017Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1483,2017Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1494,2017Q2,S08000020,Head & Neck,19.0,18.0,NHS Grampian
-1506,2017Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1518,2017Q3,S08000020,Head & Neck,15.0,15.0,NHS Grampian
-1537,2017Q4,S08000020,Head & Neck,36.0,32.0,NHS Grampian
-1549,2017Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1561,2018Q1,S08000020,Head & Neck,23.0,22.0,NHS Grampian
-1568,2018Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1583,2018Q2,S08000020,Head & Neck,32.0,30.0,NHS Grampian
-1599,2018Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1611,2018Q3,S08000020,Head & Neck,26.0,26.0,NHS Grampian
-1630,2018Q4,S08000020,Head & Neck,32.0,31.0,NHS Grampian
-1640,2018Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1646,2018Q4,S08000020,Head & Neck,2.0,2.0,NHS Grampian
-1655,2019Q1,S08000020,Head & Neck,40.0,39.0,NHS Grampian
-1670,2019Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1680,2019Q2,S08000020,Head & Neck,25.0,25.0,NHS Grampian
-1705,2019Q3,S08000020,Head & Neck,23.0,23.0,NHS Grampian
-1729,2019Q4,S08000020,Head & Neck,33.0,33.0,NHS Grampian
-1755,2020Q1,S08000020,Head & Neck,38.0,37.0,NHS Grampian
-1763,2020Q1,S08000020,Head & Neck,2.0,2.0,NHS Grampian
-1780,2020Q2,S08000020,Head & Neck,17.0,17.0,NHS Grampian
-1799,2020Q3,S08000020,Head & Neck,20.0,20.0,NHS Grampian
-1814,2020Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1824,2020Q4,S08000020,Head & Neck,16.0,16.0,NHS Grampian
-1833,2020Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1844,2021Q1,S08000020,Head & Neck,26.0,26.0,NHS Grampian
-1867,2021Q2,S08000020,Head & Neck,16.0,16.0,NHS Grampian
-1876,2021Q2,S08000020,Head & Neck,1.0,0.0,NHS Grampian
-1883,2021Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-1894,2021Q3,S08000020,Head & Neck,28.0,28.0,NHS Grampian
-1909,2021Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-2121,2020Q4,S08000020,Head & Neck,16.0,16.0,NHS Grampian
-2130,2020Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-2146,2021Q1,S08000020,Head & Neck,26.0,26.0,NHS Grampian
-2174,2021Q2,S08000020,Head & Neck,16.0,16.0,NHS Grampian
-2183,2021Q2,S08000020,Head & Neck,1.0,0.0,NHS Grampian
-2190,2021Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-2206,2021Q3,S08000020,Head & Neck,28.0,28.0,NHS Grampian
-2221,2021Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-2239,2021Q4,S08000020,Head & Neck,25.0,25.0,NHS Grampian
-2252,2021Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
-2264,2012Q1,S08000031,Head & Neck,6.0,5.0,NHS Greater Glasgow and Clyde
-2271,2012Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-2275,2012Q1,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-2286,2012Q1,S08000031,Head & Neck,73.0,69.0,NHS Greater Glasgow and Clyde
-2296,2012Q1,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
-2306,2012Q2,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-2313,2012Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2317,2012Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-2323,2012Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2334,2012Q2,S08000031,Head & Neck,84.0,82.0,NHS Greater Glasgow and Clyde
-2344,2012Q2,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-2352,2012Q3,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-2362,2012Q3,S08000031,Head & Neck,4.0,4.0,NHS Greater Glasgow and Clyde
-2379,2012Q3,S08000031,Head & Neck,103.0,99.0,NHS Greater Glasgow and Clyde
-2388,2012Q3,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
-2397,2012Q4,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
-2403,2012Q4,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-2406,2012Q4,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-2421,2012Q4,S08000031,Head & Neck,86.0,86.0,NHS Greater Glasgow and Clyde
-2431,2012Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-2448,2013Q1,S08000031,Head & Neck,7.0,6.0,NHS Greater Glasgow and Clyde
-2466,2013Q1,S08000031,Head & Neck,83.0,78.0,NHS Greater Glasgow and Clyde
-2476,2013Q1,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-2485,2013Q2,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-2491,2013Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-2497,2013Q2,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-2515,2013Q2,S08000031,Head & Neck,75.0,72.0,NHS Greater Glasgow and Clyde
-2525,2013Q2,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
-2535,2013Q3,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
-2541,2013Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-2546,2013Q3,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
-2552,2013Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-2557,2013Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2561,2013Q3,S08000031,Head & Neck,80.0,79.0,NHS Greater Glasgow and Clyde
-2571,2013Q3,S08000031,Head & Neck,4.0,3.0,NHS Greater Glasgow and Clyde
-2580,2013Q4,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
-2589,2013Q4,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
-2595,2013Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2596,2013Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2604,2013Q4,S08000031,Head & Neck,82.0,81.0,NHS Greater Glasgow and Clyde
-2613,2013Q4,S08000031,Head & Neck,9.0,8.0,NHS Greater Glasgow and Clyde
-2622,2014Q1,S08000031,Head & Neck,9.0,8.0,NHS Greater Glasgow and Clyde
-2629,2014Q1,S08000031,Head & Neck,4.0,4.0,NHS Greater Glasgow and Clyde
-2634,2014Q1,S08000031,Head & Neck,12.0,11.0,NHS Greater Glasgow and Clyde
-2640,2014Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2642,2014Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-2645,2014Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2649,2014Q1,S08000031,Head & Neck,67.0,66.0,NHS Greater Glasgow and Clyde
-2659,2014Q1,S08000031,Head & Neck,10.0,9.0,NHS Greater Glasgow and Clyde
-2668,2014Q2,S08000031,Head & Neck,6.0,5.0,NHS Greater Glasgow and Clyde
-2674,2014Q2,S08000031,Head & Neck,4.0,4.0,NHS Greater Glasgow and Clyde
-2679,2014Q2,S08000031,Head & Neck,13.0,7.0,NHS Greater Glasgow and Clyde
-2685,2014Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2691,2014Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2695,2014Q2,S08000031,Head & Neck,70.0,63.0,NHS Greater Glasgow and Clyde
-2705,2014Q2,S08000031,Head & Neck,15.0,12.0,NHS Greater Glasgow and Clyde
-2715,2014Q3,S08000031,Head & Neck,14.0,14.0,NHS Greater Glasgow and Clyde
-2721,2014Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2726,2014Q3,S08000031,Head & Neck,9.0,7.0,NHS Greater Glasgow and Clyde
-2734,2014Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2742,2014Q3,S08000031,Head & Neck,83.0,83.0,NHS Greater Glasgow and Clyde
-2752,2014Q3,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
-2762,2014Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-2768,2014Q4,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-2772,2014Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-2786,2014Q4,S08000031,Head & Neck,85.0,82.0,NHS Greater Glasgow and Clyde
-2796,2014Q4,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
-2805,2015Q1,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
-2812,2015Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2816,2015Q1,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
-2821,2015Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2827,2015Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2831,2015Q1,S08000031,Head & Neck,84.0,82.0,NHS Greater Glasgow and Clyde
-2840,2015Q1,S08000031,Head & Neck,14.0,14.0,NHS Greater Glasgow and Clyde
-2850,2015Q2,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-2856,2015Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2863,2015Q2,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
-2876,2015Q2,S08000031,Head & Neck,2.0,1.0,NHS Greater Glasgow and Clyde
-2881,2015Q2,S08000031,Head & Neck,90.0,86.0,NHS Greater Glasgow and Clyde
-2891,2015Q2,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-2900,2015Q3,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
-2907,2015Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-2912,2015Q3,S08000031,Head & Neck,12.0,10.0,NHS Greater Glasgow and Clyde
-2924,2015Q3,S08000031,Head & Neck,104.0,97.0,NHS Greater Glasgow and Clyde
-2934,2015Q3,S08000031,Head & Neck,19.0,19.0,NHS Greater Glasgow and Clyde
-2942,2015Q4,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
-2948,2015Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2954,2015Q4,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
-2961,2015Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-2970,2015Q4,S08000031,Head & Neck,89.0,86.0,NHS Greater Glasgow and Clyde
-2980,2015Q4,S08000031,Head & Neck,13.0,12.0,NHS Greater Glasgow and Clyde
-2990,2016Q1,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-3000,2016Q1,S08000031,Head & Neck,10.0,9.0,NHS Greater Glasgow and Clyde
-3012,2016Q1,S08000031,Head & Neck,74.0,73.0,NHS Greater Glasgow and Clyde
-3022,2016Q1,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-3032,2016Q2,S08000031,Head & Neck,7.0,6.0,NHS Greater Glasgow and Clyde
-3038,2016Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-3041,2016Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-3053,2016Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3060,2016Q2,S08000031,Head & Neck,77.0,74.0,NHS Greater Glasgow and Clyde
-3070,2016Q2,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
-3079,2016Q3,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-3086,2016Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3089,2016Q3,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
-3102,2016Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3107,2016Q3,S08000031,Head & Neck,85.0,82.0,NHS Greater Glasgow and Clyde
-3117,2016Q3,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
-3127,2016Q4,S08000031,Head & Neck,4.0,3.0,NHS Greater Glasgow and Clyde
-3134,2016Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3137,2016Q4,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
-3144,2016Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3154,2016Q4,S08000031,Head & Neck,88.0,85.0,NHS Greater Glasgow and Clyde
-3172,2017Q1,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-3179,2017Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3183,2017Q1,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
-3196,2017Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3199,2017Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3203,2017Q1,S08000031,Head & Neck,69.0,68.0,NHS Greater Glasgow and Clyde
-3222,2017Q2,S08000031,Head & Neck,13.0,10.0,NHS Greater Glasgow and Clyde
-3228,2017Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-3233,2017Q2,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-3239,2017Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3248,2017Q2,S08000031,Head & Neck,77.0,74.0,NHS Greater Glasgow and Clyde
-3258,2017Q2,S08000031,Head & Neck,3.0,2.0,NHS Greater Glasgow and Clyde
-3267,2017Q3,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-3273,2017Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3275,2017Q3,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
-3291,2017Q3,S08000031,Head & Neck,68.0,66.0,NHS Greater Glasgow and Clyde
-3301,2017Q3,S08000031,Head & Neck,14.0,12.0,NHS Greater Glasgow and Clyde
-3309,2017Q4,S08000031,Head & Neck,8.0,7.0,NHS Greater Glasgow and Clyde
-3316,2017Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3321,2017Q4,S08000031,Head & Neck,12.0,11.0,NHS Greater Glasgow and Clyde
-3330,2017Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3335,2017Q4,S08000031,Head & Neck,69.0,66.0,NHS Greater Glasgow and Clyde
-3345,2017Q4,S08000031,Head & Neck,14.0,14.0,NHS Greater Glasgow and Clyde
-3355,2018Q1,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-3361,2018Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3363,2018Q1,S08000031,Head & Neck,7.0,6.0,NHS Greater Glasgow and Clyde
-3371,2018Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3375,2018Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3379,2018Q1,S08000031,Head & Neck,75.0,74.0,NHS Greater Glasgow and Clyde
-3389,2018Q1,S08000031,Head & Neck,16.0,15.0,NHS Greater Glasgow and Clyde
-3398,2018Q2,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
-3403,2018Q2,S08000031,Head & Neck,1.0,0.0,NHS Greater Glasgow and Clyde
-3406,2018Q2,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-3419,2018Q2,S08000031,Head & Neck,84.0,81.0,NHS Greater Glasgow and Clyde
-3428,2018Q2,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
-3438,2018Q3,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
-3443,2018Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3446,2018Q3,S08000031,Head & Neck,11.0,9.0,NHS Greater Glasgow and Clyde
-3461,2018Q3,S08000031,Head & Neck,78.0,78.0,NHS Greater Glasgow and Clyde
-3471,2018Q3,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
-3480,2018Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-3486,2018Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3490,2018Q4,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-3496,2018Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3504,2018Q4,S08000031,Head & Neck,83.0,83.0,NHS Greater Glasgow and Clyde
-3514,2018Q4,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
-3524,2019Q1,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
-3529,2019Q1,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-3533,2019Q1,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-3543,2019Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3549,2019Q1,S08000031,Head & Neck,70.0,70.0,NHS Greater Glasgow and Clyde
-3559,2019Q1,S08000031,Head & Neck,18.0,18.0,NHS Greater Glasgow and Clyde
-3569,2019Q2,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
-3576,2019Q2,S08000031,Head & Neck,4.0,4.0,NHS Greater Glasgow and Clyde
-3581,2019Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-3594,2019Q2,S08000031,Head & Neck,84.0,83.0,NHS Greater Glasgow and Clyde
-3604,2019Q2,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
-3614,2019Q3,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
-3620,2019Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3625,2019Q3,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-3638,2019Q3,S08000031,Head & Neck,84.0,80.0,NHS Greater Glasgow and Clyde
-3648,2019Q3,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
-3657,2019Q4,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
-3663,2019Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3665,2019Q4,S08000031,Head & Neck,18.0,18.0,NHS Greater Glasgow and Clyde
-3676,2019Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3684,2019Q4,S08000031,Head & Neck,81.0,80.0,NHS Greater Glasgow and Clyde
-3694,2019Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-3703,2020Q1,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
-3708,2020Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3713,2020Q1,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-3723,2020Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3728,2020Q1,S08000031,Head & Neck,67.0,66.0,NHS Greater Glasgow and Clyde
-3738,2020Q1,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-3747,2020Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-3754,2020Q2,S08000031,Head & Neck,4.0,4.0,NHS Greater Glasgow and Clyde
-3758,2020Q2,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
-3768,2020Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3775,2020Q2,S08000031,Head & Neck,78.0,78.0,NHS Greater Glasgow and Clyde
-3785,2020Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-3793,2020Q3,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
-3798,2020Q3,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-3800,2020Q3,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
-3812,2020Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3816,2020Q3,S08000031,Head & Neck,60.0,59.0,NHS Greater Glasgow and Clyde
-3826,2020Q3,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
-3835,2020Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-3841,2020Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3844,2020Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-3851,2020Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-3857,2020Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3862,2020Q4,S08000031,Head & Neck,74.0,74.0,NHS Greater Glasgow and Clyde
-3871,2020Q4,S08000031,Head & Neck,15.0,14.0,NHS Greater Glasgow and Clyde
-3879,2021Q1,S08000031,Head & Neck,13.0,12.0,NHS Greater Glasgow and Clyde
-3885,2021Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3890,2021Q1,S08000031,Head & Neck,10.0,8.0,NHS Greater Glasgow and Clyde
-3907,2021Q1,S08000031,Head & Neck,65.0,63.0,NHS Greater Glasgow and Clyde
-3917,2021Q1,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-3927,2021Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-3932,2021Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-3936,2021Q2,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
-3941,2021Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3946,2021Q2,S08000031,Head & Neck,81.0,79.0,NHS Greater Glasgow and Clyde
-3956,2021Q2,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
-3965,2021Q3,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
-3970,2021Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-3976,2021Q3,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-3991,2021Q3,S08000031,Head & Neck,98.0,98.0,NHS Greater Glasgow and Clyde
-4001,2021Q3,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-4292,2020Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-4298,2020Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-4301,2020Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-4308,2020Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
-4314,2020Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-4319,2020Q4,S08000031,Head & Neck,74.0,74.0,NHS Greater Glasgow and Clyde
-4328,2020Q4,S08000031,Head & Neck,15.0,14.0,NHS Greater Glasgow and Clyde
-4343,2021Q1,S08000031,Head & Neck,13.0,12.0,NHS Greater Glasgow and Clyde
-4349,2021Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-4354,2021Q1,S08000031,Head & Neck,10.0,8.0,NHS Greater Glasgow and Clyde
-4371,2021Q1,S08000031,Head & Neck,65.0,63.0,NHS Greater Glasgow and Clyde
-4381,2021Q1,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
-4399,2021Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-4404,2021Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-4408,2021Q2,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
-4413,2021Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-4418,2021Q2,S08000031,Head & Neck,81.0,79.0,NHS Greater Glasgow and Clyde
-4428,2021Q2,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
-4443,2021Q3,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
-4448,2021Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
-4454,2021Q3,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
-4469,2021Q3,S08000031,Head & Neck,98.0,98.0,NHS Greater Glasgow and Clyde
-4479,2021Q3,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
-4496,2021Q4,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
-4502,2021Q4,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
-4506,2021Q4,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
-4525,2021Q4,S08000031,Head & Neck,62.0,62.0,NHS Greater Glasgow and Clyde
-4534,2021Q4,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
-4552,2012Q1,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4563,2012Q2,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4574,2012Q3,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4592,2013Q1,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4601,2013Q2,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4611,2013Q3,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4621,2013Q4,S08000016,Head & Neck,3.0,3.0,NHS Borders
-4630,2014Q1,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4640,2014Q2,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4668,2015Q1,S08000016,Head & Neck,3.0,3.0,NHS Borders
-4678,2015Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4688,2015Q3,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4698,2015Q4,S08000016,Head & Neck,3.0,3.0,NHS Borders
-4725,2016Q3,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4736,2016Q4,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4747,2017Q1,S08000016,Head & Neck,4.0,4.0,NHS Borders
-4757,2017Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4767,2017Q3,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4776,2017Q4,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4788,2018Q1,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4807,2018Q3,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4825,2019Q1,S08000016,Head & Neck,3.0,3.0,NHS Borders
-4835,2019Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4852,2019Q4,S08000016,Head & Neck,3.0,3.0,NHS Borders
-4863,2020Q1,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4873,2020Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4882,2020Q3,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4891,2020Q4,S08000016,Head & Neck,3.0,3.0,NHS Borders
-4909,2021Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
-4919,2021Q3,S08000016,Head & Neck,1.0,1.0,NHS Borders
-4986,2020Q4,S08000016,Head & Neck,3.0,3.0,NHS Borders
-5007,2021Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
-5019,2021Q3,S08000016,Head & Neck,1.0,1.0,NHS Borders
-5032,2021Q4,S08000016,Head & Neck,1.0,1.0,NHS Borders
-5044,2012Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5052,2012Q1,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5066,2012Q1,S08000024,Head & Neck,41.0,41.0,NHS Lothian
-5076,2012Q1,S08000024,Head & Neck,20.0,19.0,NHS Lothian
-5086,2012Q2,S08000024,Head & Neck,3.0,2.0,NHS Lothian
-5093,2012Q2,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-5104,2012Q2,S08000024,Head & Neck,55.0,54.0,NHS Lothian
-5113,2012Q2,S08000024,Head & Neck,22.0,22.0,NHS Lothian
-5127,2012Q3,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-5135,2012Q3,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-5146,2012Q3,S08000024,Head & Neck,43.0,43.0,NHS Lothian
-5156,2012Q3,S08000024,Head & Neck,14.0,13.0,NHS Lothian
-5167,2012Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5175,2012Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5186,2012Q4,S08000024,Head & Neck,43.0,43.0,NHS Lothian
-5196,2012Q4,S08000024,Head & Neck,12.0,11.0,NHS Lothian
-5211,2013Q1,S08000024,Head & Neck,6.0,6.0,NHS Lothian
-5219,2013Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5230,2013Q1,S08000024,Head & Neck,48.0,48.0,NHS Lothian
-5240,2013Q1,S08000024,Head & Neck,15.0,15.0,NHS Lothian
-5251,2013Q2,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5260,2013Q2,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-5271,2013Q2,S08000024,Head & Neck,42.0,42.0,NHS Lothian
-5282,2013Q2,S08000024,Head & Neck,9.0,9.0,NHS Lothian
-5295,2013Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5302,2013Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5315,2013Q3,S08000024,Head & Neck,51.0,49.0,NHS Lothian
-5324,2013Q3,S08000024,Head & Neck,16.0,16.0,NHS Lothian
-5335,2013Q4,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-5343,2013Q4,S08000024,Head & Neck,1.0,1.0,NHS Lothian
-5350,2013Q4,S08000024,Head & Neck,7.0,7.0,NHS Lothian
-5355,2013Q4,S08000024,Head & Neck,45.0,45.0,NHS Lothian
-5365,2013Q4,S08000024,Head & Neck,14.0,14.0,NHS Lothian
-5377,2014Q1,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-5384,2014Q1,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5390,2014Q1,S08000024,Head & Neck,1.0,1.0,NHS Lothian
-5395,2014Q1,S08000024,Head & Neck,47.0,46.0,NHS Lothian
-5404,2014Q1,S08000024,Head & Neck,8.0,8.0,NHS Lothian
-5410,2014Q1,S08000024,Head & Neck,1.0,1.0,NHS Lothian
-5417,2014Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5422,2014Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5436,2014Q2,S08000024,Head & Neck,40.0,40.0,NHS Lothian
-5445,2014Q2,S08000024,Head & Neck,12.0,9.0,NHS Lothian
-5459,2014Q3,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5468,2014Q3,S08000024,Head & Neck,4.0,3.0,NHS Lothian
-5480,2014Q3,S08000024,Head & Neck,36.0,33.0,NHS Lothian
-5489,2014Q3,S08000024,Head & Neck,8.0,7.0,NHS Lothian
-5503,2014Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5518,2014Q4,S08000024,Head & Neck,35.0,34.0,NHS Lothian
-5528,2014Q4,S08000024,Head & Neck,8.0,8.0,NHS Lothian
-5540,2015Q1,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5548,2015Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5558,2015Q1,S08000024,Head & Neck,41.0,41.0,NHS Lothian
-5568,2015Q1,S08000024,Head & Neck,8.0,8.0,NHS Lothian
-5582,2015Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5590,2015Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5600,2015Q2,S08000024,Head & Neck,44.0,44.0,NHS Lothian
-5609,2015Q2,S08000024,Head & Neck,12.0,12.0,NHS Lothian
-5622,2015Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5628,2015Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5638,2015Q3,S08000024,Head & Neck,34.0,34.0,NHS Lothian
-5647,2015Q3,S08000024,Head & Neck,9.0,8.0,NHS Lothian
-5658,2015Q4,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-5666,2015Q4,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-5677,2015Q4,S08000024,Head & Neck,33.0,33.0,NHS Lothian
-5686,2015Q4,S08000024,Head & Neck,10.0,10.0,NHS Lothian
-5696,2016Q1,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-5701,2016Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5713,2016Q1,S08000024,Head & Neck,23.0,23.0,NHS Lothian
-5722,2016Q1,S08000024,Head & Neck,13.0,13.0,NHS Lothian
-5732,2016Q2,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5740,2016Q2,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5752,2016Q2,S08000024,Head & Neck,27.0,27.0,NHS Lothian
-5761,2016Q2,S08000024,Head & Neck,8.0,8.0,NHS Lothian
-5770,2016Q3,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5779,2016Q3,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5792,2016Q3,S08000024,Head & Neck,40.0,40.0,NHS Lothian
-5801,2016Q3,S08000024,Head & Neck,8.0,8.0,NHS Lothian
-5814,2016Q4,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-5821,2016Q4,S08000024,Head & Neck,6.0,5.0,NHS Lothian
-5832,2016Q4,S08000024,Head & Neck,37.0,37.0,NHS Lothian
-5842,2016Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-5854,2017Q1,S08000024,Head & Neck,5.0,4.0,NHS Lothian
-5860,2017Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-5872,2017Q1,S08000024,Head & Neck,39.0,38.0,NHS Lothian
-5882,2017Q1,S08000024,Head & Neck,11.0,11.0,NHS Lothian
-5894,2017Q2,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-5901,2017Q2,S08000024,Head & Neck,3.0,2.0,NHS Lothian
-5913,2017Q2,S08000024,Head & Neck,53.0,53.0,NHS Lothian
-5923,2017Q2,S08000024,Head & Neck,16.0,16.0,NHS Lothian
-5934,2017Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
-5942,2017Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-5952,2017Q3,S08000024,Head & Neck,45.0,43.0,NHS Lothian
-5962,2017Q3,S08000024,Head & Neck,7.0,7.0,NHS Lothian
-5975,2017Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-5982,2017Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-5994,2017Q4,S08000024,Head & Neck,43.0,43.0,NHS Lothian
-6004,2017Q4,S08000024,Head & Neck,9.0,9.0,NHS Lothian
-6017,2018Q1,S08000024,Head & Neck,5.0,3.0,NHS Lothian
-6025,2018Q1,S08000024,Head & Neck,1.0,1.0,NHS Lothian
-6036,2018Q1,S08000024,Head & Neck,41.0,40.0,NHS Lothian
-6045,2018Q1,S08000024,Head & Neck,11.0,11.0,NHS Lothian
-6054,2018Q2,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-6072,2018Q2,S08000024,Head & Neck,36.0,36.0,NHS Lothian
-6081,2018Q2,S08000024,Head & Neck,14.0,14.0,NHS Lothian
-6092,2018Q3,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-6100,2018Q3,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-6112,2018Q3,S08000024,Head & Neck,48.0,48.0,NHS Lothian
-6122,2018Q3,S08000024,Head & Neck,18.0,18.0,NHS Lothian
-6133,2018Q4,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-6141,2018Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-6153,2018Q4,S08000024,Head & Neck,50.0,50.0,NHS Lothian
-6162,2018Q4,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-6172,2019Q1,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-6180,2019Q1,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-6193,2019Q1,S08000024,Head & Neck,48.0,47.0,NHS Lothian
-6203,2019Q1,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-6214,2019Q2,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-6221,2019Q2,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-6232,2019Q2,S08000024,Head & Neck,55.0,55.0,NHS Lothian
-6242,2019Q2,S08000024,Head & Neck,9.0,9.0,NHS Lothian
-6252,2019Q3,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-6261,2019Q3,S08000024,Head & Neck,7.0,7.0,NHS Lothian
-6275,2019Q3,S08000024,Head & Neck,53.0,51.0,NHS Lothian
-6285,2019Q3,S08000024,Head & Neck,9.0,9.0,NHS Lothian
-6299,2019Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-6306,2019Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-6319,2019Q4,S08000024,Head & Neck,41.0,41.0,NHS Lothian
-6329,2019Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-6339,2020Q1,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-6346,2020Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
-6358,2020Q1,S08000024,Head & Neck,38.0,37.0,NHS Lothian
-6366,2020Q1,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-6378,2020Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-6384,2020Q2,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-6396,2020Q2,S08000024,Head & Neck,35.0,35.0,NHS Lothian
-6406,2020Q2,S08000024,Head & Neck,6.0,6.0,NHS Lothian
-6416,2020Q3,S08000024,Head & Neck,1.0,1.0,NHS Lothian
-6424,2020Q3,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-6436,2020Q3,S08000024,Head & Neck,45.0,45.0,NHS Lothian
-6445,2020Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
-6457,2020Q4,S08000024,Head & Neck,1.0,1.0,NHS Lothian
-6466,2020Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-6477,2020Q4,S08000024,Head & Neck,47.0,47.0,NHS Lothian
-6488,2020Q4,S08000024,Head & Neck,8.0,8.0,NHS Lothian
-6497,2021Q1,S08000024,Head & Neck,6.0,6.0,NHS Lothian
-6504,2021Q1,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-6519,2021Q1,S08000024,Head & Neck,39.0,39.0,NHS Lothian
-6528,2021Q1,S08000024,Head & Neck,4.0,3.0,NHS Lothian
-6537,2021Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-6543,2021Q2,S08000024,Head & Neck,12.0,12.0,NHS Lothian
-6556,2021Q2,S08000024,Head & Neck,61.0,61.0,NHS Lothian
-6566,2021Q2,S08000024,Head & Neck,8.0,8.0,NHS Lothian
-6576,2021Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-6584,2021Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
-6592,2021Q3,S08000024,Head & Neck,1.0,1.0,NHS Lothian
-6597,2021Q3,S08000024,Head & Neck,42.0,42.0,NHS Lothian
-6606,2021Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
-6991,2020Q4,S08000024,Head & Neck,1.0,1.0,NHS Lothian
-7000,2020Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-7011,2020Q4,S08000024,Head & Neck,47.0,47.0,NHS Lothian
-7022,2020Q4,S08000024,Head & Neck,8.0,8.0,NHS Lothian
-7040,2021Q1,S08000024,Head & Neck,6.0,6.0,NHS Lothian
-7047,2021Q1,S08000024,Head & Neck,5.0,5.0,NHS Lothian
-7062,2021Q1,S08000024,Head & Neck,39.0,39.0,NHS Lothian
-7071,2021Q1,S08000024,Head & Neck,4.0,3.0,NHS Lothian
-7089,2021Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-7095,2021Q2,S08000024,Head & Neck,12.0,12.0,NHS Lothian
-7108,2021Q2,S08000024,Head & Neck,61.0,61.0,NHS Lothian
-7118,2021Q2,S08000024,Head & Neck,8.0,8.0,NHS Lothian
-7139,2021Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-7147,2021Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
-7155,2021Q3,S08000024,Head & Neck,1.0,1.0,NHS Lothian
-7160,2021Q3,S08000024,Head & Neck,42.0,42.0,NHS Lothian
-7169,2021Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
-7191,2021Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
-7200,2021Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
-7212,2021Q4,S08000024,Head & Neck,38.0,38.0,NHS Lothian
-7222,2021Q4,S08000024,Head & Neck,9.0,9.0,NHS Lothian
-7243,2012Q1,S08000019,Head & Neck,3.0,3.0,NHS Forth Valley
-7254,2012Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7267,2012Q3,S08000019,Head & Neck,13.0,13.0,NHS Forth Valley
-7277,2012Q4,S08000019,Head & Neck,10.0,10.0,NHS Forth Valley
-7287,2013Q1,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
-7296,2013Q2,S08000019,Head & Neck,8.0,8.0,NHS Forth Valley
-7307,2013Q3,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
-7318,2013Q4,S08000019,Head & Neck,5.0,5.0,NHS Forth Valley
-7330,2014Q1,S08000019,Head & Neck,6.0,6.0,NHS Forth Valley
-7342,2014Q2,S08000019,Head & Neck,3.0,3.0,NHS Forth Valley
-7353,2014Q3,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7364,2014Q4,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
-7376,2015Q1,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
-7388,2015Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7398,2015Q3,S08000019,Head & Neck,6.0,5.0,NHS Forth Valley
-7408,2015Q4,S08000019,Head & Neck,8.0,8.0,NHS Forth Valley
-7419,2016Q1,S08000019,Head & Neck,5.0,5.0,NHS Forth Valley
-7429,2016Q2,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
-7450,2016Q4,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
-7462,2017Q1,S08000019,Head & Neck,3.0,3.0,NHS Forth Valley
-7476,2017Q2,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
-7487,2017Q3,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
-7497,2017Q4,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7508,2018Q1,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7519,2018Q2,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
-7530,2018Q3,S08000019,Head & Neck,9.0,9.0,NHS Forth Valley
-7541,2018Q4,S08000019,Head & Neck,4.0,3.0,NHS Forth Valley
-7552,2019Q1,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
-7564,2019Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7574,2019Q3,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
-7586,2019Q4,S08000019,Head & Neck,3.0,3.0,NHS Forth Valley
-7598,2020Q1,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
-7610,2020Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7621,2020Q3,S08000019,Head & Neck,5.0,5.0,NHS Forth Valley
-7631,2020Q4,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
-7642,2021Q1,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7654,2021Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7665,2021Q3,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7765,2020Q4,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
-7779,2021Q1,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7793,2021Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7806,2021Q3,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
-7817,2021Q4,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
-7830,2012Q1,S08000022,Head & Neck,13.0,12.0,NHS Highland
-7838,2012Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
-7846,2012Q2,S08000022,Head & Neck,12.0,11.0,NHS Highland
-7858,2012Q3,S08000022,Head & Neck,1.0,1.0,NHS Highland
-7861,2012Q3,S08000022,Head & Neck,20.0,17.0,NHS Highland
-7869,2012Q3,S08000022,Head & Neck,3.0,2.0,NHS Highland
-7874,2012Q4,S08000022,Head & Neck,16.0,14.0,NHS Highland
-7882,2012Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
-7888,2013Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
-7892,2013Q1,S08000022,Head & Neck,12.0,12.0,NHS Highland
-7901,2013Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
-7908,2013Q2,S08000022,Head & Neck,15.0,14.0,NHS Highland
-7923,2013Q3,S08000022,Head & Neck,14.0,14.0,NHS Highland
-7931,2013Q3,S08000022,Head & Neck,2.0,2.0,NHS Highland
-7938,2013Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
-7942,2013Q4,S08000022,Head & Neck,13.0,13.0,NHS Highland
-7950,2013Q4,S08000022,Head & Neck,4.0,4.0,NHS Highland
-7958,2014Q1,S08000022,Head & Neck,15.0,12.0,NHS Highland
-7975,2014Q2,S08000022,Head & Neck,16.0,16.0,NHS Highland
-7983,2014Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
-7994,2014Q3,S08000022,Head & Neck,15.0,15.0,NHS Highland
-8003,2014Q3,S08000022,Head & Neck,2.0,2.0,NHS Highland
-8009,2014Q4,S08000022,Head & Neck,13.0,13.0,NHS Highland
-8027,2015Q1,S08000022,Head & Neck,16.0,14.0,NHS Highland
-8035,2015Q1,S08000022,Head & Neck,2.0,2.0,NHS Highland
-8039,2015Q2,S08000022,Head & Neck,2.0,2.0,NHS Highland
-8043,2015Q2,S08000022,Head & Neck,9.0,9.0,NHS Highland
-8051,2015Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8057,2015Q3,S08000022,Head & Neck,12.0,10.0,NHS Highland
-8065,2015Q3,S08000022,Head & Neck,2.0,2.0,NHS Highland
-8073,2015Q4,S08000022,Head & Neck,2.0,2.0,NHS Highland
-8078,2015Q4,S08000022,Head & Neck,12.0,12.0,NHS Highland
-8091,2016Q1,S08000022,Head & Neck,7.0,7.0,NHS Highland
-8101,2016Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8104,2016Q2,S08000022,Head & Neck,6.0,6.0,NHS Highland
-8112,2016Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8119,2016Q3,S08000022,Head & Neck,2.0,2.0,NHS Highland
-8125,2016Q3,S08000022,Head & Neck,7.0,7.0,NHS Highland
-8139,2016Q4,S08000022,Head & Neck,16.0,15.0,NHS Highland
-8147,2016Q4,S08000022,Head & Neck,4.0,2.0,NHS Highland
-8155,2017Q1,S08000022,Head & Neck,15.0,15.0,NHS Highland
-8164,2017Q1,S08000022,Head & Neck,1.0,0.0,NHS Highland
-8173,2017Q2,S08000022,Head & Neck,5.0,5.0,NHS Highland
-8184,2017Q3,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8189,2017Q3,S08000022,Head & Neck,6.0,6.0,NHS Highland
-8201,2017Q4,S08000022,Head & Neck,1.0,0.0,NHS Highland
-8206,2017Q4,S08000022,Head & Neck,12.0,12.0,NHS Highland
-8224,2018Q1,S08000022,Head & Neck,9.0,9.0,NHS Highland
-8241,2018Q2,S08000022,Head & Neck,9.0,9.0,NHS Highland
-8256,2018Q3,S08000022,Head & Neck,15.0,14.0,NHS Highland
-8274,2018Q4,S08000022,Head & Neck,8.0,8.0,NHS Highland
-8283,2018Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8290,2019Q1,S08000022,Head & Neck,9.0,9.0,NHS Highland
-8308,2019Q2,S08000022,Head & Neck,3.0,3.0,NHS Highland
-8316,2019Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8326,2019Q3,S08000022,Head & Neck,12.0,12.0,NHS Highland
-8334,2019Q3,S08000022,Head & Neck,1.0,0.0,NHS Highland
-8344,2019Q4,S08000022,Head & Neck,13.0,13.0,NHS Highland
-8352,2019Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8361,2020Q1,S08000022,Head & Neck,12.0,12.0,NHS Highland
-8369,2020Q1,S08000022,Head & Neck,3.0,3.0,NHS Highland
-8378,2020Q2,S08000022,Head & Neck,4.0,4.0,NHS Highland
-8386,2020Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8395,2020Q3,S08000022,Head & Neck,8.0,8.0,NHS Highland
-8410,2020Q4,S08000022,Head & Neck,7.0,7.0,NHS Highland
-8418,2020Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8426,2021Q1,S08000022,Head & Neck,8.0,8.0,NHS Highland
-8434,2021Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8443,2021Q2,S08000022,Head & Neck,9.0,9.0,NHS Highland
-8459,2021Q3,S08000022,Head & Neck,11.0,11.0,NHS Highland
-8608,2020Q4,S08000022,Head & Neck,7.0,7.0,NHS Highland
-8616,2020Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8626,2021Q1,S08000022,Head & Neck,8.0,8.0,NHS Highland
-8634,2021Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
-8647,2021Q2,S08000022,Head & Neck,9.0,9.0,NHS Highland
-8667,2021Q3,S08000022,Head & Neck,11.0,11.0,NHS Highland
-8685,2021Q4,S08000022,Head & Neck,10.0,10.0,NHS Highland
-8702,2012Q1,S08000029,Head & Neck,4.0,4.0,NHS Fife
-8712,2012Q2,S08000029,Head & Neck,7.0,7.0,NHS Fife
-8722,2012Q3,S08000029,Head & Neck,1.0,1.0,NHS Fife
-8734,2012Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
-8745,2013Q1,S08000029,Head & Neck,1.0,1.0,NHS Fife
-8756,2013Q2,S08000029,Head & Neck,2.0,2.0,NHS Fife
-8777,2013Q4,S08000029,Head & Neck,4.0,4.0,NHS Fife
-8788,2014Q1,S08000029,Head & Neck,6.0,6.0,NHS Fife
-8798,2014Q2,S08000029,Head & Neck,4.0,4.0,NHS Fife
-8809,2014Q3,S08000029,Head & Neck,4.0,4.0,NHS Fife
-8821,2014Q4,S08000029,Head & Neck,9.0,8.0,NHS Fife
-8831,2015Q1,S08000029,Head & Neck,3.0,3.0,NHS Fife
-8842,2015Q2,S08000029,Head & Neck,4.0,4.0,NHS Fife
-8853,2015Q3,S08000029,Head & Neck,3.0,3.0,NHS Fife
-8865,2015Q4,S08000029,Head & Neck,1.0,1.0,NHS Fife
-8876,2016Q1,S08000029,Head & Neck,4.0,4.0,NHS Fife
-8888,2016Q2,S08000029,Head & Neck,3.0,3.0,NHS Fife
-8898,2016Q3,S08000029,Head & Neck,2.0,2.0,NHS Fife
-8909,2016Q4,S08000029,Head & Neck,2.0,2.0,NHS Fife
-8920,2017Q1,S08000029,Head & Neck,2.0,2.0,NHS Fife
-8931,2017Q2,S08000029,Head & Neck,3.0,3.0,NHS Fife
-8942,2017Q3,S08000029,Head & Neck,6.0,6.0,NHS Fife
-8952,2017Q4,S08000029,Head & Neck,1.0,1.0,NHS Fife
-8963,2018Q1,S08000029,Head & Neck,1.0,1.0,NHS Fife
-8974,2018Q2,S08000029,Head & Neck,6.0,6.0,NHS Fife
-8986,2018Q3,S08000029,Head & Neck,8.0,8.0,NHS Fife
-8997,2018Q4,S08000029,Head & Neck,1.0,1.0,NHS Fife
-9007,2019Q1,S08000029,Head & Neck,1.0,1.0,NHS Fife
-9018,2019Q2,S08000029,Head & Neck,1.0,1.0,NHS Fife
-9029,2019Q3,S08000029,Head & Neck,5.0,5.0,NHS Fife
-9040,2019Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
-9051,2020Q1,S08000029,Head & Neck,8.0,8.0,NHS Fife
-9062,2020Q2,S08000029,Head & Neck,1.0,1.0,NHS Fife
-9072,2020Q3,S08000029,Head & Neck,4.0,4.0,NHS Fife
-9083,2020Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
-9094,2021Q1,S08000029,Head & Neck,8.0,8.0,NHS Fife
-9105,2021Q2,S08000029,Head & Neck,4.0,4.0,NHS Fife
-9116,2021Q3,S08000029,Head & Neck,3.0,3.0,NHS Fife
-9205,2020Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
-9218,2021Q1,S08000029,Head & Neck,8.0,8.0,NHS Fife
-9231,2021Q2,S08000029,Head & Neck,4.0,4.0,NHS Fife
-9244,2021Q3,S08000029,Head & Neck,3.0,3.0,NHS Fife
-9256,2021Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
-9272,2012Q1,S08000030,Head & Neck,21.0,21.0,NHS Tayside
-9284,2012Q2,S08000030,Head & Neck,26.0,26.0,NHS Tayside
-9298,2012Q3,S08000030,Head & Neck,25.0,24.0,NHS Tayside
-9310,2012Q4,S08000030,Head & Neck,21.0,21.0,NHS Tayside
-9325,2013Q1,S08000030,Head & Neck,16.0,16.0,NHS Tayside
-9338,2013Q2,S08000030,Head & Neck,26.0,24.0,NHS Tayside
-9352,2013Q3,S08000030,Head & Neck,19.0,19.0,NHS Tayside
-9359,2013Q4,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9367,2013Q4,S08000030,Head & Neck,23.0,23.0,NHS Tayside
-9378,2014Q1,S08000030,Head & Neck,26.0,25.0,NHS Tayside
-9392,2014Q2,S08000030,Head & Neck,17.0,17.0,NHS Tayside
-9404,2014Q3,S08000030,Head & Neck,22.0,21.0,NHS Tayside
-9414,2014Q4,S08000030,Head & Neck,14.0,13.0,NHS Tayside
-9428,2015Q1,S08000030,Head & Neck,20.0,17.0,NHS Tayside
-9442,2015Q2,S08000030,Head & Neck,28.0,25.0,NHS Tayside
-9454,2015Q3,S08000030,Head & Neck,18.0,15.0,NHS Tayside
-9461,2015Q4,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9468,2015Q4,S08000030,Head & Neck,15.0,15.0,NHS Tayside
-9476,2016Q1,S08000030,Head & Neck,3.0,3.0,NHS Tayside
-9484,2016Q1,S08000030,Head & Neck,16.0,16.0,NHS Tayside
-9493,2016Q2,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9499,2016Q2,S08000030,Head & Neck,28.0,28.0,NHS Tayside
-9507,2016Q3,S08000030,Head & Neck,2.0,2.0,NHS Tayside
-9515,2016Q3,S08000030,Head & Neck,22.0,19.0,NHS Tayside
-9523,2016Q4,S08000030,Head & Neck,5.0,5.0,NHS Tayside
-9524,2016Q4,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9530,2016Q4,S08000030,Head & Neck,33.0,33.0,NHS Tayside
-9537,2017Q1,S08000030,Head & Neck,4.0,4.0,NHS Tayside
-9543,2017Q1,S08000030,Head & Neck,27.0,24.0,NHS Tayside
-9550,2017Q2,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9551,2017Q2,S08000030,Head & Neck,2.0,2.0,NHS Tayside
-9552,2017Q2,S08000030,Head & Neck,7.0,7.0,NHS Tayside
-9557,2017Q2,S08000030,Head & Neck,19.0,19.0,NHS Tayside
-9564,2017Q3,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9566,2017Q3,S08000030,Head & Neck,8.0,8.0,NHS Tayside
-9573,2017Q3,S08000030,Head & Neck,21.0,18.0,NHS Tayside
-9580,2017Q4,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9582,2017Q4,S08000030,Head & Neck,7.0,6.0,NHS Tayside
-9588,2017Q4,S08000030,Head & Neck,19.0,19.0,NHS Tayside
-9595,2018Q1,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9596,2018Q1,S08000030,Head & Neck,8.0,7.0,NHS Tayside
-9603,2018Q1,S08000030,Head & Neck,23.0,22.0,NHS Tayside
-9610,2018Q2,S08000030,Head & Neck,3.0,3.0,NHS Tayside
-9612,2018Q2,S08000030,Head & Neck,8.0,5.0,NHS Tayside
-9618,2018Q2,S08000030,Head & Neck,19.0,17.0,NHS Tayside
-9625,2018Q3,S08000030,Head & Neck,2.0,2.0,NHS Tayside
-9627,2018Q3,S08000030,Head & Neck,7.0,6.0,NHS Tayside
-9633,2018Q3,S08000030,Head & Neck,22.0,20.0,NHS Tayside
-9643,2018Q4,S08000030,Head & Neck,6.0,6.0,NHS Tayside
-9648,2018Q4,S08000030,Head & Neck,16.0,13.0,NHS Tayside
-9656,2019Q1,S08000030,Head & Neck,5.0,5.0,NHS Tayside
-9657,2019Q1,S08000030,Head & Neck,5.0,4.0,NHS Tayside
-9662,2019Q1,S08000030,Head & Neck,14.0,13.0,NHS Tayside
-9670,2019Q2,S08000030,Head & Neck,2.0,2.0,NHS Tayside
-9671,2019Q2,S08000030,Head & Neck,5.0,5.0,NHS Tayside
-9676,2019Q2,S08000030,Head & Neck,20.0,20.0,NHS Tayside
-9683,2019Q3,S08000030,Head & Neck,1.0,0.0,NHS Tayside
-9685,2019Q3,S08000030,Head & Neck,5.0,5.0,NHS Tayside
-9686,2019Q3,S08000030,Head & Neck,3.0,3.0,NHS Tayside
-9692,2019Q3,S08000030,Head & Neck,19.0,18.0,NHS Tayside
-9699,2019Q4,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9700,2019Q4,S08000030,Head & Neck,4.0,4.0,NHS Tayside
-9706,2019Q4,S08000030,Head & Neck,16.0,14.0,NHS Tayside
-9713,2020Q1,S08000030,Head & Neck,5.0,4.0,NHS Tayside
-9714,2020Q1,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9720,2020Q1,S08000030,Head & Neck,13.0,13.0,NHS Tayside
-9727,2020Q2,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9728,2020Q2,S08000030,Head & Neck,1.0,1.0,NHS Tayside
-9735,2020Q2,S08000030,Head & Neck,23.0,23.0,NHS Tayside
-9742,2020Q3,S08000030,Head & Neck,3.0,2.0,NHS Tayside
-9744,2020Q3,S08000030,Head & Neck,3.0,3.0,NHS Tayside
-9749,2020Q3,S08000030,Head & Neck,15.0,15.0,NHS Tayside
-9756,2020Q4,S08000030,Head & Neck,4.0,4.0,NHS Tayside
-9762,2020Q4,S08000030,Head & Neck,16.0,16.0,NHS Tayside
-9769,2021Q1,S08000030,Head & Neck,1.0,0.0,NHS Tayside
-9770,2021Q1,S08000030,Head & Neck,2.0,2.0,NHS Tayside
-9775,2021Q1,S08000030,Head & Neck,14.0,13.0,NHS Tayside
-9782,2021Q2,S08000030,Head & Neck,2.0,2.0,NHS Tayside
-9783,2021Q2,S08000030,Head & Neck,4.0,4.0,NHS Tayside
-9787,2021Q2,S08000030,Head & Neck,24.0,22.0,NHS Tayside
-9794,2021Q3,S08000030,Head & Neck,3.0,2.0,NHS Tayside
-9797,2021Q3,S08000030,Head & Neck,4.0,4.0,NHS Tayside
-9802,2021Q3,S08000030,Head & Neck,22.0,21.0,NHS Tayside
-9929,2020Q4,S08000030,Head & Neck,4.0,4.0,NHS Tayside
-9935,2020Q4,S08000030,Head & Neck,29.0,29.0,NHS Tayside
-9944,2021Q1,S08000030,Head & Neck,1.0,0.0,NHS Tayside
-9945,2021Q1,S08000030,Head & Neck,2.0,2.0,NHS Tayside
-9950,2021Q1,S08000030,Head & Neck,14.0,13.0,NHS Tayside
-9960,2021Q2,S08000030,Head & Neck,2.0,2.0,NHS Tayside
-9961,2021Q2,S08000030,Head & Neck,4.0,4.0,NHS Tayside
-9965,2021Q2,S08000030,Head & Neck,24.0,22.0,NHS Tayside
-9975,2021Q3,S08000030,Head & Neck,3.0,2.0,NHS Tayside
-9978,2021Q3,S08000030,Head & Neck,4.0,4.0,NHS Tayside
-9983,2021Q3,S08000030,Head & Neck,22.0,21.0,NHS Tayside
-9993,2021Q4,S08000030,Head & Neck,1.0,0.0,NHS Tayside
-9994,2021Q4,S08000030,Head & Neck,8.0,6.0,NHS Tayside
-10000,2021Q4,S08000030,Head & Neck,32.0,32.0,NHS Tayside
-10042,2014Q4,S08000025,Head & Neck,1.0,1.0,NHS Orkney
-10304,2015Q1,S08000026,Head & Neck,1.0,1.0,NHS Shetland
-10325,2016Q1,S08000026,Head & Neck,1.0,1.0,NHS Shetland
-10555,2012Q1,S08000028,Head & Neck,3.0,3.0,NHS Western Isles
-10561,2012Q2,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10601,2014Q2,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10621,2015Q2,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10652,2016Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10674,2017Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10703,2018Q4,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10714,2019Q2,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10720,2019Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10738,2020Q2,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10765,2021Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10854,2021Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
-10870,2012Q1,S08000032,Head & Neck,13.0,13.0,NHS Lanarkshire
-10881,2012Q2,S08000032,Head & Neck,20.0,20.0,NHS Lanarkshire
-10893,2012Q3,S08000032,Head & Neck,13.0,13.0,NHS Lanarkshire
-10904,2012Q4,S08000032,Head & Neck,20.0,20.0,NHS Lanarkshire
-10911,2013Q1,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
-10916,2013Q1,S08000032,Head & Neck,26.0,26.0,NHS Lanarkshire
-10928,2013Q2,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
-10939,2013Q3,S08000032,Head & Neck,17.0,17.0,NHS Lanarkshire
-10951,2013Q4,S08000032,Head & Neck,20.0,20.0,NHS Lanarkshire
-10958,2014Q1,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
-10963,2014Q1,S08000032,Head & Neck,17.0,17.0,NHS Lanarkshire
-10974,2014Q2,S08000032,Head & Neck,15.0,15.0,NHS Lanarkshire
-10986,2014Q3,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
-10997,2014Q4,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
-11004,2015Q1,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
-11009,2015Q1,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
-11016,2015Q2,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
-11021,2015Q2,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
-11028,2015Q3,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
-11033,2015Q3,S08000032,Head & Neck,14.0,14.0,NHS Lanarkshire
-11040,2015Q4,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
-11045,2015Q4,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
-11058,2016Q1,S08000032,Head & Neck,23.0,22.0,NHS Lanarkshire
-11069,2016Q2,S08000032,Head & Neck,23.0,23.0,NHS Lanarkshire
-11081,2016Q3,S08000032,Head & Neck,18.0,18.0,NHS Lanarkshire
-11088,2016Q4,S08000032,Head & Neck,4.0,4.0,NHS Lanarkshire
-11094,2016Q4,S08000032,Head & Neck,14.0,14.0,NHS Lanarkshire
-11101,2017Q1,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
-11106,2017Q1,S08000032,Head & Neck,7.0,7.0,NHS Lanarkshire
-11113,2017Q2,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
-11118,2017Q2,S08000032,Head & Neck,11.0,11.0,NHS Lanarkshire
-11125,2017Q3,S08000032,Head & Neck,5.0,5.0,NHS Lanarkshire
-11130,2017Q3,S08000032,Head & Neck,25.0,25.0,NHS Lanarkshire
-11143,2017Q4,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
-11150,2018Q1,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
-11155,2018Q1,S08000032,Head & Neck,10.0,10.0,NHS Lanarkshire
-11162,2018Q2,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
-11167,2018Q2,S08000032,Head & Neck,15.0,15.0,NHS Lanarkshire
-11173,2018Q3,S08000032,Head & Neck,6.0,6.0,NHS Lanarkshire
-11178,2018Q3,S08000032,Head & Neck,27.0,26.0,NHS Lanarkshire
-11185,2018Q4,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
-11191,2018Q4,S08000032,Head & Neck,26.0,26.0,NHS Lanarkshire
-11199,2019Q1,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
-11203,2019Q1,S08000032,Head & Neck,19.0,19.0,NHS Lanarkshire
-11210,2019Q2,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
-11216,2019Q2,S08000032,Head & Neck,29.0,29.0,NHS Lanarkshire
-11223,2019Q3,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
-11228,2019Q3,S08000032,Head & Neck,20.0,20.0,NHS Lanarkshire
-11235,2019Q4,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
-11240,2019Q4,S08000032,Head & Neck,10.0,10.0,NHS Lanarkshire
-11248,2020Q1,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
-11253,2020Q1,S08000032,Head & Neck,13.0,13.0,NHS Lanarkshire
-11260,2020Q2,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
-11265,2020Q2,S08000032,Head & Neck,14.0,14.0,NHS Lanarkshire
-11277,2020Q3,S08000032,Head & Neck,18.0,18.0,NHS Lanarkshire
-11289,2020Q4,S08000032,Head & Neck,12.0,12.0,NHS Lanarkshire
-11301,2021Q1,S08000032,Head & Neck,29.0,29.0,NHS Lanarkshire
-11312,2021Q2,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
-11319,2021Q3,S08000032,Head & Neck,3.0,3.0,NHS Lanarkshire
-11324,2021Q3,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
-11442,2020Q4,S08000032,Head & Neck,12.0,12.0,NHS Lanarkshire
-11456,2021Q1,S08000032,Head & Neck,29.0,29.0,NHS Lanarkshire
-11469,2021Q2,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
-11478,2021Q3,S08000032,Head & Neck,3.0,3.0,NHS Lanarkshire
-11483,2021Q3,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
-11493,2021Q4,S08000032,Head & Neck,5.0,5.0,NHS Lanarkshire
-11499,2021Q4,S08000032,Head & Neck,11.0,11.0,NHS Lanarkshire
+499,2021Q1,S08000015,Head & Neck,8.0,8.0,NHS Ayrshire and Arran
+511,2021Q2,S08000015,Head & Neck,7.0,7.0,NHS Ayrshire and Arran
+524,2021Q3,S08000015,Head & Neck,12.0,9.0,NHS Ayrshire and Arran
+534,2021Q4,S08000015,Head & Neck,14.0,11.0,NHS Ayrshire and Arran
+550,2022Q1,S08000015,Head & Neck,20.0,19.0,NHS Ayrshire and Arran
+563,2012Q1,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+572,2012Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+583,2012Q3,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
+594,2012Q4,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
+604,2013Q1,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
+613,2013Q2,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
+623,2013Q3,S08000017,Head & Neck,4.0,3.0,NHS Dumfries and Galloway
+633,2013Q4,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
+644,2014Q1,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+654,2014Q2,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
+675,2014Q4,S08000017,Head & Neck,4.0,4.0,NHS Dumfries and Galloway
+685,2015Q1,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
+696,2015Q2,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
+707,2015Q3,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
+718,2015Q4,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+737,2016Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+748,2016Q3,S08000017,Head & Neck,2.0,1.0,NHS Dumfries and Galloway
+757,2016Q4,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
+768,2017Q1,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
+779,2017Q2,S08000017,Head & Neck,4.0,4.0,NHS Dumfries and Galloway
+799,2017Q4,S08000017,Head & Neck,2.0,1.0,NHS Dumfries and Galloway
+809,2018Q1,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
+820,2018Q2,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
+831,2018Q3,S08000017,Head & Neck,4.0,4.0,NHS Dumfries and Galloway
+841,2018Q4,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+851,2019Q1,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+862,2019Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+873,2019Q3,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
+882,2019Q4,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+892,2020Q1,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
+902,2020Q2,S08000017,Head & Neck,2.0,2.0,NHS Dumfries and Galloway
+912,2020Q3,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+922,2020Q4,S08000017,Head & Neck,6.0,6.0,NHS Dumfries and Galloway
+934,2021Q1,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
+944,2021Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+954,2021Q3,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
+1036,2020Q4,S08000017,Head & Neck,6.0,6.0,NHS Dumfries and Galloway
+1051,2021Q1,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
+1063,2021Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+1075,2021Q3,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
+1100,2021Q1,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
+1112,2021Q2,S08000017,Head & Neck,3.0,3.0,NHS Dumfries and Galloway
+1124,2021Q3,S08000017,Head & Neck,1.0,1.0,NHS Dumfries and Galloway
+1148,2022Q1,S08000017,Head & Neck,5.0,5.0,NHS Dumfries and Galloway
+1160,2012Q1,S08000020,Head & Neck,23.0,23.0,NHS Grampian
+1167,2012Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1171,2012Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1176,2012Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1185,2012Q2,S08000020,Head & Neck,22.0,21.0,NHS Grampian
+1198,2012Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1204,2012Q3,S08000020,Head & Neck,25.0,23.0,NHS Grampian
+1224,2012Q4,S08000020,Head & Neck,22.0,21.0,NHS Grampian
+1239,2012Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1248,2013Q1,S08000020,Head & Neck,19.0,17.0,NHS Grampian
+1256,2013Q1,S08000020,Head & Neck,2.0,2.0,NHS Grampian
+1259,2013Q1,S08000020,Head & Neck,1.0,0.0,NHS Grampian
+1268,2013Q2,S08000020,Head & Neck,26.0,25.0,NHS Grampian
+1282,2013Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1287,2013Q3,S08000020,Head & Neck,35.0,33.0,NHS Grampian
+1309,2013Q4,S08000020,Head & Neck,21.0,21.0,NHS Grampian
+1321,2013Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1328,2014Q1,S08000020,Head & Neck,22.0,21.0,NHS Grampian
+1335,2014Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1342,2014Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1350,2014Q2,S08000020,Head & Neck,19.0,18.0,NHS Grampian
+1373,2014Q3,S08000020,Head & Neck,36.0,34.0,NHS Grampian
+1380,2014Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1390,2014Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1400,2014Q4,S08000020,Head & Neck,30.0,30.0,NHS Grampian
+1407,2014Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1414,2014Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1419,2015Q1,S08000020,Head & Neck,29.0,28.0,NHS Grampian
+1435,2015Q2,S08000020,Head & Neck,19.0,18.0,NHS Grampian
+1455,2015Q3,S08000020,Head & Neck,35.0,34.0,NHS Grampian
+1469,2015Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1478,2015Q4,S08000020,Head & Neck,24.0,23.0,NHS Grampian
+1495,2015Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1503,2016Q1,S08000020,Head & Neck,25.0,25.0,NHS Grampian
+1518,2016Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1527,2016Q2,S08000020,Head & Neck,27.0,26.0,NHS Grampian
+1544,2016Q3,S08000020,Head & Neck,23.0,23.0,NHS Grampian
+1558,2016Q3,S08000020,Head & Neck,3.0,3.0,NHS Grampian
+1567,2016Q4,S08000020,Head & Neck,18.0,18.0,NHS Grampian
+1580,2016Q4,S08000020,Head & Neck,2.0,2.0,NHS Grampian
+1591,2017Q1,S08000020,Head & Neck,31.0,31.0,NHS Grampian
+1603,2017Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1607,2017Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1618,2017Q2,S08000020,Head & Neck,19.0,18.0,NHS Grampian
+1630,2017Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1642,2017Q3,S08000020,Head & Neck,15.0,15.0,NHS Grampian
+1661,2017Q4,S08000020,Head & Neck,36.0,32.0,NHS Grampian
+1673,2017Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1685,2018Q1,S08000020,Head & Neck,23.0,22.0,NHS Grampian
+1692,2018Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1707,2018Q2,S08000020,Head & Neck,32.0,30.0,NHS Grampian
+1723,2018Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1735,2018Q3,S08000020,Head & Neck,26.0,26.0,NHS Grampian
+1754,2018Q4,S08000020,Head & Neck,32.0,31.0,NHS Grampian
+1764,2018Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1770,2018Q4,S08000020,Head & Neck,2.0,2.0,NHS Grampian
+1779,2019Q1,S08000020,Head & Neck,40.0,39.0,NHS Grampian
+1794,2019Q1,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1804,2019Q2,S08000020,Head & Neck,25.0,25.0,NHS Grampian
+1829,2019Q3,S08000020,Head & Neck,23.0,23.0,NHS Grampian
+1853,2019Q4,S08000020,Head & Neck,33.0,33.0,NHS Grampian
+1879,2020Q1,S08000020,Head & Neck,38.0,37.0,NHS Grampian
+1887,2020Q1,S08000020,Head & Neck,2.0,2.0,NHS Grampian
+1904,2020Q2,S08000020,Head & Neck,17.0,17.0,NHS Grampian
+1923,2020Q3,S08000020,Head & Neck,20.0,20.0,NHS Grampian
+1938,2020Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1948,2020Q4,S08000020,Head & Neck,16.0,16.0,NHS Grampian
+1957,2020Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+1968,2021Q1,S08000020,Head & Neck,26.0,26.0,NHS Grampian
+1991,2021Q2,S08000020,Head & Neck,16.0,16.0,NHS Grampian
+2000,2021Q2,S08000020,Head & Neck,1.0,0.0,NHS Grampian
+2007,2021Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+2018,2021Q3,S08000020,Head & Neck,28.0,28.0,NHS Grampian
+2033,2021Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+2245,2020Q4,S08000020,Head & Neck,16.0,16.0,NHS Grampian
+2254,2020Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+2270,2021Q1,S08000020,Head & Neck,26.0,26.0,NHS Grampian
+2298,2021Q2,S08000020,Head & Neck,16.0,16.0,NHS Grampian
+2307,2021Q2,S08000020,Head & Neck,1.0,0.0,NHS Grampian
+2314,2021Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+2330,2021Q3,S08000020,Head & Neck,28.0,28.0,NHS Grampian
+2345,2021Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+2363,2021Q4,S08000020,Head & Neck,25.0,25.0,NHS Grampian
+2376,2021Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+2388,2021Q1,S08000020,Head & Neck,26.0,26.0,NHS Grampian
+2416,2021Q2,S08000020,Head & Neck,16.0,16.0,NHS Grampian
+2425,2021Q2,S08000020,Head & Neck,1.0,0.0,NHS Grampian
+2432,2021Q2,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+2448,2021Q3,S08000020,Head & Neck,28.0,28.0,NHS Grampian
+2463,2021Q3,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+2481,2021Q4,S08000020,Head & Neck,25.0,25.0,NHS Grampian
+2494,2021Q4,S08000020,Head & Neck,1.0,1.0,NHS Grampian
+2506,2022Q1,S08000020,Head & Neck,21.0,21.0,NHS Grampian
+2537,2012Q1,S08000031,Head & Neck,6.0,5.0,NHS Greater Glasgow and Clyde
+2544,2012Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+2548,2012Q1,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+2559,2012Q1,S08000031,Head & Neck,73.0,69.0,NHS Greater Glasgow and Clyde
+2569,2012Q1,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
+2579,2012Q2,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+2586,2012Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+2590,2012Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+2596,2012Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+2607,2012Q2,S08000031,Head & Neck,84.0,82.0,NHS Greater Glasgow and Clyde
+2617,2012Q2,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+2625,2012Q3,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+2635,2012Q3,S08000031,Head & Neck,4.0,4.0,NHS Greater Glasgow and Clyde
+2652,2012Q3,S08000031,Head & Neck,103.0,99.0,NHS Greater Glasgow and Clyde
+2661,2012Q3,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
+2670,2012Q4,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
+2676,2012Q4,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+2679,2012Q4,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+2694,2012Q4,S08000031,Head & Neck,86.0,86.0,NHS Greater Glasgow and Clyde
+2704,2012Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+2721,2013Q1,S08000031,Head & Neck,7.0,6.0,NHS Greater Glasgow and Clyde
+2739,2013Q1,S08000031,Head & Neck,83.0,78.0,NHS Greater Glasgow and Clyde
+2749,2013Q1,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+2758,2013Q2,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+2764,2013Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+2770,2013Q2,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+2788,2013Q2,S08000031,Head & Neck,75.0,72.0,NHS Greater Glasgow and Clyde
+2798,2013Q2,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
+2808,2013Q3,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+2814,2013Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+2819,2013Q3,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+2825,2013Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+2830,2013Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+2834,2013Q3,S08000031,Head & Neck,80.0,79.0,NHS Greater Glasgow and Clyde
+2844,2013Q3,S08000031,Head & Neck,4.0,3.0,NHS Greater Glasgow and Clyde
+2853,2013Q4,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
+2862,2013Q4,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+2868,2013Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+2869,2013Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+2877,2013Q4,S08000031,Head & Neck,82.0,81.0,NHS Greater Glasgow and Clyde
+2886,2013Q4,S08000031,Head & Neck,9.0,8.0,NHS Greater Glasgow and Clyde
+2895,2014Q1,S08000031,Head & Neck,9.0,8.0,NHS Greater Glasgow and Clyde
+2902,2014Q1,S08000031,Head & Neck,4.0,4.0,NHS Greater Glasgow and Clyde
+2907,2014Q1,S08000031,Head & Neck,12.0,11.0,NHS Greater Glasgow and Clyde
+2913,2014Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+2915,2014Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+2918,2014Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+2922,2014Q1,S08000031,Head & Neck,67.0,66.0,NHS Greater Glasgow and Clyde
+2932,2014Q1,S08000031,Head & Neck,10.0,9.0,NHS Greater Glasgow and Clyde
+2941,2014Q2,S08000031,Head & Neck,6.0,5.0,NHS Greater Glasgow and Clyde
+2947,2014Q2,S08000031,Head & Neck,4.0,4.0,NHS Greater Glasgow and Clyde
+2952,2014Q2,S08000031,Head & Neck,13.0,7.0,NHS Greater Glasgow and Clyde
+2958,2014Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+2964,2014Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+2968,2014Q2,S08000031,Head & Neck,70.0,63.0,NHS Greater Glasgow and Clyde
+2978,2014Q2,S08000031,Head & Neck,15.0,12.0,NHS Greater Glasgow and Clyde
+2988,2014Q3,S08000031,Head & Neck,14.0,14.0,NHS Greater Glasgow and Clyde
+2994,2014Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+2999,2014Q3,S08000031,Head & Neck,9.0,7.0,NHS Greater Glasgow and Clyde
+3007,2014Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3015,2014Q3,S08000031,Head & Neck,83.0,83.0,NHS Greater Glasgow and Clyde
+3025,2014Q3,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
+3035,2014Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+3041,2014Q4,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+3045,2014Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+3059,2014Q4,S08000031,Head & Neck,85.0,82.0,NHS Greater Glasgow and Clyde
+3069,2014Q4,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
+3078,2015Q1,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
+3085,2015Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3089,2015Q1,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
+3094,2015Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3100,2015Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3104,2015Q1,S08000031,Head & Neck,84.0,82.0,NHS Greater Glasgow and Clyde
+3113,2015Q1,S08000031,Head & Neck,14.0,14.0,NHS Greater Glasgow and Clyde
+3123,2015Q2,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+3129,2015Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3136,2015Q2,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
+3149,2015Q2,S08000031,Head & Neck,2.0,1.0,NHS Greater Glasgow and Clyde
+3154,2015Q2,S08000031,Head & Neck,90.0,86.0,NHS Greater Glasgow and Clyde
+3164,2015Q2,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+3173,2015Q3,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+3180,2015Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3185,2015Q3,S08000031,Head & Neck,12.0,10.0,NHS Greater Glasgow and Clyde
+3197,2015Q3,S08000031,Head & Neck,104.0,97.0,NHS Greater Glasgow and Clyde
+3207,2015Q3,S08000031,Head & Neck,19.0,19.0,NHS Greater Glasgow and Clyde
+3215,2015Q4,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
+3221,2015Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3227,2015Q4,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+3234,2015Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3243,2015Q4,S08000031,Head & Neck,89.0,86.0,NHS Greater Glasgow and Clyde
+3253,2015Q4,S08000031,Head & Neck,13.0,12.0,NHS Greater Glasgow and Clyde
+3263,2016Q1,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+3273,2016Q1,S08000031,Head & Neck,10.0,9.0,NHS Greater Glasgow and Clyde
+3285,2016Q1,S08000031,Head & Neck,74.0,73.0,NHS Greater Glasgow and Clyde
+3295,2016Q1,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+3305,2016Q2,S08000031,Head & Neck,7.0,6.0,NHS Greater Glasgow and Clyde
+3311,2016Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+3314,2016Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+3326,2016Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3333,2016Q2,S08000031,Head & Neck,77.0,74.0,NHS Greater Glasgow and Clyde
+3343,2016Q2,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
+3352,2016Q3,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+3359,2016Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3362,2016Q3,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+3375,2016Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3380,2016Q3,S08000031,Head & Neck,85.0,82.0,NHS Greater Glasgow and Clyde
+3390,2016Q3,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+3400,2016Q4,S08000031,Head & Neck,4.0,3.0,NHS Greater Glasgow and Clyde
+3407,2016Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3410,2016Q4,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
+3417,2016Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3427,2016Q4,S08000031,Head & Neck,88.0,85.0,NHS Greater Glasgow and Clyde
+3445,2017Q1,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+3452,2017Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3456,2017Q1,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
+3469,2017Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3472,2017Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3476,2017Q1,S08000031,Head & Neck,69.0,68.0,NHS Greater Glasgow and Clyde
+3495,2017Q2,S08000031,Head & Neck,13.0,10.0,NHS Greater Glasgow and Clyde
+3501,2017Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+3506,2017Q2,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+3512,2017Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3521,2017Q2,S08000031,Head & Neck,77.0,74.0,NHS Greater Glasgow and Clyde
+3531,2017Q2,S08000031,Head & Neck,3.0,2.0,NHS Greater Glasgow and Clyde
+3540,2017Q3,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+3546,2017Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3548,2017Q3,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
+3564,2017Q3,S08000031,Head & Neck,68.0,66.0,NHS Greater Glasgow and Clyde
+3574,2017Q3,S08000031,Head & Neck,14.0,12.0,NHS Greater Glasgow and Clyde
+3582,2017Q4,S08000031,Head & Neck,8.0,7.0,NHS Greater Glasgow and Clyde
+3589,2017Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3594,2017Q4,S08000031,Head & Neck,12.0,11.0,NHS Greater Glasgow and Clyde
+3603,2017Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3608,2017Q4,S08000031,Head & Neck,69.0,66.0,NHS Greater Glasgow and Clyde
+3618,2017Q4,S08000031,Head & Neck,14.0,14.0,NHS Greater Glasgow and Clyde
+3628,2018Q1,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+3634,2018Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3636,2018Q1,S08000031,Head & Neck,7.0,6.0,NHS Greater Glasgow and Clyde
+3644,2018Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3648,2018Q1,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3652,2018Q1,S08000031,Head & Neck,75.0,74.0,NHS Greater Glasgow and Clyde
+3662,2018Q1,S08000031,Head & Neck,16.0,15.0,NHS Greater Glasgow and Clyde
+3671,2018Q2,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+3676,2018Q2,S08000031,Head & Neck,1.0,0.0,NHS Greater Glasgow and Clyde
+3679,2018Q2,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+3692,2018Q2,S08000031,Head & Neck,84.0,81.0,NHS Greater Glasgow and Clyde
+3701,2018Q2,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
+3711,2018Q3,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
+3716,2018Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3719,2018Q3,S08000031,Head & Neck,11.0,9.0,NHS Greater Glasgow and Clyde
+3734,2018Q3,S08000031,Head & Neck,78.0,78.0,NHS Greater Glasgow and Clyde
+3744,2018Q3,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
+3753,2018Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+3759,2018Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3763,2018Q4,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+3769,2018Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3777,2018Q4,S08000031,Head & Neck,83.0,83.0,NHS Greater Glasgow and Clyde
+3787,2018Q4,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
+3797,2019Q1,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+3802,2019Q1,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+3806,2019Q1,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+3816,2019Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3822,2019Q1,S08000031,Head & Neck,70.0,70.0,NHS Greater Glasgow and Clyde
+3832,2019Q1,S08000031,Head & Neck,18.0,18.0,NHS Greater Glasgow and Clyde
+3842,2019Q2,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
+3849,2019Q2,S08000031,Head & Neck,4.0,4.0,NHS Greater Glasgow and Clyde
+3854,2019Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+3867,2019Q2,S08000031,Head & Neck,84.0,83.0,NHS Greater Glasgow and Clyde
+3877,2019Q2,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
+3887,2019Q3,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
+3893,2019Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+3898,2019Q3,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+3911,2019Q3,S08000031,Head & Neck,84.0,80.0,NHS Greater Glasgow and Clyde
+3921,2019Q3,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
+3930,2019Q4,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
+3936,2019Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3938,2019Q4,S08000031,Head & Neck,18.0,18.0,NHS Greater Glasgow and Clyde
+3949,2019Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3957,2019Q4,S08000031,Head & Neck,81.0,80.0,NHS Greater Glasgow and Clyde
+3967,2019Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+3976,2020Q1,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
+3981,2020Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+3986,2020Q1,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+3996,2020Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4001,2020Q1,S08000031,Head & Neck,67.0,66.0,NHS Greater Glasgow and Clyde
+4011,2020Q1,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+4020,2020Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+4027,2020Q2,S08000031,Head & Neck,4.0,4.0,NHS Greater Glasgow and Clyde
+4031,2020Q2,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
+4041,2020Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4048,2020Q2,S08000031,Head & Neck,78.0,78.0,NHS Greater Glasgow and Clyde
+4058,2020Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+4066,2020Q3,S08000031,Head & Neck,11.0,11.0,NHS Greater Glasgow and Clyde
+4071,2020Q3,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+4073,2020Q3,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
+4085,2020Q3,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+4089,2020Q3,S08000031,Head & Neck,60.0,59.0,NHS Greater Glasgow and Clyde
+4099,2020Q3,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
+4108,2020Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+4114,2020Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+4117,2020Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+4124,2020Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+4130,2020Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4135,2020Q4,S08000031,Head & Neck,74.0,74.0,NHS Greater Glasgow and Clyde
+4144,2020Q4,S08000031,Head & Neck,15.0,14.0,NHS Greater Glasgow and Clyde
+4152,2021Q1,S08000031,Head & Neck,13.0,12.0,NHS Greater Glasgow and Clyde
+4158,2021Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4163,2021Q1,S08000031,Head & Neck,10.0,8.0,NHS Greater Glasgow and Clyde
+4180,2021Q1,S08000031,Head & Neck,65.0,63.0,NHS Greater Glasgow and Clyde
+4190,2021Q1,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+4200,2021Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+4205,2021Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+4209,2021Q2,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
+4214,2021Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4219,2021Q2,S08000031,Head & Neck,81.0,79.0,NHS Greater Glasgow and Clyde
+4229,2021Q2,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
+4238,2021Q3,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
+4243,2021Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4249,2021Q3,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+4264,2021Q3,S08000031,Head & Neck,98.0,98.0,NHS Greater Glasgow and Clyde
+4274,2021Q3,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+4565,2020Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+4571,2020Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+4574,2020Q4,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+4581,2020Q4,S08000031,Head & Neck,2.0,2.0,NHS Greater Glasgow and Clyde
+4587,2020Q4,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4592,2020Q4,S08000031,Head & Neck,74.0,74.0,NHS Greater Glasgow and Clyde
+4601,2020Q4,S08000031,Head & Neck,15.0,14.0,NHS Greater Glasgow and Clyde
+4616,2021Q1,S08000031,Head & Neck,13.0,12.0,NHS Greater Glasgow and Clyde
+4622,2021Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4627,2021Q1,S08000031,Head & Neck,10.0,8.0,NHS Greater Glasgow and Clyde
+4644,2021Q1,S08000031,Head & Neck,65.0,63.0,NHS Greater Glasgow and Clyde
+4654,2021Q1,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+4672,2021Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+4677,2021Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+4681,2021Q2,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
+4686,2021Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4691,2021Q2,S08000031,Head & Neck,81.0,79.0,NHS Greater Glasgow and Clyde
+4701,2021Q2,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
+4716,2021Q3,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
+4721,2021Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4727,2021Q3,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+4742,2021Q3,S08000031,Head & Neck,98.0,98.0,NHS Greater Glasgow and Clyde
+4752,2021Q3,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+4769,2021Q4,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+4775,2021Q4,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+4779,2021Q4,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
+4798,2021Q4,S08000031,Head & Neck,62.0,62.0,NHS Greater Glasgow and Clyde
+4807,2021Q4,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
+4824,2021Q1,S08000031,Head & Neck,13.0,12.0,NHS Greater Glasgow and Clyde
+4830,2021Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4835,2021Q1,S08000031,Head & Neck,10.0,8.0,NHS Greater Glasgow and Clyde
+4852,2021Q1,S08000031,Head & Neck,65.0,63.0,NHS Greater Glasgow and Clyde
+4862,2021Q1,S08000031,Head & Neck,10.0,10.0,NHS Greater Glasgow and Clyde
+4880,2021Q2,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+4885,2021Q2,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+4889,2021Q2,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
+4894,2021Q2,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4899,2021Q2,S08000031,Head & Neck,81.0,79.0,NHS Greater Glasgow and Clyde
+4909,2021Q2,S08000031,Head & Neck,6.0,6.0,NHS Greater Glasgow and Clyde
+4924,2021Q3,S08000031,Head & Neck,12.0,12.0,NHS Greater Glasgow and Clyde
+4929,2021Q3,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+4935,2021Q3,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+4950,2021Q3,S08000031,Head & Neck,98.0,98.0,NHS Greater Glasgow and Clyde
+4960,2021Q3,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+4977,2021Q4,S08000031,Head & Neck,8.0,8.0,NHS Greater Glasgow and Clyde
+4983,2021Q4,S08000031,Head & Neck,3.0,3.0,NHS Greater Glasgow and Clyde
+4987,2021Q4,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
+5006,2021Q4,S08000031,Head & Neck,62.0,62.0,NHS Greater Glasgow and Clyde
+5015,2021Q4,S08000031,Head & Neck,13.0,13.0,NHS Greater Glasgow and Clyde
+5032,2022Q1,S08000031,Head & Neck,7.0,7.0,NHS Greater Glasgow and Clyde
+5039,2022Q1,S08000031,Head & Neck,1.0,1.0,NHS Greater Glasgow and Clyde
+5042,2022Q1,S08000031,Head & Neck,9.0,9.0,NHS Greater Glasgow and Clyde
+5061,2022Q1,S08000031,Head & Neck,80.0,78.0,NHS Greater Glasgow and Clyde
+5070,2022Q1,S08000031,Head & Neck,5.0,5.0,NHS Greater Glasgow and Clyde
+5090,2012Q1,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5101,2012Q2,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5112,2012Q3,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5130,2013Q1,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5139,2013Q2,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5149,2013Q3,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5159,2013Q4,S08000016,Head & Neck,3.0,3.0,NHS Borders
+5168,2014Q1,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5178,2014Q2,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5206,2015Q1,S08000016,Head & Neck,3.0,3.0,NHS Borders
+5216,2015Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5226,2015Q3,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5236,2015Q4,S08000016,Head & Neck,3.0,3.0,NHS Borders
+5263,2016Q3,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5274,2016Q4,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5285,2017Q1,S08000016,Head & Neck,4.0,4.0,NHS Borders
+5295,2017Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5305,2017Q3,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5314,2017Q4,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5326,2018Q1,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5345,2018Q3,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5363,2019Q1,S08000016,Head & Neck,3.0,3.0,NHS Borders
+5373,2019Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5390,2019Q4,S08000016,Head & Neck,3.0,3.0,NHS Borders
+5401,2020Q1,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5411,2020Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5420,2020Q3,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5429,2020Q4,S08000016,Head & Neck,3.0,3.0,NHS Borders
+5447,2021Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5457,2021Q3,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5524,2020Q4,S08000016,Head & Neck,3.0,3.0,NHS Borders
+5545,2021Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5557,2021Q3,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5570,2021Q4,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5591,2021Q2,S08000016,Head & Neck,2.0,2.0,NHS Borders
+5603,2021Q3,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5616,2021Q4,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5628,2022Q1,S08000016,Head & Neck,1.0,1.0,NHS Borders
+5638,2012Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+5646,2012Q1,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+5660,2012Q1,S08000024,Head & Neck,41.0,41.0,NHS Lothian
+5670,2012Q1,S08000024,Head & Neck,20.0,19.0,NHS Lothian
+5680,2012Q2,S08000024,Head & Neck,3.0,2.0,NHS Lothian
+5687,2012Q2,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+5698,2012Q2,S08000024,Head & Neck,55.0,54.0,NHS Lothian
+5707,2012Q2,S08000024,Head & Neck,22.0,22.0,NHS Lothian
+5721,2012Q3,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+5729,2012Q3,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+5740,2012Q3,S08000024,Head & Neck,43.0,43.0,NHS Lothian
+5750,2012Q3,S08000024,Head & Neck,14.0,13.0,NHS Lothian
+5761,2012Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+5769,2012Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+5780,2012Q4,S08000024,Head & Neck,43.0,43.0,NHS Lothian
+5790,2012Q4,S08000024,Head & Neck,12.0,11.0,NHS Lothian
+5805,2013Q1,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+5813,2013Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+5824,2013Q1,S08000024,Head & Neck,48.0,48.0,NHS Lothian
+5834,2013Q1,S08000024,Head & Neck,15.0,15.0,NHS Lothian
+5845,2013Q2,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+5854,2013Q2,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+5865,2013Q2,S08000024,Head & Neck,42.0,42.0,NHS Lothian
+5876,2013Q2,S08000024,Head & Neck,9.0,9.0,NHS Lothian
+5889,2013Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+5896,2013Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+5909,2013Q3,S08000024,Head & Neck,51.0,49.0,NHS Lothian
+5918,2013Q3,S08000024,Head & Neck,16.0,16.0,NHS Lothian
+5929,2013Q4,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+5937,2013Q4,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+5944,2013Q4,S08000024,Head & Neck,7.0,7.0,NHS Lothian
+5949,2013Q4,S08000024,Head & Neck,45.0,45.0,NHS Lothian
+5959,2013Q4,S08000024,Head & Neck,14.0,14.0,NHS Lothian
+5971,2014Q1,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+5978,2014Q1,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+5984,2014Q1,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+5989,2014Q1,S08000024,Head & Neck,47.0,46.0,NHS Lothian
+5998,2014Q1,S08000024,Head & Neck,8.0,8.0,NHS Lothian
+6004,2014Q1,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+6011,2014Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6016,2014Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6030,2014Q2,S08000024,Head & Neck,40.0,40.0,NHS Lothian
+6039,2014Q2,S08000024,Head & Neck,12.0,9.0,NHS Lothian
+6053,2014Q3,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6062,2014Q3,S08000024,Head & Neck,4.0,3.0,NHS Lothian
+6074,2014Q3,S08000024,Head & Neck,36.0,33.0,NHS Lothian
+6083,2014Q3,S08000024,Head & Neck,8.0,7.0,NHS Lothian
+6097,2014Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6112,2014Q4,S08000024,Head & Neck,35.0,34.0,NHS Lothian
+6122,2014Q4,S08000024,Head & Neck,8.0,8.0,NHS Lothian
+6134,2015Q1,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6142,2015Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6152,2015Q1,S08000024,Head & Neck,41.0,41.0,NHS Lothian
+6162,2015Q1,S08000024,Head & Neck,8.0,8.0,NHS Lothian
+6176,2015Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6184,2015Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6194,2015Q2,S08000024,Head & Neck,44.0,44.0,NHS Lothian
+6203,2015Q2,S08000024,Head & Neck,12.0,12.0,NHS Lothian
+6216,2015Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6222,2015Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6232,2015Q3,S08000024,Head & Neck,34.0,34.0,NHS Lothian
+6241,2015Q3,S08000024,Head & Neck,9.0,8.0,NHS Lothian
+6252,2015Q4,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+6260,2015Q4,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+6271,2015Q4,S08000024,Head & Neck,33.0,33.0,NHS Lothian
+6280,2015Q4,S08000024,Head & Neck,10.0,10.0,NHS Lothian
+6290,2016Q1,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6295,2016Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6307,2016Q1,S08000024,Head & Neck,23.0,23.0,NHS Lothian
+6316,2016Q1,S08000024,Head & Neck,13.0,13.0,NHS Lothian
+6326,2016Q2,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6334,2016Q2,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6346,2016Q2,S08000024,Head & Neck,27.0,27.0,NHS Lothian
+6355,2016Q2,S08000024,Head & Neck,8.0,8.0,NHS Lothian
+6364,2016Q3,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6373,2016Q3,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6386,2016Q3,S08000024,Head & Neck,40.0,40.0,NHS Lothian
+6395,2016Q3,S08000024,Head & Neck,8.0,8.0,NHS Lothian
+6408,2016Q4,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+6415,2016Q4,S08000024,Head & Neck,6.0,5.0,NHS Lothian
+6426,2016Q4,S08000024,Head & Neck,37.0,37.0,NHS Lothian
+6436,2016Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6448,2017Q1,S08000024,Head & Neck,5.0,4.0,NHS Lothian
+6454,2017Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6466,2017Q1,S08000024,Head & Neck,39.0,38.0,NHS Lothian
+6476,2017Q1,S08000024,Head & Neck,11.0,11.0,NHS Lothian
+6488,2017Q2,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+6495,2017Q2,S08000024,Head & Neck,3.0,2.0,NHS Lothian
+6507,2017Q2,S08000024,Head & Neck,53.0,53.0,NHS Lothian
+6517,2017Q2,S08000024,Head & Neck,16.0,16.0,NHS Lothian
+6528,2017Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+6536,2017Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6546,2017Q3,S08000024,Head & Neck,45.0,43.0,NHS Lothian
+6556,2017Q3,S08000024,Head & Neck,7.0,7.0,NHS Lothian
+6569,2017Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6576,2017Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6588,2017Q4,S08000024,Head & Neck,43.0,43.0,NHS Lothian
+6598,2017Q4,S08000024,Head & Neck,9.0,9.0,NHS Lothian
+6611,2018Q1,S08000024,Head & Neck,5.0,3.0,NHS Lothian
+6619,2018Q1,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+6630,2018Q1,S08000024,Head & Neck,41.0,40.0,NHS Lothian
+6639,2018Q1,S08000024,Head & Neck,11.0,11.0,NHS Lothian
+6648,2018Q2,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6666,2018Q2,S08000024,Head & Neck,36.0,36.0,NHS Lothian
+6675,2018Q2,S08000024,Head & Neck,14.0,14.0,NHS Lothian
+6686,2018Q3,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6694,2018Q3,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6706,2018Q3,S08000024,Head & Neck,48.0,48.0,NHS Lothian
+6716,2018Q3,S08000024,Head & Neck,18.0,18.0,NHS Lothian
+6727,2018Q4,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6735,2018Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6747,2018Q4,S08000024,Head & Neck,50.0,50.0,NHS Lothian
+6756,2018Q4,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+6766,2019Q1,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6774,2019Q1,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6787,2019Q1,S08000024,Head & Neck,48.0,47.0,NHS Lothian
+6797,2019Q1,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6808,2019Q2,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+6815,2019Q2,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+6826,2019Q2,S08000024,Head & Neck,55.0,55.0,NHS Lothian
+6836,2019Q2,S08000024,Head & Neck,9.0,9.0,NHS Lothian
+6846,2019Q3,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+6855,2019Q3,S08000024,Head & Neck,7.0,7.0,NHS Lothian
+6869,2019Q3,S08000024,Head & Neck,53.0,51.0,NHS Lothian
+6879,2019Q3,S08000024,Head & Neck,9.0,9.0,NHS Lothian
+6893,2019Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6900,2019Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6913,2019Q4,S08000024,Head & Neck,41.0,41.0,NHS Lothian
+6923,2019Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6933,2020Q1,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6940,2020Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+6952,2020Q1,S08000024,Head & Neck,38.0,37.0,NHS Lothian
+6960,2020Q1,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+6972,2020Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+6978,2020Q2,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+6990,2020Q2,S08000024,Head & Neck,35.0,35.0,NHS Lothian
+7000,2020Q2,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7010,2020Q3,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+7018,2020Q3,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+7030,2020Q3,S08000024,Head & Neck,45.0,45.0,NHS Lothian
+7039,2020Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7051,2020Q4,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+7060,2020Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+7071,2020Q4,S08000024,Head & Neck,47.0,47.0,NHS Lothian
+7082,2020Q4,S08000024,Head & Neck,8.0,8.0,NHS Lothian
+7091,2021Q1,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7098,2021Q1,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+7113,2021Q1,S08000024,Head & Neck,39.0,39.0,NHS Lothian
+7122,2021Q1,S08000024,Head & Neck,4.0,3.0,NHS Lothian
+7131,2021Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+7137,2021Q2,S08000024,Head & Neck,12.0,12.0,NHS Lothian
+7150,2021Q2,S08000024,Head & Neck,61.0,61.0,NHS Lothian
+7160,2021Q2,S08000024,Head & Neck,8.0,8.0,NHS Lothian
+7170,2021Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+7178,2021Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7186,2021Q3,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+7191,2021Q3,S08000024,Head & Neck,42.0,42.0,NHS Lothian
+7200,2021Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7585,2020Q4,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+7594,2020Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+7605,2020Q4,S08000024,Head & Neck,47.0,47.0,NHS Lothian
+7616,2020Q4,S08000024,Head & Neck,8.0,8.0,NHS Lothian
+7634,2021Q1,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7641,2021Q1,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+7656,2021Q1,S08000024,Head & Neck,39.0,39.0,NHS Lothian
+7665,2021Q1,S08000024,Head & Neck,4.0,3.0,NHS Lothian
+7683,2021Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+7689,2021Q2,S08000024,Head & Neck,12.0,12.0,NHS Lothian
+7702,2021Q2,S08000024,Head & Neck,61.0,61.0,NHS Lothian
+7712,2021Q2,S08000024,Head & Neck,8.0,8.0,NHS Lothian
+7733,2021Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+7741,2021Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7749,2021Q3,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+7754,2021Q3,S08000024,Head & Neck,42.0,42.0,NHS Lothian
+7763,2021Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7785,2021Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+7794,2021Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+7806,2021Q4,S08000024,Head & Neck,38.0,38.0,NHS Lothian
+7816,2021Q4,S08000024,Head & Neck,9.0,9.0,NHS Lothian
+7835,2021Q1,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7842,2021Q1,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+7857,2021Q1,S08000024,Head & Neck,39.0,39.0,NHS Lothian
+7866,2021Q1,S08000024,Head & Neck,4.0,3.0,NHS Lothian
+7884,2021Q2,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+7890,2021Q2,S08000024,Head & Neck,12.0,12.0,NHS Lothian
+7903,2021Q2,S08000024,Head & Neck,61.0,61.0,NHS Lothian
+7913,2021Q2,S08000024,Head & Neck,8.0,8.0,NHS Lothian
+7934,2021Q3,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+7942,2021Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7950,2021Q3,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+7955,2021Q3,S08000024,Head & Neck,42.0,42.0,NHS Lothian
+7964,2021Q3,S08000024,Head & Neck,6.0,6.0,NHS Lothian
+7986,2021Q4,S08000024,Head & Neck,4.0,4.0,NHS Lothian
+7995,2021Q4,S08000024,Head & Neck,3.0,3.0,NHS Lothian
+8007,2021Q4,S08000024,Head & Neck,38.0,38.0,NHS Lothian
+8017,2021Q4,S08000024,Head & Neck,9.0,9.0,NHS Lothian
+8037,2022Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+8043,2022Q1,S08000024,Head & Neck,2.0,2.0,NHS Lothian
+8054,2022Q1,S08000024,Head & Neck,38.0,38.0,NHS Lothian
+8065,2022Q1,S08000024,Head & Neck,5.0,5.0,NHS Lothian
+8073,2022Q1,S08000024,Head & Neck,1.0,1.0,NHS Lothian
+8089,2012Q1,S08000019,Head & Neck,3.0,3.0,NHS Forth Valley
+8100,2012Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8113,2012Q3,S08000019,Head & Neck,13.0,13.0,NHS Forth Valley
+8123,2012Q4,S08000019,Head & Neck,10.0,10.0,NHS Forth Valley
+8133,2013Q1,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
+8142,2013Q2,S08000019,Head & Neck,8.0,8.0,NHS Forth Valley
+8153,2013Q3,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
+8164,2013Q4,S08000019,Head & Neck,5.0,5.0,NHS Forth Valley
+8176,2014Q1,S08000019,Head & Neck,6.0,6.0,NHS Forth Valley
+8188,2014Q2,S08000019,Head & Neck,3.0,3.0,NHS Forth Valley
+8199,2014Q3,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8210,2014Q4,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
+8222,2015Q1,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
+8234,2015Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8244,2015Q3,S08000019,Head & Neck,6.0,5.0,NHS Forth Valley
+8254,2015Q4,S08000019,Head & Neck,8.0,8.0,NHS Forth Valley
+8265,2016Q1,S08000019,Head & Neck,5.0,5.0,NHS Forth Valley
+8275,2016Q2,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
+8296,2016Q4,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
+8308,2017Q1,S08000019,Head & Neck,3.0,3.0,NHS Forth Valley
+8322,2017Q2,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
+8333,2017Q3,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
+8343,2017Q4,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8354,2018Q1,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8365,2018Q2,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
+8376,2018Q3,S08000019,Head & Neck,9.0,9.0,NHS Forth Valley
+8387,2018Q4,S08000019,Head & Neck,4.0,3.0,NHS Forth Valley
+8398,2019Q1,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
+8410,2019Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8420,2019Q3,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
+8432,2019Q4,S08000019,Head & Neck,3.0,3.0,NHS Forth Valley
+8444,2020Q1,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
+8456,2020Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8467,2020Q3,S08000019,Head & Neck,5.0,5.0,NHS Forth Valley
+8477,2020Q4,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
+8488,2021Q1,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8500,2021Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8511,2021Q3,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8611,2020Q4,S08000019,Head & Neck,2.0,2.0,NHS Forth Valley
+8625,2021Q1,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8639,2021Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8652,2021Q3,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8663,2021Q4,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
+8675,2021Q1,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8689,2021Q2,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8702,2021Q3,S08000019,Head & Neck,7.0,7.0,NHS Forth Valley
+8713,2021Q4,S08000019,Head & Neck,4.0,4.0,NHS Forth Valley
+8726,2022Q1,S08000019,Head & Neck,8.0,7.0,NHS Forth Valley
+8739,2012Q1,S08000022,Head & Neck,13.0,12.0,NHS Highland
+8747,2012Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
+8755,2012Q2,S08000022,Head & Neck,12.0,11.0,NHS Highland
+8767,2012Q3,S08000022,Head & Neck,1.0,1.0,NHS Highland
+8770,2012Q3,S08000022,Head & Neck,20.0,17.0,NHS Highland
+8778,2012Q3,S08000022,Head & Neck,3.0,2.0,NHS Highland
+8783,2012Q4,S08000022,Head & Neck,16.0,14.0,NHS Highland
+8791,2012Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
+8797,2013Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
+8801,2013Q1,S08000022,Head & Neck,12.0,12.0,NHS Highland
+8810,2013Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
+8817,2013Q2,S08000022,Head & Neck,15.0,14.0,NHS Highland
+8832,2013Q3,S08000022,Head & Neck,14.0,14.0,NHS Highland
+8840,2013Q3,S08000022,Head & Neck,2.0,2.0,NHS Highland
+8847,2013Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
+8851,2013Q4,S08000022,Head & Neck,13.0,13.0,NHS Highland
+8859,2013Q4,S08000022,Head & Neck,4.0,4.0,NHS Highland
+8867,2014Q1,S08000022,Head & Neck,15.0,12.0,NHS Highland
+8884,2014Q2,S08000022,Head & Neck,16.0,16.0,NHS Highland
+8892,2014Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
+8903,2014Q3,S08000022,Head & Neck,15.0,15.0,NHS Highland
+8912,2014Q3,S08000022,Head & Neck,2.0,2.0,NHS Highland
+8918,2014Q4,S08000022,Head & Neck,13.0,13.0,NHS Highland
+8936,2015Q1,S08000022,Head & Neck,16.0,14.0,NHS Highland
+8944,2015Q1,S08000022,Head & Neck,2.0,2.0,NHS Highland
+8948,2015Q2,S08000022,Head & Neck,2.0,2.0,NHS Highland
+8952,2015Q2,S08000022,Head & Neck,9.0,9.0,NHS Highland
+8960,2015Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
+8966,2015Q3,S08000022,Head & Neck,12.0,10.0,NHS Highland
+8974,2015Q3,S08000022,Head & Neck,2.0,2.0,NHS Highland
+8982,2015Q4,S08000022,Head & Neck,2.0,2.0,NHS Highland
+8987,2015Q4,S08000022,Head & Neck,12.0,12.0,NHS Highland
+9000,2016Q1,S08000022,Head & Neck,7.0,7.0,NHS Highland
+9010,2016Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9013,2016Q2,S08000022,Head & Neck,6.0,6.0,NHS Highland
+9021,2016Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9028,2016Q3,S08000022,Head & Neck,2.0,2.0,NHS Highland
+9034,2016Q3,S08000022,Head & Neck,7.0,7.0,NHS Highland
+9048,2016Q4,S08000022,Head & Neck,16.0,15.0,NHS Highland
+9056,2016Q4,S08000022,Head & Neck,4.0,2.0,NHS Highland
+9064,2017Q1,S08000022,Head & Neck,15.0,15.0,NHS Highland
+9073,2017Q1,S08000022,Head & Neck,1.0,0.0,NHS Highland
+9082,2017Q2,S08000022,Head & Neck,5.0,5.0,NHS Highland
+9093,2017Q3,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9098,2017Q3,S08000022,Head & Neck,6.0,6.0,NHS Highland
+9110,2017Q4,S08000022,Head & Neck,1.0,0.0,NHS Highland
+9115,2017Q4,S08000022,Head & Neck,12.0,12.0,NHS Highland
+9133,2018Q1,S08000022,Head & Neck,9.0,9.0,NHS Highland
+9150,2018Q2,S08000022,Head & Neck,9.0,9.0,NHS Highland
+9165,2018Q3,S08000022,Head & Neck,15.0,14.0,NHS Highland
+9183,2018Q4,S08000022,Head & Neck,8.0,8.0,NHS Highland
+9192,2018Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9199,2019Q1,S08000022,Head & Neck,9.0,9.0,NHS Highland
+9217,2019Q2,S08000022,Head & Neck,3.0,3.0,NHS Highland
+9225,2019Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9235,2019Q3,S08000022,Head & Neck,12.0,12.0,NHS Highland
+9243,2019Q3,S08000022,Head & Neck,1.0,0.0,NHS Highland
+9253,2019Q4,S08000022,Head & Neck,13.0,13.0,NHS Highland
+9261,2019Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9270,2020Q1,S08000022,Head & Neck,12.0,12.0,NHS Highland
+9278,2020Q1,S08000022,Head & Neck,3.0,3.0,NHS Highland
+9287,2020Q2,S08000022,Head & Neck,4.0,4.0,NHS Highland
+9295,2020Q2,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9304,2020Q3,S08000022,Head & Neck,8.0,8.0,NHS Highland
+9319,2020Q4,S08000022,Head & Neck,7.0,7.0,NHS Highland
+9327,2020Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9335,2021Q1,S08000022,Head & Neck,8.0,8.0,NHS Highland
+9343,2021Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9352,2021Q2,S08000022,Head & Neck,9.0,9.0,NHS Highland
+9368,2021Q3,S08000022,Head & Neck,11.0,11.0,NHS Highland
+9517,2020Q4,S08000022,Head & Neck,7.0,7.0,NHS Highland
+9525,2020Q4,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9535,2021Q1,S08000022,Head & Neck,8.0,8.0,NHS Highland
+9543,2021Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9556,2021Q2,S08000022,Head & Neck,9.0,9.0,NHS Highland
+9576,2021Q3,S08000022,Head & Neck,11.0,11.0,NHS Highland
+9594,2021Q4,S08000022,Head & Neck,10.0,10.0,NHS Highland
+9611,2021Q1,S08000022,Head & Neck,8.0,8.0,NHS Highland
+9619,2021Q1,S08000022,Head & Neck,1.0,1.0,NHS Highland
+9632,2021Q2,S08000022,Head & Neck,9.0,9.0,NHS Highland
+9652,2021Q3,S08000022,Head & Neck,11.0,11.0,NHS Highland
+9670,2021Q4,S08000022,Head & Neck,10.0,10.0,NHS Highland
+9686,2022Q1,S08000022,Head & Neck,12.0,12.0,NHS Highland
+9703,2012Q1,S08000029,Head & Neck,4.0,4.0,NHS Fife
+9713,2012Q2,S08000029,Head & Neck,7.0,7.0,NHS Fife
+9723,2012Q3,S08000029,Head & Neck,1.0,1.0,NHS Fife
+9735,2012Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
+9746,2013Q1,S08000029,Head & Neck,1.0,1.0,NHS Fife
+9757,2013Q2,S08000029,Head & Neck,2.0,2.0,NHS Fife
+9778,2013Q4,S08000029,Head & Neck,4.0,4.0,NHS Fife
+9789,2014Q1,S08000029,Head & Neck,6.0,6.0,NHS Fife
+9799,2014Q2,S08000029,Head & Neck,4.0,4.0,NHS Fife
+9810,2014Q3,S08000029,Head & Neck,4.0,4.0,NHS Fife
+9822,2014Q4,S08000029,Head & Neck,9.0,8.0,NHS Fife
+9832,2015Q1,S08000029,Head & Neck,3.0,3.0,NHS Fife
+9843,2015Q2,S08000029,Head & Neck,4.0,4.0,NHS Fife
+9854,2015Q3,S08000029,Head & Neck,3.0,3.0,NHS Fife
+9866,2015Q4,S08000029,Head & Neck,1.0,1.0,NHS Fife
+9877,2016Q1,S08000029,Head & Neck,4.0,4.0,NHS Fife
+9889,2016Q2,S08000029,Head & Neck,3.0,3.0,NHS Fife
+9899,2016Q3,S08000029,Head & Neck,2.0,2.0,NHS Fife
+9910,2016Q4,S08000029,Head & Neck,2.0,2.0,NHS Fife
+9921,2017Q1,S08000029,Head & Neck,2.0,2.0,NHS Fife
+9932,2017Q2,S08000029,Head & Neck,3.0,3.0,NHS Fife
+9943,2017Q3,S08000029,Head & Neck,6.0,6.0,NHS Fife
+9953,2017Q4,S08000029,Head & Neck,1.0,1.0,NHS Fife
+9964,2018Q1,S08000029,Head & Neck,1.0,1.0,NHS Fife
+9975,2018Q2,S08000029,Head & Neck,6.0,6.0,NHS Fife
+9987,2018Q3,S08000029,Head & Neck,8.0,8.0,NHS Fife
+9998,2018Q4,S08000029,Head & Neck,1.0,1.0,NHS Fife
+10008,2019Q1,S08000029,Head & Neck,1.0,1.0,NHS Fife
+10019,2019Q2,S08000029,Head & Neck,1.0,1.0,NHS Fife
+10030,2019Q3,S08000029,Head & Neck,5.0,5.0,NHS Fife
+10041,2019Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
+10052,2020Q1,S08000029,Head & Neck,8.0,8.0,NHS Fife
+10063,2020Q2,S08000029,Head & Neck,1.0,1.0,NHS Fife
+10073,2020Q3,S08000029,Head & Neck,4.0,4.0,NHS Fife
+10084,2020Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
+10095,2021Q1,S08000029,Head & Neck,8.0,8.0,NHS Fife
+10106,2021Q2,S08000029,Head & Neck,4.0,4.0,NHS Fife
+10117,2021Q3,S08000029,Head & Neck,3.0,3.0,NHS Fife
+10206,2020Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
+10219,2021Q1,S08000029,Head & Neck,8.0,8.0,NHS Fife
+10232,2021Q2,S08000029,Head & Neck,4.0,4.0,NHS Fife
+10245,2021Q3,S08000029,Head & Neck,3.0,3.0,NHS Fife
+10257,2021Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
+10270,2021Q1,S08000029,Head & Neck,8.0,8.0,NHS Fife
+10283,2021Q2,S08000029,Head & Neck,4.0,4.0,NHS Fife
+10296,2021Q3,S08000029,Head & Neck,3.0,3.0,NHS Fife
+10308,2021Q4,S08000029,Head & Neck,3.0,3.0,NHS Fife
+10321,2022Q1,S08000029,Head & Neck,2.0,2.0,NHS Fife
+10339,2012Q1,S08000030,Head & Neck,21.0,21.0,NHS Tayside
+10351,2012Q2,S08000030,Head & Neck,26.0,26.0,NHS Tayside
+10365,2012Q3,S08000030,Head & Neck,25.0,24.0,NHS Tayside
+10377,2012Q4,S08000030,Head & Neck,21.0,21.0,NHS Tayside
+10392,2013Q1,S08000030,Head & Neck,16.0,16.0,NHS Tayside
+10405,2013Q2,S08000030,Head & Neck,26.0,24.0,NHS Tayside
+10419,2013Q3,S08000030,Head & Neck,19.0,19.0,NHS Tayside
+10426,2013Q4,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10434,2013Q4,S08000030,Head & Neck,23.0,23.0,NHS Tayside
+10445,2014Q1,S08000030,Head & Neck,26.0,25.0,NHS Tayside
+10459,2014Q2,S08000030,Head & Neck,17.0,17.0,NHS Tayside
+10471,2014Q3,S08000030,Head & Neck,22.0,21.0,NHS Tayside
+10481,2014Q4,S08000030,Head & Neck,14.0,13.0,NHS Tayside
+10495,2015Q1,S08000030,Head & Neck,20.0,17.0,NHS Tayside
+10509,2015Q2,S08000030,Head & Neck,28.0,25.0,NHS Tayside
+10521,2015Q3,S08000030,Head & Neck,18.0,15.0,NHS Tayside
+10528,2015Q4,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10535,2015Q4,S08000030,Head & Neck,15.0,15.0,NHS Tayside
+10543,2016Q1,S08000030,Head & Neck,3.0,3.0,NHS Tayside
+10551,2016Q1,S08000030,Head & Neck,16.0,16.0,NHS Tayside
+10560,2016Q2,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10566,2016Q2,S08000030,Head & Neck,28.0,28.0,NHS Tayside
+10574,2016Q3,S08000030,Head & Neck,2.0,2.0,NHS Tayside
+10582,2016Q3,S08000030,Head & Neck,22.0,19.0,NHS Tayside
+10590,2016Q4,S08000030,Head & Neck,5.0,5.0,NHS Tayside
+10591,2016Q4,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10597,2016Q4,S08000030,Head & Neck,33.0,33.0,NHS Tayside
+10604,2017Q1,S08000030,Head & Neck,4.0,4.0,NHS Tayside
+10610,2017Q1,S08000030,Head & Neck,27.0,24.0,NHS Tayside
+10617,2017Q2,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10618,2017Q2,S08000030,Head & Neck,2.0,2.0,NHS Tayside
+10619,2017Q2,S08000030,Head & Neck,7.0,7.0,NHS Tayside
+10624,2017Q2,S08000030,Head & Neck,19.0,19.0,NHS Tayside
+10631,2017Q3,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10633,2017Q3,S08000030,Head & Neck,8.0,8.0,NHS Tayside
+10640,2017Q3,S08000030,Head & Neck,21.0,18.0,NHS Tayside
+10647,2017Q4,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10649,2017Q4,S08000030,Head & Neck,7.0,6.0,NHS Tayside
+10655,2017Q4,S08000030,Head & Neck,19.0,19.0,NHS Tayside
+10662,2018Q1,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10663,2018Q1,S08000030,Head & Neck,8.0,7.0,NHS Tayside
+10670,2018Q1,S08000030,Head & Neck,23.0,22.0,NHS Tayside
+10677,2018Q2,S08000030,Head & Neck,3.0,3.0,NHS Tayside
+10679,2018Q2,S08000030,Head & Neck,8.0,5.0,NHS Tayside
+10685,2018Q2,S08000030,Head & Neck,19.0,17.0,NHS Tayside
+10692,2018Q3,S08000030,Head & Neck,2.0,2.0,NHS Tayside
+10694,2018Q3,S08000030,Head & Neck,7.0,6.0,NHS Tayside
+10700,2018Q3,S08000030,Head & Neck,22.0,20.0,NHS Tayside
+10710,2018Q4,S08000030,Head & Neck,6.0,6.0,NHS Tayside
+10715,2018Q4,S08000030,Head & Neck,16.0,13.0,NHS Tayside
+10723,2019Q1,S08000030,Head & Neck,5.0,5.0,NHS Tayside
+10724,2019Q1,S08000030,Head & Neck,5.0,4.0,NHS Tayside
+10729,2019Q1,S08000030,Head & Neck,14.0,13.0,NHS Tayside
+10737,2019Q2,S08000030,Head & Neck,2.0,2.0,NHS Tayside
+10738,2019Q2,S08000030,Head & Neck,5.0,5.0,NHS Tayside
+10743,2019Q2,S08000030,Head & Neck,20.0,20.0,NHS Tayside
+10750,2019Q3,S08000030,Head & Neck,1.0,0.0,NHS Tayside
+10752,2019Q3,S08000030,Head & Neck,5.0,5.0,NHS Tayside
+10753,2019Q3,S08000030,Head & Neck,3.0,3.0,NHS Tayside
+10759,2019Q3,S08000030,Head & Neck,19.0,18.0,NHS Tayside
+10766,2019Q4,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10767,2019Q4,S08000030,Head & Neck,4.0,4.0,NHS Tayside
+10773,2019Q4,S08000030,Head & Neck,16.0,14.0,NHS Tayside
+10780,2020Q1,S08000030,Head & Neck,5.0,4.0,NHS Tayside
+10781,2020Q1,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10787,2020Q1,S08000030,Head & Neck,13.0,13.0,NHS Tayside
+10794,2020Q2,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10795,2020Q2,S08000030,Head & Neck,1.0,1.0,NHS Tayside
+10802,2020Q2,S08000030,Head & Neck,23.0,23.0,NHS Tayside
+10809,2020Q3,S08000030,Head & Neck,3.0,2.0,NHS Tayside
+10811,2020Q3,S08000030,Head & Neck,3.0,3.0,NHS Tayside
+10816,2020Q3,S08000030,Head & Neck,15.0,15.0,NHS Tayside
+10823,2020Q4,S08000030,Head & Neck,4.0,4.0,NHS Tayside
+10829,2020Q4,S08000030,Head & Neck,16.0,16.0,NHS Tayside
+10836,2021Q1,S08000030,Head & Neck,1.0,0.0,NHS Tayside
+10837,2021Q1,S08000030,Head & Neck,2.0,2.0,NHS Tayside
+10842,2021Q1,S08000030,Head & Neck,14.0,13.0,NHS Tayside
+10849,2021Q2,S08000030,Head & Neck,2.0,2.0,NHS Tayside
+10850,2021Q2,S08000030,Head & Neck,4.0,4.0,NHS Tayside
+10854,2021Q2,S08000030,Head & Neck,24.0,22.0,NHS Tayside
+10861,2021Q3,S08000030,Head & Neck,3.0,2.0,NHS Tayside
+10864,2021Q3,S08000030,Head & Neck,4.0,4.0,NHS Tayside
+10869,2021Q3,S08000030,Head & Neck,22.0,21.0,NHS Tayside
+10996,2020Q4,S08000030,Head & Neck,4.0,4.0,NHS Tayside
+11002,2020Q4,S08000030,Head & Neck,29.0,29.0,NHS Tayside
+11011,2021Q1,S08000030,Head & Neck,1.0,0.0,NHS Tayside
+11012,2021Q1,S08000030,Head & Neck,2.0,2.0,NHS Tayside
+11017,2021Q1,S08000030,Head & Neck,14.0,13.0,NHS Tayside
+11027,2021Q2,S08000030,Head & Neck,2.0,2.0,NHS Tayside
+11028,2021Q2,S08000030,Head & Neck,4.0,4.0,NHS Tayside
+11032,2021Q2,S08000030,Head & Neck,24.0,22.0,NHS Tayside
+11042,2021Q3,S08000030,Head & Neck,3.0,2.0,NHS Tayside
+11045,2021Q3,S08000030,Head & Neck,4.0,4.0,NHS Tayside
+11050,2021Q3,S08000030,Head & Neck,22.0,21.0,NHS Tayside
+11060,2021Q4,S08000030,Head & Neck,1.0,0.0,NHS Tayside
+11061,2021Q4,S08000030,Head & Neck,8.0,6.0,NHS Tayside
+11067,2021Q4,S08000030,Head & Neck,32.0,32.0,NHS Tayside
+11077,2021Q1,S08000030,Head & Neck,1.0,0.0,NHS Tayside
+11078,2021Q1,S08000030,Head & Neck,2.0,2.0,NHS Tayside
+11083,2021Q1,S08000030,Head & Neck,14.0,13.0,NHS Tayside
+11093,2021Q2,S08000030,Head & Neck,2.0,2.0,NHS Tayside
+11094,2021Q2,S08000030,Head & Neck,4.0,4.0,NHS Tayside
+11098,2021Q2,S08000030,Head & Neck,24.0,22.0,NHS Tayside
+11108,2021Q3,S08000030,Head & Neck,3.0,2.0,NHS Tayside
+11111,2021Q3,S08000030,Head & Neck,4.0,4.0,NHS Tayside
+11116,2021Q3,S08000030,Head & Neck,22.0,21.0,NHS Tayside
+11126,2021Q4,S08000030,Head & Neck,1.0,0.0,NHS Tayside
+11127,2021Q4,S08000030,Head & Neck,8.0,6.0,NHS Tayside
+11133,2021Q4,S08000030,Head & Neck,32.0,32.0,NHS Tayside
+11144,2022Q1,S08000030,Head & Neck,3.0,1.0,NHS Tayside
+11145,2022Q1,S08000030,Head & Neck,3.0,1.0,NHS Tayside
+11150,2022Q1,S08000030,Head & Neck,22.0,19.0,NHS Tayside
+11193,2014Q4,S08000025,Head & Neck,1.0,1.0,NHS Orkney
+11485,2015Q1,S08000026,Head & Neck,1.0,1.0,NHS Shetland
+11506,2016Q1,S08000026,Head & Neck,1.0,1.0,NHS Shetland
+11768,2012Q1,S08000028,Head & Neck,3.0,3.0,NHS Western Isles
+11774,2012Q2,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+11814,2014Q2,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+11834,2015Q2,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+11865,2016Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+11887,2017Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+11916,2018Q4,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+11927,2019Q2,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+11933,2019Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+11951,2020Q2,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+11978,2021Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+12067,2021Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+12093,2021Q3,S08000028,Head & Neck,1.0,1.0,NHS Western Isles
+12116,2012Q1,S08000032,Head & Neck,13.0,13.0,NHS Lanarkshire
+12127,2012Q2,S08000032,Head & Neck,20.0,20.0,NHS Lanarkshire
+12139,2012Q3,S08000032,Head & Neck,13.0,13.0,NHS Lanarkshire
+12150,2012Q4,S08000032,Head & Neck,20.0,20.0,NHS Lanarkshire
+12157,2013Q1,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
+12162,2013Q1,S08000032,Head & Neck,26.0,26.0,NHS Lanarkshire
+12174,2013Q2,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
+12185,2013Q3,S08000032,Head & Neck,17.0,17.0,NHS Lanarkshire
+12197,2013Q4,S08000032,Head & Neck,20.0,20.0,NHS Lanarkshire
+12204,2014Q1,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
+12209,2014Q1,S08000032,Head & Neck,17.0,17.0,NHS Lanarkshire
+12220,2014Q2,S08000032,Head & Neck,15.0,15.0,NHS Lanarkshire
+12232,2014Q3,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
+12243,2014Q4,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
+12250,2015Q1,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
+12255,2015Q1,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
+12262,2015Q2,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
+12267,2015Q2,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
+12274,2015Q3,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
+12279,2015Q3,S08000032,Head & Neck,14.0,14.0,NHS Lanarkshire
+12286,2015Q4,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
+12291,2015Q4,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
+12304,2016Q1,S08000032,Head & Neck,23.0,22.0,NHS Lanarkshire
+12315,2016Q2,S08000032,Head & Neck,23.0,23.0,NHS Lanarkshire
+12327,2016Q3,S08000032,Head & Neck,18.0,18.0,NHS Lanarkshire
+12334,2016Q4,S08000032,Head & Neck,4.0,4.0,NHS Lanarkshire
+12340,2016Q4,S08000032,Head & Neck,14.0,14.0,NHS Lanarkshire
+12347,2017Q1,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
+12352,2017Q1,S08000032,Head & Neck,7.0,7.0,NHS Lanarkshire
+12359,2017Q2,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
+12364,2017Q2,S08000032,Head & Neck,11.0,11.0,NHS Lanarkshire
+12371,2017Q3,S08000032,Head & Neck,5.0,5.0,NHS Lanarkshire
+12376,2017Q3,S08000032,Head & Neck,25.0,25.0,NHS Lanarkshire
+12389,2017Q4,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
+12396,2018Q1,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
+12401,2018Q1,S08000032,Head & Neck,10.0,10.0,NHS Lanarkshire
+12408,2018Q2,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
+12413,2018Q2,S08000032,Head & Neck,15.0,15.0,NHS Lanarkshire
+12419,2018Q3,S08000032,Head & Neck,6.0,6.0,NHS Lanarkshire
+12424,2018Q3,S08000032,Head & Neck,27.0,26.0,NHS Lanarkshire
+12431,2018Q4,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
+12437,2018Q4,S08000032,Head & Neck,26.0,26.0,NHS Lanarkshire
+12445,2019Q1,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
+12449,2019Q1,S08000032,Head & Neck,19.0,19.0,NHS Lanarkshire
+12456,2019Q2,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
+12462,2019Q2,S08000032,Head & Neck,29.0,29.0,NHS Lanarkshire
+12469,2019Q3,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
+12474,2019Q3,S08000032,Head & Neck,20.0,20.0,NHS Lanarkshire
+12481,2019Q4,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
+12486,2019Q4,S08000032,Head & Neck,10.0,10.0,NHS Lanarkshire
+12494,2020Q1,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
+12499,2020Q1,S08000032,Head & Neck,13.0,13.0,NHS Lanarkshire
+12506,2020Q2,S08000032,Head & Neck,1.0,1.0,NHS Lanarkshire
+12511,2020Q2,S08000032,Head & Neck,14.0,14.0,NHS Lanarkshire
+12523,2020Q3,S08000032,Head & Neck,18.0,18.0,NHS Lanarkshire
+12535,2020Q4,S08000032,Head & Neck,12.0,12.0,NHS Lanarkshire
+12547,2021Q1,S08000032,Head & Neck,29.0,29.0,NHS Lanarkshire
+12558,2021Q2,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
+12565,2021Q3,S08000032,Head & Neck,3.0,3.0,NHS Lanarkshire
+12570,2021Q3,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
+12688,2020Q4,S08000032,Head & Neck,12.0,12.0,NHS Lanarkshire
+12702,2021Q1,S08000032,Head & Neck,29.0,29.0,NHS Lanarkshire
+12715,2021Q2,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
+12724,2021Q3,S08000032,Head & Neck,3.0,3.0,NHS Lanarkshire
+12729,2021Q3,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
+12739,2021Q4,S08000032,Head & Neck,5.0,5.0,NHS Lanarkshire
+12745,2021Q4,S08000032,Head & Neck,11.0,11.0,NHS Lanarkshire
+12761,2021Q1,S08000032,Head & Neck,29.0,29.0,NHS Lanarkshire
+12774,2021Q2,S08000032,Head & Neck,21.0,21.0,NHS Lanarkshire
+12783,2021Q3,S08000032,Head & Neck,3.0,3.0,NHS Lanarkshire
+12788,2021Q3,S08000032,Head & Neck,16.0,16.0,NHS Lanarkshire
+12798,2021Q4,S08000032,Head & Neck,5.0,5.0,NHS Lanarkshire
+12804,2021Q4,S08000032,Head & Neck,11.0,11.0,NHS Lanarkshire
+12815,2022Q1,S08000032,Head & Neck,2.0,2.0,NHS Lanarkshire
+12820,2022Q1,S08000032,Head & Neck,6.0,6.0,NHS Lanarkshire
