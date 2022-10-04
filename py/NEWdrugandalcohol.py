@@ -6,7 +6,7 @@ import pandas as pd
 ongoingwaits= pd.read_csv("https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/abf54d64-88de-47d8-9c31-49a959abc164/download/ongoingwaits-30-06-2022.csv")
 
 #renaming columns
-ongoingwaits2= ongoingwaits.rename(columns={'HBName': 'Health board', 'ADPName': 'ADP', 'ServiceType': 'Service type', 'SubstanceType': 'Substance type', 'LDP_standard_waited_3_weeks_or_less': 'Percent waiting within 3 weeks', 'LDP_standard_waited_more_than_3_weeks': 'Percent waiting over 3 weeks', 'Median_length_of_wait': 'Median length of wait'})
+ongoingwaits2= ongoingwaits.rename(columns={'HBName': 'Health board', 'ADPName': 'ADP', 'ServiceType': 'Service type', 'SubstanceType': 'Substance type', 'LDP_standard_waited_3_weeks_or_less': 'Percent waiting within 3 weeks', 'LDP_standard_waited_more_than_3_weeks': 'Percent waiting over 3 weeks', 'Median_length_of_wait': 'Median length of wait in weeks'})
 
 #dropping unneeded columns
 ongoingwaits3= ongoingwaits2.drop(columns=['HBQF', 'HBNameQF', 'ADPNameQF', 'SubstanceTypeQF', 'ServiceTypeQF'])
