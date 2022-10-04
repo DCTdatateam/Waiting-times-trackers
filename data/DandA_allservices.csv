@@ -1,0 +1,621 @@
+,Quarter,HB,Health board,ADP,Service type,Substance type,Measure,Waited_1_week_or_less,Waited_more_than_1_week_but_within_2_weeks,Waited_more_than_2_week_but_within_3_weeks,Waited_more_than_3_week_but_within_4_weeks,Waited_more_than_4_week_but_within_8_weeks,Waited_more_than_8_week_but_within_12_weeks,Waited_more_than_12_week_but_within_26_weeks,Waited_more_than_26_week_but_within_52_weeks,Waited_more_than_52_week,Percent waiting within 3 weeks,Percent waiting over 3 weeks,Median length of wait
+0,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Alcohol,Number,9.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,7.0
+3,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Alcohol,Number,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,3.0
+6,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Alcohol,Number,6.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,3.0,7.0
+9,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Alcohol,Number,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0
+12,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Alcohol,Number,10.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,12.0,1.0,7.0
+15,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,All,Number,10.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,7.0
+18,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,All,Number,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,2.0
+21,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,All,Number,6.0,1.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,11.0,3.0,12.0
+24,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,All,Number,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,3.0
+27,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,All,Number,11.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,15.0,1.0,7.0
+30,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Co-dependency,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,4.5
+42,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Drug,Number,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,17.0
+48,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Drug,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+51,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Drug,Number,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,16.0
+54,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Drug,Number,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,2.5
+57,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,All services,Drug,Number,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,10.0
+60,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Alcohol,Number,24.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,0.0,6.5
+62,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Alcohol,Number,13.0,6.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,21.0,1.0,7.0
+64,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Alcohol,Number,13.0,11.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,30.0,3.0,8.0
+66,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Alcohol,Number,22.0,16.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,42.0,1.0,7.0
+68,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Alcohol,Number,24.0,13.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,7.0
+70,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,All,Number,37.0,17.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,58.0,0.0,5.0
+72,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,All,Number,24.0,10.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,42.0,1.0,7.0
+74,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,All,Number,26.0,17.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0,54.0,3.0,8.0
+76,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,All,Number,36.0,21.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,62.0,1.0,7.0
+78,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,All,Number,37.0,22.0,7.0,0.0,1.0,0.0,0.0,0.0,0.0,66.0,1.0,7.0
+80,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Co-dependency,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0
+82,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Co-dependency,Number,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,10.0
+84,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Co-dependency,Number,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,6.5
+86,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Co-dependency,Number,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,3.5
+88,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Co-dependency,Number,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,8.5
+90,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Drug,Number,13.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,3.0
+92,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Drug,Number,10.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,4.0
+94,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Drug,Number,11.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,3.0
+96,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Drug,Number,10.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,7.0
+98,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,North Ayrshire ADP,All services,Drug,Number,10.0,5.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,18.0,1.0,3.0
+100,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Alcohol,Number,18.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,2.5
+102,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Alcohol,Number,11.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,3.0
+104,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Alcohol,Number,8.0,6.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,15.0,1.0,5.5
+106,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Alcohol,Number,4.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,10.0
+108,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Alcohol,Number,9.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.0,8.0
+110,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,All,Number,26.0,5.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,32.0,1.0,3.0
+112,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,All,Number,18.0,2.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,1.0,3.0
+114,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,All,Number,9.0,11.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,21.0,1.0,9.0
+116,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,All,Number,9.0,6.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,9.0
+118,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,All,Number,12.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,4.0
+120,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+122,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Co-dependency,Number,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,3.0
+124,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Co-dependency,Number,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,9.5
+126,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0
+128,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,Q1 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Drug,Number,8.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,10.0,1.0,3.0
+132,Q2 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Drug,Number,4.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5.0,1.0,3.5
+134,Q3 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Drug,Number,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,11.5
+136,Q4 2021/2022,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Drug,Number,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,5.0
+138,Q1 2022/2023,S08000015,NHS Ayrshire & Arran,South Ayrshire ADP,All services,Drug,Number,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0
+140,Q1 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Alcohol,Number,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,4.0,2.0,1.0
+142,Q2 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Alcohol,Number,7.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0,1.0,3.0
+144,Q3 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Alcohol,Number,3.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,10.0
+146,Q4 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Alcohol,Number,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0
+148,Q1 2022/2023,S08000016,NHS Borders,Scottish Borders ADP,All services,Alcohol,Number,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0
+150,Q1 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,All,Number,7.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10.0,2.0,1.0
+152,Q2 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,All,Number,11.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,15.0,1.0,3.5
+154,Q3 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,All,Number,4.0,6.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,1.0,10.0
+156,Q4 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,All,Number,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,1.0
+158,Q1 2022/2023,S08000016,NHS Borders,Scottish Borders ADP,All services,All,Number,6.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,3.0
+160,Q1 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+162,Q2 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+164,Q3 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+166,Q4 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+168,Q1 2022/2023,S08000016,NHS Borders,Scottish Borders ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+170,Q1 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Drug,Number,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,4.5
+172,Q2 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Drug,Number,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,4.0
+174,Q3 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Drug,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,24.0
+176,Q4 2021/2022,S08000016,NHS Borders,Scottish Borders ADP,All services,Drug,Number,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,1.0
+178,Q1 2022/2023,S08000016,NHS Borders,Scottish Borders ADP,All services,Drug,Number,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,2.5
+180,Q1 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Alcohol,Number,20.0,9.0,6.0,6.0,4.0,0.0,0.0,1.0,0.0,35.0,11.0,8.5
+183,Q2 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Alcohol,Number,29.0,9.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,40.0,1.0,4.0
+186,Q3 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Alcohol,Number,11.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,17.0,1.0,7.0
+189,Q4 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Alcohol,Number,26.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,3.0
+192,Q1 2022/2023,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Alcohol,Number,22.0,7.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,29.0,1.0,3.0
+195,Q1 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,All,Number,45.0,18.0,10.0,9.0,8.0,0.0,0.0,1.0,0.0,73.0,18.0,8.0
+198,Q2 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,All,Number,47.0,13.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,64.0,2.0,4.0
+201,Q3 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,All,Number,17.0,11.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,28.0,4.0,7.0
+204,Q4 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,All,Number,30.0,17.0,4.0,1.0,1.0,0.0,1.0,0.0,0.0,51.0,3.0,4.5
+207,Q1 2022/2023,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,All,Number,30.0,11.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0,45.0,2.0,3.0
+210,Q1 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Co-dependency,Number,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,11.5
+213,Q2 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Co-dependency,Number,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,10.0
+216,Q3 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Co-dependency,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.5
+219,Q4 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Co-dependency,Number,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,2.0
+222,Q1 2022/2023,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Co-dependency,Number,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,6.0
+225,Q1 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Drug,Number,24.0,9.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,36.0,7.0,6.0
+228,Q2 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Drug,Number,18.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,21.0,1.0,3.5
+231,Q3 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Drug,Number,5.0,4.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,9.0,3.0,9.0
+234,Q4 2021/2022,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Drug,Number,2.0,10.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,13.0,3.0,9.0
+237,Q1 2022/2023,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,All services,Drug,Number,5.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,1.0,10.0
+240,Q1 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Alcohol,Number,26.0,23.0,9.0,3.0,4.0,2.0,3.0,0.0,0.0,58.0,12.0,9.0
+242,Q2 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Alcohol,Number,27.0,17.0,15.0,3.0,0.0,0.0,7.0,2.0,0.0,59.0,12.0,10.0
+244,Q3 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Alcohol,Number,12.0,17.0,9.0,5.0,11.0,1.0,0.0,9.0,0.0,38.0,26.0,17.0
+246,Q4 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Alcohol,Number,37.0,23.0,18.0,6.0,2.0,0.0,0.0,7.0,0.0,78.0,15.0,10.0
+248,Q1 2022/2023,S08000029,NHS Fife,Fife ADP,All services,Alcohol,Number,50.0,32.0,7.0,3.0,7.0,0.0,0.0,0.0,4.0,89.0,14.0,8.0
+250,Q1 2021/2022,S08000029,NHS Fife,Fife ADP,All services,All,Number,66.0,32.0,20.0,7.0,5.0,2.0,5.0,0.0,0.0,118.0,19.0,8.0
+252,Q2 2021/2022,S08000029,NHS Fife,Fife ADP,All services,All,Number,63.0,41.0,23.0,4.0,1.0,0.0,8.0,4.0,0.0,127.0,17.0,8.0
+254,Q3 2021/2022,S08000029,NHS Fife,Fife ADP,All services,All,Number,37.0,37.0,20.0,13.0,19.0,3.0,0.0,11.0,0.0,94.0,46.0,12.0
+256,Q4 2021/2022,S08000029,NHS Fife,Fife ADP,All services,All,Number,87.0,49.0,31.0,6.0,7.0,0.0,0.0,7.0,2.0,167.0,22.0,8.0
+258,Q1 2022/2023,S08000029,NHS Fife,Fife ADP,All services,All,Number,71.0,46.0,15.0,5.0,10.0,0.0,1.0,0.0,4.0,132.0,20.0,8.0
+260,Q1 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Co-dependency,Number,5.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,9.0,1.0,8.0
+262,Q2 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Co-dependency,Number,10.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,7.0
+264,Q3 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Co-dependency,Number,6.0,7.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,15.0,1.0,10.0
+266,Q4 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Co-dependency,Number,13.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,3.0
+268,Q1 2022/2023,S08000029,NHS Fife,Fife ADP,All services,Co-dependency,Number,5.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,3.0
+270,Q1 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Drug,Number,35.0,8.0,8.0,4.0,0.0,0.0,2.0,0.0,0.0,51.0,6.0,6.0
+272,Q2 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Drug,Number,26.0,23.0,4.0,1.0,1.0,0.0,1.0,2.0,0.0,53.0,5.0,8.0
+274,Q3 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Drug,Number,19.0,13.0,9.0,7.0,8.0,2.0,0.0,2.0,0.0,41.0,19.0,12.0
+276,Q4 2021/2022,S08000029,NHS Fife,Fife ADP,All services,Drug,Number,37.0,25.0,11.0,0.0,5.0,0.0,0.0,0.0,2.0,73.0,7.0,8.0
+278,Q1 2022/2023,S08000029,NHS Fife,Fife ADP,All services,Drug,Number,16.0,12.0,7.0,1.0,3.0,0.0,1.0,0.0,0.0,35.0,5.0,8.5
+280,Q1 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Alcohol,Number,5.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,7.5
+283,Q2 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Alcohol,Number,6.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,4.0
+286,Q3 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Alcohol,Number,5.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,7.0,3.0,7.0
+289,Q4 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Alcohol,Number,12.0,6.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,18.0,3.0,2.0
+292,Q1 2022/2023,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Alcohol,Number,6.0,4.0,2.0,1.0,2.0,1.0,3.0,0.0,0.0,12.0,7.0,9.0
+295,Q1 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,All,Number,22.0,10.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,34.0,2.0,6.5
+298,Q2 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,All,Number,21.0,7.0,5.0,0.0,2.0,1.0,0.0,0.0,0.0,33.0,3.0,7.0
+301,Q3 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,All,Number,13.0,10.0,2.0,2.0,2.0,2.0,0.0,0.0,0.0,25.0,6.0,8.0
+304,Q4 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,All,Number,19.0,9.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,28.0,6.0,2.0
+307,Q1 2022/2023,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,All,Number,17.0,7.0,3.0,1.0,2.0,2.0,3.0,0.0,0.0,27.0,8.0,8.0
+310,Q1 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Co-dependency,Number,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,8.0
+313,Q2 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Co-dependency,Number,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,7.0
+316,Q3 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Co-dependency,Number,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,10.0
+319,Q4 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Co-dependency,Number,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,1.0,1.0
+322,Q1 2022/2023,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Co-dependency,Number,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0
+325,Q1 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Drug,Number,14.0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,18.0,2.0,3.0
+328,Q2 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Drug,Number,13.0,3.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,19.0,3.0,5.5
+331,Q3 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Drug,Number,7.0,7.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,15.0,2.0,8.0
+334,Q4 2021/2022,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Drug,Number,3.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,6.0,2.0,8.0
+337,Q1 2022/2023,S08000019,NHS Forth Valley,Clackmannanshire ADP,All services,Drug,Number,9.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,12.0,1.0,3.0
+340,Q1 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Alcohol,Number,26.0,20.0,9.0,1.0,8.0,5.0,2.0,0.0,0.0,55.0,16.0,10.0
+343,Q2 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Alcohol,Number,33.0,12.0,3.0,3.0,5.0,4.0,7.0,0.0,0.0,48.0,19.0,8.0
+346,Q3 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Alcohol,Number,16.0,9.0,6.0,3.0,3.0,3.0,3.0,0.0,0.0,31.0,12.0,10.0
+349,Q4 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Alcohol,Number,23.0,18.0,7.0,1.0,6.0,0.0,0.0,0.0,0.0,48.0,7.0,10.0
+352,Q1 2022/2023,S08000019,NHS Forth Valley,Falkirk ADP,All services,Alcohol,Number,18.0,27.0,9.0,2.0,6.0,5.0,6.0,0.0,0.0,54.0,19.0,14.0
+355,Q1 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,All,Number,52.0,35.0,11.0,1.0,10.0,8.0,2.0,0.0,0.0,98.0,21.0,8.0
+358,Q2 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,All,Number,56.0,27.0,4.0,4.0,6.0,5.0,7.0,0.0,0.0,87.0,22.0,7.0
+361,Q3 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,All,Number,31.0,23.0,10.0,3.0,4.0,4.0,6.0,0.0,0.0,64.0,17.0,8.0
+364,Q4 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,All,Number,40.0,28.0,11.0,1.0,10.0,0.0,0.0,0.0,0.0,79.0,11.0,9.0
+367,Q1 2022/2023,S08000019,NHS Forth Valley,Falkirk ADP,All services,All,Number,44.0,41.0,15.0,2.0,9.0,8.0,7.0,0.0,0.0,100.0,26.0,11.0
+370,Q1 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Co-dependency,Number,12.0,5.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,18.0,2.0,2.0
+373,Q2 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Co-dependency,Number,10.0,7.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,17.0,1.0,7.0
+376,Q3 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Co-dependency,Number,6.0,5.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,11.0,4.0,8.0
+379,Q4 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Co-dependency,Number,5.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,9.0,1.0,5.0
+382,Q1 2022/2023,S08000019,NHS Forth Valley,Falkirk ADP,All services,Co-dependency,Number,7.0,5.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,15.0,1.0,12.0
+385,Q1 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Drug,Number,14.0,10.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,25.0,3.0,8.0
+388,Q2 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Drug,Number,13.0,8.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,22.0,2.0,4.5
+391,Q3 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Drug,Number,9.0,9.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,1.0,8.0
+394,Q4 2021/2022,S08000019,NHS Forth Valley,Falkirk ADP,All services,Drug,Number,12.0,6.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0,22.0,3.0,9.0
+397,Q1 2022/2023,S08000019,NHS Forth Valley,Falkirk ADP,All services,Drug,Number,19.0,9.0,3.0,0.0,3.0,2.0,1.0,0.0,0.0,31.0,6.0,7.0
+400,Q1 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Alcohol,Number,10.0,5.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,18.0,4.0,8.0
+403,Q2 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Alcohol,Number,8.0,7.0,4.0,1.0,6.0,2.0,0.0,0.0,0.0,19.0,9.0,12.5
+406,Q3 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Alcohol,Number,7.0,5.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,12.0,6.0,9.5
+409,Q4 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Alcohol,Number,8.0,3.0,0.0,1.0,5.0,3.0,0.0,0.0,0.0,11.0,9.0,12.5
+412,Q1 2022/2023,S08000019,NHS Forth Valley,Stirling ADP,All services,Alcohol,Number,16.0,2.0,3.0,1.0,6.0,1.0,3.0,0.0,0.0,21.0,11.0,8.5
+415,Q1 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,All,Number,31.0,14.0,3.0,4.0,3.0,1.0,0.0,0.0,0.0,48.0,8.0,7.0
+418,Q2 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,All,Number,17.0,13.0,8.0,2.0,9.0,4.0,1.0,0.0,0.0,38.0,16.0,11.0
+421,Q3 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,All,Number,12.0,11.0,3.0,1.0,6.0,1.0,2.0,1.0,0.0,26.0,11.0,10.0
+424,Q4 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,All,Number,19.0,13.0,3.0,1.0,5.0,7.0,0.0,1.0,0.0,35.0,14.0,11.0
+427,Q1 2022/2023,S08000019,NHS Forth Valley,Stirling ADP,All services,All,Number,28.0,8.0,3.0,2.0,8.0,1.0,3.0,0.0,0.0,39.0,14.0,7.0
+430,Q1 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Co-dependency,Number,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,3.0
+433,Q2 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Co-dependency,Number,4.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,4.0,2.0,2.5
+436,Q3 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,54.0
+439,Q4 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Co-dependency,Number,2.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,1.0,10.0
+442,Q1 2022/2023,S08000019,NHS Forth Valley,Stirling ADP,All services,Co-dependency,Number,4.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,4.0
+445,Q1 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Drug,Number,14.0,7.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,21.0,4.0,7.0
+448,Q2 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Drug,Number,5.0,6.0,4.0,0.0,3.0,1.0,1.0,0.0,0.0,15.0,5.0,12.5
+451,Q3 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Drug,Number,5.0,6.0,3.0,0.0,2.0,0.0,1.0,1.0,0.0,14.0,4.0,10.0
+454,Q4 2021/2022,S08000019,NHS Forth Valley,Stirling ADP,All services,Drug,Number,9.0,7.0,3.0,0.0,0.0,3.0,0.0,1.0,0.0,19.0,4.0,11.0
+457,Q1 2022/2023,S08000019,NHS Forth Valley,Stirling ADP,All services,Drug,Number,8.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,12.0,2.0,5.5
+460,Q1 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Alcohol,Number,16.0,12.0,4.0,2.0,0.0,1.0,0.0,0.0,0.0,32.0,3.0,8.0
+462,Q2 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Alcohol,Number,18.0,10.0,5.0,2.0,1.0,0.0,0.0,0.0,0.0,33.0,3.0,5.5
+464,Q3 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Alcohol,Number,11.0,16.0,9.0,1.0,2.0,1.0,0.0,0.0,0.0,36.0,4.0,11.0
+466,Q4 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Alcohol,Number,26.0,12.0,5.0,2.0,4.0,0.0,0.0,0.0,0.0,43.0,6.0,7.0
+468,Q1 2022/2023,S08000020,NHS Grampian,Aberdeen City ADP,All services,Alcohol,Number,9.0,14.0,5.0,2.0,1.0,0.0,0.0,0.0,0.0,28.0,3.0,9.0
+470,Q1 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,All,Number,30.0,18.0,7.0,3.0,5.0,1.0,1.0,0.0,0.0,55.0,10.0,8.0
+472,Q2 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,All,Number,31.0,13.0,10.0,2.0,1.0,1.0,1.0,0.0,0.0,54.0,5.0,5.0
+474,Q3 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,All,Number,27.0,24.0,10.0,1.0,3.0,1.0,0.0,0.0,0.0,61.0,5.0,9.0
+476,Q4 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,All,Number,48.0,15.0,8.0,4.0,8.0,1.0,0.0,0.0,0.0,71.0,13.0,7.0
+478,Q1 2022/2023,S08000020,NHS Grampian,Aberdeen City ADP,All services,All,Number,27.0,21.0,7.0,5.0,1.0,0.0,0.0,0.0,0.0,55.0,6.0,8.0
+480,Q1 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+482,Q2 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+484,Q3 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+486,Q4 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,35.0
+488,Q1 2022/2023,S08000020,NHS Grampian,Aberdeen City ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+490,Q1 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Drug,Number,14.0,6.0,3.0,1.0,5.0,0.0,1.0,0.0,0.0,23.0,7.0,8.5
+492,Q2 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Drug,Number,13.0,3.0,5.0,0.0,0.0,1.0,1.0,0.0,0.0,21.0,2.0,5.0
+494,Q3 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Drug,Number,16.0,8.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,25.0,1.0,3.0
+496,Q4 2021/2022,S08000020,NHS Grampian,Aberdeen City ADP,All services,Drug,Number,22.0,3.0,3.0,2.0,3.0,1.0,0.0,0.0,0.0,28.0,6.0,4.0
+498,Q1 2022/2023,S08000020,NHS Grampian,Aberdeen City ADP,All services,Drug,Number,18.0,7.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,27.0,3.0,7.0
+500,Q1 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Alcohol,Number,21.0,8.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,31.0,2.0,6.0
+503,Q2 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Alcohol,Number,35.0,3.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,42.0,3.0,3.0
+506,Q3 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Alcohol,Number,19.0,7.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,30.0,2.0,3.0
+509,Q4 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Alcohol,Number,24.0,17.0,4.0,2.0,7.0,1.0,1.0,0.0,0.0,45.0,11.0,8.0
+512,Q1 2022/2023,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Alcohol,Number,19.0,6.0,4.0,2.0,6.0,3.0,1.0,0.0,0.0,29.0,12.0,8.0
+515,Q1 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,All,Number,44.0,18.0,5.0,4.0,4.0,2.0,0.0,2.0,0.0,67.0,12.0,7.0
+518,Q2 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,All,Number,56.0,17.0,10.0,6.0,2.0,0.0,3.0,2.0,0.0,83.0,13.0,4.0
+521,Q3 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,All,Number,42.0,15.0,15.0,9.0,3.0,0.0,1.0,2.0,0.0,72.0,15.0,8.0
+524,Q4 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,All,Number,49.0,32.0,12.0,11.0,17.0,2.0,3.0,0.0,0.0,93.0,33.0,9.0
+527,Q1 2022/2023,S08000020,NHS Grampian,Aberdeenshire ADP,All services,All,Number,51.0,17.0,7.0,4.0,14.0,11.0,4.0,0.0,0.0,75.0,33.0,8.0
+530,Q1 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Co-dependency,Number,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,2.0
+533,Q2 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Co-dependency,Number,4.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,8.0,2.0,8.5
+536,Q3 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Co-dependency,Number,4.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,9.0
+539,Q4 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Co-dependency,Number,1.0,2.0,1.0,2.0,4.0,0.0,0.0,0.0,0.0,4.0,6.0,22.0
+542,Q1 2022/2023,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Co-dependency,Number,3.0,0.0,1.0,2.0,4.0,1.0,2.0,0.0,0.0,4.0,9.0,37.0
+545,Q1 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Drug,Number,17.0,7.0,3.0,3.0,3.0,2.0,0.0,2.0,0.0,27.0,10.0,8.0
+548,Q2 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Drug,Number,17.0,11.0,5.0,3.0,1.0,0.0,2.0,2.0,0.0,33.0,8.0,8.0
+551,Q3 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Drug,Number,19.0,7.0,9.0,6.0,2.0,0.0,1.0,2.0,0.0,35.0,11.0,9.5
+554,Q4 2021/2022,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Drug,Number,24.0,13.0,7.0,7.0,6.0,1.0,2.0,0.0,0.0,44.0,16.0,8.5
+557,Q1 2022/2023,S08000020,NHS Grampian,Aberdeenshire ADP,All services,Drug,Number,29.0,11.0,2.0,0.0,4.0,7.0,1.0,0.0,0.0,42.0,12.0,7.0
+560,Q1 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Alcohol,Number,17.0,6.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,24.0,2.0,1.5
+562,Q2 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Alcohol,Number,16.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,20.0,1.0,3.0
+564,Q3 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Alcohol,Number,7.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,3.0
+566,Q4 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Alcohol,Number,15.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,2.0
+568,Q1 2022/2023,S08000020,NHS Grampian,Moray ADP,All services,Alcohol,Number,13.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.0,3.0
+570,Q1 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,All,Number,25.0,7.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,33.0,3.0,2.0
+572,Q2 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,All,Number,27.0,6.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,33.0,3.0,3.0
+574,Q3 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,All,Number,16.0,5.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,23.0,3.0,3.0
+576,Q4 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,All,Number,27.0,13.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,41.0,1.0,2.0
+578,Q1 2022/2023,S08000020,NHS Grampian,Moray ADP,All services,All,Number,20.0,6.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,27.0,1.0,3.0
+580,Q1 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Co-dependency,Number,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.5
+582,Q2 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Co-dependency,Number,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,3.0
+584,Q3 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Co-dependency,Number,3.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,1.0,3.0
+586,Q4 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Co-dependency,Number,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,1.0
+588,Q1 2022/2023,S08000020,NHS Grampian,Moray ADP,All services,Co-dependency,Number,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.5
+590,Q1 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Drug,Number,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5.0,1.0,2.0
+592,Q2 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Drug,Number,7.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,9.0,2.0,3.0
+594,Q3 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Drug,Number,6.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,7.0,2.0,2.0
+596,Q4 2021/2022,S08000020,NHS Grampian,Moray ADP,All services,Drug,Number,7.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,10.0,1.0,3.0
+598,Q1 2022/2023,S08000020,NHS Grampian,Moray ADP,All services,Drug,Number,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,1.0,2.0
+600,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Alcohol,Number,51.0,30.0,15.0,10.0,5.0,3.0,8.0,0.0,0.0,96.0,26.0,8.0
+603,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Alcohol,Number,44.0,17.0,12.0,5.0,7.0,1.0,3.0,8.0,0.0,73.0,24.0,8.0
+606,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Alcohol,Number,17.0,20.0,12.0,8.0,5.0,6.0,4.0,7.0,0.0,49.0,30.0,16.0
+609,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Alcohol,Number,59.0,28.0,11.0,5.0,4.0,0.0,5.0,1.0,1.0,98.0,16.0,7.0
+612,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Alcohol,Number,48.0,18.0,8.0,5.0,6.0,1.0,2.0,0.0,0.0,74.0,14.0,7.0
+615,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,All,Number,96.0,47.0,33.0,22.0,21.0,7.0,9.0,0.0,0.0,176.0,59.0,9.0
+618,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,All,Number,101.0,35.0,26.0,20.0,21.0,4.0,7.0,8.0,0.0,162.0,60.0,9.0
+621,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,All,Number,42.0,46.0,22.0,16.0,17.0,11.0,12.0,7.0,0.0,110.0,63.0,13.0
+624,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,All,Number,108.0,42.0,15.0,11.0,12.0,0.0,7.0,2.0,1.0,165.0,33.0,7.0
+627,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,All,Number,76.0,26.0,12.0,7.0,11.0,2.0,4.0,1.0,0.0,114.0,25.0,7.0
+630,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Co-dependency,Number,10.0,7.0,7.0,3.0,10.0,1.0,1.0,0.0,0.0,24.0,15.0,17.0
+633,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Co-dependency,Number,19.0,7.0,7.0,5.0,7.0,1.0,1.0,0.0,0.0,33.0,14.0,11.0
+636,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Co-dependency,Number,10.0,9.0,5.0,4.0,4.0,1.0,4.0,0.0,0.0,24.0,13.0,13.0
+639,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Co-dependency,Number,13.0,7.0,2.0,4.0,3.0,0.0,1.0,0.0,0.0,22.0,8.0,8.5
+642,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Co-dependency,Number,11.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,14.0,1.0,2.0
+645,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Drug,Number,35.0,10.0,11.0,9.0,6.0,3.0,0.0,0.0,0.0,56.0,18.0,9.0
+648,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Drug,Number,38.0,11.0,7.0,10.0,7.0,2.0,3.0,0.0,0.0,56.0,22.0,8.0
+651,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Drug,Number,15.0,17.0,5.0,4.0,8.0,4.0,4.0,0.0,0.0,37.0,20.0,12.0
+654,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Drug,Number,36.0,7.0,2.0,2.0,5.0,0.0,1.0,1.0,0.0,45.0,9.0,2.0
+657,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,All services,Drug,Number,17.0,5.0,4.0,2.0,4.0,1.0,2.0,1.0,0.0,26.0,10.0,9.0
+660,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Alcohol,Number,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10.0,1.0,3.0
+663,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Alcohol,Number,10.0,5.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,16.0,3.0,7.0
+666,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Alcohol,Number,7.0,2.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,12.0,3.0,11.0
+669,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Alcohol,Number,9.0,6.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,17.0,3.0,9.0
+672,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Alcohol,Number,10.0,6.0,5.0,0.0,2.0,1.0,0.0,0.0,0.0,21.0,3.0,10.0
+675,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,All,Number,18.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,20.0,4.0,3.0
+678,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,All,Number,15.0,8.0,3.0,1.0,3.0,0.0,0.0,0.0,0.0,26.0,4.0,7.5
+681,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,All,Number,8.0,8.0,3.0,0.0,5.0,0.0,0.0,0.0,0.0,19.0,5.0,11.0
+684,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,All,Number,13.0,8.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,24.0,4.0,8.0
+687,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,All,Number,16.0,8.0,6.0,1.0,2.0,1.0,0.0,0.0,0.0,30.0,4.0,8.0
+690,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Co-dependency,Number,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,2.0
+693,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Co-dependency,Number,2.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,1.0,11.0
+696,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Co-dependency,Number,0.0,5.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,5.0,2.0,11.0
+699,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Co-dependency,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.5
+702,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Co-dependency,Number,3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,7.0
+705,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Drug,Number,5.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,7.0,3.0,8.0
+708,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Drug,Number,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,3.0
+711,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Drug,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,6.0
+714,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Drug,Number,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,11.0
+717,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,All services,Drug,Number,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,7.0
+720,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Alcohol,Number,12.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,4.5
+722,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Alcohol,Number,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,5.5
+724,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Alcohol,Number,2.0,9.0,6.0,1.0,1.0,0.0,0.0,0.0,0.0,17.0,2.0,12.0
+726,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Alcohol,Number,6.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,1.0,4.0
+728,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Alcohol,Number,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,3.5
+730,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,All,Number,19.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,21.0,1.0,2.5
+732,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,All,Number,10.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,3.0
+734,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,All,Number,5.0,11.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,26.0,2.0,12.0
+736,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,All,Number,11.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,17.0,1.0,4.0
+738,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,All,Number,10.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,2.5
+740,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Co-dependency,Number,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,4.5
+742,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Co-dependency,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+744,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Co-dependency,Number,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,12.5
+746,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Co-dependency,Number,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,7.0
+748,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Co-dependency,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.5
+750,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Drug,Number,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0
+752,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Drug,Number,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,3.0
+754,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Drug,Number,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,9.0
+756,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Drug,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0
+758,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,East Renfrewshire ADP,All services,Drug,Number,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.5
+760,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Alcohol,Number,12.0,4.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,16.0,4.0,6.0
+763,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Alcohol,Number,8.0,13.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,0.0,8.0
+766,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Alcohol,Number,4.0,9.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,18.0,1.0,11.0
+769,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Alcohol,Number,12.0,5.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,18.0,2.0,3.0
+772,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Alcohol,Number,18.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,3.0
+775,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,All,Number,18.0,7.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,28.0,4.0,6.0
+778,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,All,Number,20.0,21.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,43.0,1.0,8.0
+781,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,All,Number,12.0,19.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,43.0,1.0,10.0
+784,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,All,Number,28.0,10.0,1.0,0.0,3.0,2.0,0.0,0.0,0.0,39.0,5.0,3.0
+787,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,All,Number,24.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,0.0,3.0
+790,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Co-dependency,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,17.0
+793,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Co-dependency,Number,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,3.0
+796,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Co-dependency,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,16.0
+799,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Co-dependency,Number,2.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,1.0,8.5
+802,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+805,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Drug,Number,6.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,3.0
+808,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Drug,Number,8.0,7.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,1.0,7.5
+811,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Drug,Number,8.0,10.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,9.0
+814,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Drug,Number,14.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,16.0,2.0,2.0
+817,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,All services,Drug,Number,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,3.0
+820,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Alcohol,Number,16.0,17.0,6.0,2.0,8.0,10.0,10.0,7.0,11.0,39.0,48.0,38.0
+822,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Alcohol,Number,19.0,13.0,6.0,9.0,21.0,4.0,16.0,8.0,18.0,38.0,76.0,39.0
+824,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Alcohol,Number,10.0,16.0,4.0,1.0,1.0,2.0,11.0,19.0,18.0,30.0,52.0,143.5
+826,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Alcohol,Number,12.0,8.0,5.0,3.0,5.0,7.0,2.0,14.0,26.0,25.0,57.0,152.5
+828,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Alcohol,Number,11.0,8.0,4.0,1.0,3.0,0.0,8.0,0.0,30.0,23.0,42.0,165.0
+830,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,All,Number,20.0,22.0,7.0,5.0,11.0,14.0,16.0,9.0,15.0,49.0,70.0,42.0
+832,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,All,Number,29.0,19.0,6.0,10.0,31.0,4.0,23.0,13.0,24.0,54.0,105.0,42.0
+834,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,All,Number,11.0,21.0,7.0,5.0,2.0,4.0,13.0,28.0,24.0,39.0,76.0,142.0
+836,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,All,Number,16.0,14.0,8.0,4.0,8.0,7.0,2.0,19.0,36.0,38.0,76.0,115.0
+838,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,All,Number,15.0,8.0,8.0,2.0,7.0,2.0,11.0,1.0,44.0,31.0,67.0,142.5
+840,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Co-dependency,Number,2.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,8.0
+842,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Co-dependency,Number,1.0,2.0,0.0,1.0,3.0,0.0,2.0,0.0,0.0,3.0,6.0,31.0
+844,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Co-dependency,Number,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,81.0
+846,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Co-dependency,Number,2.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,4.0,2.0,14.0
+848,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Co-dependency,Number,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,3.0,3.0,24.0
+850,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Drug,Number,2.0,4.0,1.0,3.0,3.0,3.0,5.0,2.0,4.0,7.0,20.0,65.0
+852,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Drug,Number,9.0,4.0,0.0,0.0,7.0,0.0,5.0,5.0,6.0,13.0,23.0,50.0
+854,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Drug,Number,1.0,5.0,2.0,4.0,1.0,1.0,2.0,8.0,6.0,8.0,22.0,131.5
+856,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Drug,Number,2.0,5.0,2.0,1.0,2.0,0.0,0.0,4.0,10.0,9.0,17.0,275.0
+858,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,Renfrewshire ADP,All services,Drug,Number,2.0,0.0,3.0,1.0,3.0,2.0,2.0,1.0,13.0,5.0,22.0,302.0
+860,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Alcohol,Number,16.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,1.0,3.0
+862,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Alcohol,Number,13.0,11.0,4.0,1.0,2.0,1.0,0.0,1.0,0.0,28.0,5.0,8.0
+864,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Alcohol,Number,7.0,8.0,8.0,3.0,0.0,0.0,1.0,1.0,0.0,23.0,5.0,12.0
+866,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Alcohol,Number,19.0,9.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,30.0,3.0,4.0
+868,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Alcohol,Number,21.0,11.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,34.0,1.0,4.0
+870,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,All,Number,31.0,11.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,47.0,7.0,6.0
+872,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,All,Number,28.0,20.0,5.0,2.0,2.0,1.0,2.0,2.0,2.0,53.0,11.0,8.0
+874,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,All,Number,17.0,15.0,13.0,3.0,0.0,0.0,2.0,4.0,2.0,45.0,11.0,12.0
+876,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,All,Number,47.0,20.0,2.0,1.0,1.0,0.0,0.0,2.0,4.0,69.0,8.0,3.0
+878,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,All,Number,36.0,20.0,5.0,1.0,0.0,0.0,2.0,0.0,5.0,61.0,8.0,4.0
+880,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Co-dependency,Number,5.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,1.0,11.0
+882,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Co-dependency,Number,6.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,3.0
+884,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Co-dependency,Number,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,12.0
+886,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Co-dependency,Number,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,7.0
+888,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Co-dependency,Number,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,3.0
+890,Q1 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Drug,Number,10.0,4.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,16.0,5.0,8.0
+892,Q2 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Drug,Number,9.0,5.0,0.0,1.0,0.0,0.0,2.0,1.0,2.0,14.0,6.0,8.0
+894,Q3 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Drug,Number,10.0,5.0,4.0,0.0,0.0,0.0,1.0,3.0,2.0,19.0,6.0,10.0
+896,Q4 2021/2022,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Drug,Number,22.0,8.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,30.0,5.0,2.0
+898,Q1 2022/2023,S08000031,NHS Greater Glasgow & Clyde,West Dunbartonshire ADP,All services,Drug,Number,9.0,7.0,3.0,1.0,0.0,0.0,2.0,0.0,4.0,19.0,7.0,12.0
+900,Q1 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Alcohol,Number,7.0,2.0,5.0,5.0,8.0,9.0,12.0,3.0,1.0,14.0,38.0,49.5
+902,Q2 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Alcohol,Number,9.0,3.0,5.0,4.0,4.0,4.0,8.0,6.0,1.0,17.0,27.0,36.5
+904,Q3 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Alcohol,Number,1.0,9.0,8.0,4.0,2.0,3.0,11.0,9.0,1.0,18.0,30.0,52.5
+906,Q4 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Alcohol,Number,13.0,7.0,3.0,2.0,9.0,3.0,9.0,10.0,0.0,23.0,33.0,34.5
+908,Q1 2022/2023,S08000022,NHS Highland,Argyll & Bute ADP,All services,Alcohol,Number,10.0,6.0,4.0,5.0,6.0,2.0,9.0,8.0,1.0,20.0,31.0,30.0
+910,Q1 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,All,Number,14.0,5.0,7.0,6.0,13.0,13.0,16.0,5.0,2.0,26.0,55.0,42.0
+912,Q2 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,All,Number,13.0,5.0,7.0,8.0,6.0,4.0,13.0,9.0,2.0,25.0,42.0,31.0
+914,Q3 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,All,Number,4.0,11.0,11.0,6.0,5.0,5.0,13.0,12.0,1.0,26.0,42.0,37.0
+916,Q4 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,All,Number,18.0,9.0,8.0,4.0,10.0,3.0,13.0,13.0,0.0,35.0,43.0,29.0
+918,Q1 2022/2023,S08000022,NHS Highland,Argyll & Bute ADP,All services,All,Number,17.0,10.0,9.0,8.0,9.0,2.0,11.0,9.0,2.0,36.0,41.0,23.0
+920,Q1 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Co-dependency,Number,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,3.5
+922,Q2 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Co-dependency,Number,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,23.0
+924,Q3 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Co-dependency,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,7.0
+926,Q4 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Co-dependency,Number,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,17.0
+928,Q1 2022/2023,S08000022,NHS Highland,Argyll & Bute ADP,All services,Co-dependency,Number,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,6.0,2.0,16.0
+930,Q1 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Drug,Number,4.0,2.0,2.0,1.0,5.0,4.0,4.0,2.0,1.0,8.0,17.0,38.0
+932,Q2 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Drug,Number,4.0,2.0,1.0,3.0,1.0,0.0,5.0,3.0,1.0,7.0,13.0,30.0
+934,Q3 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Drug,Number,2.0,1.0,3.0,2.0,3.0,2.0,2.0,3.0,0.0,6.0,12.0,37.0
+936,Q4 2021/2022,S08000022,NHS Highland,Argyll & Bute ADP,All services,Drug,Number,5.0,1.0,3.0,1.0,0.0,0.0,4.0,3.0,0.0,9.0,8.0,18.0
+938,Q1 2022/2023,S08000022,NHS Highland,Argyll & Bute ADP,All services,Drug,Number,6.0,2.0,2.0,2.0,3.0,0.0,1.0,1.0,1.0,10.0,8.0,15.5
+940,Q1 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Alcohol,Number,24.0,7.0,6.0,4.0,18.0,14.0,38.0,11.0,0.0,37.0,85.0,60.0
+943,Q2 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Alcohol,Number,18.0,15.0,10.0,2.0,27.0,16.0,37.0,34.0,2.0,43.0,118.0,72.0
+946,Q3 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Alcohol,Number,8.0,9.0,9.0,6.0,13.0,10.0,42.0,29.0,4.0,26.0,104.0,96.0
+949,Q4 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Alcohol,Number,19.0,10.0,14.0,5.0,17.0,14.0,20.0,17.0,3.0,43.0,76.0,44.0
+952,Q1 2022/2023,S08000022,NHS Highland,Highland ADP,All services,Alcohol,Number,11.0,10.0,1.0,5.0,12.0,3.0,6.0,2.0,2.0,22.0,30.0,25.0
+955,Q1 2021/2022,S08000022,NHS Highland,Highland ADP,All services,All,Number,36.0,19.0,11.0,9.0,30.0,17.0,66.0,17.0,0.0,66.0,139.0,53.0
+958,Q2 2021/2022,S08000022,NHS Highland,Highland ADP,All services,All,Number,28.0,25.0,16.0,8.0,36.0,22.0,60.0,64.0,2.0,69.0,192.0,79.0
+961,Q3 2021/2022,S08000022,NHS Highland,Highland ADP,All services,All,Number,10.0,16.0,16.0,7.0,21.0,12.0,57.0,48.0,9.0,42.0,154.0,99.5
+964,Q4 2021/2022,S08000022,NHS Highland,Highland ADP,All services,All,Number,35.0,19.0,21.0,10.0,31.0,22.0,32.0,28.0,7.0,75.0,130.0,44.0
+967,Q1 2022/2023,S08000022,NHS Highland,Highland ADP,All services,All,Number,19.0,13.0,6.0,8.0,18.0,4.0,10.0,2.0,2.0,38.0,44.0,23.5
+970,Q1 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Co-dependency,Number,2.0,2.0,0.0,0.0,4.0,0.0,1.0,0.0,0.0,4.0,5.0,30.0
+973,Q2 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Co-dependency,Number,4.0,2.0,1.0,2.0,4.0,2.0,4.0,1.0,0.0,7.0,13.0,51.0
+976,Q3 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Co-dependency,Number,2.0,1.0,3.0,1.0,1.0,0.0,7.0,0.0,0.0,6.0,9.0,38.0
+979,Q4 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Co-dependency,Number,1.0,2.0,2.0,0.0,4.0,1.0,4.0,4.0,0.0,5.0,13.0,66.0
+982,Q1 2022/2023,S08000022,NHS Highland,Highland ADP,All services,Co-dependency,Number,2.0,0.0,3.0,2.0,2.0,0.0,4.0,0.0,0.0,5.0,8.0,23.0
+985,Q1 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Drug,Number,10.0,10.0,5.0,5.0,8.0,3.0,27.0,6.0,0.0,25.0,49.0,50.5
+988,Q2 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Drug,Number,6.0,8.0,5.0,4.0,5.0,4.0,19.0,29.0,0.0,19.0,61.0,108.5
+991,Q3 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Drug,Number,0.0,6.0,4.0,0.0,7.0,2.0,8.0,19.0,5.0,10.0,41.0,159.0
+994,Q4 2021/2022,S08000022,NHS Highland,Highland ADP,All services,Drug,Number,15.0,7.0,5.0,5.0,10.0,7.0,8.0,7.0,4.0,27.0,41.0,30.5
+997,Q1 2022/2023,S08000022,NHS Highland,Highland ADP,All services,Drug,Number,6.0,3.0,2.0,1.0,4.0,1.0,0.0,0.0,0.0,11.0,6.0,14.0
+1000,Q1 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Alcohol,Number,77.0,25.0,17.0,6.0,4.0,1.0,2.0,0.0,0.0,119.0,13.0,7.0
+1003,Q2 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Alcohol,Number,47.0,38.0,20.0,3.0,1.0,0.0,0.0,1.0,0.0,105.0,5.0,9.0
+1006,Q3 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Alcohol,Number,51.0,42.0,16.0,0.0,0.0,0.0,0.0,1.0,0.0,109.0,1.0,9.0
+1009,Q4 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Alcohol,Number,61.0,51.0,33.0,8.0,5.0,2.0,1.0,0.0,1.0,145.0,17.0,9.0
+1012,Q1 2022/2023,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Alcohol,Number,63.0,40.0,24.0,1.0,1.0,0.0,1.0,0.0,0.0,127.0,3.0,8.0
+1015,Q1 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,All,Number,136.0,68.0,35.0,10.0,9.0,3.0,10.0,0.0,0.0,239.0,32.0,7.0
+1018,Q2 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,All,Number,92.0,80.0,41.0,5.0,3.0,0.0,3.0,6.0,0.0,213.0,17.0,9.0
+1021,Q3 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,All,Number,109.0,92.0,37.0,2.0,0.0,0.0,0.0,2.0,0.0,238.0,4.0,9.0
+1024,Q4 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,All,Number,146.0,98.0,53.0,12.0,11.0,3.0,3.0,1.0,1.0,297.0,31.0,9.0
+1027,Q1 2022/2023,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,All,Number,150.0,99.0,41.0,4.0,3.0,0.0,2.0,0.0,0.0,290.0,9.0,7.0
+1030,Q1 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Co-dependency,Number,19.0,15.0,6.0,0.0,2.0,1.0,0.0,0.0,0.0,40.0,3.0,8.0
+1033,Q2 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Co-dependency,Number,24.0,24.0,7.0,1.0,2.0,0.0,1.0,0.0,0.0,55.0,4.0,8.0
+1036,Q3 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Co-dependency,Number,19.0,17.0,6.0,0.0,0.0,0.0,0.0,1.0,0.0,42.0,1.0,8.0
+1039,Q4 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Co-dependency,Number,48.0,19.0,6.0,3.0,1.0,0.0,0.0,1.0,0.0,73.0,5.0,4.0
+1042,Q1 2022/2023,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Co-dependency,Number,33.0,12.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,55.0,2.0,4.0
+1045,Q1 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Drug,Number,40.0,28.0,12.0,4.0,3.0,1.0,8.0,0.0,0.0,80.0,16.0,8.0
+1048,Q2 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Drug,Number,21.0,18.0,14.0,1.0,0.0,0.0,2.0,5.0,0.0,53.0,8.0,10.0
+1051,Q3 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Drug,Number,39.0,33.0,15.0,2.0,0.0,0.0,0.0,0.0,0.0,87.0,2.0,9.0
+1054,Q4 2021/2022,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Drug,Number,37.0,28.0,14.0,1.0,5.0,1.0,2.0,0.0,0.0,79.0,9.0,9.0
+1057,Q1 2022/2023,S08000032,NHS Lanarkshire,North Lanarkshire ADP,All services,Drug,Number,54.0,47.0,7.0,3.0,1.0,0.0,0.0,0.0,0.0,108.0,4.0,8.5
+1060,Q1 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Alcohol,Number,43.0,24.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,70.0,5.0,7.0
+1062,Q2 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Alcohol,Number,25.0,18.0,8.0,1.0,0.0,1.0,0.0,0.0,0.0,51.0,2.0,8.0
+1064,Q3 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Alcohol,Number,23.0,25.0,14.0,2.0,1.0,1.0,1.0,0.0,0.0,62.0,5.0,10.0
+1066,Q4 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Alcohol,Number,54.0,22.0,20.0,0.0,0.0,2.0,0.0,1.0,0.0,96.0,3.0,7.0
+1068,Q1 2022/2023,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Alcohol,Number,37.0,25.0,10.0,5.0,1.0,0.0,0.0,1.0,0.0,72.0,7.0,8.0
+1070,Q1 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,All,Number,68.0,41.0,10.0,4.0,1.0,0.0,0.0,1.0,0.0,119.0,6.0,7.0
+1072,Q2 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,All,Number,55.0,33.0,12.0,2.0,0.0,2.0,0.0,1.0,0.0,100.0,5.0,7.0
+1074,Q3 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,All,Number,38.0,38.0,15.0,3.0,3.0,1.0,2.0,0.0,0.0,91.0,9.0,10.0
+1076,Q4 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,All,Number,82.0,40.0,27.0,2.0,1.0,2.0,0.0,1.0,0.0,149.0,6.0,7.0
+1078,Q1 2022/2023,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,All,Number,61.0,40.0,17.0,5.0,1.0,0.0,0.0,1.0,0.0,118.0,7.0,8.0
+1080,Q1 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Co-dependency,Number,10.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.0,7.0
+1082,Q2 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Co-dependency,Number,8.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,7.0
+1084,Q3 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Co-dependency,Number,4.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,10.0
+1086,Q4 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Co-dependency,Number,9.0,4.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,14.0,3.0,7.0
+1088,Q1 2022/2023,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Co-dependency,Number,13.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,4.0
+1090,Q1 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Drug,Number,15.0,8.0,7.0,0.0,0.0,0.0,0.0,1.0,0.0,30.0,1.0,8.0
+1092,Q2 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Drug,Number,22.0,8.0,4.0,1.0,0.0,1.0,0.0,1.0,0.0,34.0,3.0,7.0
+1094,Q3 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Drug,Number,11.0,8.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,19.0,4.0,8.0
+1096,Q4 2021/2022,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Drug,Number,19.0,14.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0,0.0,8.0
+1098,Q1 2022/2023,S08000032,NHS Lanarkshire,South Lanarkshire ADP,All services,Drug,Number,11.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,8.0
+1100,Q1 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Alcohol,Number,53.0,40.0,14.0,21.0,37.0,14.0,11.0,2.0,1.0,107.0,86.0,15.0
+1103,Q2 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Alcohol,Number,69.0,19.0,31.0,18.0,40.0,37.0,31.0,4.0,2.0,119.0,132.0,24.0
+1106,Q3 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Alcohol,Number,38.0,31.0,20.0,22.0,29.0,25.0,48.0,9.0,1.0,89.0,134.0,29.0
+1109,Q4 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Alcohol,Number,58.0,25.0,22.0,11.0,31.0,26.0,39.0,10.0,1.0,105.0,118.0,24.0
+1112,Q1 2022/2023,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Alcohol,Number,32.0,14.0,18.0,12.0,29.0,8.0,21.0,3.0,1.0,64.0,74.0,23.0
+1115,Q1 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,All,Number,149.0,78.0,49.0,35.0,76.0,34.0,26.0,7.0,9.0,276.0,187.0,15.0
+1118,Q2 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,All,Number,130.0,52.0,52.0,36.0,74.0,69.0,58.0,13.0,13.0,234.0,263.0,23.0
+1121,Q3 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,All,Number,74.0,65.0,46.0,36.0,69.0,45.0,81.0,17.0,12.0,185.0,260.0,29.0
+1124,Q4 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,All,Number,124.0,58.0,35.0,25.0,54.0,46.0,55.0,25.0,15.0,217.0,220.0,22.0
+1127,Q1 2022/2023,S08000024,NHS Lothian,City of Edinburgh ADP,All services,All,Number,103.0,52.0,36.0,24.0,52.0,15.0,44.0,4.0,14.0,191.0,153.0,17.0
+1130,Q1 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Co-dependency,Number,20.0,8.0,6.0,2.0,2.0,4.0,1.0,0.0,0.0,34.0,9.0,9.0
+1133,Q2 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Co-dependency,Number,10.0,4.0,3.0,5.0,7.0,4.0,4.0,0.0,0.0,17.0,20.0,25.0
+1136,Q3 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Co-dependency,Number,8.0,11.0,6.0,1.0,7.0,1.0,6.0,1.0,0.0,25.0,16.0,17.0
+1139,Q4 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Co-dependency,Number,10.0,7.0,3.0,2.0,1.0,3.0,1.0,1.0,0.0,20.0,8.0,10.5
+1142,Q1 2022/2023,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Co-dependency,Number,9.0,9.0,0.0,3.0,5.0,2.0,3.0,0.0,0.0,18.0,13.0,11.0
+1145,Q1 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Drug,Number,76.0,30.0,29.0,12.0,37.0,16.0,14.0,5.0,8.0,135.0,92.0,16.0
+1148,Q2 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Drug,Number,51.0,29.0,18.0,13.0,27.0,28.0,23.0,9.0,11.0,98.0,111.0,23.0
+1151,Q3 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Drug,Number,28.0,23.0,20.0,13.0,33.0,19.0,27.0,7.0,11.0,71.0,110.0,31.0
+1154,Q4 2021/2022,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Drug,Number,56.0,26.0,10.0,12.0,22.0,17.0,15.0,14.0,14.0,92.0,94.0,22.0
+1157,Q1 2022/2023,S08000024,NHS Lothian,City of Edinburgh ADP,All services,Drug,Number,62.0,29.0,18.0,9.0,18.0,5.0,20.0,1.0,13.0,109.0,66.0,14.0
+1160,Q1 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Alcohol,Number,14.0,5.0,4.0,2.0,5.0,0.0,2.0,0.0,0.0,23.0,9.0,10.5
+1162,Q2 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Alcohol,Number,20.0,4.0,3.0,1.0,12.0,10.0,3.0,2.0,0.0,27.0,28.0,28.0
+1164,Q3 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Alcohol,Number,10.0,7.0,3.0,2.0,3.0,2.0,2.0,1.0,0.0,20.0,10.0,11.5
+1166,Q4 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Alcohol,Number,19.0,11.0,5.0,2.0,14.0,15.0,0.0,0.0,1.0,35.0,32.0,17.0
+1168,Q1 2022/2023,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Alcohol,Number,10.0,5.0,4.0,1.0,12.0,3.0,28.0,0.0,0.0,19.0,44.0,52.0
+1170,Q1 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,All,Number,24.0,12.0,10.0,4.0,6.0,1.0,2.0,0.0,0.0,46.0,13.0,9.0
+1172,Q2 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,All,Number,27.0,9.0,8.0,2.0,21.0,15.0,6.0,2.0,0.0,44.0,46.0,26.5
+1174,Q3 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,All,Number,14.0,10.0,5.0,6.0,6.0,3.0,3.0,1.0,0.0,29.0,19.0,13.5
+1176,Q4 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,All,Number,22.0,19.0,7.0,6.0,21.0,20.0,0.0,0.0,1.0,48.0,48.0,21.5
+1178,Q1 2022/2023,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,All,Number,18.0,8.0,6.0,1.0,16.0,10.0,38.0,0.0,0.0,32.0,65.0,52.0
+1180,Q1 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Co-dependency,Number,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,4.0
+1182,Q2 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Co-dependency,Number,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,10.0
+1184,Q3 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Co-dependency,Number,1.0,1.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,2.0,5.0,23.0
+1186,Q4 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Co-dependency,Number,2.0,1.0,1.0,1.0,2.0,2.0,0.0,0.0,0.0,4.0,5.0,25.0
+1188,Q1 2022/2023,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Co-dependency,Number,0.0,1.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,1.0,5.0,108.0
+1190,Q1 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Drug,Number,7.0,7.0,6.0,1.0,1.0,1.0,0.0,0.0,0.0,20.0,3.0,13.0
+1192,Q2 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Drug,Number,6.0,3.0,5.0,1.0,9.0,4.0,2.0,0.0,0.0,14.0,16.0,27.0
+1194,Q3 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Drug,Number,3.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,0.0,7.0,4.0,15.0
+1196,Q4 2021/2022,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Drug,Number,1.0,7.0,1.0,3.0,5.0,3.0,0.0,0.0,0.0,9.0,11.0,22.5
+1198,Q1 2022/2023,S08000024,NHS Lothian,Mid and East Lothian ADP,All services,Drug,Number,8.0,2.0,2.0,0.0,3.0,6.0,7.0,0.0,0.0,12.0,16.0,47.0
+1200,Q1 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Alcohol,Number,23.0,18.0,6.0,3.0,3.0,0.0,0.0,0.0,0.0,47.0,6.0,9.0
+1203,Q2 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Alcohol,Number,30.0,13.0,12.0,4.0,6.0,0.0,0.0,0.0,0.0,55.0,10.0,8.0
+1206,Q3 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Alcohol,Number,11.0,15.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0,35.0,4.0,11.0
+1209,Q4 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Alcohol,Number,19.0,14.0,6.0,4.0,4.0,0.0,1.0,0.0,0.0,39.0,9.0,9.0
+1212,Q1 2022/2023,S08000024,NHS Lothian,West Lothian ADP,All services,Alcohol,Number,20.0,9.0,9.0,0.0,3.0,4.0,0.0,0.0,0.0,38.0,7.0,9.0
+1215,Q1 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,All,Number,55.0,41.0,13.0,6.0,6.0,1.0,2.0,0.0,0.0,109.0,15.0,9.0
+1218,Q2 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,All,Number,58.0,26.0,22.0,9.0,12.0,3.0,0.0,1.0,0.0,106.0,25.0,8.0
+1221,Q3 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,All,Number,23.0,30.0,14.0,6.0,1.0,0.0,0.0,0.0,0.0,67.0,7.0,10.0
+1224,Q4 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,All,Number,61.0,28.0,17.0,10.0,7.0,1.0,2.0,0.0,0.0,106.0,20.0,8.0
+1227,Q1 2022/2023,S08000024,NHS Lothian,West Lothian ADP,All services,All,Number,44.0,20.0,15.0,2.0,3.0,6.0,1.0,0.0,0.0,79.0,12.0,8.0
+1230,Q1 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Co-dependency,Number,7.0,6.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,14.0,2.0,9.5
+1233,Q2 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Co-dependency,Number,4.0,3.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,10.0,3.0,10.0
+1236,Q3 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Co-dependency,Number,3.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,8.0
+1239,Q4 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Co-dependency,Number,9.0,5.0,2.0,2.0,2.0,1.0,0.0,0.0,0.0,16.0,5.0,10.0
+1242,Q1 2022/2023,S08000024,NHS Lothian,West Lothian ADP,All services,Co-dependency,Number,7.0,3.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,11.0,2.0,7.0
+1245,Q1 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Drug,Number,25.0,17.0,6.0,2.0,3.0,0.0,2.0,0.0,0.0,48.0,7.0,8.0
+1248,Q2 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Drug,Number,24.0,10.0,7.0,3.0,5.0,3.0,0.0,1.0,0.0,41.0,12.0,8.0
+1251,Q3 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Drug,Number,9.0,11.0,5.0,1.0,1.0,0.0,0.0,0.0,0.0,25.0,2.0,10.0
+1254,Q4 2021/2022,S08000024,NHS Lothian,West Lothian ADP,All services,Drug,Number,33.0,9.0,9.0,4.0,1.0,0.0,1.0,0.0,0.0,51.0,6.0,7.0
+1257,Q1 2022/2023,S08000024,NHS Lothian,West Lothian ADP,All services,Drug,Number,17.0,8.0,5.0,1.0,0.0,1.0,1.0,0.0,0.0,30.0,3.0,7.0
+1260,Q1 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1262,Q2 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Alcohol,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0
+1264,Q3 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Alcohol,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.5
+1266,Q4 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Alcohol,Number,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,4.0
+1268,Q1 2022/2023,S08000025,NHS Orkney,Orkney Islands ADP,All services,Alcohol,Number,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,23.0
+1270,Q1 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1272,Q2 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,All,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,8.5
+1274,Q3 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,All,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.5
+1276,Q4 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,All,Number,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,4.0
+1278,Q1 2022/2023,S08000025,NHS Orkney,Orkney Islands ADP,All services,All,Number,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,13.0
+1280,Q1 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1282,Q2 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1284,Q3 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1286,Q4 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1288,Q1 2022/2023,S08000025,NHS Orkney,Orkney Islands ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1290,Q1 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1292,Q2 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Drug,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0
+1294,Q3 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1296,Q4 2021/2022,S08000025,NHS Orkney,Orkney Islands ADP,All services,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1298,Q1 2022/2023,S08000025,NHS Orkney,Orkney Islands ADP,All services,Drug,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.5
+1300,Q1 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Alcohol,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,3.0,452.5
+1302,Q2 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Alcohol,Number,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,486.0
+1304,Q3 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,578.0
+1306,Q4 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Alcohol,Number,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,8.5
+1308,Q1 2022/2023,S08000026,NHS Shetland,Shetland Islands ADP,All services,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1310,Q1 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,All,Number,6.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,4.0,6.0,6.0,49.0
+1312,Q2 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,All,Number,2.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,4.0,4.0,100.5
+1314,Q3 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,All,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,2.0,137.5
+1316,Q4 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,All,Number,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,9.0
+1318,Q1 2022/2023,S08000026,NHS Shetland,Shetland Islands ADP,All services,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+1320,Q1 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Co-dependency,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.5
+1322,Q2 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1324,Q3 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1326,Q4 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1328,Q1 2022/2023,S08000026,NHS Shetland,Shetland Islands ADP,All services,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+1330,Q1 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Drug,Number,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,3.0,3.0,46.5
+1332,Q2 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Drug,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,14.0
+1334,Q3 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Drug,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0
+1336,Q4 2021/2022,S08000026,NHS Shetland,Shetland Islands ADP,All services,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,365.0
+1338,Q1 2022/2023,S08000026,NHS Shetland,Shetland Islands ADP,All services,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1340,Q1 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Alcohol,Number,6.0,7.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,19.0,1.0,11.5
+1342,Q2 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Alcohol,Number,8.0,1.0,7.0,0.0,3.0,0.0,0.0,0.0,0.0,16.0,3.0,15.0
+1344,Q3 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Alcohol,Number,7.0,11.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,21.0,1.0,9.5
+1346,Q4 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Alcohol,Number,12.0,7.0,7.0,1.0,2.0,0.0,0.0,0.0,0.0,26.0,3.0,9.0
+1348,Q1 2022/2023,S08000030,NHS Tayside,Angus ADP,All services,Alcohol,Number,11.0,14.0,6.0,1.0,3.0,0.0,0.0,0.0,0.0,31.0,4.0,9.0
+1350,Q1 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,All,Number,12.0,12.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,33.0,1.0,10.0
+1352,Q2 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,All,Number,14.0,7.0,8.0,1.0,6.0,0.0,0.0,0.0,0.0,29.0,7.0,11.0
+1354,Q3 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,All,Number,14.0,14.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,36.0,1.0,9.0
+1356,Q4 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,All,Number,17.0,15.0,16.0,1.0,2.0,1.0,0.0,0.0,0.0,48.0,4.0,10.0
+1358,Q1 2022/2023,S08000030,NHS Tayside,Angus ADP,All services,All,Number,23.0,22.0,9.0,2.0,3.0,0.0,0.0,0.0,0.0,54.0,5.0,8.0
+1360,Q1 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Co-dependency,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,10.0
+1362,Q2 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Co-dependency,Number,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,10.0
+1364,Q3 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Co-dependency,Number,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,4.0
+1366,Q4 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Co-dependency,Number,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,12.5
+1368,Q1 2022/2023,S08000030,NHS Tayside,Angus ADP,All services,Co-dependency,Number,5.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,4.0
+1370,Q1 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Drug,Number,6.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,9.0
+1372,Q2 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Drug,Number,5.0,5.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,11.0,3.0,8.5
+1374,Q3 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Drug,Number,4.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,10.0
+1376,Q4 2021/2022,S08000030,NHS Tayside,Angus ADP,All services,Drug,Number,5.0,6.0,7.0,0.0,0.0,1.0,0.0,0.0,0.0,18.0,1.0,14.0
+1378,Q1 2022/2023,S08000030,NHS Tayside,Angus ADP,All services,Drug,Number,7.0,7.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,16.0,1.0,8.0
+1380,Q1 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Alcohol,Number,8.0,3.0,4.0,8.0,32.0,10.0,2.0,0.0,0.0,15.0,52.0,37.0
+1382,Q2 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Alcohol,Number,8.0,9.0,6.0,7.0,29.0,25.0,33.0,2.0,0.0,23.0,96.0,57.0
+1384,Q3 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Alcohol,Number,5.0,13.0,11.0,5.0,30.0,23.0,29.0,9.0,0.0,29.0,96.0,54.0
+1386,Q4 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Alcohol,Number,17.0,14.0,11.0,5.0,27.0,24.0,16.0,2.0,0.0,42.0,74.0,39.0
+1388,Q1 2022/2023,S08000030,NHS Tayside,Dundee City ADP,All services,Alcohol,Number,17.0,25.0,17.0,5.0,21.0,9.0,1.0,0.0,0.0,59.0,36.0,17.0
+1390,Q1 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,All,Number,22.0,12.0,6.0,10.0,56.0,28.0,4.0,0.0,0.0,40.0,98.0,37.0
+1392,Q2 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,All,Number,16.0,16.0,10.0,13.0,39.0,41.0,69.0,2.0,0.0,42.0,164.0,61.5
+1394,Q3 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,All,Number,9.0,25.0,21.0,10.0,41.0,40.0,56.0,18.0,0.0,55.0,165.0,58.0
+1396,Q4 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,All,Number,36.0,23.0,20.0,8.0,38.0,33.0,27.0,5.0,0.0,79.0,111.0,37.0
+1398,Q1 2022/2023,S08000030,NHS Tayside,Dundee City ADP,All services,All,Number,35.0,40.0,27.0,10.0,34.0,13.0,3.0,1.0,0.0,102.0,61.0,16.0
+1400,Q1 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,56.0
+1402,Q2 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Co-dependency,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,16.0
+1404,Q3 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,58.0
+1406,Q4 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Co-dependency,Number,0.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,0.0,2.0,5.0,78.0
+1408,Q1 2022/2023,S08000030,NHS Tayside,Dundee City ADP,All services,Co-dependency,Number,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,4.0,24.0
+1410,Q1 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Drug,Number,14.0,9.0,2.0,2.0,23.0,18.0,2.0,0.0,0.0,25.0,45.0,36.5
+1412,Q2 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Drug,Number,8.0,7.0,3.0,6.0,10.0,16.0,36.0,0.0,0.0,18.0,68.0,72.0
+1414,Q3 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Drug,Number,4.0,12.0,10.0,5.0,10.0,16.0,26.0,9.0,0.0,26.0,66.0,62.0
+1416,Q4 2021/2022,S08000030,NHS Tayside,Dundee City ADP,All services,Drug,Number,19.0,8.0,8.0,2.0,11.0,8.0,8.0,3.0,0.0,35.0,32.0,18.0
+1418,Q1 2022/2023,S08000030,NHS Tayside,Dundee City ADP,All services,Drug,Number,16.0,15.0,10.0,3.0,11.0,4.0,2.0,1.0,0.0,41.0,21.0,14.5
+1420,Q1 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Alcohol,Number,6.0,7.0,5.0,5.0,0.0,0.0,2.0,0.0,1.0,18.0,8.0,14.0
+1423,Q2 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Alcohol,Number,21.0,7.0,4.0,6.0,3.0,0.0,0.0,1.0,1.0,32.0,11.0,8.0
+1426,Q3 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Alcohol,Number,8.0,13.0,4.0,5.0,8.0,1.0,0.0,1.0,1.0,25.0,16.0,12.0
+1429,Q4 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Alcohol,Number,9.0,12.0,7.0,4.0,7.0,2.0,0.0,0.0,2.0,28.0,15.0,15.0
+1432,Q1 2022/2023,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Alcohol,Number,9.0,12.0,15.0,6.0,11.0,2.0,0.0,0.0,2.0,36.0,21.0,18.0
+1435,Q1 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,All,Number,15.0,9.0,9.0,8.0,1.0,2.0,10.0,0.0,1.0,33.0,22.0,16.0
+1438,Q2 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,All,Number,26.0,8.0,4.0,7.0,5.0,0.0,1.0,5.0,1.0,38.0,19.0,9.0
+1441,Q3 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,All,Number,11.0,19.0,6.0,6.0,10.0,3.0,0.0,6.0,1.0,36.0,26.0,16.0
+1444,Q4 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,All,Number,12.0,14.0,9.0,4.0,7.0,5.0,2.0,1.0,6.0,35.0,25.0,17.0
+1447,Q1 2022/2023,S08000030,NHS Tayside,Perth & Kinross ADP,All services,All,Number,14.0,15.0,18.0,8.0,14.0,4.0,1.0,0.0,7.0,47.0,34.0,21.0
+1450,Q1 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Co-dependency,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0
+1453,Q2 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1456,Q3 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Co-dependency,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,16.0
+1459,Q4 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1462,Q1 2022/2023,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Co-dependency,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,8.5
+1465,Q1 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Drug,Number,9.0,1.0,4.0,3.0,1.0,2.0,8.0,0.0,0.0,14.0,14.0,22.5
+1468,Q2 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Drug,Number,5.0,1.0,0.0,1.0,2.0,0.0,1.0,4.0,0.0,6.0,8.0,26.0
+1471,Q3 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Drug,Number,3.0,6.0,1.0,1.0,2.0,2.0,0.0,5.0,0.0,10.0,10.0,19.5
+1474,Q4 2021/2022,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Drug,Number,3.0,2.0,2.0,0.0,0.0,3.0,2.0,1.0,4.0,7.0,10.0,66.0
+1477,Q1 2022/2023,S08000030,NHS Tayside,Perth & Kinross ADP,All services,Drug,Number,4.0,2.0,3.0,2.0,3.0,2.0,1.0,0.0,5.0,9.0,13.0,32.0
+1480,Q1 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Alcohol,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,41.0
+1482,Q2 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Alcohol,Number,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,1.0,9.0
+1484,Q3 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Alcohol,Number,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,11.0
+1486,Q4 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Alcohol,Number,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,2.0
+1488,Q1 2022/2023,S08000028,NHS Western Isles,Western Isles ADP,All services,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1490,Q1 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,All,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,41.0
+1492,Q2 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,All,Number,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,1.0,7.0
+1494,Q3 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,All,Number,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,11.5
+1496,Q4 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,All,Number,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,2.0
+1498,Q1 2022/2023,S08000028,NHS Western Isles,Western Isles ADP,All services,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1500,Q1 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1502,Q2 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+1504,Q3 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1506,Q4 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1508,Q1 2022/2023,S08000028,NHS Western Isles,Western Isles ADP,All services,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1510,Q1 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1512,Q2 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1514,Q3 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Drug,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,50.0
+1516,Q4 2021/2022,S08000028,NHS Western Isles,Western Isles ADP,All services,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1518,Q1 2022/2023,S08000028,NHS Western Isles,Western Isles ADP,All services,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
