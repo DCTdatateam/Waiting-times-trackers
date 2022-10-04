@@ -36,24 +36,17 @@ jobs:
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
         
-    - name: Run diagnostic script
-      continue-on-error: true
-      run: |
-        python 'py/diagnostic.py'
-      env:
-        key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
-        
     - name: Run CAHMS script
       run: |
         python 'py/CAHMS.py'
       env:
-        key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets   
+        key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets    
         
     - name: Run Drug and Alcohol script
       run: |
-        python 'py/DrugAndAlcohol.py'
+        python 'py/NEWdrugandalcohol.py'
       env:
-        key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets        
+        key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets             
      
     - name: Run IVF script
       run: |
