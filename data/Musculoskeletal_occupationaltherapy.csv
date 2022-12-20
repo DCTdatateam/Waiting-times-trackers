@@ -1,393 +1,407 @@
 ,Month,HBT,Specialty,Number of patients waiting,Number waiting 0 to 4 weeks,Number waiting 5 to 8 weeks,Number waiting 9 to 12 weeks,Number waiting 13 to 16 weeks,Number waiting more than 16 weeks,Number waiting more than four weeks,Percentage of people waiting between 0 and 4 weeks,Percentage waiting between 5 and 8 weeks,Percentage waiting 9 to 12 weeks,Percentage waiting 13 to 16 weeks,Percentage waiting more than 16 weeks,Percentage waiting more than 4 weeks,MedianWaitWeeks,MedianWaitWeeksQF,NinetiethPercentileWaitWeeks,NinetiethPercentileWaitWeeksQF,HB,Health board
-56,01/09/15,S08000015,Occupational Therapy,78.0,72.0,5.0,1.0,0.0,0.0,6.0,92.30769231,6.41025641,1.282051282,0.0,0.0,7.692307692,2.0,,4.0,,S08000015,NHS Ayrshire and Arran
-57,01/12/15,S08000015,Occupational Therapy,103.0,64.0,30.0,7.0,1.0,1.0,39.0,62.13592233,29.12621359,6.796116505,0.970873786,0.970873786,37.86407767,4.0,,8.0,,S08000015,NHS Ayrshire and Arran
-58,01/03/16,S08000015,Occupational Therapy,151.0,86.0,51.0,11.0,2.0,1.0,65.0,56.95364238,33.77483444,7.284768212,1.324503311,0.662251656,43.04635762,4.0,,8.0,,S08000015,NHS Ayrshire and Arran
-59,01/06/16,S08000015,Occupational Therapy,176.0,78.0,41.0,40.0,13.0,4.0,98.0,44.31818182,23.29545455,22.72727273,7.386363636,2.272727273,55.68181818,6.0,,12.0,,S08000015,NHS Ayrshire and Arran
-60,01/09/16,S08000015,Occupational Therapy,173.0,64.0,56.0,38.0,11.0,4.0,109.0,36.99421965,32.3699422,21.96531792,6.358381503,2.312138728,63.00578035,6.0,,12.0,,S08000015,NHS Ayrshire and Arran
-61,01/12/16,S08000015,Occupational Therapy,221.0,66.0,44.0,57.0,36.0,18.0,155.0,29.86425339,19.90950226,25.7918552,16.28959276,8.14479638,70.13574661,9.0,,16.0,,S08000015,NHS Ayrshire and Arran
-62,01/03/17,S08000015,Occupational Therapy,247.0,81.0,47.0,23.0,24.0,72.0,166.0,32.79352227,19.02834008,9.311740891,9.71659919,29.14979757,67.20647773,8.0,,22.0,,S08000015,NHS Ayrshire and Arran
-63,01/06/17,S08000015,Occupational Therapy,267.0,82.0,50.0,38.0,35.0,62.0,185.0,30.71161049,18.72659176,14.23220974,13.10861423,23.22097378,69.28838951,9.0,,21.0,,S08000015,NHS Ayrshire and Arran
-64,01/09/17,S08000015,Occupational Therapy,190.0,40.0,45.0,34.0,32.0,39.0,150.0,21.05263158,23.68421053,17.89473684,16.84210526,20.52631579,78.94736842,10.0,,19.0,,S08000015,NHS Ayrshire and Arran
-65,01/12/17,S08000015,Occupational Therapy,192.0,62.0,48.0,23.0,20.0,39.0,130.0,32.29166667,25.0,11.97916667,10.41666667,20.3125,67.70833333,8.0,,20.0,,S08000015,NHS Ayrshire and Arran
-66,01/03/18,S08000015,Occupational Therapy,174.0,61.0,32.0,22.0,12.0,47.0,113.0,35.05747126,18.3908046,12.64367816,6.896551724,27.01149425,64.94252874,8.0,,26.0,,S08000015,NHS Ayrshire and Arran
-67,01/06/18,S08000015,Occupational Therapy,230.0,68.0,47.0,32.0,23.0,60.0,162.0,29.56521739,20.43478261,13.91304348,10.0,26.08695652,70.43478261,9.0,,28.0,,S08000015,NHS Ayrshire and Arran
-68,01/09/18,S08000015,Occupational Therapy,233.0,34.0,35.0,33.0,44.0,87.0,199.0,14.59227468,15.02145923,14.16309013,18.88412017,37.33905579,85.40772532,14.0,,29.0,,S08000015,NHS Ayrshire and Arran
-69,01/12/18,S08000015,Occupational Therapy,215.0,55.0,37.0,25.0,11.0,87.0,160.0,25.58139535,17.20930233,11.62790698,5.11627907,40.46511628,74.41860465,12.0,,27.0,,S08000015,NHS Ayrshire and Arran
-70,01/03/19,S08000015,Occupational Therapy,111.0,52.0,34.0,15.0,2.0,8.0,59.0,46.84684685,30.63063063,13.51351351,1.801801802,7.207207207,53.15315315,5.0,,10.0,,S08000015,NHS Ayrshire and Arran
-71,01/06/19,S08000015,Occupational Therapy,98.0,66.0,20.0,8.0,1.0,3.0,32.0,67.34693878,20.40816327,8.163265306,1.020408163,3.06122449,32.65306122,3.0,,9.0,,S08000015,NHS Ayrshire and Arran
-72,01/09/19,S08000015,Occupational Therapy,168.0,57.0,41.0,38.0,20.0,12.0,111.0,33.92857143,24.4047619,22.61904762,11.9047619,7.142857143,66.07142857,7.0,,15.0,,S08000015,NHS Ayrshire and Arran
-73,01/12/19,S08000015,Occupational Therapy,208.0,53.0,28.0,21.0,27.0,79.0,155.0,25.48076923,13.46153846,10.09615385,12.98076923,37.98076923,74.51923077,13.0,,27.0,,S08000015,NHS Ayrshire and Arran
-74,01/03/20,S08000015,Occupational Therapy,146.0,29.0,31.0,27.0,23.0,36.0,117.0,19.8630137,21.23287671,18.49315068,15.75342466,24.65753425,80.1369863,10.0,,26.0,,S08000015,NHS Ayrshire and Arran
-75,01/06/20,S08000015,Occupational Therapy,92.0,17.0,9.0,5.0,14.0,47.0,75.0,18.47826087,9.782608696,5.434782609,15.2173913,51.08695652,81.52173913,17.0,,23.0,,S08000015,NHS Ayrshire and Arran
-76,01/09/20,S08000015,Occupational Therapy,47.0,25.0,21.0,0.0,0.0,1.0,22.0,53.19148936,44.68085106,0.0,0.0,2.127659574,46.80851064,3.0,,7.0,,S08000015,NHS Ayrshire and Arran
-77,01/12/20,S08000015,Occupational Therapy,66.0,36.0,22.0,7.0,0.0,1.0,30.0,54.54545455,33.33333333,10.60606061,0.0,1.515151515,45.45454545,4.0,,9.0,,S08000015,NHS Ayrshire and Arran
-78,01/03/21,S08000015,Occupational Therapy,80.0,74.0,5.0,0.0,0.0,1.0,6.0,92.5,6.25,0.0,0.0,1.25,7.5,2.0,,4.0,,S08000015,NHS Ayrshire and Arran
-79,01/06/21,S08000015,Occupational Therapy,270.0,123.0,66.0,55.0,25.0,1.0,147.0,45.55555556,24.44444444,20.37037037,9.259259259,0.37037037,54.44444444,5.0,,12.0,,S08000015,NHS Ayrshire and Arran
-80,01/09/21,S08000015,Occupational Therapy,324.0,57.0,53.0,44.0,62.0,108.0,267.0,17.59259259,16.35802469,13.58024691,19.13580247,33.33333333,82.40740741,13.0,,23.0,,S08000015,NHS Ayrshire and Arran
-81,01/12/21,S08000015,Occupational Therapy,261.0,52.0,28.0,35.0,22.0,124.0,209.0,19.92337165,10.72796935,13.40996169,8.429118774,47.50957854,80.07662835,14.0,,27.0,,S08000015,NHS Ayrshire and Arran
-82,01/03/22,S08000015,Occupational Therapy,196.0,51.0,29.0,28.0,11.0,77.0,145.0,26.02040816,14.79591837,14.28571429,5.612244898,39.28571429,73.97959184,11.0,,30.0,,S08000015,NHS Ayrshire and Arran
-83,01/06/22,S08000015,Occupational Therapy,322.0,92.0,47.0,48.0,15.0,120.0,230.0,28.57142857,14.59627329,14.9068323,4.658385093,37.26708075,71.42857143,10.0,,38.0,,S08000015,NHS Ayrshire and Arran
-196,01/09/15,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-197,01/12/15,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-198,01/03/16,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-199,01/06/16,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-200,01/09/16,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-201,01/12/16,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-202,01/03/17,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-203,01/06/17,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-204,01/09/17,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-205,01/12/17,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-206,01/03/18,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-207,01/06/18,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-208,01/09/18,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-209,01/12/18,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-210,01/03/19,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-211,01/06/19,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-212,01/09/19,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-213,01/12/19,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-214,01/03/20,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-215,01/06/20,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-216,01/09/20,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-217,01/12/20,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-218,01/03/21,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-219,01/06/21,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-220,01/09/21,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-221,01/12/21,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-222,01/03/22,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-223,01/06/22,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
-336,01/09/15,S08000017,Occupational Therapy,111.0,70.0,29.0,8.0,3.0,1.0,41.0,63.06306306,26.12612613,7.207207207,2.702702703,0.900900901,36.93693694,3.0,,9.0,,S08000017,NHS Dumfries and Galloway
-337,01/12/15,S08000017,Occupational Therapy,151.0,94.0,49.0,5.0,3.0,0.0,57.0,62.25165563,32.45033113,3.311258278,1.986754967,0.0,37.74834437,4.0,,8.0,,S08000017,NHS Dumfries and Galloway
-338,01/03/16,S08000017,Occupational Therapy,189.0,98.0,63.0,20.0,5.0,3.0,91.0,51.85185185,33.33333333,10.58201058,2.645502646,1.587301587,48.14814815,4.0,,9.0,,S08000017,NHS Dumfries and Galloway
-339,01/06/16,S08000017,Occupational Therapy,105.0,80.0,15.0,5.0,2.0,3.0,25.0,76.19047619,14.28571429,4.761904762,1.904761905,2.857142857,23.80952381,2.0,,7.0,,S08000017,NHS Dumfries and Galloway
-340,01/09/16,S08000017,Occupational Therapy,77.0,71.0,5.0,0.0,0.0,1.0,6.0,92.20779221,6.493506494,0.0,0.0,1.298701299,7.792207792,1.0,,4.0,,S08000017,NHS Dumfries and Galloway
-341,01/12/16,S08000017,Occupational Therapy,107.0,84.0,19.0,4.0,0.0,0.0,23.0,78.5046729,17.75700935,3.738317757,0.0,0.0,21.4953271,2.0,,6.0,,S08000017,NHS Dumfries and Galloway
-342,01/03/17,S08000017,Occupational Therapy,152.0,139.0,10.0,3.0,0.0,0.0,13.0,91.44736842,6.578947368,1.973684211,0.0,0.0,8.552631579,2.0,,4.0,,S08000017,NHS Dumfries and Galloway
-343,01/06/17,S08000017,Occupational Therapy,179.0,108.0,61.0,6.0,4.0,0.0,71.0,60.33519553,34.07821229,3.351955307,2.234636872,0.0,39.66480447,4.0,,8.0,,S08000017,NHS Dumfries and Galloway
-344,01/09/17,S08000017,Occupational Therapy,196.0,96.0,62.0,23.0,12.0,3.0,100.0,48.97959184,31.63265306,11.73469388,6.12244898,1.530612245,51.02040816,5.0,,12.0,,S08000017,NHS Dumfries and Galloway
-345,01/12/17,S08000017,Occupational Therapy,162.0,84.0,64.0,12.0,1.0,1.0,78.0,51.85185185,39.50617284,7.407407407,0.617283951,0.617283951,48.14814815,4.0,,8.0,,S08000017,NHS Dumfries and Galloway
-346,01/03/18,S08000017,Occupational Therapy,184.0,130.0,45.0,8.0,1.0,0.0,54.0,70.65217391,24.45652174,4.347826087,0.543478261,0.0,29.34782609,3.0,,7.0,,S08000017,NHS Dumfries and Galloway
-347,01/06/18,S08000017,Occupational Therapy,228.0,114.0,89.0,15.0,5.0,5.0,114.0,50.0,39.03508772,6.578947368,2.192982456,2.192982456,50.0,5.0,,9.0,,S08000017,NHS Dumfries and Galloway
-348,01/09/18,S08000017,Occupational Therapy,239.0,140.0,52.0,22.0,16.0,9.0,99.0,58.57740586,21.75732218,9.205020921,6.694560669,3.765690377,41.42259414,4.0,,13.0,,S08000017,NHS Dumfries and Galloway
-349,01/12/18,S08000017,Occupational Therapy,442.0,116.0,124.0,83.0,87.0,32.0,326.0,26.24434389,28.05429864,18.77828054,19.68325792,7.239819005,73.75565611,8.0,,16.0,,S08000017,NHS Dumfries and Galloway
-350,01/03/19,S08000017,Occupational Therapy,515.0,119.0,101.0,80.0,49.0,166.0,396.0,23.10679612,19.61165049,15.53398058,9.514563107,32.23300971,76.89320388,10.0,,23.0,,S08000017,NHS Dumfries and Galloway
-351,01/06/19,S08000017,Occupational Therapy,553.0,99.0,97.0,111.0,80.0,166.0,454.0,17.90235081,17.54068716,20.07233273,14.46654611,30.01808318,82.09764919,11.0,,24.0,,S08000017,NHS Dumfries and Galloway
-352,01/09/19,S08000017,Occupational Therapy,557.0,118.0,69.0,67.0,57.0,246.0,439.0,21.18491921,12.38779174,12.02872531,10.23339318,44.16517056,78.81508079,14.0,,26.0,,S08000017,NHS Dumfries and Galloway
-353,01/12/19,S08000017,Occupational Therapy,453.0,94.0,87.0,64.0,68.0,140.0,359.0,20.75055188,19.20529801,14.12803532,15.01103753,30.90507726,79.24944812,11.0,,24.0,,S08000017,NHS Dumfries and Galloway
-354,01/03/20,S08000017,Occupational Therapy,417.0,75.0,68.0,101.0,43.0,130.0,342.0,17.98561151,16.30695444,24.2206235,10.3117506,31.17505995,82.01438849,11.0,,24.0,,S08000017,NHS Dumfries and Galloway
-355,01/06/20,S08000017,Occupational Therapy,417.0,28.0,14.0,5.0,43.0,327.0,389.0,6.714628297,3.357314149,1.199040767,10.3117506,78.41726619,93.2853717,23.0,,34.0,,S08000017,NHS Dumfries and Galloway
-356,01/09/20,S08000017,Occupational Therapy,116.0,55.0,31.0,11.0,2.0,17.0,61.0,47.4137931,26.72413793,9.482758621,1.724137931,14.65517241,52.5862069,5.0,,34.0,,S08000017,NHS Dumfries and Galloway
-357,01/12/20,S08000017,Occupational Therapy,102.0,66.0,28.0,1.0,0.0,7.0,36.0,64.70588235,27.45098039,0.980392157,0.0,6.862745098,35.29411765,3.0,,7.0,,S08000017,NHS Dumfries and Galloway
-358,01/03/21,S08000017,Occupational Therapy,86.0,69.0,8.0,2.0,0.0,7.0,17.0,80.23255814,9.302325581,2.325581395,0.0,8.139534884,19.76744186,2.0,,9.0,,S08000017,NHS Dumfries and Galloway
-359,01/06/21,S08000017,Occupational Therapy,196.0,81.0,44.0,59.0,3.0,9.0,115.0,41.32653061,22.44897959,30.10204082,1.530612245,4.591836735,58.67346939,6.0,,12.0,,S08000017,NHS Dumfries and Galloway
-360,01/09/21,S08000017,Occupational Therapy,257.0,77.0,44.0,32.0,33.0,71.0,180.0,29.96108949,17.12062257,12.45136187,12.84046693,27.62645914,70.03891051,10.0,,21.0,,S08000017,NHS Dumfries and Galloway
-361,01/12/21,S08000017,Occupational Therapy,192.0,51.0,37.0,17.0,27.0,60.0,141.0,26.5625,19.27083333,8.854166667,14.0625,31.25,73.4375,11.0,,24.0,,S08000017,NHS Dumfries and Galloway
-362,01/03/22,S08000017,Occupational Therapy,202.0,87.0,44.0,25.0,14.0,32.0,115.0,43.06930693,21.78217822,12.37623762,6.930693069,15.84158416,56.93069307,6.0,,19.0,,S08000017,NHS Dumfries and Galloway
-363,01/06/22,S08000017,Occupational Therapy,193.0,80.0,28.0,21.0,21.0,43.0,113.0,41.4507772,14.50777202,10.88082902,10.88082902,22.27979275,58.5492228,7.0,,29.0,,S08000017,NHS Dumfries and Galloway
-476,01/09/15,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-477,01/12/15,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-478,01/03/16,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-479,01/06/16,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-480,01/09/16,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-481,01/12/16,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-482,01/03/17,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-483,01/06/17,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-484,01/09/17,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-485,01/12/17,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-486,01/03/18,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-487,01/06/18,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-488,01/09/18,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-489,01/12/18,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-490,01/03/19,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-491,01/06/19,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-492,01/09/19,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-493,01/12/19,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-494,01/03/20,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-495,01/06/20,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-496,01/09/20,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-497,01/12/20,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-498,01/03/21,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-499,01/06/21,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-500,01/09/21,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-501,01/12/21,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-502,01/03/22,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-503,01/06/22,S08000019,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000019,NHS Forth Valley
-616,01/09/15,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-617,01/12/15,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-618,01/03/16,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-619,01/06/16,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-620,01/09/16,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-621,01/12/16,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-622,01/03/17,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-623,01/06/17,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-624,01/09/17,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-625,01/12/17,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-626,01/03/18,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-627,01/06/18,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-628,01/09/18,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-629,01/12/18,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-630,01/03/19,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-631,01/06/19,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-632,01/09/19,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-633,01/12/19,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-634,01/03/20,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-635,01/06/20,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-636,01/09/20,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-637,01/12/20,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-638,01/03/21,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-639,01/06/21,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-640,01/09/21,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-641,01/12/21,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-642,01/03/22,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-643,01/06/22,S08000020,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000020,NHS Grampian
-756,01/09/15,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-757,01/12/15,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-758,01/03/16,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-759,01/06/16,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-760,01/09/16,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-761,01/12/16,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-762,01/03/17,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-763,01/06/17,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-764,01/09/17,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-765,01/12/17,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-766,01/03/18,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-767,01/06/18,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-768,01/09/18,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-769,01/12/18,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-770,01/03/19,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-771,01/06/19,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-772,01/09/19,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-773,01/12/19,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-774,01/03/20,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-775,01/06/20,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-776,01/09/20,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-777,01/12/20,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-778,01/03/21,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-779,01/06/21,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-780,01/09/21,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-781,01/12/21,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-782,01/03/22,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-783,01/06/22,S08000022,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000022,NHS Highland
-896,01/09/15,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-897,01/12/15,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-898,01/03/16,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-899,01/06/16,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-900,01/09/16,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-901,01/12/16,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-902,01/03/17,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-903,01/06/17,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-904,01/09/17,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-905,01/12/17,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-906,01/03/18,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-907,01/06/18,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-908,01/09/18,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-909,01/12/18,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-910,01/03/19,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-911,01/06/19,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-912,01/09/19,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-913,01/12/19,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-914,01/03/20,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-915,01/06/20,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-916,01/09/20,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-917,01/12/20,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-918,01/03/21,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-919,01/06/21,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-920,01/09/21,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-921,01/12/21,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-922,01/03/22,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-923,01/06/22,S08000024,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000024,NHS Lothian
-1036,01/09/15,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1037,01/12/15,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1038,01/03/16,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1039,01/06/16,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1040,01/09/16,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1041,01/12/16,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1042,01/03/17,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1043,01/06/17,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1044,01/09/17,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1045,01/12/17,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1046,01/03/18,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1047,01/06/18,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1048,01/09/18,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1049,01/12/18,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1050,01/03/19,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1051,01/06/19,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1052,01/09/19,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1053,01/12/19,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1054,01/03/20,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1055,01/06/20,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1056,01/09/20,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1057,01/12/20,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1058,01/03/21,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1059,01/06/21,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1060,01/09/21,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1061,01/12/21,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1062,01/03/22,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1063,01/06/22,S08000025,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000025,NHS Orkney
-1176,01/09/15,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1177,01/12/15,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1178,01/03/16,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1179,01/06/16,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1180,01/09/16,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1181,01/12/16,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1182,01/03/17,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1183,01/06/17,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1184,01/09/17,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1185,01/12/17,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1186,01/03/18,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1187,01/06/18,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1188,01/09/18,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1189,01/12/18,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1190,01/03/19,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1191,01/06/19,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1192,01/09/19,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1193,01/12/19,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1194,01/03/20,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1195,01/06/20,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1196,01/09/20,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1197,01/12/20,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1198,01/03/21,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1199,01/06/21,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1200,01/09/21,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1201,01/12/21,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1202,01/03/22,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1203,01/06/22,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
-1316,01/09/15,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1317,01/12/15,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1318,01/03/16,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1319,01/06/16,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1320,01/09/16,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1321,01/12/16,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1322,01/03/17,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1323,01/06/17,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1324,01/09/17,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1325,01/12/17,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1326,01/03/18,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1327,01/06/18,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1328,01/09/18,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1329,01/12/18,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1330,01/03/19,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1331,01/06/19,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1332,01/09/19,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1333,01/12/19,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1334,01/03/20,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1335,01/06/20,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1336,01/09/20,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1337,01/12/20,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1338,01/03/21,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1339,01/06/21,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1340,01/09/21,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1341,01/12/21,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1342,01/03/22,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1343,01/06/22,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
-1456,01/09/15,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
-1457,01/12/15,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
-1458,01/03/16,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
-1459,01/06/16,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
-1460,01/09/16,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
-1461,01/12/16,S08000029,Occupational Therapy,24.0,16.0,7.0,1.0,0.0,0.0,8.0,66.66666667,29.16666667,4.166666667,0.0,0.0,33.33333333,3.0,,6.0,,S08000029,NHS Fife
-1462,01/03/17,S08000029,Occupational Therapy,19.0,18.0,1.0,0.0,0.0,0.0,1.0,94.73684211,5.263157895,0.0,0.0,0.0,5.263157895,2.0,,4.0,,S08000029,NHS Fife
-1463,01/06/17,S08000029,Occupational Therapy,18.0,17.0,0.0,1.0,0.0,0.0,1.0,94.44444444,0.0,5.555555556,0.0,0.0,5.555555556,2.0,,4.0,,S08000029,NHS Fife
-1464,01/09/17,S08000029,Occupational Therapy,35.0,29.0,6.0,0.0,0.0,0.0,6.0,82.85714286,17.14285714,0.0,0.0,0.0,17.14285714,3.0,,5.0,,S08000029,NHS Fife
-1465,01/12/17,S08000029,Occupational Therapy,33.0,27.0,6.0,0.0,0.0,0.0,6.0,81.81818182,18.18181818,0.0,0.0,0.0,18.18181818,3.0,,5.0,,S08000029,NHS Fife
-1466,01/03/18,S08000029,Occupational Therapy,35.0,28.0,6.0,0.0,1.0,0.0,7.0,80.0,17.14285714,0.0,2.857142857,0.0,20.0,3.0,,5.0,,S08000029,NHS Fife
-1467,01/06/18,S08000029,Occupational Therapy,35.0,33.0,1.0,0.0,0.0,1.0,2.0,94.28571429,2.857142857,0.0,0.0,2.857142857,5.714285714,2.0,,4.0,,S08000029,NHS Fife
-1468,01/09/18,S08000029,Occupational Therapy,29.0,27.0,2.0,0.0,0.0,0.0,2.0,93.10344828,6.896551724,0.0,0.0,0.0,6.896551724,1.0,,4.0,,S08000029,NHS Fife
-1469,01/12/18,S08000029,Occupational Therapy,42.0,32.0,8.0,1.0,1.0,0.0,10.0,76.19047619,19.04761905,2.380952381,2.380952381,0.0,23.80952381,3.0,,6.0,,S08000029,NHS Fife
-1470,01/03/19,S08000029,Occupational Therapy,46.0,44.0,2.0,0.0,0.0,0.0,2.0,95.65217391,4.347826087,0.0,0.0,0.0,4.347826087,2.0,,3.0,,S08000029,NHS Fife
-1471,01/06/19,S08000029,Occupational Therapy,41.0,29.0,10.0,1.0,1.0,0.0,12.0,70.73170732,24.3902439,2.43902439,2.43902439,0.0,29.26829268,2.0,,8.0,,S08000029,NHS Fife
-1472,01/09/19,S08000029,Occupational Therapy,53.0,32.0,4.0,6.0,6.0,5.0,21.0,60.37735849,7.547169811,11.32075472,11.32075472,9.433962264,39.62264151,3.0,,16.0,,S08000029,NHS Fife
-1473,01/12/19,S08000029,Occupational Therapy,40.0,14.0,2.0,1.0,3.0,20.0,26.0,35.0,5.0,2.5,7.5,50.0,65.0,18.0,,32.0,,S08000029,NHS Fife
-1474,01/03/20,S08000029,Occupational Therapy,61.0,20.0,14.0,3.0,1.0,23.0,41.0,32.78688525,22.95081967,4.918032787,1.639344262,37.70491803,67.21311475,7.0,,41.0,,S08000029,NHS Fife
-1475,01/06/20,S08000029,Occupational Therapy,45.0,5.0,1.0,0.0,3.0,36.0,40.0,11.11111111,2.222222222,0.0,6.666666667,80.0,88.88888889,33.0,,57.0,,S08000029,NHS Fife
-1476,01/09/20,S08000029,Occupational Therapy,48.0,9.0,3.0,1.0,0.0,35.0,39.0,18.75,6.25,2.083333333,0.0,72.91666667,81.25,39.0,,70.0,,S08000029,NHS Fife
-1477,01/12/20,S08000029,Occupational Therapy,59.0,26.0,6.0,2.0,0.0,25.0,33.0,44.06779661,10.16949153,3.389830508,0.0,42.37288136,55.93220339,5.0,,81.0,,S08000029,NHS Fife
-1478,01/03/21,S08000029,Occupational Therapy,54.0,22.0,3.0,1.0,1.0,27.0,32.0,40.74074074,5.555555556,1.851851852,1.851851852,50.0,59.25925926,19.0,,95.0,,S08000029,NHS Fife
-1479,01/06/21,S08000029,Occupational Therapy,93.0,52.0,5.0,3.0,5.0,28.0,41.0,55.91397849,5.376344086,3.225806452,5.376344086,30.10752688,44.08602151,4.0,,105.0,,S08000029,NHS Fife
-1480,01/09/21,S08000029,Occupational Therapy,100.0,24.0,15.0,16.0,11.0,34.0,76.0,24.0,15.0,16.0,11.0,34.0,76.0,10.0,,118.0,,S08000029,NHS Fife
-1481,01/12/21,S08000029,Occupational Therapy,135.0,26.0,28.0,10.0,7.0,64.0,109.0,19.25925926,20.74074074,7.407407407,5.185185185,47.40740741,80.74074074,15.0,,129.0,,S08000029,NHS Fife
-1482,01/03/22,S08000029,Occupational Therapy,157.0,35.0,20.0,11.0,13.0,78.0,122.0,22.29299363,12.7388535,7.006369427,8.280254777,49.68152866,77.70700637,16.0,,139.0,,S08000029,NHS Fife
-1483,01/06/22,S08000029,Occupational Therapy,204.0,28.0,25.0,25.0,18.0,108.0,176.0,13.7254902,12.25490196,12.25490196,8.823529412,52.94117647,86.2745098,18.0,,143.0,,S08000029,NHS Fife
-1596,01/09/15,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1597,01/12/15,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1598,01/03/16,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1599,01/06/16,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1600,01/09/16,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1601,01/12/16,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1602,01/03/17,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1603,01/06/17,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1604,01/09/17,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1605,01/12/17,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1606,01/03/18,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
-1607,01/06/18,S08000030,Occupational Therapy,302.0,73.0,14.0,15.0,19.0,181.0,229.0,24.17218543,4.635761589,4.966887417,6.291390728,59.93377483,75.82781457,23.0,,57.0,,S08000030,NHS Tayside
-1608,01/09/18,S08000030,Occupational Therapy,463.0,80.0,31.0,12.0,48.0,292.0,383.0,17.27861771,6.695464363,2.591792657,10.36717063,63.06695464,82.72138229,23.0,,68.0,,S08000030,NHS Tayside
-1609,01/12/18,S08000030,Occupational Therapy,530.0,114.0,55.0,20.0,36.0,305.0,416.0,21.50943396,10.37735849,3.773584906,6.79245283,57.54716981,78.49056604,27.2,,80.0,,S08000030,NHS Tayside
-1610,01/03/19,S08000030,Occupational Therapy,446.0,126.0,52.0,45.0,30.0,193.0,320.0,28.25112108,11.65919283,10.0896861,6.726457399,43.2735426,71.74887892,,:,,:,S08000030,NHS Tayside
-1611,01/06/19,S08000030,Occupational Therapy,256.0,98.0,50.0,30.0,31.0,47.0,158.0,38.28125,19.53125,11.71875,12.109375,18.359375,61.71875,,:,,:,S08000030,NHS Tayside
-1612,01/09/19,S08000030,Occupational Therapy,587.0,181.0,114.0,73.0,66.0,153.0,406.0,30.83475298,19.42078365,12.43611584,11.24361158,26.06473595,69.16524702,,:,,:,S08000030,NHS Tayside
-1613,01/12/19,S08000030,Occupational Therapy,620.0,127.0,136.0,64.0,81.0,212.0,493.0,20.48387097,21.93548387,10.32258065,13.06451613,34.19354839,79.51612903,,:,,:,S08000030,NHS Tayside
-1614,01/03/20,S08000030,Occupational Therapy,65.0,16.0,8.0,8.0,6.0,27.0,49.0,24.61538462,12.30769231,12.30769231,9.230769231,41.53846154,75.38461538,13.0,,48.0,,S08000030,NHS Tayside
-1615,01/06/20,S08000030,Occupational Therapy,59.0,1.0,0.0,2.0,7.0,49.0,58.0,1.694915254,0.0,3.389830508,11.86440678,83.05084746,98.30508475,28.0,,78.0,,S08000030,NHS Tayside
-1616,01/09/20,S08000030,Occupational Therapy,67.0,3.0,2.0,2.0,2.0,58.0,64.0,4.47761194,2.985074627,2.985074627,2.985074627,86.56716418,95.52238806,37.0,,72.0,,S08000030,NHS Tayside
-1617,01/12/20,S08000030,Occupational Therapy,89.0,8.0,9.0,4.0,4.0,64.0,81.0,8.988764045,10.11235955,4.494382022,4.494382022,71.91011236,91.01123596,46.0,,65.0,,S08000030,NHS Tayside
-1618,01/03/21,S08000030,Occupational Therapy,97.0,4.0,1.0,6.0,8.0,78.0,93.0,4.12371134,1.030927835,6.18556701,8.24742268,80.41237113,95.87628866,54.0,,75.0,,S08000030,NHS Tayside
-1619,01/06/21,S08000030,Occupational Therapy,117.0,10.0,7.0,3.0,2.0,95.0,107.0,8.547008547,5.982905983,2.564102564,1.709401709,81.1965812,91.45299145,48.0,,86.0,,S08000030,NHS Tayside
-1620,01/09/21,S08000030,Occupational Therapy,128.0,7.0,2.0,2.0,9.0,108.0,121.0,5.46875,1.5625,1.5625,7.03125,84.375,94.53125,52.0,,99.0,,S08000030,NHS Tayside
-1621,01/12/21,S08000030,Occupational Therapy,86.0,2.0,4.0,3.0,8.0,69.0,84.0,2.325581395,4.651162791,3.488372093,9.302325581,80.23255814,97.6744186,54.0,,112.0,,S08000030,NHS Tayside
-1622,01/03/22,S08000030,Occupational Therapy,86.0,6.0,3.0,3.0,2.0,72.0,80.0,6.976744186,3.488372093,3.488372093,2.325581395,83.72093023,93.02325581,61.0,,125.0,,S08000030,NHS Tayside
-1623,01/06/22,S08000030,Occupational Therapy,107.0,16.0,4.0,3.0,6.0,78.0,91.0,14.95327103,3.738317757,2.803738318,5.607476636,72.89719626,85.04672897,56.0,,136.0,,S08000030,NHS Tayside
-1736,01/09/15,S08000031,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000031,NHS Greater Glasgow and Clyde
-1737,01/12/15,S08000031,Occupational Therapy,8.0,7.0,1.0,0.0,0.0,0.0,1.0,87.5,12.5,0.0,0.0,0.0,12.5,4.0,,5.0,,S08000031,NHS Greater Glasgow and Clyde
-1738,01/03/16,S08000031,Occupational Therapy,15.0,13.0,2.0,0.0,0.0,0.0,2.0,86.66666667,13.33333333,0.0,0.0,0.0,13.33333333,2.0,,6.0,,S08000031,NHS Greater Glasgow and Clyde
-1739,01/06/16,S08000031,Occupational Therapy,15.0,10.0,4.0,0.0,1.0,0.0,5.0,66.66666667,26.66666667,0.0,6.666666667,0.0,33.33333333,4.0,,6.0,,S08000031,NHS Greater Glasgow and Clyde
-1740,01/09/16,S08000031,Occupational Therapy,8.0,8.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,2.0,,3.0,,S08000031,NHS Greater Glasgow and Clyde
-1741,01/12/16,S08000031,Occupational Therapy,10.0,8.0,2.0,0.0,0.0,0.0,2.0,80.0,20.0,0.0,0.0,0.0,20.0,2.0,,5.0,,S08000031,NHS Greater Glasgow and Clyde
-1742,01/03/17,S08000031,Occupational Therapy,7.0,7.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,,S08000031,NHS Greater Glasgow and Clyde
-1743,01/06/17,S08000031,Occupational Therapy,5.0,5.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,,S08000031,NHS Greater Glasgow and Clyde
-1744,01/09/17,S08000031,Occupational Therapy,4.0,4.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,3.0,,4.0,,S08000031,NHS Greater Glasgow and Clyde
-1745,01/12/17,S08000031,Occupational Therapy,13.0,12.0,0.0,1.0,0.0,0.0,1.0,92.30769231,0.0,7.692307692,0.0,0.0,7.692307692,2.0,,3.0,,S08000031,NHS Greater Glasgow and Clyde
-1746,01/03/18,S08000031,Occupational Therapy,13.0,11.0,0.0,0.0,1.0,1.0,2.0,84.61538462,0.0,0.0,7.692307692,7.692307692,15.38461538,3.0,,12.0,,S08000031,NHS Greater Glasgow and Clyde
-1747,01/06/18,S08000031,Occupational Therapy,13.0,11.0,0.0,0.0,0.0,2.0,2.0,84.61538462,0.0,0.0,0.0,15.38461538,15.38461538,3.0,,22.0,,S08000031,NHS Greater Glasgow and Clyde
-1748,01/09/18,S08000031,Occupational Therapy,9.0,8.0,0.0,0.0,0.0,1.0,1.0,88.88888889,0.0,0.0,0.0,11.11111111,11.11111111,1.0,,10.0,,S08000031,NHS Greater Glasgow and Clyde
-1749,01/12/18,S08000031,Occupational Therapy,9.0,8.0,0.0,0.0,0.0,1.0,1.0,88.88888889,0.0,0.0,0.0,11.11111111,11.11111111,2.0,,14.0,,S08000031,NHS Greater Glasgow and Clyde
-1750,01/03/19,S08000031,Occupational Therapy,14.0,12.0,1.0,0.0,0.0,1.0,2.0,85.71428571,7.142857143,0.0,0.0,7.142857143,14.28571429,2.0,,5.0,,S08000031,NHS Greater Glasgow and Clyde
-1751,01/06/19,S08000031,Occupational Therapy,9.0,7.0,0.0,0.0,1.0,1.0,2.0,77.77777778,0.0,0.0,11.11111111,11.11111111,22.22222222,3.0,,28.0,,S08000031,NHS Greater Glasgow and Clyde
-1752,01/09/19,S08000031,Occupational Therapy,21.0,19.0,0.0,0.0,0.0,2.0,2.0,90.47619048,0.0,0.0,0.0,9.523809524,9.523809524,1.0,,3.0,,S08000031,NHS Greater Glasgow and Clyde
-1753,01/12/19,S08000031,Occupational Therapy,21.0,17.0,1.0,1.0,0.0,2.0,4.0,80.95238095,4.761904762,4.761904762,0.0,9.523809524,19.04761905,2.0,,10.0,,S08000031,NHS Greater Glasgow and Clyde
-1754,01/03/20,S08000031,Occupational Therapy,12.0,8.0,0.0,0.0,0.0,4.0,4.0,66.66666667,0.0,0.0,0.0,33.33333333,33.33333333,3.0,,51.0,,S08000031,NHS Greater Glasgow and Clyde
-1755,01/06/20,S08000031,Occupational Therapy,13.0,3.0,1.0,1.0,4.0,4.0,10.0,23.07692308,7.692307692,7.692307692,30.76923077,30.76923077,76.92307692,15.0,,61.0,,S08000031,NHS Greater Glasgow and Clyde
-1756,01/09/20,S08000031,Occupational Therapy,17.0,10.0,4.0,0.0,0.0,3.0,7.0,58.82352941,23.52941176,0.0,0.0,17.64705882,41.17647059,4.0,,62.0,,S08000031,NHS Greater Glasgow and Clyde
-1757,01/12/20,S08000031,Occupational Therapy,7.0,4.0,0.0,0.0,0.0,3.0,3.0,57.14285714,0.0,0.0,0.0,42.85714286,42.85714286,4.0,,119.0,,S08000031,NHS Greater Glasgow and Clyde
-1758,01/03/21,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,100.0,100.0,139.0,,164.0,,S08000031,NHS Greater Glasgow and Clyde
-1759,01/06/21,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,100.0,100.0,152.0,,177.0,,S08000031,NHS Greater Glasgow and Clyde
-1760,01/09/21,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,100.0,100.0,165.0,,190.0,,S08000031,NHS Greater Glasgow and Clyde
-1761,01/12/21,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,100.0,100.0,178.0,,204.0,,S08000031,NHS Greater Glasgow and Clyde
-1762,01/03/22,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,100.0,100.0,191.0,,216.0,,S08000031,NHS Greater Glasgow and Clyde
-1763,01/06/22,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,100.0,100.0,204.0,,229.0,,S08000031,NHS Greater Glasgow and Clyde
-1876,01/09/15,S08000032,Occupational Therapy,16.0,16.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,2.0,,2.0,,S08000032,NHS Lanarkshire
-1877,01/12/15,S08000032,Occupational Therapy,22.0,13.0,8.0,1.0,0.0,0.0,9.0,59.09090909,36.36363636,4.545454545,0.0,0.0,40.90909091,3.0,,8.0,,S08000032,NHS Lanarkshire
-1878,01/03/16,S08000032,Occupational Therapy,25.0,21.0,2.0,2.0,0.0,0.0,4.0,84.0,8.0,8.0,0.0,0.0,16.0,2.0,,7.0,,S08000032,NHS Lanarkshire
-1879,01/06/16,S08000032,Occupational Therapy,21.0,16.0,4.0,1.0,0.0,0.0,5.0,76.19047619,19.04761905,4.761904762,0.0,0.0,23.80952381,2.0,,7.0,,S08000032,NHS Lanarkshire
-1880,01/09/16,S08000032,Occupational Therapy,32.0,23.0,7.0,1.0,1.0,0.0,9.0,71.875,21.875,3.125,3.125,0.0,28.125,4.0,,6.0,,S08000032,NHS Lanarkshire
-1881,01/12/16,S08000032,Occupational Therapy,26.0,13.0,6.0,7.0,0.0,0.0,13.0,50.0,23.07692308,26.92307692,0.0,0.0,50.0,5.0,,12.0,,S08000032,NHS Lanarkshire
-1882,01/03/17,S08000032,Occupational Therapy,17.0,14.0,2.0,0.0,0.0,1.0,3.0,82.35294118,11.76470588,0.0,0.0,5.882352941,17.64705882,2.0,,6.0,,S08000032,NHS Lanarkshire
-1883,01/06/17,S08000032,Occupational Therapy,32.0,25.0,5.0,2.0,0.0,0.0,7.0,78.125,15.625,6.25,0.0,0.0,21.875,3.0,,8.0,,S08000032,NHS Lanarkshire
-1884,01/09/17,S08000032,Occupational Therapy,15.0,11.0,3.0,0.0,1.0,0.0,4.0,73.33333333,20.0,0.0,6.666666667,0.0,26.66666667,3.0,,8.0,,S08000032,NHS Lanarkshire
-1885,01/12/17,S08000032,Occupational Therapy,20.0,14.0,4.0,1.0,1.0,0.0,6.0,70.0,20.0,5.0,5.0,0.0,30.0,4.0,,7.0,,S08000032,NHS Lanarkshire
-1886,01/03/18,S08000032,Occupational Therapy,34.0,19.0,4.0,11.0,0.0,0.0,15.0,55.88235294,11.76470588,32.35294118,0.0,0.0,44.11764706,3.0,,12.0,,S08000032,NHS Lanarkshire
-1887,01/06/18,S08000032,Occupational Therapy,21.0,14.0,2.0,4.0,1.0,0.0,7.0,66.66666667,9.523809524,19.04761905,4.761904762,0.0,33.33333333,2.0,,10.0,,S08000032,NHS Lanarkshire
-1888,01/09/18,S08000032,Occupational Therapy,17.0,17.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,2.0,,3.0,,S08000032,NHS Lanarkshire
-1889,01/12/18,S08000032,Occupational Therapy,12.0,12.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,3.0,,4.0,,S08000032,NHS Lanarkshire
-1890,01/03/19,S08000032,Occupational Therapy,37.0,29.0,8.0,0.0,0.0,0.0,8.0,78.37837838,21.62162162,0.0,0.0,0.0,21.62162162,2.0,,6.0,,S08000032,NHS Lanarkshire
-1891,01/06/19,S08000032,Occupational Therapy,27.0,22.0,4.0,1.0,0.0,0.0,5.0,81.48148148,14.81481481,3.703703704,0.0,0.0,18.51851852,3.0,,6.0,,S08000032,NHS Lanarkshire
-1892,01/09/19,S08000032,Occupational Therapy,25.0,15.0,4.0,2.0,1.0,3.0,10.0,60.0,16.0,8.0,4.0,12.0,40.0,3.0,,15.0,,S08000032,NHS Lanarkshire
-1893,01/12/19,S08000032,Occupational Therapy,19.0,17.0,2.0,0.0,0.0,0.0,2.0,89.47368421,10.52631579,0.0,0.0,0.0,10.52631579,2.0,,3.0,,S08000032,NHS Lanarkshire
-1894,01/03/20,S08000032,Occupational Therapy,12.0,7.0,2.0,3.0,0.0,0.0,5.0,58.33333333,16.66666667,25.0,0.0,0.0,41.66666667,4.0,,11.0,,S08000032,NHS Lanarkshire
-1895,01/06/20,S08000032,Occupational Therapy,28.0,14.0,2.0,0.0,6.0,6.0,14.0,50.0,7.142857143,0.0,21.42857143,21.42857143,50.0,4.0,,20.0,,S08000032,NHS Lanarkshire
-1896,01/09/20,S08000032,Occupational Therapy,26.0,12.0,2.0,1.0,2.0,9.0,14.0,46.15384615,7.692307692,3.846153846,7.692307692,34.61538462,53.84615385,6.0,,34.0,,S08000032,NHS Lanarkshire
-1897,01/12/20,S08000032,Occupational Therapy,27.0,11.0,4.0,3.0,5.0,4.0,16.0,40.74074074,14.81481481,11.11111111,18.51851852,14.81481481,59.25925926,6.0,,18.0,,S08000032,NHS Lanarkshire
-1898,01/03/21,S08000032,Occupational Therapy,31.0,20.0,3.0,3.0,1.0,4.0,11.0,64.51612903,9.677419355,9.677419355,3.225806452,12.90322581,35.48387097,2.0,,21.0,,S08000032,NHS Lanarkshire
-1899,01/06/21,S08000032,Occupational Therapy,35.0,17.0,2.0,2.0,4.0,10.0,18.0,48.57142857,5.714285714,5.714285714,11.42857143,28.57142857,51.42857143,6.0,,32.0,,S08000032,NHS Lanarkshire
-1900,01/09/21,S08000032,Occupational Therapy,13.0,11.0,0.0,0.0,0.0,2.0,2.0,84.61538462,0.0,0.0,0.0,15.38461538,15.38461538,2.0,,16.0,,S08000032,NHS Lanarkshire
-1901,01/12/21,S08000032,Occupational Therapy,17.0,16.0,1.0,0.0,0.0,0.0,1.0,94.11764706,5.882352941,0.0,0.0,0.0,5.882352941,3.0,,4.0,,S08000032,NHS Lanarkshire
-1902,01/03/22,S08000032,Occupational Therapy,24.0,21.0,3.0,0.0,0.0,0.0,3.0,87.5,12.5,0.0,0.0,0.0,12.5,2.0,,4.0,,S08000032,NHS Lanarkshire
-1903,01/06/22,S08000032,Occupational Therapy,8.0,7.0,1.0,0.0,0.0,0.0,1.0,87.5,12.5,0.0,0.0,0.0,12.5,3.0,,4.0,,S08000032,NHS Lanarkshire
+58,01/09/15,S08000015,Occupational Therapy,78.0,72.0,5.0,1.0,0,0,6.0,92.30769231,6.41025641,1.282051282,0,0,7.692307692,2.0,,4.0,,S08000015,NHS Ayrshire and Arran
+59,01/12/15,S08000015,Occupational Therapy,103.0,64.0,30.0,7.0,1,1,39.0,62.13592233,29.12621359,6.796116505,0.970873786,0.970873786,37.86407767,4.0,,8.0,,S08000015,NHS Ayrshire and Arran
+60,01/03/16,S08000015,Occupational Therapy,151.0,86.0,51.0,11.0,2,1,65.0,56.95364238,33.77483444,7.284768212,1.324503311,0.662251656,43.04635762,4.0,,8.0,,S08000015,NHS Ayrshire and Arran
+61,01/06/16,S08000015,Occupational Therapy,176.0,78.0,41.0,40.0,13,4,98.0,44.31818182,23.29545455,22.72727273,7.386363636,2.272727273,55.68181818,6.0,,12.0,,S08000015,NHS Ayrshire and Arran
+62,01/09/16,S08000015,Occupational Therapy,173.0,64.0,56.0,38.0,11,4,109.0,36.99421965,32.3699422,21.96531792,6.358381503,2.312138728,63.00578035,6.0,,12.0,,S08000015,NHS Ayrshire and Arran
+63,01/12/16,S08000015,Occupational Therapy,221.0,66.0,44.0,57.0,36,18,155.0,29.86425339,19.90950226,25.7918552,16.28959276,8.14479638,70.13574661,9.0,,16.0,,S08000015,NHS Ayrshire and Arran
+64,01/03/17,S08000015,Occupational Therapy,247.0,81.0,47.0,23.0,24,72,166.0,32.79352227,19.02834008,9.311740891,9.71659919,29.14979757,67.20647773,8.0,,22.0,,S08000015,NHS Ayrshire and Arran
+65,01/06/17,S08000015,Occupational Therapy,267.0,82.0,50.0,38.0,35,62,185.0,30.71161049,18.72659176,14.23220974,13.10861423,23.22097378,69.28838951,9.0,,21.0,,S08000015,NHS Ayrshire and Arran
+66,01/09/17,S08000015,Occupational Therapy,190.0,40.0,45.0,34.0,32,39,150.0,21.05263158,23.68421053,17.89473684,16.84210526,20.52631579,78.94736842,10.0,,19.0,,S08000015,NHS Ayrshire and Arran
+67,01/12/17,S08000015,Occupational Therapy,192.0,62.0,48.0,23.0,20,39,130.0,32.29166667,25.0,11.97916667,10.41666667,20.3125,67.70833333,8.0,,20.0,,S08000015,NHS Ayrshire and Arran
+68,01/03/18,S08000015,Occupational Therapy,174.0,61.0,32.0,22.0,12,47,113.0,35.05747126,18.3908046,12.64367816,6.896551724,27.01149425,64.94252874,8.0,,26.0,,S08000015,NHS Ayrshire and Arran
+69,01/06/18,S08000015,Occupational Therapy,230.0,68.0,47.0,32.0,23,60,162.0,29.56521739,20.43478261,13.91304348,10,26.08695652,70.43478261,9.0,,28.0,,S08000015,NHS Ayrshire and Arran
+70,01/09/18,S08000015,Occupational Therapy,233.0,34.0,35.0,33.0,44,87,199.0,14.59227468,15.02145923,14.16309013,18.88412017,37.33905579,85.40772532,14.0,,29.0,,S08000015,NHS Ayrshire and Arran
+71,01/12/18,S08000015,Occupational Therapy,215.0,55.0,37.0,25.0,11,87,160.0,25.58139535,17.20930233,11.62790698,5.11627907,40.46511628,74.41860465,12.0,,27.0,,S08000015,NHS Ayrshire and Arran
+72,01/03/19,S08000015,Occupational Therapy,111.0,52.0,34.0,15.0,2,8,59.0,46.84684685,30.63063063,13.51351351,1.801801802,7.207207207,53.15315315,5.0,,10.0,,S08000015,NHS Ayrshire and Arran
+73,01/06/19,S08000015,Occupational Therapy,98.0,66.0,20.0,8.0,1,3,32.0,67.34693878,20.40816327,8.163265306,1.020408163,3.06122449,32.65306122,3.0,,9.0,,S08000015,NHS Ayrshire and Arran
+74,01/09/19,S08000015,Occupational Therapy,168.0,57.0,41.0,38.0,20,12,111.0,33.92857143,24.4047619,22.61904762,11.9047619,7.142857143,66.07142857,7.0,,15.0,,S08000015,NHS Ayrshire and Arran
+75,01/12/19,S08000015,Occupational Therapy,208.0,53.0,28.0,21.0,27,79,155.0,25.48076923,13.46153846,10.09615385,12.98076923,37.98076923,74.51923077,13.0,,27.0,,S08000015,NHS Ayrshire and Arran
+76,01/03/20,S08000015,Occupational Therapy,146.0,29.0,31.0,27.0,23,36,117.0,19.8630137,21.23287671,18.49315068,15.75342466,24.65753425,80.1369863,10.0,,26.0,,S08000015,NHS Ayrshire and Arran
+77,01/06/20,S08000015,Occupational Therapy,92.0,17.0,9.0,5.0,14,47,75.0,18.47826087,9.782608696,5.434782609,15.2173913,51.08695652,81.52173913,17.0,,23.0,,S08000015,NHS Ayrshire and Arran
+78,01/09/20,S08000015,Occupational Therapy,47.0,25.0,21.0,0.0,0,1,22.0,53.19148936,44.68085106,0.0,0,2.127659574,46.80851064,3.0,,7.0,,S08000015,NHS Ayrshire and Arran
+79,01/12/20,S08000015,Occupational Therapy,66.0,36.0,22.0,7.0,0,1,30.0,54.54545455,33.33333333,10.60606061,0,1.515151515,45.45454545,4.0,,9.0,,S08000015,NHS Ayrshire and Arran
+80,01/03/21,S08000015,Occupational Therapy,80.0,74.0,5.0,0.0,0,1,6.0,92.5,6.25,0.0,0,1.25,7.5,2.0,,4.0,,S08000015,NHS Ayrshire and Arran
+81,01/06/21,S08000015,Occupational Therapy,270.0,123.0,66.0,55.0,25,1,147.0,45.55555556,24.44444444,20.37037037,9.259259259,0.37037037,54.44444444,5.0,,12.0,,S08000015,NHS Ayrshire and Arran
+82,01/09/21,S08000015,Occupational Therapy,324.0,57.0,53.0,44.0,62,108,267.0,17.59259259,16.35802469,13.58024691,19.13580247,33.33333333,82.40740741,13.0,,23.0,,S08000015,NHS Ayrshire and Arran
+83,01/12/21,S08000015,Occupational Therapy,259.0,51.0,28.0,35.0,21,124,208.0,19.69111969,10.81081081,13.51351351,8.108108108,47.87644788,80.30888031,16.0,,27.0,,S08000015,NHS Ayrshire and Arran
+84,01/03/22,S08000015,Occupational Therapy,194.0,51.0,29.0,28.0,10,76,143.0,26.28865979,14.94845361,14.43298969,5.154639175,39.17525773,73.71134021,10.0,,30.0,,S08000015,NHS Ayrshire and Arran
+85,01/06/22,S08000015,Occupational Therapy,318.0,90.0,47.0,48.0,15,118,228.0,28.30188679,14.77987421,15.09433962,4.716981132,37.10691824,71.69811321,10.0,,37.0,,S08000015,NHS Ayrshire and Arran
+86,01/09/22,S08000015,Occupational Therapy,245.0,65.0,24.0,27.0,32,97,180.0,26.53061224,9.795918367,11.02040816,13.06122449,39.59183673,73.46938776,13.0,,30.0,,S08000015,NHS Ayrshire and Arran
+203,01/09/15,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+204,01/12/15,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+205,01/03/16,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+206,01/06/16,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+207,01/09/16,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+208,01/12/16,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+209,01/03/17,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+210,01/06/17,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+211,01/09/17,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+212,01/12/17,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+213,01/03/18,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+214,01/06/18,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+215,01/09/18,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+216,01/12/18,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+217,01/03/19,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+218,01/06/19,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+219,01/09/19,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+220,01/12/19,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+221,01/03/20,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+222,01/06/20,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+223,01/09/20,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+224,01/12/20,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+225,01/03/21,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+226,01/06/21,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+227,01/09/21,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+228,01/12/21,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+229,01/03/22,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+230,01/06/22,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+231,01/09/22,S08000016,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000016,NHS Borders
+348,01/09/15,S08000017,Occupational Therapy,111.0,70.0,29.0,8.0,3,1,41.0,63.06306306,26.12612613,7.207207207,2.702702703,0.900900901,36.93693694,3.0,,9.0,,S08000017,NHS Dumfries and Galloway
+349,01/12/15,S08000017,Occupational Therapy,151.0,94.0,49.0,5.0,3,0,57.0,62.25165563,32.45033113,3.311258278,1.986754967,0,37.74834437,4.0,,8.0,,S08000017,NHS Dumfries and Galloway
+350,01/03/16,S08000017,Occupational Therapy,189.0,98.0,63.0,20.0,5,3,91.0,51.85185185,33.33333333,10.58201058,2.645502646,1.587301587,48.14814815,4.0,,9.0,,S08000017,NHS Dumfries and Galloway
+351,01/06/16,S08000017,Occupational Therapy,105.0,80.0,15.0,5.0,2,3,25.0,76.19047619,14.28571429,4.761904762,1.904761905,2.857142857,23.80952381,2.0,,7.0,,S08000017,NHS Dumfries and Galloway
+352,01/09/16,S08000017,Occupational Therapy,77.0,71.0,5.0,0.0,0,1,6.0,92.20779221,6.493506494,0.0,0,1.298701299,7.792207792,1.0,,4.0,,S08000017,NHS Dumfries and Galloway
+353,01/12/16,S08000017,Occupational Therapy,107.0,84.0,19.0,4.0,0,0,23.0,78.5046729,17.75700935,3.738317757,0,0,21.4953271,2.0,,6.0,,S08000017,NHS Dumfries and Galloway
+354,01/03/17,S08000017,Occupational Therapy,152.0,139.0,10.0,3.0,0,0,13.0,91.44736842,6.578947368,1.973684211,0,0,8.552631579,2.0,,4.0,,S08000017,NHS Dumfries and Galloway
+355,01/06/17,S08000017,Occupational Therapy,179.0,108.0,61.0,6.0,4,0,71.0,60.33519553,34.07821229,3.351955307,2.234636872,0,39.66480447,4.0,,8.0,,S08000017,NHS Dumfries and Galloway
+356,01/09/17,S08000017,Occupational Therapy,196.0,96.0,62.0,23.0,12,3,100.0,48.97959184,31.63265306,11.73469388,6.12244898,1.530612245,51.02040816,5.0,,12.0,,S08000017,NHS Dumfries and Galloway
+357,01/12/17,S08000017,Occupational Therapy,162.0,84.0,64.0,12.0,1,1,78.0,51.85185185,39.50617284,7.407407407,0.617283951,0.617283951,48.14814815,4.0,,8.0,,S08000017,NHS Dumfries and Galloway
+358,01/03/18,S08000017,Occupational Therapy,184.0,130.0,45.0,8.0,1,0,54.0,70.65217391,24.45652174,4.347826087,0.543478261,0,29.34782609,3.0,,7.0,,S08000017,NHS Dumfries and Galloway
+359,01/06/18,S08000017,Occupational Therapy,228.0,114.0,89.0,15.0,5,5,114.0,50.0,39.03508772,6.578947368,2.192982456,2.192982456,50.0,5.0,,9.0,,S08000017,NHS Dumfries and Galloway
+360,01/09/18,S08000017,Occupational Therapy,239.0,140.0,52.0,22.0,16,9,99.0,58.57740586,21.75732218,9.205020921,6.694560669,3.765690377,41.42259414,4.0,,13.0,,S08000017,NHS Dumfries and Galloway
+361,01/12/18,S08000017,Occupational Therapy,442.0,116.0,124.0,83.0,87,32,326.0,26.24434389,28.05429864,18.77828054,19.68325792,7.239819005,73.75565611,8.0,,16.0,,S08000017,NHS Dumfries and Galloway
+362,01/03/19,S08000017,Occupational Therapy,515.0,119.0,101.0,80.0,49,166,396.0,23.10679612,19.61165049,15.53398058,9.514563107,32.23300971,76.89320388,10.0,,23.0,,S08000017,NHS Dumfries and Galloway
+363,01/06/19,S08000017,Occupational Therapy,553.0,99.0,97.0,111.0,80,166,454.0,17.90235081,17.54068716,20.07233273,14.46654611,30.01808318,82.09764919,11.0,,24.0,,S08000017,NHS Dumfries and Galloway
+364,01/09/19,S08000017,Occupational Therapy,557.0,118.0,69.0,67.0,57,246,439.0,21.18491921,12.38779174,12.02872531,10.23339318,44.16517056,78.81508079,14.0,,26.0,,S08000017,NHS Dumfries and Galloway
+365,01/12/19,S08000017,Occupational Therapy,453.0,94.0,87.0,64.0,68,140,359.0,20.75055188,19.20529801,14.12803532,15.01103753,30.90507726,79.24944812,11.0,,24.0,,S08000017,NHS Dumfries and Galloway
+366,01/03/20,S08000017,Occupational Therapy,417.0,75.0,68.0,101.0,43,130,342.0,17.98561151,16.30695444,24.2206235,10.3117506,31.17505995,82.01438849,11.0,,24.0,,S08000017,NHS Dumfries and Galloway
+367,01/06/20,S08000017,Occupational Therapy,417.0,28.0,14.0,5.0,43,327,389.0,6.714628297,3.357314149,1.199040767,10.3117506,78.41726619,93.2853717,23.0,,34.0,,S08000017,NHS Dumfries and Galloway
+368,01/09/20,S08000017,Occupational Therapy,116.0,55.0,31.0,11.0,2,17,61.0,47.4137931,26.72413793,9.482758621,1.724137931,14.65517241,52.5862069,5.0,,34.0,,S08000017,NHS Dumfries and Galloway
+369,01/12/20,S08000017,Occupational Therapy,102.0,66.0,28.0,1.0,0,7,36.0,64.70588235,27.45098039,0.980392157,0,6.862745098,35.29411765,3.0,,7.0,,S08000017,NHS Dumfries and Galloway
+370,01/03/21,S08000017,Occupational Therapy,85.0,69.0,8.0,1.0,0,7,16.0,81.17647059,9.411764706,1.176470588,0,8.235294118,18.82352941,2.0,,6.0,,S08000017,NHS Dumfries and Galloway
+371,01/06/21,S08000017,Occupational Therapy,195.0,81.0,44.0,59.0,3,8,114.0,41.53846154,22.56410256,30.25641026,1.538461538,4.102564103,58.46153846,6.0,,12.0,,S08000017,NHS Dumfries and Galloway
+372,01/09/21,S08000017,Occupational Therapy,255.0,77.0,43.0,32.0,33,70,178.0,30.19607843,16.8627451,12.54901961,12.94117647,27.45098039,69.80392157,10.0,,21.0,,S08000017,NHS Dumfries and Galloway
+373,01/12/21,S08000017,Occupational Therapy,188.0,50.0,37.0,17.0,27,57,138.0,26.59574468,19.68085106,9.042553191,14.36170213,30.31914894,73.40425532,10.0,,24.0,,S08000017,NHS Dumfries and Galloway
+374,01/03/22,S08000017,Occupational Therapy,198.0,87.0,44.0,25.0,13,29,111.0,43.93939394,22.22222222,12.62626263,6.565656566,14.64646465,56.06060606,5.0,,18.0,,S08000017,NHS Dumfries and Galloway
+375,01/06/22,S08000017,Occupational Therapy,184.0,79.0,27.0,20.0,19,39,105.0,42.93478261,14.67391304,10.86956522,10.32608696,21.19565217,57.06521739,7.0,,28.0,,S08000017,NHS Dumfries and Galloway
+376,01/09/22,S08000017,Occupational Therapy,107.0,45.0,11.0,6.0,15,30,62.0,42.05607477,10.28037383,5.607476636,14.01869159,28.03738318,57.94392523,7.0,,33.0,,S08000017,NHS Dumfries and Galloway
+493,01/09/15,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+494,01/12/15,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+495,01/03/16,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+496,01/06/16,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+497,01/09/16,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+498,01/12/16,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+499,01/03/17,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+500,01/06/17,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+501,01/09/17,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+502,01/12/17,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+503,01/03/18,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+504,01/06/18,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+505,01/09/18,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+506,01/12/18,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+507,01/03/19,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+508,01/06/19,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+509,01/09/19,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+510,01/12/19,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+511,01/03/20,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+512,01/06/20,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+513,01/09/20,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+514,01/12/20,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+515,01/03/21,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+516,01/06/21,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+517,01/09/21,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+518,01/12/21,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+519,01/03/22,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+520,01/06/22,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+521,01/09/22,S08000019,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000019,NHS Forth Valley
+638,01/09/15,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+639,01/12/15,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+640,01/03/16,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+641,01/06/16,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+642,01/09/16,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+643,01/12/16,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+644,01/03/17,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+645,01/06/17,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+646,01/09/17,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+647,01/12/17,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+648,01/03/18,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+649,01/06/18,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+650,01/09/18,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+651,01/12/18,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+652,01/03/19,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+653,01/06/19,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+654,01/09/19,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+655,01/12/19,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+656,01/03/20,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+657,01/06/20,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+658,01/09/20,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+659,01/12/20,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+660,01/03/21,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+661,01/06/21,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+662,01/09/21,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+663,01/12/21,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+664,01/03/22,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+665,01/06/22,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+666,01/09/22,S08000020,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000020,NHS Grampian
+783,01/09/15,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+784,01/12/15,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+785,01/03/16,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+786,01/06/16,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+787,01/09/16,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+788,01/12/16,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+789,01/03/17,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+790,01/06/17,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+791,01/09/17,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+792,01/12/17,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+793,01/03/18,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+794,01/06/18,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+795,01/09/18,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+796,01/12/18,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+797,01/03/19,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+798,01/06/19,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+799,01/09/19,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+800,01/12/19,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+801,01/03/20,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+802,01/06/20,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+803,01/09/20,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+804,01/12/20,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+805,01/03/21,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+806,01/06/21,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+807,01/09/21,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+808,01/12/21,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+809,01/03/22,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+810,01/06/22,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+811,01/09/22,S08000022,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000022,NHS Highland
+928,01/09/15,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+929,01/12/15,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+930,01/03/16,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+931,01/06/16,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+932,01/09/16,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+933,01/12/16,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+934,01/03/17,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+935,01/06/17,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+936,01/09/17,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+937,01/12/17,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+938,01/03/18,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+939,01/06/18,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+940,01/09/18,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+941,01/12/18,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+942,01/03/19,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+943,01/06/19,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+944,01/09/19,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+945,01/12/19,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+946,01/03/20,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+947,01/06/20,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+948,01/09/20,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+949,01/12/20,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+950,01/03/21,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+951,01/06/21,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+952,01/09/21,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+953,01/12/21,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+954,01/03/22,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+955,01/06/22,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+956,01/09/22,S08000024,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000024,NHS Lothian
+1073,01/09/15,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1074,01/12/15,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1075,01/03/16,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1076,01/06/16,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1077,01/09/16,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1078,01/12/16,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1079,01/03/17,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1080,01/06/17,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1081,01/09/17,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1082,01/12/17,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1083,01/03/18,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1084,01/06/18,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1085,01/09/18,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1086,01/12/18,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1087,01/03/19,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1088,01/06/19,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1089,01/09/19,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1090,01/12/19,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1091,01/03/20,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1092,01/06/20,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1093,01/09/20,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1094,01/12/20,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1095,01/03/21,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1096,01/06/21,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1097,01/09/21,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1098,01/12/21,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1099,01/03/22,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1100,01/06/22,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1101,01/09/22,S08000025,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000025,NHS Orkney
+1218,01/09/15,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1219,01/12/15,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1220,01/03/16,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1221,01/06/16,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1222,01/09/16,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1223,01/12/16,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1224,01/03/17,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1225,01/06/17,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1226,01/09/17,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1227,01/12/17,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1228,01/03/18,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1229,01/06/18,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1230,01/09/18,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1231,01/12/18,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1232,01/03/19,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1233,01/06/19,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1234,01/09/19,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1235,01/12/19,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1236,01/03/20,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1237,01/06/20,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1238,01/09/20,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1239,01/12/20,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1240,01/03/21,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1241,01/06/21,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1242,01/09/21,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1243,01/12/21,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1244,01/03/22,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1245,01/06/22,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1246,01/09/22,S08000026,Occupational Therapy,,,,,,,,,,,,,,,z,,z,S08000026,NHS Shetland
+1363,01/09/15,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1364,01/12/15,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1365,01/03/16,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1366,01/06/16,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1367,01/09/16,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1368,01/12/16,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1369,01/03/17,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1370,01/06/17,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1371,01/09/17,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1372,01/12/17,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1373,01/03/18,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1374,01/06/18,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1375,01/09/18,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1376,01/12/18,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1377,01/03/19,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1378,01/06/19,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1379,01/09/19,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1380,01/12/19,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1381,01/03/20,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1382,01/06/20,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1383,01/09/20,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1384,01/12/20,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1385,01/03/21,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1386,01/06/21,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1387,01/09/21,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1388,01/12/21,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1389,01/03/22,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1390,01/06/22,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1391,01/09/22,S08000028,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000028,NHS Western Isles
+1508,01/09/15,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1509,01/12/15,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1510,01/03/16,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1511,01/06/16,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1512,01/09/16,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1513,01/12/16,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1514,01/03/17,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1515,01/06/17,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1516,01/09/17,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1517,01/12/17,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1518,01/03/18,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1519,01/06/18,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1520,01/09/18,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1521,01/12/18,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1522,01/03/19,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1523,01/06/19,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1524,01/09/19,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1525,01/12/19,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1526,01/03/20,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1527,01/06/20,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1528,01/09/20,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1529,01/12/20,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1530,01/03/21,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1531,01/06/21,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1532,01/09/21,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1533,01/12/21,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1534,01/03/22,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1535,01/06/22,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1536,01/09/22,S08000029,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000029,NHS Fife
+1653,01/09/15,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1654,01/12/15,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1655,01/03/16,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1656,01/06/16,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1657,01/09/16,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1658,01/12/16,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1659,01/03/17,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1660,01/06/17,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1661,01/09/17,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1662,01/12/17,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1663,01/03/18,S08000030,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000030,NHS Tayside
+1664,01/06/18,S08000030,Occupational Therapy,302.0,73.0,14.0,15.0,19,181,229.0,24.17218543,4.635761589,4.966887417,6.291390728,59.93377483,75.82781457,23.0,,57.0,,S08000030,NHS Tayside
+1665,01/09/18,S08000030,Occupational Therapy,463.0,80.0,31.0,12.0,48,292,383.0,17.27861771,6.695464363,2.591792657,10.36717063,63.06695464,82.72138229,23.0,,68.0,,S08000030,NHS Tayside
+1666,01/12/18,S08000030,Occupational Therapy,530.0,114.0,55.0,20.0,36,305,416.0,21.50943396,10.37735849,3.773584906,6.79245283,57.54716981,78.49056604,27.2,,80.0,,S08000030,NHS Tayside
+1667,01/03/19,S08000030,Occupational Therapy,446.0,126.0,52.0,45.0,30,193,320.0,28.25112108,11.65919283,10.0896861,6.726457399,43.2735426,71.74887892,,:,,:,S08000030,NHS Tayside
+1668,01/06/19,S08000030,Occupational Therapy,256.0,98.0,50.0,30.0,31,47,158.0,38.28125,19.53125,11.71875,12.109375,18.359375,61.71875,,:,,:,S08000030,NHS Tayside
+1669,01/09/19,S08000030,Occupational Therapy,587.0,181.0,114.0,73.0,66,153,406.0,30.83475298,19.42078365,12.43611584,11.24361158,26.06473595,69.16524702,,:,,:,S08000030,NHS Tayside
+1670,01/12/19,S08000030,Occupational Therapy,620.0,127.0,136.0,64.0,81,212,493.0,20.48387097,21.93548387,10.32258065,13.06451613,34.19354839,79.51612903,,:,,:,S08000030,NHS Tayside
+1671,01/03/20,S08000030,Occupational Therapy,65.0,16.0,8.0,8.0,6,27,49.0,24.61538462,12.30769231,12.30769231,9.230769231,41.53846154,75.38461538,13.0,,48.0,,S08000030,NHS Tayside
+1672,01/06/20,S08000030,Occupational Therapy,59.0,1.0,0.0,2.0,7,49,58.0,1.694915254,0.0,3.389830508,11.86440678,83.05084746,98.30508475,28.0,,78.0,,S08000030,NHS Tayside
+1673,01/09/20,S08000030,Occupational Therapy,67.0,3.0,2.0,2.0,2,58,64.0,4.47761194,2.985074627,2.985074627,2.985074627,86.56716418,95.52238806,37.0,,72.0,,S08000030,NHS Tayside
+1674,01/12/20,S08000030,Occupational Therapy,89.0,8.0,9.0,4.0,4,64,81.0,8.988764045,10.11235955,4.494382022,4.494382022,71.91011236,91.01123596,46.0,,65.0,,S08000030,NHS Tayside
+1675,01/03/21,S08000030,Occupational Therapy,97.0,4.0,1.0,6.0,8,78,93.0,4.12371134,1.030927835,6.18556701,8.24742268,80.41237113,95.87628866,54.0,,75.0,,S08000030,NHS Tayside
+1676,01/06/21,S08000030,Occupational Therapy,117.0,10.0,7.0,3.0,2,95,107.0,8.547008547,5.982905983,2.564102564,1.709401709,81.1965812,91.45299145,48.0,,86.0,,S08000030,NHS Tayside
+1677,01/09/21,S08000030,Occupational Therapy,128.0,7.0,2.0,2.0,9,108,121.0,5.46875,1.5625,1.5625,7.03125,84.375,94.53125,52.0,,99.0,,S08000030,NHS Tayside
+1678,01/12/21,S08000030,Occupational Therapy,86.0,2.0,4.0,3.0,8,69,84.0,2.325581395,4.651162791,3.488372093,9.302325581,80.23255814,97.6744186,54.0,,112.0,,S08000030,NHS Tayside
+1679,01/03/22,S08000030,Occupational Therapy,86.0,6.0,3.0,3.0,2,72,80.0,6.976744186,3.488372093,3.488372093,2.325581395,83.72093023,93.02325581,61.0,,125.0,,S08000030,NHS Tayside
+1680,01/06/22,S08000030,Occupational Therapy,107.0,16.0,4.0,3.0,6,78,91.0,14.95327103,3.738317757,2.803738318,5.607476636,72.89719626,85.04672897,56.0,,136.0,,S08000030,NHS Tayside
+1681,01/09/22,S08000030,Occupational Therapy,114.0,18.0,8.0,1.0,2,85,96.0,15.78947368,7.01754386,0.877192982,1.754385965,74.56140351,84.21052632,54.0,,149.0,,S08000030,NHS Tayside
+1798,01/09/15,S08000031,Occupational Therapy,,,,,,,,,,,,,,,:,,:,S08000031,NHS Greater Glasgow and Clyde
+1799,01/12/15,S08000031,Occupational Therapy,8.0,7.0,1.0,0.0,0,0,1.0,87.5,12.5,0.0,0,0,12.5,4.0,,5.0,,S08000031,NHS Greater Glasgow and Clyde
+1800,01/03/16,S08000031,Occupational Therapy,15.0,13.0,2.0,0.0,0,0,2.0,86.66666667,13.33333333,0.0,0,0,13.33333333,2.0,,6.0,,S08000031,NHS Greater Glasgow and Clyde
+1801,01/06/16,S08000031,Occupational Therapy,15.0,10.0,4.0,0.0,1,0,5.0,66.66666667,26.66666667,0.0,6.666666667,0,33.33333333,4.0,,6.0,,S08000031,NHS Greater Glasgow and Clyde
+1802,01/09/16,S08000031,Occupational Therapy,8.0,8.0,0.0,0.0,0,0,0.0,100.0,0.0,0.0,0,0,0.0,2.0,,3.0,,S08000031,NHS Greater Glasgow and Clyde
+1803,01/12/16,S08000031,Occupational Therapy,10.0,8.0,2.0,0.0,0,0,2.0,80.0,20.0,0.0,0,0,20.0,2.0,,5.0,,S08000031,NHS Greater Glasgow and Clyde
+1804,01/03/17,S08000031,Occupational Therapy,7.0,7.0,0.0,0.0,0,0,0.0,100.0,0.0,0.0,0,0,0.0,1.0,,2.0,,S08000031,NHS Greater Glasgow and Clyde
+1805,01/06/17,S08000031,Occupational Therapy,5.0,5.0,0.0,0.0,0,0,0.0,100.0,0.0,0.0,0,0,0.0,1.0,,2.0,,S08000031,NHS Greater Glasgow and Clyde
+1806,01/09/17,S08000031,Occupational Therapy,4.0,4.0,0.0,0.0,0,0,0.0,100.0,0.0,0.0,0,0,0.0,3.0,,4.0,,S08000031,NHS Greater Glasgow and Clyde
+1807,01/12/17,S08000031,Occupational Therapy,13.0,12.0,0.0,1.0,0,0,1.0,92.30769231,0.0,7.692307692,0,0,7.692307692,2.0,,3.0,,S08000031,NHS Greater Glasgow and Clyde
+1808,01/03/18,S08000031,Occupational Therapy,13.0,11.0,0.0,0.0,1,1,2.0,84.61538462,0.0,0.0,7.692307692,7.692307692,15.38461538,3.0,,12.0,,S08000031,NHS Greater Glasgow and Clyde
+1809,01/06/18,S08000031,Occupational Therapy,13.0,11.0,0.0,0.0,0,2,2.0,84.61538462,0.0,0.0,0,15.38461538,15.38461538,3.0,,22.0,,S08000031,NHS Greater Glasgow and Clyde
+1810,01/09/18,S08000031,Occupational Therapy,9.0,8.0,0.0,0.0,0,1,1.0,88.88888889,0.0,0.0,0,11.11111111,11.11111111,1.0,,10.0,,S08000031,NHS Greater Glasgow and Clyde
+1811,01/12/18,S08000031,Occupational Therapy,9.0,8.0,0.0,0.0,0,1,1.0,88.88888889,0.0,0.0,0,11.11111111,11.11111111,2.0,,14.0,,S08000031,NHS Greater Glasgow and Clyde
+1812,01/03/19,S08000031,Occupational Therapy,14.0,12.0,1.0,0.0,0,1,2.0,85.71428571,7.142857143,0.0,0,7.142857143,14.28571429,2.0,,5.0,,S08000031,NHS Greater Glasgow and Clyde
+1813,01/06/19,S08000031,Occupational Therapy,9.0,7.0,0.0,0.0,1,1,2.0,77.77777778,0.0,0.0,11.11111111,11.11111111,22.22222222,3.0,,28.0,,S08000031,NHS Greater Glasgow and Clyde
+1814,01/09/19,S08000031,Occupational Therapy,21.0,19.0,0.0,0.0,0,2,2.0,90.47619048,0.0,0.0,0,9.523809524,9.523809524,1.0,,3.0,,S08000031,NHS Greater Glasgow and Clyde
+1815,01/12/19,S08000031,Occupational Therapy,21.0,17.0,1.0,1.0,0,2,4.0,80.95238095,4.761904762,4.761904762,0,9.523809524,19.04761905,2.0,,10.0,,S08000031,NHS Greater Glasgow and Clyde
+1816,01/03/20,S08000031,Occupational Therapy,12.0,8.0,0.0,0.0,0,4,4.0,66.66666667,0.0,0.0,0,33.33333333,33.33333333,3.0,,51.0,,S08000031,NHS Greater Glasgow and Clyde
+1817,01/06/20,S08000031,Occupational Therapy,13.0,3.0,1.0,1.0,4,4,10.0,23.07692308,7.692307692,7.692307692,30.76923077,30.76923077,76.92307692,15.0,,61.0,,S08000031,NHS Greater Glasgow and Clyde
+1818,01/09/20,S08000031,Occupational Therapy,17.0,10.0,4.0,0.0,0,3,7.0,58.82352941,23.52941176,0.0,0,17.64705882,41.17647059,4.0,,62.0,,S08000031,NHS Greater Glasgow and Clyde
+1819,01/12/20,S08000031,Occupational Therapy,7.0,4.0,0.0,0.0,0,3,3.0,57.14285714,0.0,0.0,0,42.85714286,42.85714286,4.0,,119.0,,S08000031,NHS Greater Glasgow and Clyde
+1820,01/03/21,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0,2,2.0,0.0,0.0,0.0,0,100,100.0,139.0,,164.0,,S08000031,NHS Greater Glasgow and Clyde
+1821,01/06/21,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0,2,2.0,0.0,0.0,0.0,0,100,100.0,152.0,,177.0,,S08000031,NHS Greater Glasgow and Clyde
+1822,01/09/21,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0,2,2.0,0.0,0.0,0.0,0,100,100.0,165.0,,190.0,,S08000031,NHS Greater Glasgow and Clyde
+1823,01/12/21,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0,2,2.0,0.0,0.0,0.0,0,100,100.0,178.0,,204.0,,S08000031,NHS Greater Glasgow and Clyde
+1824,01/03/22,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0,2,2.0,0.0,0.0,0.0,0,100,100.0,191.0,,216.0,,S08000031,NHS Greater Glasgow and Clyde
+1825,01/06/22,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0,2,2.0,0.0,0.0,0.0,0,100,100.0,204.0,,229.0,,S08000031,NHS Greater Glasgow and Clyde
+1826,01/09/22,S08000031,Occupational Therapy,2.0,0.0,0.0,0.0,0,2,2.0,0.0,0.0,0.0,0,100,100.0,217.0,,243.0,,S08000031,NHS Greater Glasgow and Clyde
+1943,01/09/15,S08000032,Occupational Therapy,16.0,16.0,0.0,0.0,0,0,0.0,100.0,0.0,0.0,0,0,0.0,2.0,,2.0,,S08000032,NHS Lanarkshire
+1944,01/12/15,S08000032,Occupational Therapy,22.0,13.0,8.0,1.0,0,0,9.0,59.09090909,36.36363636,4.545454545,0,0,40.90909091,3.0,,8.0,,S08000032,NHS Lanarkshire
+1945,01/03/16,S08000032,Occupational Therapy,25.0,21.0,2.0,2.0,0,0,4.0,84.0,8.0,8.0,0,0,16.0,2.0,,7.0,,S08000032,NHS Lanarkshire
+1946,01/06/16,S08000032,Occupational Therapy,21.0,16.0,4.0,1.0,0,0,5.0,76.19047619,19.04761905,4.761904762,0,0,23.80952381,2.0,,7.0,,S08000032,NHS Lanarkshire
+1947,01/09/16,S08000032,Occupational Therapy,32.0,23.0,7.0,1.0,1,0,9.0,71.875,21.875,3.125,3.125,0,28.125,4.0,,6.0,,S08000032,NHS Lanarkshire
+1948,01/12/16,S08000032,Occupational Therapy,26.0,13.0,6.0,7.0,0,0,13.0,50.0,23.07692308,26.92307692,0,0,50.0,5.0,,12.0,,S08000032,NHS Lanarkshire
+1949,01/03/17,S08000032,Occupational Therapy,17.0,14.0,2.0,0.0,0,1,3.0,82.35294118,11.76470588,0.0,0,5.882352941,17.64705882,2.0,,6.0,,S08000032,NHS Lanarkshire
+1950,01/06/17,S08000032,Occupational Therapy,32.0,25.0,5.0,2.0,0,0,7.0,78.125,15.625,6.25,0,0,21.875,3.0,,8.0,,S08000032,NHS Lanarkshire
+1951,01/09/17,S08000032,Occupational Therapy,15.0,11.0,3.0,0.0,1,0,4.0,73.33333333,20.0,0.0,6.666666667,0,26.66666667,3.0,,8.0,,S08000032,NHS Lanarkshire
+1952,01/12/17,S08000032,Occupational Therapy,20.0,14.0,4.0,1.0,1,0,6.0,70.0,20.0,5.0,5,0,30.0,4.0,,7.0,,S08000032,NHS Lanarkshire
+1953,01/03/18,S08000032,Occupational Therapy,34.0,19.0,4.0,11.0,0,0,15.0,55.88235294,11.76470588,32.35294118,0,0,44.11764706,3.0,,12.0,,S08000032,NHS Lanarkshire
+1954,01/06/18,S08000032,Occupational Therapy,21.0,14.0,2.0,4.0,1,0,7.0,66.66666667,9.523809524,19.04761905,4.761904762,0,33.33333333,2.0,,10.0,,S08000032,NHS Lanarkshire
+1955,01/09/18,S08000032,Occupational Therapy,17.0,17.0,0.0,0.0,0,0,0.0,100.0,0.0,0.0,0,0,0.0,2.0,,3.0,,S08000032,NHS Lanarkshire
+1956,01/12/18,S08000032,Occupational Therapy,12.0,12.0,0.0,0.0,0,0,0.0,100.0,0.0,0.0,0,0,0.0,3.0,,4.0,,S08000032,NHS Lanarkshire
+1957,01/03/19,S08000032,Occupational Therapy,37.0,29.0,8.0,0.0,0,0,8.0,78.37837838,21.62162162,0.0,0,0,21.62162162,2.0,,6.0,,S08000032,NHS Lanarkshire
+1958,01/06/19,S08000032,Occupational Therapy,27.0,22.0,4.0,1.0,0,0,5.0,81.48148148,14.81481481,3.703703704,0,0,18.51851852,3.0,,6.0,,S08000032,NHS Lanarkshire
+1959,01/09/19,S08000032,Occupational Therapy,25.0,15.0,4.0,2.0,1,3,10.0,60.0,16.0,8.0,4,12,40.0,3.0,,15.0,,S08000032,NHS Lanarkshire
+1960,01/12/19,S08000032,Occupational Therapy,19.0,17.0,2.0,0.0,0,0,2.0,89.47368421,10.52631579,0.0,0,0,10.52631579,2.0,,3.0,,S08000032,NHS Lanarkshire
+1961,01/03/20,S08000032,Occupational Therapy,12.0,7.0,2.0,3.0,0,0,5.0,58.33333333,16.66666667,25.0,0,0,41.66666667,4.0,,11.0,,S08000032,NHS Lanarkshire
+1962,01/06/20,S08000032,Occupational Therapy,28.0,14.0,2.0,0.0,6,6,14.0,50.0,7.142857143,0.0,21.42857143,21.42857143,50.0,4.0,,20.0,,S08000032,NHS Lanarkshire
+1963,01/09/20,S08000032,Occupational Therapy,26.0,12.0,2.0,1.0,2,9,14.0,46.15384615,7.692307692,3.846153846,7.692307692,34.61538462,53.84615385,6.0,,34.0,,S08000032,NHS Lanarkshire
+1964,01/12/20,S08000032,Occupational Therapy,27.0,11.0,4.0,3.0,5,4,16.0,40.74074074,14.81481481,11.11111111,18.51851852,14.81481481,59.25925926,6.0,,18.0,,S08000032,NHS Lanarkshire
+1965,01/03/21,S08000032,Occupational Therapy,31.0,20.0,3.0,3.0,1,4,11.0,64.51612903,9.677419355,9.677419355,3.225806452,12.90322581,35.48387097,2.0,,21.0,,S08000032,NHS Lanarkshire
+1966,01/06/21,S08000032,Occupational Therapy,35.0,17.0,2.0,2.0,4,10,18.0,48.57142857,5.714285714,5.714285714,11.42857143,28.57142857,51.42857143,6.0,,32.0,,S08000032,NHS Lanarkshire
+1967,01/09/21,S08000032,Occupational Therapy,13.0,11.0,0.0,0.0,0,2,2.0,84.61538462,0.0,0.0,0,15.38461538,15.38461538,2.0,,16.0,,S08000032,NHS Lanarkshire
+1968,01/12/21,S08000032,Occupational Therapy,17.0,16.0,1.0,0.0,0,0,1.0,94.11764706,5.882352941,0.0,0,0,5.882352941,3.0,,4.0,,S08000032,NHS Lanarkshire
+1969,01/03/22,S08000032,Occupational Therapy,24.0,21.0,3.0,0.0,0,0,3.0,87.5,12.5,0.0,0,0,12.5,2.0,,4.0,,S08000032,NHS Lanarkshire
+1970,01/06/22,S08000032,Occupational Therapy,8.0,7.0,1.0,0.0,0,0,1.0,87.5,12.5,0.0,0,0,12.5,3.0,,4.0,,S08000032,NHS Lanarkshire
+1971,01/09/22,S08000032,Occupational Therapy,24.0,23.0,0.0,0.0,1,0,1.0,95.83333333,0.0,0.0,4.166666667,0,4.166666667,2.0,,3.0,,S08000032,NHS Lanarkshire
