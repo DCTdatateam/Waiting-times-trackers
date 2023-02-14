@@ -1,1662 +1,1191 @@
 ,Quarter,HBT,Cancer type,Number of eligible referrals,Number of eligible referrals treated within 31 days,Health board
-9,2012Q1,S08000015,Urological,65.0,63.0,NHS Ayrshire and Arran
-19,2012Q2,S08000015,Urological,62.0,62.0,NHS Ayrshire and Arran
-29,2012Q3,S08000015,Urological,66.0,66.0,NHS Ayrshire and Arran
-39,2012Q4,S08000015,Urological,88.0,88.0,NHS Ayrshire and Arran
-49,2013Q1,S08000015,Urological,91.0,88.0,NHS Ayrshire and Arran
-59,2013Q2,S08000015,Urological,78.0,78.0,NHS Ayrshire and Arran
-69,2013Q3,S08000015,Urological,88.0,87.0,NHS Ayrshire and Arran
-78,2013Q4,S08000015,Urological,95.0,91.0,NHS Ayrshire and Arran
-88,2014Q1,S08000015,Urological,72.0,70.0,NHS Ayrshire and Arran
-99,2014Q2,S08000015,Urological,88.0,88.0,NHS Ayrshire and Arran
-109,2014Q3,S08000015,Urological,98.0,96.0,NHS Ayrshire and Arran
-119,2014Q4,S08000015,Urological,84.0,84.0,NHS Ayrshire and Arran
-129,2015Q1,S08000015,Urological,82.0,81.0,NHS Ayrshire and Arran
-139,2015Q2,S08000015,Urological,100.0,100.0,NHS Ayrshire and Arran
-149,2015Q3,S08000015,Urological,80.0,79.0,NHS Ayrshire and Arran
-159,2015Q4,S08000015,Urological,81.0,81.0,NHS Ayrshire and Arran
-168,2016Q1,S08000015,Urological,86.0,78.0,NHS Ayrshire and Arran
-178,2016Q2,S08000015,Urological,81.0,77.0,NHS Ayrshire and Arran
-187,2016Q3,S08000015,Urological,80.0,79.0,NHS Ayrshire and Arran
-197,2016Q4,S08000015,Urological,68.0,67.0,NHS Ayrshire and Arran
-207,2017Q1,S08000015,Urological,72.0,71.0,NHS Ayrshire and Arran
-217,2017Q2,S08000015,Urological,71.0,69.0,NHS Ayrshire and Arran
-227,2017Q3,S08000015,Urological,67.0,65.0,NHS Ayrshire and Arran
-236,2017Q4,S08000015,Urological,67.0,66.0,NHS Ayrshire and Arran
-246,2018Q1,S08000015,Urological,61.0,56.0,NHS Ayrshire and Arran
-255,2018Q2,S08000015,Urological,83.0,81.0,NHS Ayrshire and Arran
-265,2018Q3,S08000015,Urological,78.0,78.0,NHS Ayrshire and Arran
-266,2018Q3,S08000015,Urological,1.0,1.0,NHS Ayrshire and Arran
-276,2018Q4,S08000015,Urological,58.0,57.0,NHS Ayrshire and Arran
-286,2019Q1,S08000015,Urological,87.0,85.0,NHS Ayrshire and Arran
-296,2019Q2,S08000015,Urological,84.0,84.0,NHS Ayrshire and Arran
-306,2019Q3,S08000015,Urological,66.0,66.0,NHS Ayrshire and Arran
-307,2019Q3,S08000015,Urological,1.0,1.0,NHS Ayrshire and Arran
-317,2019Q4,S08000015,Urological,61.0,60.0,NHS Ayrshire and Arran
-327,2020Q1,S08000015,Urological,65.0,64.0,NHS Ayrshire and Arran
-338,2020Q2,S08000015,Urological,64.0,64.0,NHS Ayrshire and Arran
-347,2020Q3,S08000015,Urological,27.0,26.0,NHS Ayrshire and Arran
-357,2020Q4,S08000015,Urological,49.0,49.0,NHS Ayrshire and Arran
-367,2021Q1,S08000015,Urological,38.0,38.0,NHS Ayrshire and Arran
-377,2021Q2,S08000015,Urological,48.0,48.0,NHS Ayrshire and Arran
-388,2021Q3,S08000015,Urological,31.0,31.0,NHS Ayrshire and Arran
-443,2020Q4,S08000015,Urological,49.0,49.0,NHS Ayrshire and Arran
-454,2021Q1,S08000015,Urological,38.0,38.0,NHS Ayrshire and Arran
-466,2021Q2,S08000015,Urological,48.0,48.0,NHS Ayrshire and Arran
-479,2021Q3,S08000015,Urological,31.0,31.0,NHS Ayrshire and Arran
-489,2021Q4,S08000015,Urological,43.0,43.0,NHS Ayrshire and Arran
-505,2021Q1,S08000015,Urological,38.0,38.0,NHS Ayrshire and Arran
-517,2021Q2,S08000015,Urological,48.0,48.0,NHS Ayrshire and Arran
-530,2021Q3,S08000015,Urological,31.0,31.0,NHS Ayrshire and Arran
-540,2021Q4,S08000015,Urological,43.0,43.0,NHS Ayrshire and Arran
-556,2022Q1,S08000015,Urological,20.0,20.0,NHS Ayrshire and Arran
-557,2022Q1,S08000015,Urological,1.0,1.0,NHS Ayrshire and Arran
-568,2021Q2,S08000015,Urological,48.0,48.0,NHS Ayrshire and Arran
-581,2021Q3,S08000015,Urological,31.0,31.0,NHS Ayrshire and Arran
-591,2021Q4,S08000015,Urological,43.0,43.0,NHS Ayrshire and Arran
-607,2022Q1,S08000015,Urological,20.0,20.0,NHS Ayrshire and Arran
-608,2022Q1,S08000015,Urological,1.0,1.0,NHS Ayrshire and Arran
-620,2022Q2,S08000015,Urological,64.0,64.0,NHS Ayrshire and Arran
-631,2021Q3,S08000015,Urological,31.0,31.0,NHS Ayrshire and Arran
-641,2021Q4,S08000015,Urological,43.0,43.0,NHS Ayrshire and Arran
-657,2022Q1,S08000015,Urological,20.0,20.0,NHS Ayrshire and Arran
-658,2022Q1,S08000015,Urological,1.0,1.0,NHS Ayrshire and Arran
-670,2022Q2,S08000015,Urological,64.0,64.0,NHS Ayrshire and Arran
-681,2022Q3,S08000015,Urological,53.0,53.0,NHS Ayrshire and Arran
-692,2012Q1,S08000017,Urological,29.0,29.0,NHS Dumfries and Galloway
-701,2012Q2,S08000017,Urological,26.0,26.0,NHS Dumfries and Galloway
-712,2012Q3,S08000017,Urological,39.0,38.0,NHS Dumfries and Galloway
-723,2012Q4,S08000017,Urological,37.0,35.0,NHS Dumfries and Galloway
-733,2013Q1,S08000017,Urological,34.0,32.0,NHS Dumfries and Galloway
-742,2013Q2,S08000017,Urological,30.0,28.0,NHS Dumfries and Galloway
-752,2013Q3,S08000017,Urological,30.0,30.0,NHS Dumfries and Galloway
-762,2013Q4,S08000017,Urological,30.0,30.0,NHS Dumfries and Galloway
-773,2014Q1,S08000017,Urological,32.0,32.0,NHS Dumfries and Galloway
-783,2014Q2,S08000017,Urological,37.0,37.0,NHS Dumfries and Galloway
-793,2014Q3,S08000017,Urological,42.0,42.0,NHS Dumfries and Galloway
-804,2014Q4,S08000017,Urological,48.0,47.0,NHS Dumfries and Galloway
-814,2015Q1,S08000017,Urological,24.0,24.0,NHS Dumfries and Galloway
-825,2015Q2,S08000017,Urological,31.0,31.0,NHS Dumfries and Galloway
-836,2015Q3,S08000017,Urological,33.0,32.0,NHS Dumfries and Galloway
-847,2015Q4,S08000017,Urological,39.0,37.0,NHS Dumfries and Galloway
-856,2016Q1,S08000017,Urological,38.0,38.0,NHS Dumfries and Galloway
-866,2016Q2,S08000017,Urological,26.0,24.0,NHS Dumfries and Galloway
-877,2016Q3,S08000017,Urological,37.0,34.0,NHS Dumfries and Galloway
-886,2016Q4,S08000017,Urological,37.0,34.0,NHS Dumfries and Galloway
-897,2017Q1,S08000017,Urological,28.0,24.0,NHS Dumfries and Galloway
-908,2017Q2,S08000017,Urological,27.0,25.0,NHS Dumfries and Galloway
-917,2017Q3,S08000017,Urological,30.0,28.0,NHS Dumfries and Galloway
-928,2017Q4,S08000017,Urological,24.0,22.0,NHS Dumfries and Galloway
-938,2018Q1,S08000017,Urological,28.0,24.0,NHS Dumfries and Galloway
-949,2018Q2,S08000017,Urological,35.0,32.0,NHS Dumfries and Galloway
-960,2018Q3,S08000017,Urological,33.0,28.0,NHS Dumfries and Galloway
-970,2018Q4,S08000017,Urological,44.0,42.0,NHS Dumfries and Galloway
-980,2019Q1,S08000017,Urological,38.0,33.0,NHS Dumfries and Galloway
-991,2019Q2,S08000017,Urological,33.0,33.0,NHS Dumfries and Galloway
-1002,2019Q3,S08000017,Urological,39.0,36.0,NHS Dumfries and Galloway
-1011,2019Q4,S08000017,Urological,41.0,38.0,NHS Dumfries and Galloway
-1021,2020Q1,S08000017,Urological,39.0,37.0,NHS Dumfries and Galloway
-1031,2020Q2,S08000017,Urological,53.0,53.0,NHS Dumfries and Galloway
-1041,2020Q3,S08000017,Urological,35.0,35.0,NHS Dumfries and Galloway
-1051,2020Q4,S08000017,Urological,35.0,35.0,NHS Dumfries and Galloway
-1063,2021Q1,S08000017,Urological,45.0,43.0,NHS Dumfries and Galloway
-1072,2021Q2,S08000017,Urological,31.0,30.0,NHS Dumfries and Galloway
-1083,2021Q3,S08000017,Urological,36.0,35.0,NHS Dumfries and Galloway
-1165,2020Q4,S08000017,Urological,35.0,35.0,NHS Dumfries and Galloway
-1180,2021Q1,S08000017,Urological,45.0,43.0,NHS Dumfries and Galloway
-1191,2021Q2,S08000017,Urological,31.0,30.0,NHS Dumfries and Galloway
-1204,2021Q3,S08000017,Urological,36.0,35.0,NHS Dumfries and Galloway
-1216,2021Q4,S08000017,Urological,42.0,42.0,NHS Dumfries and Galloway
-1229,2021Q1,S08000017,Urological,45.0,43.0,NHS Dumfries and Galloway
-1240,2021Q2,S08000017,Urological,31.0,30.0,NHS Dumfries and Galloway
-1253,2021Q3,S08000017,Urological,36.0,35.0,NHS Dumfries and Galloway
-1265,2021Q4,S08000017,Urological,42.0,42.0,NHS Dumfries and Galloway
-1276,2022Q1,S08000017,Urological,39.0,37.0,NHS Dumfries and Galloway
-1287,2021Q2,S08000017,Urological,31.0,30.0,NHS Dumfries and Galloway
-1300,2021Q3,S08000017,Urological,36.0,35.0,NHS Dumfries and Galloway
-1312,2021Q4,S08000017,Urological,42.0,42.0,NHS Dumfries and Galloway
-1323,2022Q1,S08000017,Urological,39.0,37.0,NHS Dumfries and Galloway
-1335,2022Q2,S08000017,Urological,42.0,42.0,NHS Dumfries and Galloway
-1348,2021Q3,S08000017,Urological,36.0,35.0,NHS Dumfries and Galloway
-1360,2021Q4,S08000017,Urological,42.0,42.0,NHS Dumfries and Galloway
-1371,2022Q1,S08000017,Urological,39.0,37.0,NHS Dumfries and Galloway
-1383,2022Q2,S08000017,Urological,42.0,42.0,NHS Dumfries and Galloway
-1396,2022Q3,S08000017,Urological,44.0,40.0,NHS Dumfries and Galloway
-1397,2022Q3,S08000017,Urological,1.0,1.0,NHS Dumfries and Galloway
-1411,2012Q1,S08000020,Urological,115.0,105.0,NHS Grampian
-1418,2012Q1,S08000020,Urological,1.0,1.0,NHS Grampian
-1425,2012Q1,S08000020,Urological,2.0,2.0,NHS Grampian
-1436,2012Q2,S08000020,Urological,126.0,122.0,NHS Grampian
-1442,2012Q2,S08000020,Urological,2.0,2.0,NHS Grampian
-1445,2012Q2,S08000020,Urological,3.0,3.0,NHS Grampian
-1455,2012Q3,S08000020,Urological,107.0,101.0,NHS Grampian
-1460,2012Q3,S08000020,Urological,2.0,2.0,NHS Grampian
-1465,2012Q3,S08000020,Urological,2.0,2.0,NHS Grampian
-1475,2012Q4,S08000020,Urological,131.0,125.0,NHS Grampian
-1488,2012Q4,S08000020,Urological,3.0,3.0,NHS Grampian
-1499,2013Q1,S08000020,Urological,105.0,100.0,NHS Grampian
-1503,2013Q1,S08000020,Urological,2.0,1.0,NHS Grampian
-1508,2013Q1,S08000020,Urological,1.0,1.0,NHS Grampian
-1519,2013Q2,S08000020,Urological,110.0,93.0,NHS Grampian
-1522,2013Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-1524,2013Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-1538,2013Q3,S08000020,Urological,74.0,64.0,NHS Grampian
-1544,2013Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-1550,2013Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-1560,2013Q4,S08000020,Urological,114.0,98.0,NHS Grampian
-1569,2013Q4,S08000020,Urological,1.0,1.0,NHS Grampian
-1579,2014Q1,S08000020,Urological,108.0,80.0,NHS Grampian
-1590,2014Q1,S08000020,Urological,1.0,1.0,NHS Grampian
-1601,2014Q2,S08000020,Urological,86.0,64.0,NHS Grampian
-1610,2014Q2,S08000020,Urological,2.0,2.0,NHS Grampian
-1624,2014Q3,S08000020,Urological,83.0,65.0,NHS Grampian
-1629,2014Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-1638,2014Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-1651,2014Q4,S08000020,Urological,81.0,76.0,NHS Grampian
-1656,2014Q4,S08000020,Urological,1.0,1.0,NHS Grampian
-1670,2015Q1,S08000020,Urological,132.0,111.0,NHS Grampian
-1671,2015Q1,S08000020,Urological,5.0,2.0,NHS Grampian
-1676,2015Q1,S08000020,Urological,2.0,2.0,NHS Grampian
-1686,2015Q2,S08000020,Urological,134.0,108.0,NHS Grampian
-1689,2015Q2,S08000020,Urological,3.0,1.0,NHS Grampian
-1706,2015Q3,S08000020,Urological,121.0,98.0,NHS Grampian
-1709,2015Q3,S08000020,Urological,4.0,0.0,NHS Grampian
-1718,2015Q3,S08000020,Urological,2.0,2.0,NHS Grampian
-1729,2015Q4,S08000020,Urological,123.0,111.0,NHS Grampian
-1733,2015Q4,S08000020,Urological,4.0,1.0,NHS Grampian
-1754,2016Q1,S08000020,Urological,123.0,103.0,NHS Grampian
-1758,2016Q1,S08000020,Urological,5.0,0.0,NHS Grampian
-1761,2016Q1,S08000020,Urological,1.0,0.0,NHS Grampian
-1767,2016Q1,S08000020,Urological,1.0,1.0,NHS Grampian
-1778,2016Q2,S08000020,Urological,150.0,141.0,NHS Grampian
-1781,2016Q2,S08000020,Urological,4.0,2.0,NHS Grampian
-1783,2016Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-1785,2016Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-1795,2016Q3,S08000020,Urological,153.0,137.0,NHS Grampian
-1799,2016Q3,S08000020,Urological,4.0,2.0,NHS Grampian
-1801,2016Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-1807,2016Q3,S08000020,Urological,2.0,2.0,NHS Grampian
-1818,2016Q4,S08000020,Urological,115.0,100.0,NHS Grampian
-1823,2016Q4,S08000020,Urological,9.0,3.0,NHS Grampian
-1830,2016Q4,S08000020,Urological,1.0,1.0,NHS Grampian
-1831,2016Q4,S08000020,Urological,1.0,0.0,NHS Grampian
-1842,2017Q1,S08000020,Urological,147.0,119.0,NHS Grampian
-1847,2017Q1,S08000020,Urological,7.0,0.0,NHS Grampian
-1851,2017Q1,S08000020,Urological,3.0,3.0,NHS Grampian
-1857,2017Q1,S08000020,Urological,3.0,2.0,NHS Grampian
-1869,2017Q2,S08000020,Urological,150.0,123.0,NHS Grampian
-1871,2017Q2,S08000020,Urological,3.0,0.0,NHS Grampian
-1880,2017Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-1881,2017Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-1893,2017Q3,S08000020,Urological,146.0,117.0,NHS Grampian
-1895,2017Q3,S08000020,Urological,5.0,2.0,NHS Grampian
-1900,2017Q3,S08000020,Urological,3.0,3.0,NHS Grampian
-1912,2017Q4,S08000020,Urological,145.0,105.0,NHS Grampian
-1917,2017Q4,S08000020,Urological,5.0,0.0,NHS Grampian
-1922,2017Q4,S08000020,Urological,1.0,0.0,NHS Grampian
-1923,2017Q4,S08000020,Urological,1.0,0.0,NHS Grampian
-1926,2017Q4,S08000020,Urological,4.0,0.0,NHS Grampian
-1936,2018Q1,S08000020,Urological,155.0,116.0,NHS Grampian
-1940,2018Q1,S08000020,Urological,9.0,2.0,NHS Grampian
-1943,2018Q1,S08000020,Urological,1.0,0.0,NHS Grampian
-1946,2018Q1,S08000020,Urological,1.0,0.0,NHS Grampian
-1948,2018Q1,S08000020,Urological,2.0,0.0,NHS Grampian
-1958,2018Q2,S08000020,Urological,170.0,149.0,NHS Grampian
-1962,2018Q2,S08000020,Urological,7.0,4.0,NHS Grampian
-1973,2018Q2,S08000020,Urological,3.0,3.0,NHS Grampian
-1986,2018Q3,S08000020,Urological,145.0,105.0,NHS Grampian
-1988,2018Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-1990,2018Q3,S08000020,Urological,3.0,2.0,NHS Grampian
-1995,2018Q3,S08000020,Urological,3.0,0.0,NHS Grampian
-2005,2018Q4,S08000020,Urological,188.0,143.0,NHS Grampian
-2007,2018Q4,S08000020,Urological,5.0,1.0,NHS Grampian
-2013,2018Q4,S08000020,Urological,1.0,0.0,NHS Grampian
-2018,2018Q4,S08000020,Urological,1.0,0.0,NHS Grampian
-2030,2019Q1,S08000020,Urological,157.0,134.0,NHS Grampian
-2034,2019Q1,S08000020,Urological,5.0,2.0,NHS Grampian
-2037,2019Q1,S08000020,Urological,2.0,1.0,NHS Grampian
-2042,2019Q1,S08000020,Urological,1.0,0.0,NHS Grampian
-2044,2019Q1,S08000020,Urological,2.0,1.0,NHS Grampian
-2045,2019Q1,S08000020,Urological,1.0,0.0,NHS Grampian
-2055,2019Q2,S08000020,Urological,199.0,170.0,NHS Grampian
-2059,2019Q2,S08000020,Urological,6.0,6.0,NHS Grampian
-2064,2019Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-2067,2019Q2,S08000020,Urological,2.0,1.0,NHS Grampian
-2068,2019Q2,S08000020,Urological,2.0,1.0,NHS Grampian
-2080,2019Q3,S08000020,Urological,202.0,175.0,NHS Grampian
-2083,2019Q3,S08000020,Urological,10.0,10.0,NHS Grampian
-2086,2019Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-2091,2019Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2092,2019Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-2094,2019Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-2104,2019Q4,S08000020,Urological,203.0,179.0,NHS Grampian
-2107,2019Q4,S08000020,Urological,8.0,8.0,NHS Grampian
-2111,2019Q4,S08000020,Urological,1.0,0.0,NHS Grampian
-2130,2020Q1,S08000020,Urological,201.0,184.0,NHS Grampian
-2134,2020Q1,S08000020,Urological,5.0,5.0,NHS Grampian
-2137,2020Q1,S08000020,Urological,2.0,2.0,NHS Grampian
-2143,2020Q1,S08000020,Urological,2.0,1.0,NHS Grampian
-2155,2020Q2,S08000020,Urological,164.0,154.0,NHS Grampian
-2158,2020Q2,S08000020,Urological,8.0,8.0,NHS Grampian
-2161,2020Q2,S08000020,Urological,2.0,2.0,NHS Grampian
-2162,2020Q2,S08000020,Urological,2.0,0.0,NHS Grampian
-2174,2020Q3,S08000020,Urological,153.0,142.0,NHS Grampian
-2178,2020Q3,S08000020,Urological,8.0,8.0,NHS Grampian
-2182,2020Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-2189,2020Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-2199,2020Q4,S08000020,Urological,172.0,170.0,NHS Grampian
-2201,2020Q4,S08000020,Urological,2.0,2.0,NHS Grampian
-2205,2020Q4,S08000020,Urological,1.0,0.0,NHS Grampian
-2208,2020Q4,S08000020,Urological,1.0,1.0,NHS Grampian
-2219,2021Q1,S08000020,Urological,175.0,171.0,NHS Grampian
-2222,2021Q1,S08000020,Urological,4.0,3.0,NHS Grampian
-2226,2021Q1,S08000020,Urological,3.0,2.0,NHS Grampian
-2229,2021Q1,S08000020,Urological,1.0,1.0,NHS Grampian
-2242,2021Q2,S08000020,Urological,225.0,217.0,NHS Grampian
-2244,2021Q2,S08000020,Urological,4.0,4.0,NHS Grampian
-2248,2021Q2,S08000020,Urological,4.0,2.0,NHS Grampian
-2256,2021Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-2259,2021Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-2269,2021Q3,S08000020,Urological,200.0,191.0,NHS Grampian
-2272,2021Q3,S08000020,Urological,5.0,5.0,NHS Grampian
-2277,2021Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2282,2021Q3,S08000020,Urological,2.0,2.0,NHS Grampian
-2283,2021Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2286,2021Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-2496,2020Q4,S08000020,Urological,172.0,170.0,NHS Grampian
-2498,2020Q4,S08000020,Urological,2.0,2.0,NHS Grampian
-2502,2020Q4,S08000020,Urological,1.0,0.0,NHS Grampian
-2505,2020Q4,S08000020,Urological,1.0,1.0,NHS Grampian
-2521,2021Q1,S08000020,Urological,175.0,171.0,NHS Grampian
-2524,2021Q1,S08000020,Urological,4.0,3.0,NHS Grampian
-2528,2021Q1,S08000020,Urological,3.0,2.0,NHS Grampian
-2531,2021Q1,S08000020,Urological,1.0,1.0,NHS Grampian
-2549,2021Q2,S08000020,Urological,225.0,217.0,NHS Grampian
-2551,2021Q2,S08000020,Urological,4.0,4.0,NHS Grampian
-2555,2021Q2,S08000020,Urological,4.0,2.0,NHS Grampian
-2563,2021Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-2566,2021Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-2581,2021Q3,S08000020,Urological,200.0,191.0,NHS Grampian
-2584,2021Q3,S08000020,Urological,5.0,5.0,NHS Grampian
-2589,2021Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2594,2021Q3,S08000020,Urological,2.0,2.0,NHS Grampian
-2595,2021Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2598,2021Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-2614,2021Q4,S08000020,Urological,165.0,149.0,NHS Grampian
-2617,2021Q4,S08000020,Urological,9.0,9.0,NHS Grampian
-2620,2021Q4,S08000020,Urological,2.0,0.0,NHS Grampian
-2639,2021Q1,S08000020,Urological,175.0,171.0,NHS Grampian
-2642,2021Q1,S08000020,Urological,4.0,3.0,NHS Grampian
-2646,2021Q1,S08000020,Urological,3.0,2.0,NHS Grampian
-2649,2021Q1,S08000020,Urological,1.0,1.0,NHS Grampian
-2667,2021Q2,S08000020,Urological,225.0,217.0,NHS Grampian
-2669,2021Q2,S08000020,Urological,4.0,4.0,NHS Grampian
-2673,2021Q2,S08000020,Urological,4.0,2.0,NHS Grampian
-2681,2021Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-2684,2021Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-2699,2021Q3,S08000020,Urological,200.0,191.0,NHS Grampian
-2702,2021Q3,S08000020,Urological,5.0,5.0,NHS Grampian
-2707,2021Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2712,2021Q3,S08000020,Urological,2.0,2.0,NHS Grampian
-2713,2021Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2716,2021Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-2732,2021Q4,S08000020,Urological,165.0,149.0,NHS Grampian
-2735,2021Q4,S08000020,Urological,9.0,9.0,NHS Grampian
-2738,2021Q4,S08000020,Urological,2.0,0.0,NHS Grampian
-2757,2022Q1,S08000020,Urological,162.0,151.0,NHS Grampian
-2759,2022Q1,S08000020,Urological,7.0,7.0,NHS Grampian
-2762,2022Q1,S08000020,Urological,2.0,1.0,NHS Grampian
-2768,2022Q1,S08000020,Urological,3.0,1.0,NHS Grampian
-2769,2022Q1,S08000020,Urological,2.0,2.0,NHS Grampian
-2788,2021Q2,S08000020,Urological,225.0,217.0,NHS Grampian
-2790,2021Q2,S08000020,Urological,4.0,4.0,NHS Grampian
-2794,2021Q2,S08000020,Urological,4.0,2.0,NHS Grampian
-2802,2021Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-2805,2021Q2,S08000020,Urological,1.0,1.0,NHS Grampian
-2820,2021Q3,S08000020,Urological,200.0,191.0,NHS Grampian
-2823,2021Q3,S08000020,Urological,5.0,5.0,NHS Grampian
-2828,2021Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2833,2021Q3,S08000020,Urological,2.0,2.0,NHS Grampian
-2834,2021Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2837,2021Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-2853,2021Q4,S08000020,Urological,165.0,149.0,NHS Grampian
-2856,2021Q4,S08000020,Urological,9.0,9.0,NHS Grampian
-2859,2021Q4,S08000020,Urological,2.0,0.0,NHS Grampian
-2878,2022Q1,S08000020,Urological,162.0,151.0,NHS Grampian
-2880,2022Q1,S08000020,Urological,7.0,7.0,NHS Grampian
-2883,2022Q1,S08000020,Urological,2.0,1.0,NHS Grampian
-2889,2022Q1,S08000020,Urological,3.0,1.0,NHS Grampian
-2890,2022Q1,S08000020,Urological,2.0,2.0,NHS Grampian
-2909,2022Q2,S08000020,Urological,195.0,174.0,NHS Grampian
-2910,2022Q2,S08000020,Urological,5.0,5.0,NHS Grampian
-2913,2022Q2,S08000020,Urological,4.0,4.0,NHS Grampian
-2918,2022Q2,S08000020,Urological,4.0,2.0,NHS Grampian
-2936,2021Q3,S08000020,Urological,200.0,191.0,NHS Grampian
-2939,2021Q3,S08000020,Urological,5.0,5.0,NHS Grampian
-2944,2021Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2949,2021Q3,S08000020,Urological,2.0,2.0,NHS Grampian
-2950,2021Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-2953,2021Q3,S08000020,Urological,1.0,1.0,NHS Grampian
-2969,2021Q4,S08000020,Urological,165.0,149.0,NHS Grampian
-2972,2021Q4,S08000020,Urological,9.0,9.0,NHS Grampian
-2975,2021Q4,S08000020,Urological,2.0,0.0,NHS Grampian
-2994,2022Q1,S08000020,Urological,162.0,151.0,NHS Grampian
-2996,2022Q1,S08000020,Urological,7.0,7.0,NHS Grampian
-2999,2022Q1,S08000020,Urological,2.0,1.0,NHS Grampian
-3005,2022Q1,S08000020,Urological,3.0,1.0,NHS Grampian
-3006,2022Q1,S08000020,Urological,2.0,2.0,NHS Grampian
-3025,2022Q2,S08000020,Urological,195.0,174.0,NHS Grampian
-3026,2022Q2,S08000020,Urological,5.0,5.0,NHS Grampian
-3029,2022Q2,S08000020,Urological,4.0,4.0,NHS Grampian
-3034,2022Q2,S08000020,Urological,4.0,2.0,NHS Grampian
-3052,2022Q3,S08000020,Urological,189.0,175.0,NHS Grampian
-3053,2022Q3,S08000020,Urological,3.0,3.0,NHS Grampian
-3060,2022Q3,S08000020,Urological,2.0,1.0,NHS Grampian
-3061,2022Q3,S08000020,Urological,1.0,0.0,NHS Grampian
-3078,2012Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3088,2012Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3091,2012Q1,S08000031,Urological,8.0,8.0,NHS Greater Glasgow and Clyde
-3101,2012Q1,S08000031,Urological,261.0,252.0,NHS Greater Glasgow and Clyde
-3111,2012Q1,S08000031,Urological,4.0,4.0,NHS Greater Glasgow and Clyde
-3121,2012Q2,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3130,2012Q2,S08000031,Urological,4.0,4.0,NHS Greater Glasgow and Clyde
-3149,2012Q2,S08000031,Urological,261.0,252.0,NHS Greater Glasgow and Clyde
-3158,2012Q2,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-3166,2012Q3,S08000031,Urological,11.0,7.0,NHS Greater Glasgow and Clyde
-3176,2012Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3182,2012Q3,S08000031,Urological,3.0,3.0,NHS Greater Glasgow and Clyde
-3194,2012Q3,S08000031,Urological,279.0,260.0,NHS Greater Glasgow and Clyde
-3203,2012Q3,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-3211,2012Q4,S08000031,Urological,10.0,9.0,NHS Greater Glasgow and Clyde
-3220,2012Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3225,2012Q4,S08000031,Urological,3.0,3.0,NHS Greater Glasgow and Clyde
-3236,2012Q4,S08000031,Urological,289.0,276.0,NHS Greater Glasgow and Clyde
-3246,2012Q4,S08000031,Urological,4.0,4.0,NHS Greater Glasgow and Clyde
-3252,2013Q1,S08000031,Urological,19.0,17.0,NHS Greater Glasgow and Clyde
-3262,2013Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3268,2013Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3281,2013Q1,S08000031,Urological,280.0,266.0,NHS Greater Glasgow and Clyde
-3290,2013Q1,S08000031,Urological,3.0,3.0,NHS Greater Glasgow and Clyde
-3299,2013Q2,S08000031,Urological,5.0,5.0,NHS Greater Glasgow and Clyde
-3311,2013Q2,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3317,2013Q2,S08000031,Urological,2.0,1.0,NHS Greater Glasgow and Clyde
-3330,2013Q2,S08000031,Urological,231.0,209.0,NHS Greater Glasgow and Clyde
-3340,2013Q2,S08000031,Urological,2.0,1.0,NHS Greater Glasgow and Clyde
-3349,2013Q3,S08000031,Urological,9.0,8.0,NHS Greater Glasgow and Clyde
-3360,2013Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3365,2013Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3376,2013Q3,S08000031,Urological,254.0,243.0,NHS Greater Glasgow and Clyde
-3394,2013Q4,S08000031,Urological,6.0,4.0,NHS Greater Glasgow and Clyde
-3403,2013Q4,S08000031,Urological,3.0,2.0,NHS Greater Glasgow and Clyde
-3409,2013Q4,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-3419,2013Q4,S08000031,Urological,296.0,273.0,NHS Greater Glasgow and Clyde
-3427,2013Q4,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-3436,2014Q1,S08000031,Urological,5.0,4.0,NHS Greater Glasgow and Clyde
-3448,2014Q1,S08000031,Urological,7.0,6.0,NHS Greater Glasgow and Clyde
-3453,2014Q1,S08000031,Urological,3.0,3.0,NHS Greater Glasgow and Clyde
-3464,2014Q1,S08000031,Urological,299.0,266.0,NHS Greater Glasgow and Clyde
-3473,2014Q1,S08000031,Urological,9.0,9.0,NHS Greater Glasgow and Clyde
-3482,2014Q2,S08000031,Urological,5.0,3.0,NHS Greater Glasgow and Clyde
-3493,2014Q2,S08000031,Urological,7.0,5.0,NHS Greater Glasgow and Clyde
-3499,2014Q2,S08000031,Urological,4.0,4.0,NHS Greater Glasgow and Clyde
-3510,2014Q2,S08000031,Urological,291.0,257.0,NHS Greater Glasgow and Clyde
-3520,2014Q2,S08000031,Urological,9.0,7.0,NHS Greater Glasgow and Clyde
-3529,2014Q3,S08000031,Urological,7.0,3.0,NHS Greater Glasgow and Clyde
-3531,2014Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3540,2014Q3,S08000031,Urological,9.0,9.0,NHS Greater Glasgow and Clyde
-3545,2014Q3,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-3557,2014Q3,S08000031,Urological,284.0,250.0,NHS Greater Glasgow and Clyde
-3567,2014Q3,S08000031,Urological,7.0,7.0,NHS Greater Glasgow and Clyde
-3576,2014Q4,S08000031,Urological,7.0,5.0,NHS Greater Glasgow and Clyde
-3585,2014Q4,S08000031,Urological,5.0,5.0,NHS Greater Glasgow and Clyde
-3591,2014Q4,S08000031,Urological,3.0,3.0,NHS Greater Glasgow and Clyde
-3601,2014Q4,S08000031,Urological,286.0,257.0,NHS Greater Glasgow and Clyde
-3610,2014Q4,S08000031,Urological,15.0,14.0,NHS Greater Glasgow and Clyde
-3620,2015Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3629,2015Q1,S08000031,Urological,4.0,3.0,NHS Greater Glasgow and Clyde
-3633,2015Q1,S08000031,Urological,4.0,3.0,NHS Greater Glasgow and Clyde
-3646,2015Q1,S08000031,Urological,293.0,262.0,NHS Greater Glasgow and Clyde
-3655,2015Q1,S08000031,Urological,3.0,2.0,NHS Greater Glasgow and Clyde
-3664,2015Q2,S08000031,Urological,3.0,2.0,NHS Greater Glasgow and Clyde
-3668,2015Q2,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3678,2015Q2,S08000031,Urological,4.0,3.0,NHS Greater Glasgow and Clyde
-3684,2015Q2,S08000031,Urological,2.0,1.0,NHS Greater Glasgow and Clyde
-3696,2015Q2,S08000031,Urological,269.0,239.0,NHS Greater Glasgow and Clyde
-3706,2015Q2,S08000031,Urological,9.0,9.0,NHS Greater Glasgow and Clyde
-3715,2015Q3,S08000031,Urological,7.0,6.0,NHS Greater Glasgow and Clyde
-3739,2015Q3,S08000031,Urological,277.0,228.0,NHS Greater Glasgow and Clyde
-3748,2015Q3,S08000031,Urological,9.0,8.0,NHS Greater Glasgow and Clyde
-3756,2015Q4,S08000031,Urological,5.0,4.0,NHS Greater Glasgow and Clyde
-3769,2015Q4,S08000031,Urological,4.0,3.0,NHS Greater Glasgow and Clyde
-3773,2015Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3785,2015Q4,S08000031,Urological,287.0,260.0,NHS Greater Glasgow and Clyde
-3795,2015Q4,S08000031,Urological,11.0,9.0,NHS Greater Glasgow and Clyde
-3804,2016Q1,S08000031,Urological,3.0,2.0,NHS Greater Glasgow and Clyde
-3814,2016Q1,S08000031,Urological,7.0,5.0,NHS Greater Glasgow and Clyde
-3817,2016Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3827,2016Q1,S08000031,Urological,312.0,259.0,NHS Greater Glasgow and Clyde
-3837,2016Q1,S08000031,Urological,6.0,6.0,NHS Greater Glasgow and Clyde
-3846,2016Q2,S08000031,Urological,4.0,1.0,NHS Greater Glasgow and Clyde
-3855,2016Q2,S08000031,Urological,4.0,3.0,NHS Greater Glasgow and Clyde
-3860,2016Q2,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3864,2016Q2,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-3865,2016Q2,S08000031,Urological,1.0,0.0,NHS Greater Glasgow and Clyde
-3875,2016Q2,S08000031,Urological,270.0,227.0,NHS Greater Glasgow and Clyde
-3885,2016Q2,S08000031,Urological,6.0,6.0,NHS Greater Glasgow and Clyde
-3894,2016Q3,S08000031,Urological,5.0,4.0,NHS Greater Glasgow and Clyde
-3904,2016Q3,S08000031,Urological,6.0,6.0,NHS Greater Glasgow and Clyde
-3922,2016Q3,S08000031,Urological,291.0,242.0,NHS Greater Glasgow and Clyde
-3932,2016Q3,S08000031,Urological,15.0,11.0,NHS Greater Glasgow and Clyde
-3942,2016Q4,S08000031,Urological,7.0,5.0,NHS Greater Glasgow and Clyde
-3952,2016Q4,S08000031,Urological,7.0,3.0,NHS Greater Glasgow and Clyde
-3969,2016Q4,S08000031,Urological,329.0,258.0,NHS Greater Glasgow and Clyde
-3977,2016Q4,S08000031,Urological,9.0,5.0,NHS Greater Glasgow and Clyde
-3986,2017Q1,S08000031,Urological,4.0,4.0,NHS Greater Glasgow and Clyde
-3998,2017Q1,S08000031,Urological,9.0,4.0,NHS Greater Glasgow and Clyde
-4004,2017Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4018,2017Q1,S08000031,Urological,347.0,289.0,NHS Greater Glasgow and Clyde
-4027,2017Q1,S08000031,Urological,8.0,7.0,NHS Greater Glasgow and Clyde
-4036,2017Q2,S08000031,Urological,8.0,3.0,NHS Greater Glasgow and Clyde
-4046,2017Q2,S08000031,Urological,6.0,3.0,NHS Greater Glasgow and Clyde
-4051,2017Q2,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4063,2017Q2,S08000031,Urological,311.0,252.0,NHS Greater Glasgow and Clyde
-4072,2017Q2,S08000031,Urological,16.0,12.0,NHS Greater Glasgow and Clyde
-4081,2017Q3,S08000031,Urological,11.0,4.0,NHS Greater Glasgow and Clyde
-4089,2017Q3,S08000031,Urological,12.0,6.0,NHS Greater Glasgow and Clyde
-4095,2017Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4096,2017Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4106,2017Q3,S08000031,Urological,326.0,277.0,NHS Greater Glasgow and Clyde
-4115,2017Q3,S08000031,Urological,9.0,9.0,NHS Greater Glasgow and Clyde
-4124,2017Q4,S08000031,Urological,6.0,4.0,NHS Greater Glasgow and Clyde
-4135,2017Q4,S08000031,Urological,14.0,8.0,NHS Greater Glasgow and Clyde
-4150,2017Q4,S08000031,Urological,303.0,259.0,NHS Greater Glasgow and Clyde
-4160,2017Q4,S08000031,Urological,18.0,17.0,NHS Greater Glasgow and Clyde
-4169,2018Q1,S08000031,Urological,6.0,6.0,NHS Greater Glasgow and Clyde
-4177,2018Q1,S08000031,Urological,18.0,8.0,NHS Greater Glasgow and Clyde
-4194,2018Q1,S08000031,Urological,303.0,253.0,NHS Greater Glasgow and Clyde
-4204,2018Q1,S08000031,Urological,17.0,17.0,NHS Greater Glasgow and Clyde
-4211,2018Q2,S08000031,Urological,6.0,5.0,NHS Greater Glasgow and Clyde
-4219,2018Q2,S08000031,Urological,9.0,4.0,NHS Greater Glasgow and Clyde
-4224,2018Q2,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4234,2018Q2,S08000031,Urological,321.0,286.0,NHS Greater Glasgow and Clyde
-4243,2018Q2,S08000031,Urological,3.0,3.0,NHS Greater Glasgow and Clyde
-4251,2018Q3,S08000031,Urological,12.0,12.0,NHS Greater Glasgow and Clyde
-4259,2018Q3,S08000031,Urological,17.0,7.0,NHS Greater Glasgow and Clyde
-4276,2018Q3,S08000031,Urological,392.0,375.0,NHS Greater Glasgow and Clyde
-4286,2018Q3,S08000031,Urological,3.0,2.0,NHS Greater Glasgow and Clyde
-4294,2018Q4,S08000031,Urological,3.0,3.0,NHS Greater Glasgow and Clyde
-4296,2018Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4303,2018Q4,S08000031,Urological,14.0,9.0,NHS Greater Glasgow and Clyde
-4319,2018Q4,S08000031,Urological,404.0,371.0,NHS Greater Glasgow and Clyde
-4329,2018Q4,S08000031,Urological,12.0,12.0,NHS Greater Glasgow and Clyde
-4337,2019Q1,S08000031,Urological,8.0,8.0,NHS Greater Glasgow and Clyde
-4346,2019Q1,S08000031,Urological,15.0,12.0,NHS Greater Glasgow and Clyde
-4349,2019Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4364,2019Q1,S08000031,Urological,355.0,335.0,NHS Greater Glasgow and Clyde
-4374,2019Q1,S08000031,Urological,20.0,20.0,NHS Greater Glasgow and Clyde
-4384,2019Q2,S08000031,Urological,11.0,11.0,NHS Greater Glasgow and Clyde
-4395,2019Q2,S08000031,Urological,12.0,8.0,NHS Greater Glasgow and Clyde
-4409,2019Q2,S08000031,Urological,351.0,326.0,NHS Greater Glasgow and Clyde
-4419,2019Q2,S08000031,Urological,17.0,17.0,NHS Greater Glasgow and Clyde
-4428,2019Q3,S08000031,Urological,9.0,9.0,NHS Greater Glasgow and Clyde
-4440,2019Q3,S08000031,Urological,23.0,21.0,NHS Greater Glasgow and Clyde
-4453,2019Q3,S08000031,Urological,323.0,301.0,NHS Greater Glasgow and Clyde
-4462,2019Q3,S08000031,Urological,24.0,23.0,NHS Greater Glasgow and Clyde
-4471,2019Q4,S08000031,Urological,6.0,6.0,NHS Greater Glasgow and Clyde
-4478,2019Q4,S08000031,Urological,11.0,11.0,NHS Greater Glasgow and Clyde
-4488,2019Q4,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-4489,2019Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4499,2019Q4,S08000031,Urological,360.0,339.0,NHS Greater Glasgow and Clyde
-4508,2019Q4,S08000031,Urological,8.0,8.0,NHS Greater Glasgow and Clyde
-4516,2020Q1,S08000031,Urological,8.0,8.0,NHS Greater Glasgow and Clyde
-4519,2020Q1,S08000031,Urological,3.0,3.0,NHS Greater Glasgow and Clyde
-4526,2020Q1,S08000031,Urological,9.0,8.0,NHS Greater Glasgow and Clyde
-4531,2020Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4543,2020Q1,S08000031,Urological,347.0,313.0,NHS Greater Glasgow and Clyde
-4552,2020Q1,S08000031,Urological,16.0,15.0,NHS Greater Glasgow and Clyde
-4562,2020Q2,S08000031,Urological,5.0,5.0,NHS Greater Glasgow and Clyde
-4571,2020Q2,S08000031,Urological,6.0,6.0,NHS Greater Glasgow and Clyde
-4580,2020Q2,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4590,2020Q2,S08000031,Urological,288.0,273.0,NHS Greater Glasgow and Clyde
-4599,2020Q2,S08000031,Urological,5.0,5.0,NHS Greater Glasgow and Clyde
-4606,2020Q3,S08000031,Urological,4.0,4.0,NHS Greater Glasgow and Clyde
-4614,2020Q3,S08000031,Urological,15.0,15.0,NHS Greater Glasgow and Clyde
-4619,2020Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4631,2020Q3,S08000031,Urological,262.0,250.0,NHS Greater Glasgow and Clyde
-4641,2020Q3,S08000031,Urological,12.0,12.0,NHS Greater Glasgow and Clyde
-4649,2020Q4,S08000031,Urological,8.0,8.0,NHS Greater Glasgow and Clyde
-4651,2020Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4659,2020Q4,S08000031,Urological,22.0,22.0,NHS Greater Glasgow and Clyde
-4665,2020Q4,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-4677,2020Q4,S08000031,Urological,294.0,284.0,NHS Greater Glasgow and Clyde
-4685,2020Q4,S08000031,Urological,14.0,14.0,NHS Greater Glasgow and Clyde
-4693,2021Q1,S08000031,Urological,6.0,6.0,NHS Greater Glasgow and Clyde
-4705,2021Q1,S08000031,Urological,19.0,19.0,NHS Greater Glasgow and Clyde
-4710,2021Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4722,2021Q1,S08000031,Urological,302.0,290.0,NHS Greater Glasgow and Clyde
-4732,2021Q1,S08000031,Urological,16.0,16.0,NHS Greater Glasgow and Clyde
-4740,2021Q2,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-4749,2021Q2,S08000031,Urological,15.0,14.0,NHS Greater Glasgow and Clyde
-4761,2021Q2,S08000031,Urological,374.0,359.0,NHS Greater Glasgow and Clyde
-4770,2021Q2,S08000031,Urological,23.0,21.0,NHS Greater Glasgow and Clyde
-4778,2021Q3,S08000031,Urological,5.0,4.0,NHS Greater Glasgow and Clyde
-4782,2021Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4790,2021Q3,S08000031,Urological,15.0,13.0,NHS Greater Glasgow and Clyde
-4796,2021Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-4806,2021Q3,S08000031,Urological,311.0,285.0,NHS Greater Glasgow and Clyde
-4816,2021Q3,S08000031,Urological,18.0,17.0,NHS Greater Glasgow and Clyde
-5106,2020Q4,S08000031,Urological,8.0,8.0,NHS Greater Glasgow and Clyde
-5108,2020Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5116,2020Q4,S08000031,Urological,22.0,22.0,NHS Greater Glasgow and Clyde
-5122,2020Q4,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-5134,2020Q4,S08000031,Urological,294.0,284.0,NHS Greater Glasgow and Clyde
-5142,2020Q4,S08000031,Urological,14.0,14.0,NHS Greater Glasgow and Clyde
-5157,2021Q1,S08000031,Urological,6.0,6.0,NHS Greater Glasgow and Clyde
-5169,2021Q1,S08000031,Urological,19.0,19.0,NHS Greater Glasgow and Clyde
-5174,2021Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5186,2021Q1,S08000031,Urological,302.0,290.0,NHS Greater Glasgow and Clyde
-5196,2021Q1,S08000031,Urological,16.0,16.0,NHS Greater Glasgow and Clyde
-5212,2021Q2,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-5221,2021Q2,S08000031,Urological,15.0,14.0,NHS Greater Glasgow and Clyde
-5233,2021Q2,S08000031,Urological,374.0,359.0,NHS Greater Glasgow and Clyde
-5242,2021Q2,S08000031,Urological,23.0,21.0,NHS Greater Glasgow and Clyde
-5256,2021Q3,S08000031,Urological,5.0,4.0,NHS Greater Glasgow and Clyde
-5260,2021Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5268,2021Q3,S08000031,Urological,15.0,13.0,NHS Greater Glasgow and Clyde
-5274,2021Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5284,2021Q3,S08000031,Urological,311.0,286.0,NHS Greater Glasgow and Clyde
-5294,2021Q3,S08000031,Urological,18.0,17.0,NHS Greater Glasgow and Clyde
-5310,2021Q4,S08000031,Urological,4.0,2.0,NHS Greater Glasgow and Clyde
-5320,2021Q4,S08000031,Urological,16.0,16.0,NHS Greater Glasgow and Clyde
-5327,2021Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5330,2021Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5340,2021Q4,S08000031,Urological,337.0,331.0,NHS Greater Glasgow and Clyde
-5349,2021Q4,S08000031,Urological,14.0,14.0,NHS Greater Glasgow and Clyde
-5365,2021Q1,S08000031,Urological,6.0,6.0,NHS Greater Glasgow and Clyde
-5377,2021Q1,S08000031,Urological,19.0,19.0,NHS Greater Glasgow and Clyde
-5382,2021Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5394,2021Q1,S08000031,Urological,302.0,290.0,NHS Greater Glasgow and Clyde
-5404,2021Q1,S08000031,Urological,16.0,16.0,NHS Greater Glasgow and Clyde
-5420,2021Q2,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-5429,2021Q2,S08000031,Urological,15.0,14.0,NHS Greater Glasgow and Clyde
-5441,2021Q2,S08000031,Urological,374.0,359.0,NHS Greater Glasgow and Clyde
-5450,2021Q2,S08000031,Urological,23.0,21.0,NHS Greater Glasgow and Clyde
-5464,2021Q3,S08000031,Urological,5.0,4.0,NHS Greater Glasgow and Clyde
-5468,2021Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5476,2021Q3,S08000031,Urological,15.0,13.0,NHS Greater Glasgow and Clyde
-5482,2021Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5492,2021Q3,S08000031,Urological,311.0,286.0,NHS Greater Glasgow and Clyde
-5502,2021Q3,S08000031,Urological,18.0,17.0,NHS Greater Glasgow and Clyde
-5518,2021Q4,S08000031,Urological,4.0,2.0,NHS Greater Glasgow and Clyde
-5528,2021Q4,S08000031,Urological,16.0,16.0,NHS Greater Glasgow and Clyde
-5535,2021Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5538,2021Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5548,2021Q4,S08000031,Urological,337.0,331.0,NHS Greater Glasgow and Clyde
-5557,2021Q4,S08000031,Urological,14.0,14.0,NHS Greater Glasgow and Clyde
-5572,2022Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5576,2022Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5584,2022Q1,S08000031,Urological,9.0,9.0,NHS Greater Glasgow and Clyde
-5603,2022Q1,S08000031,Urological,359.0,350.0,NHS Greater Glasgow and Clyde
-5612,2022Q1,S08000031,Urological,21.0,21.0,NHS Greater Glasgow and Clyde
-5630,2021Q2,S08000031,Urological,2.0,2.0,NHS Greater Glasgow and Clyde
-5639,2021Q2,S08000031,Urological,15.0,14.0,NHS Greater Glasgow and Clyde
-5651,2021Q2,S08000031,Urological,374.0,359.0,NHS Greater Glasgow and Clyde
-5660,2021Q2,S08000031,Urological,23.0,21.0,NHS Greater Glasgow and Clyde
-5674,2021Q3,S08000031,Urological,5.0,4.0,NHS Greater Glasgow and Clyde
-5678,2021Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5686,2021Q3,S08000031,Urological,15.0,13.0,NHS Greater Glasgow and Clyde
-5692,2021Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5702,2021Q3,S08000031,Urological,311.0,286.0,NHS Greater Glasgow and Clyde
-5712,2021Q3,S08000031,Urological,18.0,17.0,NHS Greater Glasgow and Clyde
-5728,2021Q4,S08000031,Urological,4.0,2.0,NHS Greater Glasgow and Clyde
-5738,2021Q4,S08000031,Urological,16.0,16.0,NHS Greater Glasgow and Clyde
-5745,2021Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5748,2021Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5758,2021Q4,S08000031,Urological,337.0,331.0,NHS Greater Glasgow and Clyde
-5767,2021Q4,S08000031,Urological,14.0,14.0,NHS Greater Glasgow and Clyde
-5782,2022Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5786,2022Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5794,2022Q1,S08000031,Urological,9.0,9.0,NHS Greater Glasgow and Clyde
-5813,2022Q1,S08000031,Urological,359.0,350.0,NHS Greater Glasgow and Clyde
-5822,2022Q1,S08000031,Urological,21.0,21.0,NHS Greater Glasgow and Clyde
-5841,2022Q2,S08000031,Urological,6.0,1.0,NHS Greater Glasgow and Clyde
-5851,2022Q2,S08000031,Urological,16.0,8.0,NHS Greater Glasgow and Clyde
-5855,2022Q2,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5866,2022Q2,S08000031,Urological,320.0,285.0,NHS Greater Glasgow and Clyde
-5875,2022Q2,S08000031,Urological,23.0,17.0,NHS Greater Glasgow and Clyde
-5891,2021Q3,S08000031,Urological,5.0,4.0,NHS Greater Glasgow and Clyde
-5895,2021Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5903,2021Q3,S08000031,Urological,15.0,13.0,NHS Greater Glasgow and Clyde
-5909,2021Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5919,2021Q3,S08000031,Urological,311.0,286.0,NHS Greater Glasgow and Clyde
-5929,2021Q3,S08000031,Urological,18.0,17.0,NHS Greater Glasgow and Clyde
-5945,2021Q4,S08000031,Urological,4.0,2.0,NHS Greater Glasgow and Clyde
-5955,2021Q4,S08000031,Urological,16.0,16.0,NHS Greater Glasgow and Clyde
-5962,2021Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5965,2021Q4,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-5975,2021Q4,S08000031,Urological,337.0,331.0,NHS Greater Glasgow and Clyde
-5984,2021Q4,S08000031,Urological,14.0,14.0,NHS Greater Glasgow and Clyde
-5999,2022Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-6003,2022Q1,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-6011,2022Q1,S08000031,Urological,9.0,9.0,NHS Greater Glasgow and Clyde
-6030,2022Q1,S08000031,Urological,359.0,350.0,NHS Greater Glasgow and Clyde
-6039,2022Q1,S08000031,Urological,21.0,21.0,NHS Greater Glasgow and Clyde
-6058,2022Q2,S08000031,Urological,6.0,1.0,NHS Greater Glasgow and Clyde
-6068,2022Q2,S08000031,Urological,16.0,8.0,NHS Greater Glasgow and Clyde
-6072,2022Q2,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-6083,2022Q2,S08000031,Urological,320.0,285.0,NHS Greater Glasgow and Clyde
-6092,2022Q2,S08000031,Urological,23.0,17.0,NHS Greater Glasgow and Clyde
-6109,2022Q3,S08000031,Urological,3.0,2.0,NHS Greater Glasgow and Clyde
-6111,2022Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-6122,2022Q3,S08000031,Urological,15.0,6.0,NHS Greater Glasgow and Clyde
-6127,2022Q3,S08000031,Urological,2.0,1.0,NHS Greater Glasgow and Clyde
-6131,2022Q3,S08000031,Urological,1.0,0.0,NHS Greater Glasgow and Clyde
-6132,2022Q3,S08000031,Urological,1.0,1.0,NHS Greater Glasgow and Clyde
-6142,2022Q3,S08000031,Urological,398.0,340.0,NHS Greater Glasgow and Clyde
-6150,2022Q3,S08000031,Urological,14.0,7.0,NHS Greater Glasgow and Clyde
-6169,2012Q1,S08000016,Urological,21.0,21.0,NHS Borders
-6180,2012Q2,S08000016,Urological,28.0,28.0,NHS Borders
-6191,2012Q3,S08000016,Urological,31.0,31.0,NHS Borders
-6200,2012Q4,S08000016,Urological,14.0,14.0,NHS Borders
-6209,2013Q1,S08000016,Urological,28.0,28.0,NHS Borders
-6218,2013Q2,S08000016,Urological,27.0,27.0,NHS Borders
-6219,2013Q2,S08000016,Urological,1.0,1.0,NHS Borders
-6228,2013Q3,S08000016,Urological,16.0,16.0,NHS Borders
-6238,2013Q4,S08000016,Urological,21.0,21.0,NHS Borders
-6247,2014Q1,S08000016,Urological,20.0,20.0,NHS Borders
-6257,2014Q2,S08000016,Urological,23.0,23.0,NHS Borders
-6265,2014Q3,S08000016,Urological,18.0,18.0,NHS Borders
-6275,2014Q4,S08000016,Urological,19.0,19.0,NHS Borders
-6285,2015Q1,S08000016,Urological,22.0,22.0,NHS Borders
-6295,2015Q2,S08000016,Urological,17.0,17.0,NHS Borders
-6305,2015Q3,S08000016,Urological,6.0,6.0,NHS Borders
-6315,2015Q4,S08000016,Urological,17.0,16.0,NHS Borders
-6323,2016Q1,S08000016,Urological,16.0,16.0,NHS Borders
-6333,2016Q2,S08000016,Urological,19.0,18.0,NHS Borders
-6342,2016Q3,S08000016,Urological,25.0,25.0,NHS Borders
-6353,2016Q4,S08000016,Urological,27.0,27.0,NHS Borders
-6364,2017Q1,S08000016,Urological,23.0,22.0,NHS Borders
-6374,2017Q2,S08000016,Urological,19.0,19.0,NHS Borders
-6384,2017Q3,S08000016,Urological,28.0,28.0,NHS Borders
-6393,2017Q4,S08000016,Urological,23.0,23.0,NHS Borders
-6405,2018Q1,S08000016,Urological,14.0,14.0,NHS Borders
-6414,2018Q2,S08000016,Urological,21.0,21.0,NHS Borders
-6424,2018Q3,S08000016,Urological,26.0,26.0,NHS Borders
-6432,2018Q4,S08000016,Urological,20.0,20.0,NHS Borders
-6442,2019Q1,S08000016,Urological,16.0,16.0,NHS Borders
-6452,2019Q2,S08000016,Urological,12.0,12.0,NHS Borders
-6460,2019Q3,S08000016,Urological,19.0,19.0,NHS Borders
-6469,2019Q4,S08000016,Urological,11.0,11.0,NHS Borders
-6480,2020Q1,S08000016,Urological,8.0,8.0,NHS Borders
-6490,2020Q2,S08000016,Urological,19.0,18.0,NHS Borders
-6499,2020Q3,S08000016,Urological,9.0,9.0,NHS Borders
-6508,2020Q4,S08000016,Urological,11.0,11.0,NHS Borders
-6517,2021Q1,S08000016,Urological,13.0,13.0,NHS Borders
-6526,2021Q2,S08000016,Urological,13.0,13.0,NHS Borders
-6536,2021Q3,S08000016,Urological,15.0,15.0,NHS Borders
-6603,2020Q4,S08000016,Urological,11.0,11.0,NHS Borders
-6614,2021Q1,S08000016,Urological,13.0,13.0,NHS Borders
-6624,2021Q2,S08000016,Urological,13.0,13.0,NHS Borders
-6636,2021Q3,S08000016,Urological,15.0,15.0,NHS Borders
-6649,2021Q4,S08000016,Urological,15.0,15.0,NHS Borders
-6660,2021Q1,S08000016,Urological,13.0,13.0,NHS Borders
-6670,2021Q2,S08000016,Urological,13.0,13.0,NHS Borders
-6682,2021Q3,S08000016,Urological,15.0,15.0,NHS Borders
-6695,2021Q4,S08000016,Urological,15.0,15.0,NHS Borders
-6707,2022Q1,S08000016,Urological,11.0,11.0,NHS Borders
-6717,2021Q2,S08000016,Urological,13.0,13.0,NHS Borders
-6729,2021Q3,S08000016,Urological,15.0,15.0,NHS Borders
-6742,2021Q4,S08000016,Urological,15.0,15.0,NHS Borders
-6754,2022Q1,S08000016,Urological,11.0,11.0,NHS Borders
-6764,2022Q2,S08000016,Urological,18.0,18.0,NHS Borders
-6774,2021Q3,S08000016,Urological,15.0,15.0,NHS Borders
-6787,2021Q4,S08000016,Urological,15.0,15.0,NHS Borders
-6799,2022Q1,S08000016,Urological,11.0,11.0,NHS Borders
-6809,2022Q2,S08000016,Urological,18.0,18.0,NHS Borders
-6820,2022Q3,S08000016,Urological,23.0,22.0,NHS Borders
-6831,2012Q1,S08000024,Urological,3.0,3.0,NHS Lothian
-6839,2012Q1,S08000024,Urological,14.0,13.0,NHS Lothian
-6841,2012Q1,S08000024,Urological,2.0,2.0,NHS Lothian
-6844,2012Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-6854,2012Q1,S08000024,Urological,197.0,193.0,NHS Lothian
-6863,2012Q1,S08000024,Urological,7.0,6.0,NHS Lothian
-6866,2012Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-6872,2012Q2,S08000024,Urological,6.0,5.0,NHS Lothian
-6879,2012Q2,S08000024,Urological,12.0,11.0,NHS Lothian
-6881,2012Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-6892,2012Q2,S08000024,Urological,145.0,134.0,NHS Lothian
-6900,2012Q2,S08000024,Urological,4.0,4.0,NHS Lothian
-6902,2012Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-6914,2012Q3,S08000024,Urological,5.0,5.0,NHS Lothian
-6922,2012Q3,S08000024,Urological,10.0,10.0,NHS Lothian
-6923,2012Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-6924,2012Q3,S08000024,Urological,2.0,2.0,NHS Lothian
-6934,2012Q3,S08000024,Urological,154.0,146.0,NHS Lothian
-6943,2012Q3,S08000024,Urological,3.0,3.0,NHS Lothian
-6946,2012Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-6954,2012Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-6961,2012Q4,S08000024,Urological,11.0,11.0,NHS Lothian
-6974,2012Q4,S08000024,Urological,161.0,156.0,NHS Lothian
-6984,2012Q4,S08000024,Urological,2.0,2.0,NHS Lothian
-6987,2012Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-6989,2012Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-6997,2013Q1,S08000024,Urological,2.0,2.0,NHS Lothian
-7006,2013Q1,S08000024,Urological,13.0,13.0,NHS Lothian
-7018,2013Q1,S08000024,Urological,145.0,145.0,NHS Lothian
-7026,2013Q1,S08000024,Urological,9.0,9.0,NHS Lothian
-7038,2013Q2,S08000024,Urological,6.0,6.0,NHS Lothian
-7047,2013Q2,S08000024,Urological,15.0,13.0,NHS Lothian
-7049,2013Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-7059,2013Q2,S08000024,Urological,158.0,157.0,NHS Lothian
-7060,2013Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-7069,2013Q2,S08000024,Urological,7.0,7.0,NHS Lothian
-7072,2013Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-7080,2013Q3,S08000024,Urological,6.0,6.0,NHS Lothian
-7088,2013Q3,S08000024,Urological,10.0,10.0,NHS Lothian
-7090,2013Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-7103,2013Q3,S08000024,Urological,176.0,176.0,NHS Lothian
-7112,2013Q3,S08000024,Urological,6.0,6.0,NHS Lothian
-7121,2013Q4,S08000024,Urological,6.0,5.0,NHS Lothian
-7130,2013Q4,S08000024,Urological,5.0,5.0,NHS Lothian
-7133,2013Q4,S08000024,Urological,2.0,2.0,NHS Lothian
-7143,2013Q4,S08000024,Urological,198.0,194.0,NHS Lothian
-7152,2013Q4,S08000024,Urological,7.0,7.0,NHS Lothian
-7155,2013Q4,S08000024,Urological,1.0,0.0,NHS Lothian
-7163,2014Q1,S08000024,Urological,12.0,12.0,NHS Lothian
-7170,2014Q1,S08000024,Urological,12.0,9.0,NHS Lothian
-7183,2014Q1,S08000024,Urological,191.0,187.0,NHS Lothian
-7191,2014Q1,S08000024,Urological,10.0,10.0,NHS Lothian
-7195,2014Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-7202,2014Q2,S08000024,Urological,7.0,4.0,NHS Lothian
-7209,2014Q2,S08000024,Urological,16.0,14.0,NHS Lothian
-7214,2014Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-7224,2014Q2,S08000024,Urological,172.0,164.0,NHS Lothian
-7232,2014Q2,S08000024,Urological,6.0,5.0,NHS Lothian
-7237,2014Q2,S08000024,Urological,1.0,0.0,NHS Lothian
-7247,2014Q3,S08000024,Urological,14.0,13.0,NHS Lothian
-7254,2014Q3,S08000024,Urological,12.0,11.0,NHS Lothian
-7257,2014Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-7258,2014Q3,S08000024,Urological,1.0,0.0,NHS Lothian
-7268,2014Q3,S08000024,Urological,175.0,166.0,NHS Lothian
-7275,2014Q3,S08000024,Urological,12.0,11.0,NHS Lothian
-7277,2014Q3,S08000024,Urological,2.0,2.0,NHS Lothian
-7280,2014Q3,S08000024,Urological,2.0,2.0,NHS Lothian
-7289,2014Q4,S08000024,Urological,8.0,4.0,NHS Lothian
-7294,2014Q4,S08000024,Urological,12.0,9.0,NHS Lothian
-7306,2014Q4,S08000024,Urological,147.0,137.0,NHS Lothian
-7315,2014Q4,S08000024,Urological,6.0,3.0,NHS Lothian
-7318,2014Q4,S08000024,Urological,2.0,1.0,NHS Lothian
-7326,2015Q1,S08000024,Urological,7.0,4.0,NHS Lothian
-7334,2015Q1,S08000024,Urological,15.0,7.0,NHS Lothian
-7336,2015Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-7346,2015Q1,S08000024,Urological,131.0,111.0,NHS Lothian
-7354,2015Q1,S08000024,Urological,4.0,2.0,NHS Lothian
-7357,2015Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-7359,2015Q1,S08000024,Urological,5.0,3.0,NHS Lothian
-7361,2015Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-7368,2015Q2,S08000024,Urological,14.0,12.0,NHS Lothian
-7375,2015Q2,S08000024,Urological,14.0,7.0,NHS Lothian
-7378,2015Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-7388,2015Q2,S08000024,Urological,149.0,133.0,NHS Lothian
-7396,2015Q2,S08000024,Urological,6.0,5.0,NHS Lothian
-7400,2015Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-7402,2015Q2,S08000024,Urological,4.0,4.0,NHS Lothian
-7408,2015Q3,S08000024,Urological,12.0,10.0,NHS Lothian
-7413,2015Q3,S08000024,Urological,16.0,11.0,NHS Lothian
-7415,2015Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-7426,2015Q3,S08000024,Urological,157.0,149.0,NHS Lothian
-7433,2015Q3,S08000024,Urological,9.0,7.0,NHS Lothian
-7436,2015Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-7437,2015Q3,S08000024,Urological,11.0,9.0,NHS Lothian
-7444,2015Q4,S08000024,Urological,8.0,8.0,NHS Lothian
-7452,2015Q4,S08000024,Urological,12.0,10.0,NHS Lothian
-7455,2015Q4,S08000024,Urological,3.0,3.0,NHS Lothian
-7465,2015Q4,S08000024,Urological,143.0,130.0,NHS Lothian
-7471,2015Q4,S08000024,Urological,5.0,5.0,NHS Lothian
-7473,2015Q4,S08000024,Urological,1.0,0.0,NHS Lothian
-7475,2015Q4,S08000024,Urological,9.0,2.0,NHS Lothian
-7481,2016Q1,S08000024,Urological,6.0,4.0,NHS Lothian
-7486,2016Q1,S08000024,Urological,3.0,2.0,NHS Lothian
-7491,2016Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-7501,2016Q1,S08000024,Urological,162.0,130.0,NHS Lothian
-7508,2016Q1,S08000024,Urological,6.0,4.0,NHS Lothian
-7511,2016Q1,S08000024,Urological,4.0,2.0,NHS Lothian
-7518,2016Q2,S08000024,Urological,3.0,2.0,NHS Lothian
-7526,2016Q2,S08000024,Urological,8.0,6.0,NHS Lothian
-7540,2016Q2,S08000024,Urological,124.0,98.0,NHS Lothian
-7546,2016Q2,S08000024,Urological,3.0,1.0,NHS Lothian
-7550,2016Q2,S08000024,Urological,6.0,0.0,NHS Lothian
-7558,2016Q3,S08000024,Urological,5.0,0.0,NHS Lothian
-7566,2016Q3,S08000024,Urological,10.0,5.0,NHS Lothian
-7570,2016Q3,S08000024,Urological,2.0,1.0,NHS Lothian
-7580,2016Q3,S08000024,Urological,114.0,81.0,NHS Lothian
-7587,2016Q3,S08000024,Urological,5.0,4.0,NHS Lothian
-7590,2016Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-7592,2016Q3,S08000024,Urological,2.0,1.0,NHS Lothian
-7600,2016Q4,S08000024,Urological,9.0,6.0,NHS Lothian
-7607,2016Q4,S08000024,Urological,13.0,4.0,NHS Lothian
-7610,2016Q4,S08000024,Urological,3.0,1.0,NHS Lothian
-7620,2016Q4,S08000024,Urological,133.0,100.0,NHS Lothian
-7629,2016Q4,S08000024,Urological,2.0,1.0,NHS Lothian
-7634,2016Q4,S08000024,Urological,1.0,0.0,NHS Lothian
-7640,2017Q1,S08000024,Urological,8.0,5.0,NHS Lothian
-7647,2017Q1,S08000024,Urological,9.0,6.0,NHS Lothian
-7648,2017Q1,S08000024,Urological,3.0,2.0,NHS Lothian
-7649,2017Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-7650,2017Q1,S08000024,Urological,2.0,1.0,NHS Lothian
-7660,2017Q1,S08000024,Urological,149.0,113.0,NHS Lothian
-7668,2017Q1,S08000024,Urological,5.0,3.0,NHS Lothian
-7670,2017Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-7672,2017Q1,S08000024,Urological,1.0,0.0,NHS Lothian
-7680,2017Q2,S08000024,Urological,8.0,4.0,NHS Lothian
-7687,2017Q2,S08000024,Urological,7.0,5.0,NHS Lothian
-7689,2017Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-7690,2017Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-7691,2017Q2,S08000024,Urological,3.0,3.0,NHS Lothian
-7701,2017Q2,S08000024,Urological,173.0,139.0,NHS Lothian
-7702,2017Q2,S08000024,Urological,1.0,0.0,NHS Lothian
-7710,2017Q2,S08000024,Urological,10.0,8.0,NHS Lothian
-7720,2017Q3,S08000024,Urological,13.0,7.0,NHS Lothian
-7727,2017Q3,S08000024,Urological,10.0,3.0,NHS Lothian
-7730,2017Q3,S08000024,Urological,2.0,1.0,NHS Lothian
-7740,2017Q3,S08000024,Urological,179.0,134.0,NHS Lothian
-7749,2017Q3,S08000024,Urological,14.0,13.0,NHS Lothian
-7751,2017Q3,S08000024,Urological,2.0,0.0,NHS Lothian
-7762,2017Q4,S08000024,Urological,10.0,5.0,NHS Lothian
-7770,2017Q4,S08000024,Urological,11.0,3.0,NHS Lothian
-7772,2017Q4,S08000024,Urological,4.0,2.0,NHS Lothian
-7782,2017Q4,S08000024,Urological,166.0,130.0,NHS Lothian
-7791,2017Q4,S08000024,Urological,12.0,12.0,NHS Lothian
-7793,2017Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-7795,2017Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-7805,2018Q1,S08000024,Urological,8.0,2.0,NHS Lothian
-7812,2018Q1,S08000024,Urological,13.0,6.0,NHS Lothian
-7824,2018Q1,S08000024,Urological,179.0,123.0,NHS Lothian
-7830,2018Q1,S08000024,Urological,8.0,8.0,NHS Lothian
-7833,2018Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-7841,2018Q2,S08000024,Urological,6.0,5.0,NHS Lothian
-7847,2018Q2,S08000024,Urological,9.0,4.0,NHS Lothian
-7849,2018Q2,S08000024,Urological,2.0,2.0,NHS Lothian
-7850,2018Q2,S08000024,Urological,1.0,0.0,NHS Lothian
-7860,2018Q2,S08000024,Urological,168.0,125.0,NHS Lothian
-7867,2018Q2,S08000024,Urological,13.0,12.0,NHS Lothian
-7879,2018Q3,S08000024,Urological,3.0,2.0,NHS Lothian
-7887,2018Q3,S08000024,Urological,16.0,7.0,NHS Lothian
-7890,2018Q3,S08000024,Urological,4.0,3.0,NHS Lothian
-7900,2018Q3,S08000024,Urological,183.0,155.0,NHS Lothian
-7909,2018Q3,S08000024,Urological,14.0,13.0,NHS Lothian
-7911,2018Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-7920,2018Q4,S08000024,Urological,10.0,10.0,NHS Lothian
-7928,2018Q4,S08000024,Urological,20.0,18.0,NHS Lothian
-7941,2018Q4,S08000024,Urological,189.0,175.0,NHS Lothian
-7947,2018Q4,S08000024,Urological,5.0,5.0,NHS Lothian
-7949,2018Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-7950,2018Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-7958,2019Q1,S08000024,Urological,7.0,7.0,NHS Lothian
-7966,2019Q1,S08000024,Urological,7.0,7.0,NHS Lothian
-7968,2019Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-7969,2019Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-7971,2019Q1,S08000024,Urological,2.0,1.0,NHS Lothian
-7981,2019Q1,S08000024,Urological,182.0,163.0,NHS Lothian
-7989,2019Q1,S08000024,Urological,18.0,17.0,NHS Lothian
-7991,2019Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-8000,2019Q2,S08000024,Urological,8.0,8.0,NHS Lothian
-8007,2019Q2,S08000024,Urological,14.0,9.0,NHS Lothian
-8010,2019Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-8020,2019Q2,S08000024,Urological,195.0,177.0,NHS Lothian
-8028,2019Q2,S08000024,Urological,14.0,14.0,NHS Lothian
-8031,2019Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-8040,2019Q3,S08000024,Urological,7.0,5.0,NHS Lothian
-8048,2019Q3,S08000024,Urological,10.0,7.0,NHS Lothian
-8050,2019Q3,S08000024,Urological,1.0,0.0,NHS Lothian
-8053,2019Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-8063,2019Q3,S08000024,Urological,180.0,161.0,NHS Lothian
-8071,2019Q3,S08000024,Urological,27.0,26.0,NHS Lothian
-8074,2019Q3,S08000024,Urological,2.0,1.0,NHS Lothian
-8085,2019Q4,S08000024,Urological,5.0,5.0,NHS Lothian
-8093,2019Q4,S08000024,Urological,12.0,6.0,NHS Lothian
-8095,2019Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-8097,2019Q4,S08000024,Urological,3.0,3.0,NHS Lothian
-8107,2019Q4,S08000024,Urological,197.0,178.0,NHS Lothian
-8115,2019Q4,S08000024,Urological,13.0,13.0,NHS Lothian
-8117,2019Q4,S08000024,Urological,3.0,2.0,NHS Lothian
-8126,2020Q1,S08000024,Urological,5.0,5.0,NHS Lothian
-8132,2020Q1,S08000024,Urological,16.0,16.0,NHS Lothian
-8135,2020Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-8146,2020Q1,S08000024,Urological,201.0,192.0,NHS Lothian
-8153,2020Q1,S08000024,Urological,13.0,13.0,NHS Lothian
-8155,2020Q1,S08000024,Urological,2.0,2.0,NHS Lothian
-8163,2020Q2,S08000024,Urological,7.0,7.0,NHS Lothian
-8171,2020Q2,S08000024,Urological,11.0,8.0,NHS Lothian
-8174,2020Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-8184,2020Q2,S08000024,Urological,187.0,167.0,NHS Lothian
-8192,2020Q2,S08000024,Urological,12.0,8.0,NHS Lothian
-8195,2020Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-8202,2020Q3,S08000024,Urological,7.0,7.0,NHS Lothian
-8211,2020Q3,S08000024,Urological,8.0,8.0,NHS Lothian
-8214,2020Q3,S08000024,Urological,2.0,2.0,NHS Lothian
-8224,2020Q3,S08000024,Urological,147.0,139.0,NHS Lothian
-8232,2020Q3,S08000024,Urological,5.0,4.0,NHS Lothian
-8236,2020Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-8244,2020Q4,S08000024,Urological,2.0,2.0,NHS Lothian
-8253,2020Q4,S08000024,Urological,18.0,16.0,NHS Lothian
-8265,2020Q4,S08000024,Urological,190.0,179.0,NHS Lothian
-8266,2020Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-8274,2020Q4,S08000024,Urological,19.0,19.0,NHS Lothian
-8276,2020Q4,S08000024,Urological,3.0,3.0,NHS Lothian
-8283,2021Q1,S08000024,Urological,6.0,6.0,NHS Lothian
-8291,2021Q1,S08000024,Urological,16.0,15.0,NHS Lothian
-8294,2021Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-8297,2021Q1,S08000024,Urological,3.0,3.0,NHS Lothian
-8307,2021Q1,S08000024,Urological,186.0,173.0,NHS Lothian
-8314,2021Q1,S08000024,Urological,19.0,19.0,NHS Lothian
-8316,2021Q1,S08000024,Urological,2.0,2.0,NHS Lothian
-8322,2021Q2,S08000024,Urological,4.0,4.0,NHS Lothian
-8329,2021Q2,S08000024,Urological,6.0,5.0,NHS Lothian
-8334,2021Q2,S08000024,Urological,4.0,4.0,NHS Lothian
-8344,2021Q2,S08000024,Urological,163.0,154.0,NHS Lothian
-8345,2021Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-8353,2021Q2,S08000024,Urological,19.0,19.0,NHS Lothian
-8355,2021Q2,S08000024,Urological,3.0,3.0,NHS Lothian
-8362,2021Q3,S08000024,Urological,6.0,6.0,NHS Lothian
-8369,2021Q3,S08000024,Urological,16.0,15.0,NHS Lothian
-8375,2021Q3,S08000024,Urological,4.0,4.0,NHS Lothian
-8385,2021Q3,S08000024,Urological,188.0,172.0,NHS Lothian
-8393,2021Q3,S08000024,Urological,11.0,11.0,NHS Lothian
-8397,2021Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-8778,2020Q4,S08000024,Urological,2.0,2.0,NHS Lothian
-8787,2020Q4,S08000024,Urological,18.0,16.0,NHS Lothian
-8799,2020Q4,S08000024,Urological,190.0,179.0,NHS Lothian
-8800,2020Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-8808,2020Q4,S08000024,Urological,19.0,19.0,NHS Lothian
-8810,2020Q4,S08000024,Urological,3.0,3.0,NHS Lothian
-8826,2021Q1,S08000024,Urological,6.0,6.0,NHS Lothian
-8834,2021Q1,S08000024,Urological,16.0,15.0,NHS Lothian
-8837,2021Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-8840,2021Q1,S08000024,Urological,3.0,3.0,NHS Lothian
-8850,2021Q1,S08000024,Urological,186.0,173.0,NHS Lothian
-8857,2021Q1,S08000024,Urological,19.0,19.0,NHS Lothian
-8859,2021Q1,S08000024,Urological,2.0,2.0,NHS Lothian
-8874,2021Q2,S08000024,Urological,4.0,4.0,NHS Lothian
-8881,2021Q2,S08000024,Urological,6.0,5.0,NHS Lothian
-8886,2021Q2,S08000024,Urological,4.0,4.0,NHS Lothian
-8896,2021Q2,S08000024,Urological,163.0,154.0,NHS Lothian
-8897,2021Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-8905,2021Q2,S08000024,Urological,19.0,19.0,NHS Lothian
-8907,2021Q2,S08000024,Urological,3.0,3.0,NHS Lothian
-8925,2021Q3,S08000024,Urological,6.0,6.0,NHS Lothian
-8932,2021Q3,S08000024,Urological,16.0,15.0,NHS Lothian
-8938,2021Q3,S08000024,Urological,4.0,4.0,NHS Lothian
-8948,2021Q3,S08000024,Urological,188.0,172.0,NHS Lothian
-8956,2021Q3,S08000024,Urological,11.0,11.0,NHS Lothian
-8960,2021Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-8978,2021Q4,S08000024,Urological,4.0,4.0,NHS Lothian
-8987,2021Q4,S08000024,Urological,7.0,6.0,NHS Lothian
-8989,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-8990,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9000,2021Q4,S08000024,Urological,214.0,207.0,NHS Lothian
-9008,2021Q4,S08000024,Urological,16.0,16.0,NHS Lothian
-9010,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9027,2021Q1,S08000024,Urological,6.0,6.0,NHS Lothian
-9035,2021Q1,S08000024,Urological,16.0,15.0,NHS Lothian
-9038,2021Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-9041,2021Q1,S08000024,Urological,3.0,3.0,NHS Lothian
-9051,2021Q1,S08000024,Urological,186.0,173.0,NHS Lothian
-9058,2021Q1,S08000024,Urological,19.0,19.0,NHS Lothian
-9060,2021Q1,S08000024,Urological,2.0,2.0,NHS Lothian
-9075,2021Q2,S08000024,Urological,4.0,4.0,NHS Lothian
-9082,2021Q2,S08000024,Urological,6.0,5.0,NHS Lothian
-9087,2021Q2,S08000024,Urological,4.0,4.0,NHS Lothian
-9097,2021Q2,S08000024,Urological,163.0,154.0,NHS Lothian
-9098,2021Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-9106,2021Q2,S08000024,Urological,19.0,19.0,NHS Lothian
-9108,2021Q2,S08000024,Urological,3.0,3.0,NHS Lothian
-9126,2021Q3,S08000024,Urological,6.0,6.0,NHS Lothian
-9133,2021Q3,S08000024,Urological,16.0,15.0,NHS Lothian
-9139,2021Q3,S08000024,Urological,4.0,4.0,NHS Lothian
-9149,2021Q3,S08000024,Urological,188.0,172.0,NHS Lothian
-9157,2021Q3,S08000024,Urological,11.0,11.0,NHS Lothian
-9161,2021Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-9179,2021Q4,S08000024,Urological,4.0,4.0,NHS Lothian
-9188,2021Q4,S08000024,Urological,7.0,6.0,NHS Lothian
-9190,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9191,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9201,2021Q4,S08000024,Urological,214.0,207.0,NHS Lothian
-9209,2021Q4,S08000024,Urological,16.0,16.0,NHS Lothian
-9211,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9228,2022Q1,S08000024,Urological,3.0,3.0,NHS Lothian
-9234,2022Q1,S08000024,Urological,14.0,14.0,NHS Lothian
-9237,2022Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-9238,2022Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-9248,2022Q1,S08000024,Urological,224.0,213.0,NHS Lothian
-9257,2022Q1,S08000024,Urological,10.0,10.0,NHS Lothian
-9278,2021Q2,S08000024,Urological,4.0,4.0,NHS Lothian
-9285,2021Q2,S08000024,Urological,6.0,5.0,NHS Lothian
-9290,2021Q2,S08000024,Urological,4.0,4.0,NHS Lothian
-9300,2021Q2,S08000024,Urological,163.0,154.0,NHS Lothian
-9301,2021Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-9309,2021Q2,S08000024,Urological,19.0,19.0,NHS Lothian
-9311,2021Q2,S08000024,Urological,3.0,3.0,NHS Lothian
-9329,2021Q3,S08000024,Urological,6.0,6.0,NHS Lothian
-9336,2021Q3,S08000024,Urological,16.0,15.0,NHS Lothian
-9342,2021Q3,S08000024,Urological,4.0,4.0,NHS Lothian
-9352,2021Q3,S08000024,Urological,188.0,172.0,NHS Lothian
-9360,2021Q3,S08000024,Urological,11.0,11.0,NHS Lothian
-9364,2021Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-9382,2021Q4,S08000024,Urological,4.0,4.0,NHS Lothian
-9391,2021Q4,S08000024,Urological,7.0,6.0,NHS Lothian
-9393,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9394,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9404,2021Q4,S08000024,Urological,214.0,207.0,NHS Lothian
-9412,2021Q4,S08000024,Urological,16.0,16.0,NHS Lothian
-9414,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9431,2022Q1,S08000024,Urological,3.0,3.0,NHS Lothian
-9437,2022Q1,S08000024,Urological,14.0,14.0,NHS Lothian
-9440,2022Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-9441,2022Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-9451,2022Q1,S08000024,Urological,224.0,213.0,NHS Lothian
-9460,2022Q1,S08000024,Urological,10.0,10.0,NHS Lothian
-9484,2022Q2,S08000024,Urological,6.0,6.0,NHS Lothian
-9490,2022Q2,S08000024,Urological,10.0,3.0,NHS Lothian
-9492,2022Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-9496,2022Q2,S08000024,Urological,3.0,3.0,NHS Lothian
-9506,2022Q2,S08000024,Urological,236.0,196.0,NHS Lothian
-9507,2022Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-9515,2022Q2,S08000024,Urological,2.0,1.0,NHS Lothian
-9533,2021Q3,S08000024,Urological,6.0,6.0,NHS Lothian
-9540,2021Q3,S08000024,Urological,16.0,15.0,NHS Lothian
-9546,2021Q3,S08000024,Urological,4.0,4.0,NHS Lothian
-9556,2021Q3,S08000024,Urological,188.0,172.0,NHS Lothian
-9564,2021Q3,S08000024,Urological,11.0,11.0,NHS Lothian
-9568,2021Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-9586,2021Q4,S08000024,Urological,4.0,4.0,NHS Lothian
-9595,2021Q4,S08000024,Urological,7.0,6.0,NHS Lothian
-9597,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9598,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9608,2021Q4,S08000024,Urological,214.0,207.0,NHS Lothian
-9616,2021Q4,S08000024,Urological,16.0,16.0,NHS Lothian
-9618,2021Q4,S08000024,Urological,1.0,1.0,NHS Lothian
-9635,2022Q1,S08000024,Urological,3.0,3.0,NHS Lothian
-9641,2022Q1,S08000024,Urological,14.0,14.0,NHS Lothian
-9644,2022Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-9645,2022Q1,S08000024,Urological,1.0,1.0,NHS Lothian
-9655,2022Q1,S08000024,Urological,224.0,213.0,NHS Lothian
-9664,2022Q1,S08000024,Urological,10.0,10.0,NHS Lothian
-9688,2022Q2,S08000024,Urological,6.0,6.0,NHS Lothian
-9694,2022Q2,S08000024,Urological,10.0,3.0,NHS Lothian
-9696,2022Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-9700,2022Q2,S08000024,Urological,3.0,3.0,NHS Lothian
-9710,2022Q2,S08000024,Urological,236.0,196.0,NHS Lothian
-9711,2022Q2,S08000024,Urological,1.0,1.0,NHS Lothian
-9719,2022Q2,S08000024,Urological,2.0,1.0,NHS Lothian
-9740,2022Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-9748,2022Q3,S08000024,Urological,7.0,4.0,NHS Lothian
-9750,2022Q3,S08000024,Urological,1.0,1.0,NHS Lothian
-9760,2022Q3,S08000024,Urological,198.0,169.0,NHS Lothian
-9767,2022Q3,S08000024,Urological,11.0,2.0,NHS Lothian
-9789,2012Q1,S08000019,Urological,64.0,56.0,NHS Forth Valley
-9800,2012Q2,S08000019,Urological,56.0,43.0,NHS Forth Valley
-9802,2012Q2,S08000019,Urological,1.0,1.0,NHS Forth Valley
-9803,2012Q3,S08000019,Urological,1.0,1.0,NHS Forth Valley
-9813,2012Q3,S08000019,Urological,49.0,45.0,NHS Forth Valley
-9823,2012Q4,S08000019,Urological,45.0,45.0,NHS Forth Valley
-9833,2013Q1,S08000019,Urological,48.0,47.0,NHS Forth Valley
-9842,2013Q2,S08000019,Urological,51.0,50.0,NHS Forth Valley
-9853,2013Q3,S08000019,Urological,36.0,31.0,NHS Forth Valley
-9864,2013Q4,S08000019,Urological,67.0,64.0,NHS Forth Valley
-9876,2014Q1,S08000019,Urological,67.0,67.0,NHS Forth Valley
-9888,2014Q2,S08000019,Urological,72.0,72.0,NHS Forth Valley
-9899,2014Q3,S08000019,Urological,59.0,58.0,NHS Forth Valley
-9910,2014Q4,S08000019,Urological,62.0,62.0,NHS Forth Valley
-9922,2015Q1,S08000019,Urological,70.0,70.0,NHS Forth Valley
-9934,2015Q2,S08000019,Urological,75.0,75.0,NHS Forth Valley
-9943,2015Q3,S08000019,Urological,75.0,75.0,NHS Forth Valley
-9954,2015Q4,S08000019,Urological,70.0,70.0,NHS Forth Valley
-9964,2016Q1,S08000019,Urological,62.0,62.0,NHS Forth Valley
-9965,2016Q1,S08000019,Urological,1.0,1.0,NHS Forth Valley
-9975,2016Q2,S08000019,Urological,78.0,78.0,NHS Forth Valley
-9984,2016Q3,S08000019,Urological,72.0,72.0,NHS Forth Valley
-9986,2016Q3,S08000019,Urological,1.0,1.0,NHS Forth Valley
-9996,2016Q4,S08000019,Urological,71.0,68.0,NHS Forth Valley
-10008,2017Q1,S08000019,Urological,80.0,80.0,NHS Forth Valley
-10022,2017Q2,S08000019,Urological,84.0,82.0,NHS Forth Valley
-10033,2017Q3,S08000019,Urological,82.0,79.0,NHS Forth Valley
-10043,2017Q4,S08000019,Urological,94.0,94.0,NHS Forth Valley
-10054,2018Q1,S08000019,Urological,116.0,114.0,NHS Forth Valley
-10065,2018Q2,S08000019,Urological,82.0,82.0,NHS Forth Valley
-10076,2018Q3,S08000019,Urological,119.0,117.0,NHS Forth Valley
-10087,2018Q4,S08000019,Urological,84.0,82.0,NHS Forth Valley
-10098,2019Q1,S08000019,Urological,86.0,86.0,NHS Forth Valley
-10100,2019Q1,S08000019,Urological,1.0,1.0,NHS Forth Valley
-10110,2019Q2,S08000019,Urological,81.0,77.0,NHS Forth Valley
-10120,2019Q3,S08000019,Urological,82.0,79.0,NHS Forth Valley
-10132,2019Q4,S08000019,Urological,77.0,76.0,NHS Forth Valley
-10144,2020Q1,S08000019,Urological,98.0,98.0,NHS Forth Valley
-10156,2020Q2,S08000019,Urological,66.0,66.0,NHS Forth Valley
-10167,2020Q3,S08000019,Urological,69.0,69.0,NHS Forth Valley
-10177,2020Q4,S08000019,Urological,74.0,73.0,NHS Forth Valley
-10188,2021Q1,S08000019,Urological,76.0,74.0,NHS Forth Valley
-10190,2021Q1,S08000019,Urological,1.0,0.0,NHS Forth Valley
-10200,2021Q2,S08000019,Urological,63.0,61.0,NHS Forth Valley
-10211,2021Q3,S08000019,Urological,65.0,61.0,NHS Forth Valley
-10311,2020Q4,S08000019,Urological,74.0,73.0,NHS Forth Valley
-10325,2021Q1,S08000019,Urological,76.0,74.0,NHS Forth Valley
-10327,2021Q1,S08000019,Urological,1.0,0.0,NHS Forth Valley
-10339,2021Q2,S08000019,Urological,63.0,61.0,NHS Forth Valley
-10352,2021Q3,S08000019,Urological,65.0,61.0,NHS Forth Valley
-10363,2021Q4,S08000019,Urological,102.0,100.0,NHS Forth Valley
-10375,2021Q1,S08000019,Urological,76.0,74.0,NHS Forth Valley
-10377,2021Q1,S08000019,Urological,1.0,0.0,NHS Forth Valley
-10389,2021Q2,S08000019,Urological,63.0,61.0,NHS Forth Valley
-10402,2021Q3,S08000019,Urological,65.0,61.0,NHS Forth Valley
-10413,2021Q4,S08000019,Urological,102.0,100.0,NHS Forth Valley
-10426,2022Q1,S08000019,Urological,90.0,88.0,NHS Forth Valley
-10439,2021Q2,S08000019,Urological,63.0,61.0,NHS Forth Valley
-10452,2021Q3,S08000019,Urological,65.0,61.0,NHS Forth Valley
-10463,2021Q4,S08000019,Urological,102.0,100.0,NHS Forth Valley
-10476,2022Q1,S08000019,Urological,90.0,88.0,NHS Forth Valley
-10488,2022Q2,S08000019,Urological,85.0,83.0,NHS Forth Valley
-10503,2021Q3,S08000019,Urological,65.0,61.0,NHS Forth Valley
-10514,2021Q4,S08000019,Urological,102.0,100.0,NHS Forth Valley
-10527,2022Q1,S08000019,Urological,90.0,88.0,NHS Forth Valley
-10539,2022Q2,S08000019,Urological,85.0,83.0,NHS Forth Valley
-10553,2022Q3,S08000019,Urological,99.0,97.0,NHS Forth Valley
-10568,2012Q1,S08000022,Urological,46.0,43.0,NHS Highland
-10572,2012Q1,S08000022,Urological,1.0,1.0,NHS Highland
-10584,2012Q2,S08000022,Urological,60.0,53.0,NHS Highland
-10588,2012Q2,S08000022,Urological,4.0,4.0,NHS Highland
-10599,2012Q3,S08000022,Urological,59.0,51.0,NHS Highland
-10603,2012Q3,S08000022,Urological,1.0,1.0,NHS Highland
-10612,2012Q4,S08000022,Urological,47.0,44.0,NHS Highland
-10618,2012Q4,S08000022,Urological,5.0,5.0,NHS Highland
-10630,2013Q1,S08000022,Urological,45.0,42.0,NHS Highland
-10636,2013Q1,S08000022,Urological,2.0,1.0,NHS Highland
-10646,2013Q2,S08000022,Urological,54.0,51.0,NHS Highland
-10650,2013Q2,S08000022,Urological,5.0,3.0,NHS Highland
-10661,2013Q3,S08000022,Urological,68.0,64.0,NHS Highland
-10667,2013Q3,S08000022,Urological,1.0,0.0,NHS Highland
-10680,2013Q4,S08000022,Urological,65.0,56.0,NHS Highland
-10686,2013Q4,S08000022,Urological,1.0,0.0,NHS Highland
-10696,2014Q1,S08000022,Urological,67.0,58.0,NHS Highland
-10700,2014Q1,S08000022,Urological,1.0,1.0,NHS Highland
-10713,2014Q2,S08000022,Urological,74.0,71.0,NHS Highland
-10732,2014Q3,S08000022,Urological,74.0,58.0,NHS Highland
-10747,2014Q4,S08000022,Urological,49.0,43.0,NHS Highland
-10765,2015Q1,S08000022,Urological,69.0,64.0,NHS Highland
-10781,2015Q2,S08000022,Urological,52.0,44.0,NHS Highland
-10795,2015Q3,S08000022,Urological,62.0,54.0,NHS Highland
-10802,2015Q3,S08000022,Urological,1.0,1.0,NHS Highland
-10816,2015Q4,S08000022,Urological,72.0,65.0,NHS Highland
-10819,2015Q4,S08000022,Urological,3.0,2.0,NHS Highland
-10829,2016Q1,S08000022,Urological,49.0,42.0,NHS Highland
-10832,2016Q1,S08000022,Urological,4.0,4.0,NHS Highland
-10842,2016Q2,S08000022,Urological,62.0,58.0,NHS Highland
-10847,2016Q2,S08000022,Urological,5.0,5.0,NHS Highland
-10863,2016Q3,S08000022,Urological,49.0,38.0,NHS Highland
-10867,2016Q3,S08000022,Urological,1.0,0.0,NHS Highland
-10877,2016Q4,S08000022,Urological,51.0,44.0,NHS Highland
-10883,2016Q4,S08000022,Urological,2.0,2.0,NHS Highland
-10893,2017Q1,S08000022,Urological,51.0,49.0,NHS Highland
-10900,2017Q1,S08000022,Urological,3.0,3.0,NHS Highland
-10911,2017Q2,S08000022,Urological,51.0,48.0,NHS Highland
-10913,2017Q2,S08000022,Urological,4.0,2.0,NHS Highland
-10927,2017Q3,S08000022,Urological,56.0,48.0,NHS Highland
-10931,2017Q3,S08000022,Urological,2.0,2.0,NHS Highland
-10944,2017Q4,S08000022,Urological,54.0,48.0,NHS Highland
-10962,2018Q1,S08000022,Urological,78.0,69.0,NHS Highland
-10968,2018Q1,S08000022,Urological,3.0,3.0,NHS Highland
-10979,2018Q2,S08000022,Urological,63.0,54.0,NHS Highland
-10994,2018Q3,S08000022,Urological,56.0,43.0,NHS Highland
-11002,2018Q4,S08000022,Urological,1.0,1.0,NHS Highland
-11012,2018Q4,S08000022,Urological,61.0,49.0,NHS Highland
-11018,2018Q4,S08000022,Urological,4.0,2.0,NHS Highland
-11028,2019Q1,S08000022,Urological,80.0,70.0,NHS Highland
-11033,2019Q1,S08000022,Urological,4.0,3.0,NHS Highland
-11036,2019Q2,S08000022,Urological,1.0,1.0,NHS Highland
-11046,2019Q2,S08000022,Urological,73.0,71.0,NHS Highland
-11051,2019Q2,S08000022,Urological,2.0,2.0,NHS Highland
-11064,2019Q3,S08000022,Urological,64.0,58.0,NHS Highland
-11070,2019Q3,S08000022,Urological,1.0,0.0,NHS Highland
-11082,2019Q4,S08000022,Urological,79.0,76.0,NHS Highland
-11086,2019Q4,S08000022,Urological,4.0,4.0,NHS Highland
-11099,2020Q1,S08000022,Urological,70.0,60.0,NHS Highland
-11104,2020Q1,S08000022,Urological,1.0,1.0,NHS Highland
-11116,2020Q2,S08000022,Urological,68.0,65.0,NHS Highland
-11122,2020Q2,S08000022,Urological,2.0,2.0,NHS Highland
-11133,2020Q3,S08000022,Urological,52.0,45.0,NHS Highland
-11137,2020Q3,S08000022,Urological,2.0,1.0,NHS Highland
-11138,2020Q3,S08000022,Urological,1.0,1.0,NHS Highland
-11148,2020Q4,S08000022,Urological,74.0,68.0,NHS Highland
-11153,2020Q4,S08000022,Urological,2.0,2.0,NHS Highland
-11164,2021Q1,S08000022,Urological,64.0,62.0,NHS Highland
-11169,2021Q1,S08000022,Urological,3.0,3.0,NHS Highland
-11181,2021Q2,S08000022,Urological,95.0,87.0,NHS Highland
-11186,2021Q2,S08000022,Urological,4.0,4.0,NHS Highland
-11197,2021Q3,S08000022,Urological,78.0,74.0,NHS Highland
-11202,2021Q3,S08000022,Urological,7.0,7.0,NHS Highland
-11346,2020Q4,S08000022,Urological,74.0,68.0,NHS Highland
-11351,2020Q4,S08000022,Urological,2.0,2.0,NHS Highland
-11364,2021Q1,S08000022,Urological,64.0,62.0,NHS Highland
-11369,2021Q1,S08000022,Urological,3.0,3.0,NHS Highland
-11385,2021Q2,S08000022,Urological,95.0,87.0,NHS Highland
-11390,2021Q2,S08000022,Urological,4.0,4.0,NHS Highland
-11405,2021Q3,S08000022,Urological,78.0,74.0,NHS Highland
-11410,2021Q3,S08000022,Urological,7.0,7.0,NHS Highland
-11423,2021Q4,S08000022,Urological,82.0,79.0,NHS Highland
-11427,2021Q4,S08000022,Urological,3.0,3.0,NHS Highland
-11440,2021Q1,S08000022,Urological,64.0,62.0,NHS Highland
-11445,2021Q1,S08000022,Urological,3.0,3.0,NHS Highland
-11461,2021Q2,S08000022,Urological,95.0,87.0,NHS Highland
-11466,2021Q2,S08000022,Urological,4.0,4.0,NHS Highland
-11481,2021Q3,S08000022,Urological,78.0,74.0,NHS Highland
-11486,2021Q3,S08000022,Urological,7.0,7.0,NHS Highland
-11499,2021Q4,S08000022,Urological,82.0,79.0,NHS Highland
-11503,2021Q4,S08000022,Urological,3.0,3.0,NHS Highland
-11515,2022Q1,S08000022,Urological,79.0,76.0,NHS Highland
-11519,2022Q1,S08000022,Urological,11.0,11.0,NHS Highland
-11532,2021Q2,S08000022,Urological,95.0,87.0,NHS Highland
-11537,2021Q2,S08000022,Urological,4.0,4.0,NHS Highland
-11552,2021Q3,S08000022,Urological,78.0,74.0,NHS Highland
-11557,2021Q3,S08000022,Urological,7.0,7.0,NHS Highland
-11570,2021Q4,S08000022,Urological,82.0,79.0,NHS Highland
-11574,2021Q4,S08000022,Urological,3.0,3.0,NHS Highland
-11586,2022Q1,S08000022,Urological,79.0,76.0,NHS Highland
-11590,2022Q1,S08000022,Urological,11.0,11.0,NHS Highland
-11602,2022Q2,S08000022,Urological,76.0,75.0,NHS Highland
-11607,2022Q2,S08000022,Urological,8.0,7.0,NHS Highland
-11621,2021Q3,S08000022,Urological,78.0,74.0,NHS Highland
-11626,2021Q3,S08000022,Urological,7.0,7.0,NHS Highland
-11639,2021Q4,S08000022,Urological,82.0,79.0,NHS Highland
-11643,2021Q4,S08000022,Urological,3.0,3.0,NHS Highland
-11655,2022Q1,S08000022,Urological,79.0,76.0,NHS Highland
-11659,2022Q1,S08000022,Urological,11.0,11.0,NHS Highland
-11671,2022Q2,S08000022,Urological,76.0,75.0,NHS Highland
-11676,2022Q2,S08000022,Urological,8.0,7.0,NHS Highland
-11690,2022Q3,S08000022,Urological,82.0,73.0,NHS Highland
-11695,2022Q3,S08000022,Urological,5.0,4.0,NHS Highland
-11710,2012Q1,S08000029,Urological,95.0,91.0,NHS Fife
-11720,2012Q2,S08000029,Urological,74.0,68.0,NHS Fife
-11730,2012Q3,S08000029,Urological,88.0,83.0,NHS Fife
-11742,2012Q4,S08000029,Urological,83.0,81.0,NHS Fife
-11753,2013Q1,S08000029,Urological,68.0,64.0,NHS Fife
-11764,2013Q2,S08000029,Urological,72.0,69.0,NHS Fife
-11774,2013Q3,S08000029,Urological,86.0,76.0,NHS Fife
-11785,2013Q4,S08000029,Urological,71.0,68.0,NHS Fife
-11796,2014Q1,S08000029,Urological,102.0,96.0,NHS Fife
-11806,2014Q2,S08000029,Urological,74.0,69.0,NHS Fife
-11817,2014Q3,S08000029,Urological,89.0,78.0,NHS Fife
-11829,2014Q4,S08000029,Urological,58.0,51.0,NHS Fife
-11839,2015Q1,S08000029,Urological,76.0,67.0,NHS Fife
-11850,2015Q2,S08000029,Urological,71.0,67.0,NHS Fife
-11861,2015Q3,S08000029,Urological,81.0,75.0,NHS Fife
-11873,2015Q4,S08000029,Urological,79.0,73.0,NHS Fife
-11884,2016Q1,S08000029,Urological,56.0,49.0,NHS Fife
-11896,2016Q2,S08000029,Urological,102.0,90.0,NHS Fife
-11906,2016Q3,S08000029,Urological,76.0,59.0,NHS Fife
-11917,2016Q4,S08000029,Urological,62.0,57.0,NHS Fife
-11928,2017Q1,S08000029,Urological,80.0,75.0,NHS Fife
-11939,2017Q2,S08000029,Urological,78.0,77.0,NHS Fife
-11950,2017Q3,S08000029,Urological,77.0,72.0,NHS Fife
-11960,2017Q4,S08000029,Urological,80.0,78.0,NHS Fife
-11971,2018Q1,S08000029,Urological,63.0,58.0,NHS Fife
-11982,2018Q2,S08000029,Urological,82.0,72.0,NHS Fife
-11994,2018Q3,S08000029,Urological,83.0,72.0,NHS Fife
-12005,2018Q4,S08000029,Urological,90.0,82.0,NHS Fife
-12015,2019Q1,S08000029,Urological,101.0,89.0,NHS Fife
-12026,2019Q2,S08000029,Urological,86.0,69.0,NHS Fife
-12037,2019Q3,S08000029,Urological,91.0,84.0,NHS Fife
-12048,2019Q4,S08000029,Urological,88.0,84.0,NHS Fife
-12059,2020Q1,S08000029,Urological,113.0,103.0,NHS Fife
-12070,2020Q2,S08000029,Urological,79.0,74.0,NHS Fife
-12080,2020Q3,S08000029,Urological,60.0,56.0,NHS Fife
-12091,2020Q4,S08000029,Urological,95.0,92.0,NHS Fife
-12102,2021Q1,S08000029,Urological,68.0,67.0,NHS Fife
-12113,2021Q2,S08000029,Urological,86.0,84.0,NHS Fife
-12124,2021Q3,S08000029,Urological,87.0,84.0,NHS Fife
-12213,2020Q4,S08000029,Urological,95.0,92.0,NHS Fife
-12226,2021Q1,S08000029,Urological,68.0,67.0,NHS Fife
-12239,2021Q2,S08000029,Urological,86.0,84.0,NHS Fife
-12252,2021Q3,S08000029,Urological,87.0,84.0,NHS Fife
-12264,2021Q4,S08000029,Urological,81.0,81.0,NHS Fife
-12277,2021Q1,S08000029,Urological,68.0,67.0,NHS Fife
-12290,2021Q2,S08000029,Urological,86.0,84.0,NHS Fife
-12303,2021Q3,S08000029,Urological,87.0,84.0,NHS Fife
-12315,2021Q4,S08000029,Urological,81.0,81.0,NHS Fife
-12328,2022Q1,S08000029,Urological,105.0,100.0,NHS Fife
-12343,2021Q2,S08000029,Urological,86.0,84.0,NHS Fife
-12356,2021Q3,S08000029,Urological,87.0,84.0,NHS Fife
-12368,2021Q4,S08000029,Urological,81.0,81.0,NHS Fife
-12381,2022Q1,S08000029,Urological,105.0,100.0,NHS Fife
-12395,2022Q2,S08000029,Urological,93.0,86.0,NHS Fife
-12407,2021Q3,S08000029,Urological,87.0,84.0,NHS Fife
-12419,2021Q4,S08000029,Urological,81.0,81.0,NHS Fife
-12432,2022Q1,S08000029,Urological,105.0,100.0,NHS Fife
-12446,2022Q2,S08000029,Urological,93.0,86.0,NHS Fife
-12457,2022Q3,S08000029,Urological,99.0,89.0,NHS Fife
-12460,2012Q1,S08000030,Urological,1.0,1.0,NHS Tayside
-12463,2012Q1,S08000030,Urological,2.0,2.0,NHS Tayside
-12473,2012Q1,S08000030,Urological,95.0,89.0,NHS Tayside
-12475,2012Q2,S08000030,Urological,1.0,1.0,NHS Tayside
-12485,2012Q2,S08000030,Urological,92.0,88.0,NHS Tayside
-12489,2012Q3,S08000030,Urological,1.0,1.0,NHS Tayside
-12499,2012Q3,S08000030,Urological,102.0,96.0,NHS Tayside
-12501,2012Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-12511,2012Q4,S08000030,Urological,105.0,99.0,NHS Tayside
-12516,2013Q1,S08000030,Urological,2.0,2.0,NHS Tayside
-12526,2013Q1,S08000030,Urological,92.0,83.0,NHS Tayside
-12539,2013Q2,S08000030,Urological,113.0,108.0,NHS Tayside
-12543,2013Q3,S08000030,Urological,1.0,1.0,NHS Tayside
-12553,2013Q3,S08000030,Urological,98.0,95.0,NHS Tayside
-12558,2013Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-12568,2013Q4,S08000030,Urological,113.0,106.0,NHS Tayside
-12578,2014Q1,S08000030,Urological,110.0,105.0,NHS Tayside
-12583,2014Q2,S08000030,Urological,1.0,1.0,NHS Tayside
-12592,2014Q2,S08000030,Urological,105.0,95.0,NHS Tayside
-12595,2014Q3,S08000030,Urological,2.0,2.0,NHS Tayside
-12603,2014Q3,S08000030,Urological,130.0,122.0,NHS Tayside
-12605,2014Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-12613,2014Q4,S08000030,Urological,123.0,112.0,NHS Tayside
-12614,2014Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-12619,2015Q1,S08000030,Urological,1.0,0.0,NHS Tayside
-12629,2015Q1,S08000030,Urological,107.0,94.0,NHS Tayside
-12633,2015Q2,S08000030,Urological,3.0,3.0,NHS Tayside
-12643,2015Q2,S08000030,Urological,107.0,98.0,NHS Tayside
-12655,2015Q3,S08000030,Urological,110.0,84.0,NHS Tayside
-12659,2015Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-12669,2015Q4,S08000030,Urological,96.0,80.0,NHS Tayside
-12685,2016Q1,S08000030,Urological,136.0,110.0,NHS Tayside
-12690,2016Q2,S08000030,Urological,1.0,1.0,NHS Tayside
-12700,2016Q2,S08000030,Urological,132.0,114.0,NHS Tayside
-12706,2016Q3,S08000030,Urological,1.0,1.0,NHS Tayside
-12716,2016Q3,S08000030,Urological,116.0,94.0,NHS Tayside
-12731,2016Q4,S08000030,Urological,121.0,97.0,NHS Tayside
-12744,2017Q1,S08000030,Urological,131.0,106.0,NHS Tayside
-12758,2017Q2,S08000030,Urological,131.0,107.0,NHS Tayside
-12764,2017Q3,S08000030,Urological,1.0,1.0,NHS Tayside
-12774,2017Q3,S08000030,Urological,134.0,120.0,NHS Tayside
-12789,2017Q4,S08000030,Urological,123.0,112.0,NHS Tayside
-12804,2018Q1,S08000030,Urological,127.0,108.0,NHS Tayside
-12819,2018Q2,S08000030,Urological,124.0,114.0,NHS Tayside
-12834,2018Q3,S08000030,Urological,101.0,95.0,NHS Tayside
-12849,2018Q4,S08000030,Urological,102.0,83.0,NHS Tayside
-12863,2019Q1,S08000030,Urological,116.0,100.0,NHS Tayside
-12877,2019Q2,S08000030,Urological,109.0,106.0,NHS Tayside
-12883,2019Q3,S08000030,Urological,1.0,1.0,NHS Tayside
-12893,2019Q3,S08000030,Urological,111.0,110.0,NHS Tayside
-12907,2019Q4,S08000030,Urological,118.0,117.0,NHS Tayside
-12911,2020Q1,S08000030,Urological,1.0,1.0,NHS Tayside
-12921,2020Q1,S08000030,Urological,138.0,137.0,NHS Tayside
-12936,2020Q2,S08000030,Urological,80.0,79.0,NHS Tayside
-12950,2020Q3,S08000030,Urological,62.0,61.0,NHS Tayside
-12953,2020Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-12963,2020Q4,S08000030,Urological,96.0,96.0,NHS Tayside
-12976,2021Q1,S08000030,Urological,77.0,74.0,NHS Tayside
-12988,2021Q2,S08000030,Urological,109.0,100.0,NHS Tayside
-13003,2021Q3,S08000030,Urological,127.0,122.0,NHS Tayside
-13126,2020Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-13136,2020Q4,S08000030,Urological,96.0,96.0,NHS Tayside
-13151,2021Q1,S08000030,Urological,77.0,74.0,NHS Tayside
-13166,2021Q2,S08000030,Urological,109.0,100.0,NHS Tayside
-13184,2021Q3,S08000030,Urological,127.0,122.0,NHS Tayside
-13191,2021Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-13201,2021Q4,S08000030,Urological,105.0,104.0,NHS Tayside
-13217,2021Q1,S08000030,Urological,77.0,74.0,NHS Tayside
-13232,2021Q2,S08000030,Urological,109.0,100.0,NHS Tayside
-13250,2021Q3,S08000030,Urological,127.0,122.0,NHS Tayside
-13257,2021Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-13267,2021Q4,S08000030,Urological,105.0,104.0,NHS Tayside
-13284,2022Q1,S08000030,Urological,109.0,109.0,NHS Tayside
-13300,2021Q2,S08000030,Urological,109.0,100.0,NHS Tayside
-13318,2021Q3,S08000030,Urological,127.0,122.0,NHS Tayside
-13325,2021Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-13335,2021Q4,S08000030,Urological,105.0,104.0,NHS Tayside
-13352,2022Q1,S08000030,Urological,109.0,109.0,NHS Tayside
-13369,2022Q2,S08000030,Urological,151.0,151.0,NHS Tayside
-13387,2021Q3,S08000030,Urological,127.0,122.0,NHS Tayside
-13394,2021Q4,S08000030,Urological,1.0,1.0,NHS Tayside
-13404,2021Q4,S08000030,Urological,105.0,104.0,NHS Tayside
-13421,2022Q1,S08000030,Urological,109.0,109.0,NHS Tayside
-13438,2022Q2,S08000030,Urological,151.0,151.0,NHS Tayside
-13454,2022Q3,S08000030,Urological,124.0,122.0,NHS Tayside
-13459,2012Q1,S08000025,Urological,1.0,1.0,NHS Orkney
-13473,2013Q2,S08000025,Urological,1.0,1.0,NHS Orkney
-13477,2013Q3,S08000025,Urological,1.0,1.0,NHS Orkney
-13480,2013Q4,S08000025,Urological,2.0,2.0,NHS Orkney
-13482,2014Q1,S08000025,Urological,1.0,1.0,NHS Orkney
-13487,2014Q3,S08000025,Urological,2.0,2.0,NHS Orkney
-13492,2014Q4,S08000025,Urological,1.0,1.0,NHS Orkney
-13500,2015Q3,S08000025,Urological,1.0,1.0,NHS Orkney
-13505,2015Q4,S08000025,Urological,1.0,1.0,NHS Orkney
-13511,2016Q2,S08000025,Urological,3.0,3.0,NHS Orkney
-13519,2016Q4,S08000025,Urological,1.0,1.0,NHS Orkney
-13529,2017Q2,S08000025,Urological,1.0,1.0,NHS Orkney
-13538,2018Q1,S08000025,Urological,2.0,2.0,NHS Orkney
-13545,2018Q3,S08000025,Urological,1.0,1.0,NHS Orkney
-13550,2018Q4,S08000025,Urological,2.0,2.0,NHS Orkney
-13551,2019Q1,S08000025,Urological,1.0,1.0,NHS Orkney
-13559,2019Q2,S08000025,Urological,1.0,1.0,NHS Orkney
-13568,2019Q4,S08000025,Urological,2.0,2.0,NHS Orkney
-13573,2020Q1,S08000025,Urological,1.0,1.0,NHS Orkney
-13576,2020Q2,S08000025,Urological,3.0,3.0,NHS Orkney
-13581,2020Q3,S08000025,Urological,2.0,2.0,NHS Orkney
-13587,2020Q4,S08000025,Urological,5.0,5.0,NHS Orkney
-13588,2021Q1,S08000025,Urological,1.0,1.0,NHS Orkney
-13597,2021Q2,S08000025,Urological,2.0,2.0,NHS Orkney
-13598,2021Q3,S08000025,Urological,1.0,1.0,NHS Orkney
-13661,2020Q4,S08000025,Urological,5.0,5.0,NHS Orkney
-13664,2021Q1,S08000025,Urological,1.0,1.0,NHS Orkney
-13675,2021Q2,S08000025,Urological,2.0,2.0,NHS Orkney
-13677,2021Q3,S08000025,Urological,1.0,1.0,NHS Orkney
-13685,2021Q4,S08000025,Urological,4.0,4.0,NHS Orkney
-13688,2021Q1,S08000025,Urological,1.0,1.0,NHS Orkney
-13699,2021Q2,S08000025,Urological,2.0,2.0,NHS Orkney
-13701,2021Q3,S08000025,Urological,1.0,1.0,NHS Orkney
-13709,2021Q4,S08000025,Urological,4.0,4.0,NHS Orkney
-13716,2022Q1,S08000025,Urological,2.0,2.0,NHS Orkney
-13723,2021Q2,S08000025,Urological,2.0,2.0,NHS Orkney
-13725,2021Q3,S08000025,Urological,1.0,1.0,NHS Orkney
-13733,2021Q4,S08000025,Urological,4.0,4.0,NHS Orkney
-13740,2022Q1,S08000025,Urological,2.0,2.0,NHS Orkney
-13745,2022Q2,S08000025,Urological,2.0,2.0,NHS Orkney
-13748,2021Q3,S08000025,Urological,1.0,1.0,NHS Orkney
-13756,2021Q4,S08000025,Urological,4.0,4.0,NHS Orkney
-13763,2022Q1,S08000025,Urological,2.0,2.0,NHS Orkney
-13768,2022Q2,S08000025,Urological,2.0,2.0,NHS Orkney
-13776,2022Q3,S08000025,Urological,2.0,2.0,NHS Orkney
-13784,2012Q1,S08000026,Urological,7.0,7.0,NHS Shetland
-13790,2012Q2,S08000026,Urological,6.0,6.0,NHS Shetland
-13798,2012Q4,S08000026,Urological,5.0,5.0,NHS Shetland
-13802,2013Q1,S08000026,Urological,6.0,6.0,NHS Shetland
-13807,2013Q2,S08000026,Urological,13.0,12.0,NHS Shetland
-13813,2013Q3,S08000026,Urological,6.0,6.0,NHS Shetland
-13818,2013Q4,S08000026,Urological,10.0,10.0,NHS Shetland
-13819,2014Q1,S08000026,Urological,1.0,1.0,NHS Shetland
-13824,2014Q1,S08000026,Urological,9.0,9.0,NHS Shetland
-13828,2014Q2,S08000026,Urological,7.0,7.0,NHS Shetland
-13829,2014Q3,S08000026,Urological,1.0,1.0,NHS Shetland
-13834,2014Q3,S08000026,Urological,7.0,7.0,NHS Shetland
-13839,2014Q4,S08000026,Urological,3.0,3.0,NHS Shetland
-13845,2015Q1,S08000026,Urological,3.0,3.0,NHS Shetland
-13846,2015Q2,S08000026,Urological,1.0,1.0,NHS Shetland
-13852,2015Q2,S08000026,Urological,4.0,4.0,NHS Shetland
-13857,2015Q3,S08000026,Urological,9.0,9.0,NHS Shetland
-13867,2016Q1,S08000026,Urological,4.0,4.0,NHS Shetland
-13872,2016Q2,S08000026,Urological,3.0,3.0,NHS Shetland
-13878,2016Q3,S08000026,Urological,3.0,3.0,NHS Shetland
-13885,2016Q4,S08000026,Urological,5.0,5.0,NHS Shetland
-13891,2017Q1,S08000026,Urological,14.0,14.0,NHS Shetland
-13895,2017Q2,S08000026,Urological,1.0,1.0,NHS Shetland
-13900,2017Q3,S08000026,Urological,10.0,10.0,NHS Shetland
-13904,2017Q4,S08000026,Urological,7.0,6.0,NHS Shetland
-13909,2018Q1,S08000026,Urological,4.0,4.0,NHS Shetland
-13910,2018Q2,S08000026,Urological,1.0,1.0,NHS Shetland
-13916,2018Q2,S08000026,Urological,7.0,7.0,NHS Shetland
-13919,2018Q3,S08000026,Urological,4.0,4.0,NHS Shetland
-13925,2018Q3,S08000026,Urological,4.0,4.0,NHS Shetland
-13926,2018Q4,S08000026,Urological,1.0,1.0,NHS Shetland
-13933,2018Q4,S08000026,Urological,9.0,8.0,NHS Shetland
-13940,2019Q1,S08000026,Urological,3.0,3.0,NHS Shetland
-13945,2019Q2,S08000026,Urological,12.0,12.0,NHS Shetland
-13947,2019Q3,S08000026,Urological,1.0,1.0,NHS Shetland
-13948,2019Q3,S08000026,Urological,1.0,1.0,NHS Shetland
-13953,2019Q3,S08000026,Urological,3.0,3.0,NHS Shetland
-13961,2019Q4,S08000026,Urological,6.0,6.0,NHS Shetland
-13963,2020Q1,S08000026,Urological,1.0,0.0,NHS Shetland
-13966,2020Q1,S08000026,Urological,8.0,7.0,NHS Shetland
-13972,2020Q2,S08000026,Urological,2.0,2.0,NHS Shetland
-13978,2020Q3,S08000026,Urological,4.0,4.0,NHS Shetland
-13986,2020Q4,S08000026,Urological,4.0,4.0,NHS Shetland
-13991,2021Q1,S08000026,Urological,3.0,3.0,NHS Shetland
-13995,2021Q2,S08000026,Urological,6.0,6.0,NHS Shetland
-13999,2021Q3,S08000026,Urological,4.0,4.0,NHS Shetland
-14065,2020Q4,S08000026,Urological,4.0,4.0,NHS Shetland
-14072,2021Q1,S08000026,Urological,3.0,3.0,NHS Shetland
-14077,2021Q2,S08000026,Urological,6.0,6.0,NHS Shetland
-14082,2021Q3,S08000026,Urological,4.0,4.0,NHS Shetland
-14090,2021Q4,S08000026,Urological,8.0,8.0,NHS Shetland
-14096,2021Q1,S08000026,Urological,3.0,3.0,NHS Shetland
-14101,2021Q2,S08000026,Urological,6.0,6.0,NHS Shetland
-14106,2021Q3,S08000026,Urological,4.0,4.0,NHS Shetland
-14114,2021Q4,S08000026,Urological,8.0,8.0,NHS Shetland
-14122,2022Q1,S08000026,Urological,4.0,4.0,NHS Shetland
-14127,2021Q2,S08000026,Urological,6.0,6.0,NHS Shetland
-14132,2021Q3,S08000026,Urological,4.0,4.0,NHS Shetland
-14140,2021Q4,S08000026,Urological,8.0,8.0,NHS Shetland
-14148,2022Q1,S08000026,Urological,4.0,4.0,NHS Shetland
-14155,2022Q2,S08000026,Urological,5.0,5.0,NHS Shetland
-14161,2021Q3,S08000026,Urological,4.0,4.0,NHS Shetland
-14169,2021Q4,S08000026,Urological,8.0,8.0,NHS Shetland
-14177,2022Q1,S08000026,Urological,4.0,4.0,NHS Shetland
-14184,2022Q2,S08000026,Urological,5.0,5.0,NHS Shetland
-14188,2022Q3,S08000026,Urological,1.0,1.0,NHS Shetland
-14194,2022Q3,S08000026,Urological,7.0,7.0,NHS Shetland
-14202,2012Q1,S08000028,Urological,2.0,2.0,NHS Western Isles
-14210,2012Q3,S08000028,Urological,3.0,3.0,NHS Western Isles
-14220,2013Q1,S08000028,Urological,1.0,1.0,NHS Western Isles
-14230,2013Q3,S08000028,Urological,4.0,4.0,NHS Western Isles
-14236,2013Q4,S08000028,Urological,1.0,1.0,NHS Western Isles
-14237,2014Q1,S08000028,Urological,1.0,1.0,NHS Western Isles
-14242,2014Q2,S08000028,Urological,2.0,2.0,NHS Western Isles
-14246,2014Q3,S08000028,Urological,3.0,3.0,NHS Western Isles
-14252,2014Q4,S08000028,Urological,1.0,1.0,NHS Western Isles
-14263,2015Q2,S08000028,Urological,1.0,1.0,NHS Western Isles
-14268,2015Q2,S08000028,Urological,1.0,1.0,NHS Western Isles
-14270,2015Q3,S08000028,Urological,4.0,4.0,NHS Western Isles
-14279,2015Q4,S08000028,Urological,3.0,3.0,NHS Western Isles
-14284,2016Q1,S08000028,Urological,5.0,5.0,NHS Western Isles
-14285,2016Q2,S08000028,Urological,1.0,1.0,NHS Western Isles
-14291,2016Q2,S08000028,Urological,2.0,2.0,NHS Western Isles
-14298,2016Q3,S08000028,Urological,1.0,1.0,NHS Western Isles
-14299,2016Q4,S08000028,Urological,1.0,1.0,NHS Western Isles
-14303,2016Q4,S08000028,Urological,4.0,4.0,NHS Western Isles
-14308,2017Q1,S08000028,Urological,6.0,6.0,NHS Western Isles
-14315,2017Q2,S08000028,Urological,7.0,7.0,NHS Western Isles
-14320,2017Q3,S08000028,Urological,2.0,2.0,NHS Western Isles
-14324,2017Q4,S08000028,Urological,3.0,3.0,NHS Western Isles
-14331,2018Q1,S08000028,Urological,2.0,2.0,NHS Western Isles
-14337,2018Q2,S08000028,Urological,1.0,1.0,NHS Western Isles
-14344,2018Q3,S08000028,Urological,3.0,3.0,NHS Western Isles
-14345,2018Q4,S08000028,Urological,1.0,1.0,NHS Western Isles
-14350,2018Q4,S08000028,Urological,3.0,3.0,NHS Western Isles
-14355,2019Q1,S08000028,Urological,6.0,6.0,NHS Western Isles
-14361,2019Q2,S08000028,Urological,4.0,4.0,NHS Western Isles
-14368,2019Q3,S08000028,Urological,6.0,6.0,NHS Western Isles
-14374,2019Q4,S08000028,Urological,5.0,5.0,NHS Western Isles
-14379,2020Q1,S08000028,Urological,5.0,5.0,NHS Western Isles
-14385,2020Q2,S08000028,Urological,4.0,4.0,NHS Western Isles
-14390,2020Q3,S08000028,Urological,3.0,3.0,NHS Western Isles
-14395,2020Q4,S08000028,Urological,4.0,4.0,NHS Western Isles
-14398,2021Q1,S08000028,Urological,3.0,3.0,NHS Western Isles
-14404,2021Q2,S08000028,Urological,3.0,3.0,NHS Western Isles
-14405,2021Q3,S08000028,Urological,1.0,1.0,NHS Western Isles
-14412,2021Q3,S08000028,Urological,6.0,6.0,NHS Western Isles
-14481,2020Q4,S08000028,Urological,4.0,4.0,NHS Western Isles
-14485,2021Q1,S08000028,Urological,3.0,3.0,NHS Western Isles
-14492,2021Q2,S08000028,Urological,3.0,3.0,NHS Western Isles
-14494,2021Q3,S08000028,Urological,1.0,1.0,NHS Western Isles
-14501,2021Q3,S08000028,Urological,6.0,6.0,NHS Western Isles
-14507,2021Q4,S08000028,Urological,3.0,3.0,NHS Western Isles
-14511,2021Q1,S08000028,Urological,3.0,3.0,NHS Western Isles
-14518,2021Q2,S08000028,Urological,3.0,3.0,NHS Western Isles
-14520,2021Q3,S08000028,Urological,1.0,1.0,NHS Western Isles
-14527,2021Q3,S08000028,Urological,6.0,6.0,NHS Western Isles
-14533,2021Q4,S08000028,Urological,3.0,3.0,NHS Western Isles
-14540,2022Q1,S08000028,Urological,6.0,6.0,NHS Western Isles
-14547,2021Q2,S08000028,Urological,3.0,3.0,NHS Western Isles
-14549,2021Q3,S08000028,Urological,1.0,1.0,NHS Western Isles
-14556,2021Q3,S08000028,Urological,6.0,6.0,NHS Western Isles
-14562,2021Q4,S08000028,Urological,3.0,3.0,NHS Western Isles
-14569,2022Q1,S08000028,Urological,6.0,6.0,NHS Western Isles
-14571,2022Q2,S08000028,Urological,2.0,2.0,NHS Western Isles
-14577,2022Q2,S08000028,Urological,10.0,10.0,NHS Western Isles
-14580,2021Q3,S08000028,Urological,1.0,1.0,NHS Western Isles
-14587,2021Q3,S08000028,Urological,6.0,6.0,NHS Western Isles
-14593,2021Q4,S08000028,Urological,3.0,3.0,NHS Western Isles
-14600,2022Q1,S08000028,Urological,6.0,6.0,NHS Western Isles
-14602,2022Q2,S08000028,Urological,2.0,2.0,NHS Western Isles
-14608,2022Q2,S08000028,Urological,10.0,10.0,NHS Western Isles
-14619,2022Q3,S08000028,Urological,2.0,2.0,NHS Western Isles
-14635,2012Q1,S08000032,Urological,84.0,81.0,NHS Lanarkshire
-14646,2012Q2,S08000032,Urological,83.0,81.0,NHS Lanarkshire
-14658,2012Q3,S08000032,Urological,81.0,76.0,NHS Lanarkshire
-14669,2012Q4,S08000032,Urological,102.0,90.0,NHS Lanarkshire
-14681,2013Q1,S08000032,Urological,95.0,88.0,NHS Lanarkshire
-14693,2013Q2,S08000032,Urological,77.0,72.0,NHS Lanarkshire
-14704,2013Q3,S08000032,Urological,49.0,46.0,NHS Lanarkshire
-14716,2013Q4,S08000032,Urological,57.0,53.0,NHS Lanarkshire
-14728,2014Q1,S08000032,Urological,78.0,63.0,NHS Lanarkshire
-14739,2014Q2,S08000032,Urological,106.0,96.0,NHS Lanarkshire
-14751,2014Q3,S08000032,Urological,91.0,85.0,NHS Lanarkshire
-14762,2014Q4,S08000032,Urological,103.0,98.0,NHS Lanarkshire
-14774,2015Q1,S08000032,Urological,85.0,80.0,NHS Lanarkshire
-14786,2015Q2,S08000032,Urological,86.0,75.0,NHS Lanarkshire
-14798,2015Q3,S08000032,Urological,90.0,77.0,NHS Lanarkshire
-14810,2015Q4,S08000032,Urological,100.0,86.0,NHS Lanarkshire
-14813,2016Q1,S08000032,Urological,1.0,1.0,NHS Lanarkshire
-14823,2016Q1,S08000032,Urological,84.0,77.0,NHS Lanarkshire
-14834,2016Q2,S08000032,Urological,118.0,101.0,NHS Lanarkshire
-14846,2016Q3,S08000032,Urological,119.0,112.0,NHS Lanarkshire
-14859,2016Q4,S08000032,Urological,97.0,84.0,NHS Lanarkshire
-14871,2017Q1,S08000032,Urological,92.0,82.0,NHS Lanarkshire
-14883,2017Q2,S08000032,Urological,116.0,101.0,NHS Lanarkshire
-14895,2017Q3,S08000032,Urological,101.0,94.0,NHS Lanarkshire
-14908,2017Q4,S08000032,Urological,114.0,108.0,NHS Lanarkshire
-14920,2018Q1,S08000032,Urological,108.0,107.0,NHS Lanarkshire
-14931,2018Q2,S08000032,Urological,123.0,121.0,NHS Lanarkshire
-14943,2018Q3,S08000032,Urological,121.0,118.0,NHS Lanarkshire
-14956,2018Q4,S08000032,Urological,108.0,106.0,NHS Lanarkshire
-14968,2019Q1,S08000032,Urological,106.0,103.0,NHS Lanarkshire
-14970,2019Q2,S08000032,Urological,1.0,0.0,NHS Lanarkshire
-14981,2019Q2,S08000032,Urological,112.0,103.0,NHS Lanarkshire
-14993,2019Q3,S08000032,Urological,72.0,68.0,NHS Lanarkshire
-15005,2019Q4,S08000032,Urological,60.0,60.0,NHS Lanarkshire
-15018,2020Q1,S08000032,Urological,101.0,94.0,NHS Lanarkshire
-15030,2020Q2,S08000032,Urological,69.0,66.0,NHS Lanarkshire
-15042,2020Q3,S08000032,Urological,44.0,43.0,NHS Lanarkshire
-15054,2020Q4,S08000032,Urological,50.0,47.0,NHS Lanarkshire
-15056,2021Q1,S08000032,Urological,1.0,1.0,NHS Lanarkshire
-15066,2021Q1,S08000032,Urological,74.0,72.0,NHS Lanarkshire
-15077,2021Q2,S08000032,Urological,81.0,79.0,NHS Lanarkshire
-15089,2021Q3,S08000032,Urological,71.0,67.0,NHS Lanarkshire
-15207,2020Q4,S08000032,Urological,50.0,47.0,NHS Lanarkshire
-15211,2021Q1,S08000032,Urological,1.0,1.0,NHS Lanarkshire
-15221,2021Q1,S08000032,Urological,74.0,72.0,NHS Lanarkshire
-15234,2021Q2,S08000032,Urological,81.0,79.0,NHS Lanarkshire
-15248,2021Q3,S08000032,Urological,71.0,67.0,NHS Lanarkshire
-15264,2021Q4,S08000032,Urological,82.0,81.0,NHS Lanarkshire
-15270,2021Q1,S08000032,Urological,1.0,1.0,NHS Lanarkshire
-15280,2021Q1,S08000032,Urological,74.0,72.0,NHS Lanarkshire
-15293,2021Q2,S08000032,Urological,81.0,79.0,NHS Lanarkshire
-15307,2021Q3,S08000032,Urological,71.0,67.0,NHS Lanarkshire
-15323,2021Q4,S08000032,Urological,82.0,81.0,NHS Lanarkshire
-15339,2022Q1,S08000032,Urological,72.0,68.0,NHS Lanarkshire
-15353,2021Q2,S08000032,Urological,81.0,79.0,NHS Lanarkshire
-15367,2021Q3,S08000032,Urological,71.0,67.0,NHS Lanarkshire
-15383,2021Q4,S08000032,Urological,82.0,81.0,NHS Lanarkshire
-15399,2022Q1,S08000032,Urological,72.0,68.0,NHS Lanarkshire
-15414,2022Q2,S08000032,Urological,93.0,87.0,NHS Lanarkshire
-15429,2021Q3,S08000032,Urological,71.0,67.0,NHS Lanarkshire
-15445,2021Q4,S08000032,Urological,82.0,81.0,NHS Lanarkshire
-15461,2022Q1,S08000032,Urological,72.0,68.0,NHS Lanarkshire
-15476,2022Q2,S08000032,Urological,93.0,87.0,NHS Lanarkshire
-15492,2022Q3,S08000032,Urological,101.0,96.0,NHS Lanarkshire
+10,2012Q1,S08000015,Urological,65,63,NHS Ayrshire and Arran
+21,2012Q2,S08000015,Urological,62,62,NHS Ayrshire and Arran
+32,2012Q3,S08000015,Urological,66,66,NHS Ayrshire and Arran
+43,2012Q4,S08000015,Urological,88,88,NHS Ayrshire and Arran
+54,2013Q1,S08000015,Urological,91,88,NHS Ayrshire and Arran
+65,2013Q2,S08000015,Urological,78,78,NHS Ayrshire and Arran
+76,2013Q3,S08000015,Urological,88,87,NHS Ayrshire and Arran
+86,2013Q4,S08000015,Urological,95,91,NHS Ayrshire and Arran
+97,2014Q1,S08000015,Urological,72,70,NHS Ayrshire and Arran
+110,2014Q2,S08000015,Urological,88,88,NHS Ayrshire and Arran
+121,2014Q3,S08000015,Urological,98,96,NHS Ayrshire and Arran
+132,2014Q4,S08000015,Urological,84,84,NHS Ayrshire and Arran
+143,2015Q1,S08000015,Urological,82,81,NHS Ayrshire and Arran
+154,2015Q2,S08000015,Urological,100,100,NHS Ayrshire and Arran
+165,2015Q3,S08000015,Urological,80,79,NHS Ayrshire and Arran
+176,2015Q4,S08000015,Urological,81,81,NHS Ayrshire and Arran
+186,2016Q1,S08000015,Urological,86,78,NHS Ayrshire and Arran
+197,2016Q2,S08000015,Urological,81,77,NHS Ayrshire and Arran
+207,2016Q3,S08000015,Urological,80,79,NHS Ayrshire and Arran
+218,2016Q4,S08000015,Urological,68,67,NHS Ayrshire and Arran
+229,2017Q1,S08000015,Urological,72,71,NHS Ayrshire and Arran
+240,2017Q2,S08000015,Urological,71,69,NHS Ayrshire and Arran
+251,2017Q3,S08000015,Urological,67,65,NHS Ayrshire and Arran
+261,2017Q4,S08000015,Urological,67,66,NHS Ayrshire and Arran
+272,2018Q1,S08000015,Urological,61,56,NHS Ayrshire and Arran
+282,2018Q2,S08000015,Urological,83,81,NHS Ayrshire and Arran
+293,2018Q3,S08000015,Urological,78,78,NHS Ayrshire and Arran
+295,2018Q3,S08000015,Urological,1,1,NHS Ayrshire and Arran
+306,2018Q4,S08000015,Urological,58,57,NHS Ayrshire and Arran
+317,2019Q1,S08000015,Urological,87,85,NHS Ayrshire and Arran
+328,2019Q2,S08000015,Urological,84,84,NHS Ayrshire and Arran
+339,2019Q3,S08000015,Urological,66,66,NHS Ayrshire and Arran
+341,2019Q3,S08000015,Urological,1,1,NHS Ayrshire and Arran
+352,2019Q4,S08000015,Urological,61,60,NHS Ayrshire and Arran
+363,2020Q1,S08000015,Urological,65,64,NHS Ayrshire and Arran
+376,2020Q2,S08000015,Urological,64,64,NHS Ayrshire and Arran
+386,2020Q3,S08000015,Urological,27,26,NHS Ayrshire and Arran
+397,2020Q4,S08000015,Urological,49,49,NHS Ayrshire and Arran
+408,2021Q1,S08000015,Urological,38,38,NHS Ayrshire and Arran
+420,2021Q2,S08000015,Urological,48,48,NHS Ayrshire and Arran
+433,2021Q3,S08000015,Urological,31,31,NHS Ayrshire and Arran
+443,2021Q4,S08000015,Urological,43,43,NHS Ayrshire and Arran
+459,2022Q1,S08000015,Urological,20,20,NHS Ayrshire and Arran
+461,2022Q1,S08000015,Urological,1,1,NHS Ayrshire and Arran
+472,2022Q2,S08000015,Urological,64,64,NHS Ayrshire and Arran
+483,2022Q3,S08000015,Urological,53,53,NHS Ayrshire and Arran
+495,2012Q1,S08000017,Urological,29,29,NHS Dumfries and Galloway
+505,2012Q2,S08000017,Urological,26,26,NHS Dumfries and Galloway
+518,2012Q3,S08000017,Urological,39,38,NHS Dumfries and Galloway
+531,2012Q4,S08000017,Urological,37,35,NHS Dumfries and Galloway
+542,2013Q1,S08000017,Urological,34,32,NHS Dumfries and Galloway
+552,2013Q2,S08000017,Urological,30,28,NHS Dumfries and Galloway
+564,2013Q3,S08000017,Urological,30,30,NHS Dumfries and Galloway
+576,2013Q4,S08000017,Urological,30,30,NHS Dumfries and Galloway
+589,2014Q1,S08000017,Urological,32,32,NHS Dumfries and Galloway
+601,2014Q2,S08000017,Urological,37,37,NHS Dumfries and Galloway
+613,2014Q3,S08000017,Urological,42,42,NHS Dumfries and Galloway
+626,2014Q4,S08000017,Urological,48,47,NHS Dumfries and Galloway
+638,2015Q1,S08000017,Urological,24,24,NHS Dumfries and Galloway
+651,2015Q2,S08000017,Urological,31,31,NHS Dumfries and Galloway
+664,2015Q3,S08000017,Urological,33,32,NHS Dumfries and Galloway
+677,2015Q4,S08000017,Urological,39,37,NHS Dumfries and Galloway
+688,2016Q1,S08000017,Urological,38,38,NHS Dumfries and Galloway
+700,2016Q2,S08000017,Urological,26,24,NHS Dumfries and Galloway
+713,2016Q3,S08000017,Urological,37,34,NHS Dumfries and Galloway
+723,2016Q4,S08000017,Urological,37,34,NHS Dumfries and Galloway
+736,2017Q1,S08000017,Urological,28,24,NHS Dumfries and Galloway
+749,2017Q2,S08000017,Urological,27,25,NHS Dumfries and Galloway
+760,2017Q3,S08000017,Urological,30,28,NHS Dumfries and Galloway
+773,2017Q4,S08000017,Urological,24,22,NHS Dumfries and Galloway
+785,2018Q1,S08000017,Urological,28,24,NHS Dumfries and Galloway
+798,2018Q2,S08000017,Urological,35,32,NHS Dumfries and Galloway
+811,2018Q3,S08000017,Urological,33,28,NHS Dumfries and Galloway
+823,2018Q4,S08000017,Urological,44,42,NHS Dumfries and Galloway
+835,2019Q1,S08000017,Urological,38,33,NHS Dumfries and Galloway
+848,2019Q2,S08000017,Urological,33,33,NHS Dumfries and Galloway
+861,2019Q3,S08000017,Urological,39,36,NHS Dumfries and Galloway
+871,2019Q4,S08000017,Urological,41,38,NHS Dumfries and Galloway
+883,2020Q1,S08000017,Urological,39,37,NHS Dumfries and Galloway
+894,2020Q2,S08000017,Urological,53,53,NHS Dumfries and Galloway
+905,2020Q3,S08000017,Urological,35,35,NHS Dumfries and Galloway
+917,2020Q4,S08000017,Urological,35,35,NHS Dumfries and Galloway
+932,2021Q1,S08000017,Urological,45,43,NHS Dumfries and Galloway
+943,2021Q2,S08000017,Urological,31,30,NHS Dumfries and Galloway
+956,2021Q3,S08000017,Urological,36,35,NHS Dumfries and Galloway
+968,2021Q4,S08000017,Urological,42,42,NHS Dumfries and Galloway
+979,2022Q1,S08000017,Urological,39,37,NHS Dumfries and Galloway
+991,2022Q2,S08000017,Urological,42,42,NHS Dumfries and Galloway
+1004,2022Q3,S08000017,Urological,44,40,NHS Dumfries and Galloway
+1006,2022Q3,S08000017,Urological,1,1,NHS Dumfries and Galloway
+1019,2012Q1,S08000020,Urological,115,105,NHS Grampian
+1028,2012Q1,S08000020,Urological,1,1,NHS Grampian
+1036,2012Q1,S08000020,Urological,2,2,NHS Grampian
+1049,2012Q2,S08000020,Urological,126,122,NHS Grampian
+1057,2012Q2,S08000020,Urological,2,2,NHS Grampian
+1061,2012Q2,S08000020,Urological,3,3,NHS Grampian
+1072,2012Q3,S08000020,Urological,107,101,NHS Grampian
+1079,2012Q3,S08000020,Urological,2,2,NHS Grampian
+1085,2012Q3,S08000020,Urological,2,2,NHS Grampian
+1096,2012Q4,S08000020,Urological,131,125,NHS Grampian
+1112,2012Q4,S08000020,Urological,3,3,NHS Grampian
+1125,2013Q1,S08000020,Urological,105,100,NHS Grampian
+1130,2013Q1,S08000020,Urological,2,1,NHS Grampian
+1136,2013Q1,S08000020,Urological,1,1,NHS Grampian
+1149,2013Q2,S08000020,Urological,110,93,NHS Grampian
+1153,2013Q2,S08000020,Urological,1,1,NHS Grampian
+1156,2013Q2,S08000020,Urological,1,1,NHS Grampian
+1172,2013Q3,S08000020,Urological,74,64,NHS Grampian
+1180,2013Q3,S08000020,Urological,1,1,NHS Grampian
+1187,2013Q3,S08000020,Urological,1,1,NHS Grampian
+1198,2013Q4,S08000020,Urological,114,98,NHS Grampian
+1210,2013Q4,S08000020,Urological,1,1,NHS Grampian
+1221,2014Q1,S08000020,Urological,108,80,NHS Grampian
+1235,2014Q1,S08000020,Urological,1,1,NHS Grampian
+1248,2014Q2,S08000020,Urological,86,64,NHS Grampian
+1259,2014Q2,S08000020,Urological,2,2,NHS Grampian
+1276,2014Q3,S08000020,Urological,83,65,NHS Grampian
+1282,2014Q3,S08000020,Urological,1,1,NHS Grampian
+1293,2014Q3,S08000020,Urological,1,1,NHS Grampian
+1310,2014Q4,S08000020,Urological,81,76,NHS Grampian
+1317,2014Q4,S08000020,Urological,1,1,NHS Grampian
+1333,2015Q1,S08000020,Urological,132,111,NHS Grampian
+1335,2015Q1,S08000020,Urological,5,2,NHS Grampian
+1342,2015Q1,S08000020,Urological,2,2,NHS Grampian
+1353,2015Q2,S08000020,Urological,134,108,NHS Grampian
+1357,2015Q2,S08000020,Urological,3,1,NHS Grampian
+1378,2015Q3,S08000020,Urological,121,98,NHS Grampian
+1382,2015Q3,S08000020,Urological,4,0,NHS Grampian
+1393,2015Q3,S08000020,Urological,2,2,NHS Grampian
+1406,2015Q4,S08000020,Urological,123,111,NHS Grampian
+1411,2015Q4,S08000020,Urological,4,1,NHS Grampian
+1435,2016Q1,S08000020,Urological,123,103,NHS Grampian
+1440,2016Q1,S08000020,Urological,5,0,NHS Grampian
+1444,2016Q1,S08000020,Urological,1,0,NHS Grampian
+1451,2016Q1,S08000020,Urological,1,1,NHS Grampian
+1464,2016Q2,S08000020,Urological,150,141,NHS Grampian
+1468,2016Q2,S08000020,Urological,4,2,NHS Grampian
+1471,2016Q2,S08000020,Urological,1,1,NHS Grampian
+1474,2016Q2,S08000020,Urological,1,1,NHS Grampian
+1485,2016Q3,S08000020,Urological,153,137,NHS Grampian
+1490,2016Q3,S08000020,Urological,4,2,NHS Grampian
+1493,2016Q3,S08000020,Urological,1,1,NHS Grampian
+1500,2016Q3,S08000020,Urological,2,2,NHS Grampian
+1513,2016Q4,S08000020,Urological,115,100,NHS Grampian
+1519,2016Q4,S08000020,Urological,9,3,NHS Grampian
+1528,2016Q4,S08000020,Urological,1,1,NHS Grampian
+1530,2016Q4,S08000020,Urological,1,0,NHS Grampian
+1543,2017Q1,S08000020,Urological,147,119,NHS Grampian
+1549,2017Q1,S08000020,Urological,7,0,NHS Grampian
+1554,2017Q1,S08000020,Urological,3,3,NHS Grampian
+1561,2017Q1,S08000020,Urological,3,2,NHS Grampian
+1576,2017Q2,S08000020,Urological,150,123,NHS Grampian
+1579,2017Q2,S08000020,Urological,3,0,NHS Grampian
+1590,2017Q2,S08000020,Urological,1,1,NHS Grampian
+1592,2017Q2,S08000020,Urological,1,1,NHS Grampian
+1606,2017Q3,S08000020,Urological,146,117,NHS Grampian
+1609,2017Q3,S08000020,Urological,5,2,NHS Grampian
+1616,2017Q3,S08000020,Urological,3,3,NHS Grampian
+1630,2017Q4,S08000020,Urological,145,105,NHS Grampian
+1636,2017Q4,S08000020,Urological,5,0,NHS Grampian
+1643,2017Q4,S08000020,Urological,1,0,NHS Grampian
+1645,2017Q4,S08000020,Urological,1,0,NHS Grampian
+1649,2017Q4,S08000020,Urological,4,0,NHS Grampian
+1660,2018Q1,S08000020,Urological,155,116,NHS Grampian
+1665,2018Q1,S08000020,Urological,9,2,NHS Grampian
+1669,2018Q1,S08000020,Urological,1,0,NHS Grampian
+1674,2018Q1,S08000020,Urological,1,0,NHS Grampian
+1677,2018Q1,S08000020,Urological,2,0,NHS Grampian
+1688,2018Q2,S08000020,Urological,170,149,NHS Grampian
+1693,2018Q2,S08000020,Urological,7,4,NHS Grampian
+1706,2018Q2,S08000020,Urological,3,3,NHS Grampian
+1721,2018Q3,S08000020,Urological,145,105,NHS Grampian
+1724,2018Q3,S08000020,Urological,1,1,NHS Grampian
+1727,2018Q3,S08000020,Urological,3,2,NHS Grampian
+1733,2018Q3,S08000020,Urological,3,0,NHS Grampian
+1744,2018Q4,S08000020,Urological,188,143,NHS Grampian
+1747,2018Q4,S08000020,Urological,5,1,NHS Grampian
+1754,2018Q4,S08000020,Urological,1,0,NHS Grampian
+1760,2018Q4,S08000020,Urological,1,0,NHS Grampian
+1774,2019Q1,S08000020,Urological,157,134,NHS Grampian
+1779,2019Q1,S08000020,Urological,5,2,NHS Grampian
+1783,2019Q1,S08000020,Urological,2,1,NHS Grampian
+1789,2019Q1,S08000020,Urological,1,0,NHS Grampian
+1792,2019Q1,S08000020,Urological,2,1,NHS Grampian
+1794,2019Q1,S08000020,Urological,1,0,NHS Grampian
+1805,2019Q2,S08000020,Urological,199,170,NHS Grampian
+1810,2019Q2,S08000020,Urological,6,6,NHS Grampian
+1816,2019Q2,S08000020,Urological,1,1,NHS Grampian
+1820,2019Q2,S08000020,Urological,2,1,NHS Grampian
+1822,2019Q2,S08000020,Urological,2,1,NHS Grampian
+1836,2019Q3,S08000020,Urological,202,175,NHS Grampian
+1840,2019Q3,S08000020,Urological,10,10,NHS Grampian
+1844,2019Q3,S08000020,Urological,1,1,NHS Grampian
+1850,2019Q3,S08000020,Urological,2,1,NHS Grampian
+1852,2019Q3,S08000020,Urological,1,1,NHS Grampian
+1855,2019Q3,S08000020,Urological,1,1,NHS Grampian
+1866,2019Q4,S08000020,Urological,203,179,NHS Grampian
+1870,2019Q4,S08000020,Urological,8,8,NHS Grampian
+1875,2019Q4,S08000020,Urological,1,0,NHS Grampian
+1899,2020Q1,S08000020,Urological,201,184,NHS Grampian
+1904,2020Q1,S08000020,Urological,5,5,NHS Grampian
+1908,2020Q1,S08000020,Urological,2,2,NHS Grampian
+1915,2020Q1,S08000020,Urological,2,1,NHS Grampian
+1930,2020Q2,S08000020,Urological,164,154,NHS Grampian
+1934,2020Q2,S08000020,Urological,8,8,NHS Grampian
+1938,2020Q2,S08000020,Urological,2,2,NHS Grampian
+1940,2020Q2,S08000020,Urological,2,0,NHS Grampian
+1955,2020Q3,S08000020,Urological,153,142,NHS Grampian
+1960,2020Q3,S08000020,Urological,8,8,NHS Grampian
+1965,2020Q3,S08000020,Urological,1,1,NHS Grampian
+1974,2020Q3,S08000020,Urological,1,1,NHS Grampian
+1985,2020Q4,S08000020,Urological,172,170,NHS Grampian
+1988,2020Q4,S08000020,Urological,2,2,NHS Grampian
+1993,2020Q4,S08000020,Urological,1,0,NHS Grampian
+1997,2020Q4,S08000020,Urological,1,1,NHS Grampian
+2010,2021Q1,S08000020,Urological,175,171,NHS Grampian
+2014,2021Q1,S08000020,Urological,4,3,NHS Grampian
+2019,2021Q1,S08000020,Urological,3,2,NHS Grampian
+2023,2021Q1,S08000020,Urological,1,1,NHS Grampian
+2038,2021Q2,S08000020,Urological,225,217,NHS Grampian
+2041,2021Q2,S08000020,Urological,4,4,NHS Grampian
+2046,2021Q2,S08000020,Urological,4,2,NHS Grampian
+2055,2021Q2,S08000020,Urological,1,1,NHS Grampian
+2059,2021Q2,S08000020,Urological,1,1,NHS Grampian
+2070,2021Q3,S08000020,Urological,200,191,NHS Grampian
+2074,2021Q3,S08000020,Urological,5,5,NHS Grampian
+2080,2021Q3,S08000020,Urological,2,1,NHS Grampian
+2086,2021Q3,S08000020,Urological,2,2,NHS Grampian
+2088,2021Q3,S08000020,Urological,2,1,NHS Grampian
+2092,2021Q3,S08000020,Urological,1,1,NHS Grampian
+2103,2021Q4,S08000020,Urological,165,149,NHS Grampian
+2107,2021Q4,S08000020,Urological,9,9,NHS Grampian
+2111,2021Q4,S08000020,Urological,2,0,NHS Grampian
+2128,2022Q1,S08000020,Urological,162,151,NHS Grampian
+2131,2022Q1,S08000020,Urological,7,7,NHS Grampian
+2135,2022Q1,S08000020,Urological,2,1,NHS Grampian
+2142,2022Q1,S08000020,Urological,3,1,NHS Grampian
+2144,2022Q1,S08000020,Urological,2,2,NHS Grampian
+2159,2022Q2,S08000020,Urological,195,174,NHS Grampian
+2161,2022Q2,S08000020,Urological,5,5,NHS Grampian
+2165,2022Q2,S08000020,Urological,4,4,NHS Grampian
+2171,2022Q2,S08000020,Urological,4,2,NHS Grampian
+2186,2022Q3,S08000020,Urological,189,175,NHS Grampian
+2188,2022Q3,S08000020,Urological,3,3,NHS Grampian
+2197,2022Q3,S08000020,Urological,2,1,NHS Grampian
+2199,2022Q3,S08000020,Urological,1,0,NHS Grampian
+2212,2012Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2224,2012Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2228,2012Q1,S08000031,Urological,8,8,NHS Greater Glasgow and Clyde
+2239,2012Q1,S08000031,Urological,261,252,NHS Greater Glasgow and Clyde
+2250,2012Q1,S08000031,Urological,4,4,NHS Greater Glasgow and Clyde
+2261,2012Q2,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2272,2012Q2,S08000031,Urological,4,4,NHS Greater Glasgow and Clyde
+2295,2012Q2,S08000031,Urological,261,252,NHS Greater Glasgow and Clyde
+2305,2012Q2,S08000031,Urological,2,2,NHS Greater Glasgow and Clyde
+2314,2012Q3,S08000031,Urological,11,7,NHS Greater Glasgow and Clyde
+2326,2012Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2333,2012Q3,S08000031,Urological,3,3,NHS Greater Glasgow and Clyde
+2347,2012Q3,S08000031,Urological,279,260,NHS Greater Glasgow and Clyde
+2357,2012Q3,S08000031,Urological,2,2,NHS Greater Glasgow and Clyde
+2366,2012Q4,S08000031,Urological,10,9,NHS Greater Glasgow and Clyde
+2377,2012Q4,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2383,2012Q4,S08000031,Urological,3,3,NHS Greater Glasgow and Clyde
+2396,2012Q4,S08000031,Urological,289,276,NHS Greater Glasgow and Clyde
+2407,2012Q4,S08000031,Urological,4,4,NHS Greater Glasgow and Clyde
+2414,2013Q1,S08000031,Urological,19,17,NHS Greater Glasgow and Clyde
+2426,2013Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2434,2013Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2449,2013Q1,S08000031,Urological,280,266,NHS Greater Glasgow and Clyde
+2459,2013Q1,S08000031,Urological,3,3,NHS Greater Glasgow and Clyde
+2469,2013Q2,S08000031,Urological,5,5,NHS Greater Glasgow and Clyde
+2483,2013Q2,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2490,2013Q2,S08000031,Urological,2,1,NHS Greater Glasgow and Clyde
+2505,2013Q2,S08000031,Urological,231,209,NHS Greater Glasgow and Clyde
+2516,2013Q2,S08000031,Urological,2,1,NHS Greater Glasgow and Clyde
+2526,2013Q3,S08000031,Urological,9,8,NHS Greater Glasgow and Clyde
+2539,2013Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2545,2013Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2558,2013Q3,S08000031,Urological,254,243,NHS Greater Glasgow and Clyde
+2578,2013Q4,S08000031,Urological,6,4,NHS Greater Glasgow and Clyde
+2588,2013Q4,S08000031,Urological,3,2,NHS Greater Glasgow and Clyde
+2596,2013Q4,S08000031,Urological,2,2,NHS Greater Glasgow and Clyde
+2607,2013Q4,S08000031,Urological,296,273,NHS Greater Glasgow and Clyde
+2616,2013Q4,S08000031,Urological,2,2,NHS Greater Glasgow and Clyde
+2626,2014Q1,S08000031,Urological,5,4,NHS Greater Glasgow and Clyde
+2640,2014Q1,S08000031,Urological,7,6,NHS Greater Glasgow and Clyde
+2647,2014Q1,S08000031,Urological,3,3,NHS Greater Glasgow and Clyde
+2660,2014Q1,S08000031,Urological,299,266,NHS Greater Glasgow and Clyde
+2670,2014Q1,S08000031,Urological,9,9,NHS Greater Glasgow and Clyde
+2680,2014Q2,S08000031,Urological,5,3,NHS Greater Glasgow and Clyde
+2693,2014Q2,S08000031,Urological,7,5,NHS Greater Glasgow and Clyde
+2701,2014Q2,S08000031,Urological,4,4,NHS Greater Glasgow and Clyde
+2714,2014Q2,S08000031,Urological,291,257,NHS Greater Glasgow and Clyde
+2725,2014Q2,S08000031,Urological,9,7,NHS Greater Glasgow and Clyde
+2735,2014Q3,S08000031,Urological,7,3,NHS Greater Glasgow and Clyde
+2738,2014Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2748,2014Q3,S08000031,Urological,9,9,NHS Greater Glasgow and Clyde
+2754,2014Q3,S08000031,Urological,2,2,NHS Greater Glasgow and Clyde
+2768,2014Q3,S08000031,Urological,284,250,NHS Greater Glasgow and Clyde
+2779,2014Q3,S08000031,Urological,7,7,NHS Greater Glasgow and Clyde
+2789,2014Q4,S08000031,Urological,7,5,NHS Greater Glasgow and Clyde
+2800,2014Q4,S08000031,Urological,5,5,NHS Greater Glasgow and Clyde
+2808,2014Q4,S08000031,Urological,3,3,NHS Greater Glasgow and Clyde
+2819,2014Q4,S08000031,Urological,286,257,NHS Greater Glasgow and Clyde
+2829,2014Q4,S08000031,Urological,15,14,NHS Greater Glasgow and Clyde
+2840,2015Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2851,2015Q1,S08000031,Urological,4,3,NHS Greater Glasgow and Clyde
+2856,2015Q1,S08000031,Urological,4,3,NHS Greater Glasgow and Clyde
+2872,2015Q1,S08000031,Urological,293,262,NHS Greater Glasgow and Clyde
+2882,2015Q1,S08000031,Urological,3,2,NHS Greater Glasgow and Clyde
+2892,2015Q2,S08000031,Urological,3,2,NHS Greater Glasgow and Clyde
+2897,2015Q2,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+2908,2015Q2,S08000031,Urological,4,3,NHS Greater Glasgow and Clyde
+2915,2015Q2,S08000031,Urological,2,1,NHS Greater Glasgow and Clyde
+2929,2015Q2,S08000031,Urological,269,239,NHS Greater Glasgow and Clyde
+2940,2015Q2,S08000031,Urological,9,9,NHS Greater Glasgow and Clyde
+2950,2015Q3,S08000031,Urological,7,6,NHS Greater Glasgow and Clyde
+2979,2015Q3,S08000031,Urological,277,228,NHS Greater Glasgow and Clyde
+2989,2015Q3,S08000031,Urological,9,8,NHS Greater Glasgow and Clyde
+2998,2015Q4,S08000031,Urological,5,4,NHS Greater Glasgow and Clyde
+3013,2015Q4,S08000031,Urological,4,3,NHS Greater Glasgow and Clyde
+3018,2015Q4,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3032,2015Q4,S08000031,Urological,287,260,NHS Greater Glasgow and Clyde
+3043,2015Q4,S08000031,Urological,11,9,NHS Greater Glasgow and Clyde
+3053,2016Q1,S08000031,Urological,3,2,NHS Greater Glasgow and Clyde
+3065,2016Q1,S08000031,Urological,7,5,NHS Greater Glasgow and Clyde
+3069,2016Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3080,2016Q1,S08000031,Urological,312,259,NHS Greater Glasgow and Clyde
+3091,2016Q1,S08000031,Urological,6,6,NHS Greater Glasgow and Clyde
+3101,2016Q2,S08000031,Urological,4,1,NHS Greater Glasgow and Clyde
+3112,2016Q2,S08000031,Urological,4,3,NHS Greater Glasgow and Clyde
+3118,2016Q2,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3123,2016Q2,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3125,2016Q2,S08000031,Urological,1,0,NHS Greater Glasgow and Clyde
+3136,2016Q2,S08000031,Urological,270,227,NHS Greater Glasgow and Clyde
+3147,2016Q2,S08000031,Urological,6,6,NHS Greater Glasgow and Clyde
+3157,2016Q3,S08000031,Urological,5,4,NHS Greater Glasgow and Clyde
+3169,2016Q3,S08000031,Urological,6,6,NHS Greater Glasgow and Clyde
+3190,2016Q3,S08000031,Urological,291,242,NHS Greater Glasgow and Clyde
+3201,2016Q3,S08000031,Urological,15,11,NHS Greater Glasgow and Clyde
+3212,2016Q4,S08000031,Urological,7,5,NHS Greater Glasgow and Clyde
+3224,2016Q4,S08000031,Urological,7,3,NHS Greater Glasgow and Clyde
+3245,2016Q4,S08000031,Urological,329,258,NHS Greater Glasgow and Clyde
+3254,2016Q4,S08000031,Urological,9,5,NHS Greater Glasgow and Clyde
+3264,2017Q1,S08000031,Urological,4,4,NHS Greater Glasgow and Clyde
+3278,2017Q1,S08000031,Urological,9,4,NHS Greater Glasgow and Clyde
+3285,2017Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3303,2017Q1,S08000031,Urological,347,289,NHS Greater Glasgow and Clyde
+3313,2017Q1,S08000031,Urological,8,7,NHS Greater Glasgow and Clyde
+3323,2017Q2,S08000031,Urological,8,3,NHS Greater Glasgow and Clyde
+3335,2017Q2,S08000031,Urological,6,3,NHS Greater Glasgow and Clyde
+3341,2017Q2,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3355,2017Q2,S08000031,Urological,311,252,NHS Greater Glasgow and Clyde
+3365,2017Q2,S08000031,Urological,16,12,NHS Greater Glasgow and Clyde
+3375,2017Q3,S08000031,Urological,11,4,NHS Greater Glasgow and Clyde
+3385,2017Q3,S08000031,Urological,12,6,NHS Greater Glasgow and Clyde
+3392,2017Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3394,2017Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3405,2017Q3,S08000031,Urological,326,277,NHS Greater Glasgow and Clyde
+3415,2017Q3,S08000031,Urological,9,9,NHS Greater Glasgow and Clyde
+3425,2017Q4,S08000031,Urological,6,4,NHS Greater Glasgow and Clyde
+3438,2017Q4,S08000031,Urological,14,8,NHS Greater Glasgow and Clyde
+3456,2017Q4,S08000031,Urological,303,259,NHS Greater Glasgow and Clyde
+3467,2017Q4,S08000031,Urological,18,17,NHS Greater Glasgow and Clyde
+3477,2018Q1,S08000031,Urological,6,6,NHS Greater Glasgow and Clyde
+3487,2018Q1,S08000031,Urological,18,8,NHS Greater Glasgow and Clyde
+3508,2018Q1,S08000031,Urological,303,253,NHS Greater Glasgow and Clyde
+3519,2018Q1,S08000031,Urological,17,17,NHS Greater Glasgow and Clyde
+3527,2018Q2,S08000031,Urological,6,5,NHS Greater Glasgow and Clyde
+3537,2018Q2,S08000031,Urological,9,4,NHS Greater Glasgow and Clyde
+3544,2018Q2,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3555,2018Q2,S08000031,Urological,321,286,NHS Greater Glasgow and Clyde
+3565,2018Q2,S08000031,Urological,3,3,NHS Greater Glasgow and Clyde
+3574,2018Q3,S08000031,Urological,12,12,NHS Greater Glasgow and Clyde
+3584,2018Q3,S08000031,Urological,17,7,NHS Greater Glasgow and Clyde
+3604,2018Q3,S08000031,Urological,392,375,NHS Greater Glasgow and Clyde
+3615,2018Q3,S08000031,Urological,3,2,NHS Greater Glasgow and Clyde
+3624,2018Q4,S08000031,Urological,3,3,NHS Greater Glasgow and Clyde
+3627,2018Q4,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3635,2018Q4,S08000031,Urological,14,9,NHS Greater Glasgow and Clyde
+3654,2018Q4,S08000031,Urological,404,371,NHS Greater Glasgow and Clyde
+3665,2018Q4,S08000031,Urological,12,12,NHS Greater Glasgow and Clyde
+3674,2019Q1,S08000031,Urological,8,8,NHS Greater Glasgow and Clyde
+3685,2019Q1,S08000031,Urological,15,12,NHS Greater Glasgow and Clyde
+3690,2019Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3707,2019Q1,S08000031,Urological,355,335,NHS Greater Glasgow and Clyde
+3718,2019Q1,S08000031,Urological,20,20,NHS Greater Glasgow and Clyde
+3729,2019Q2,S08000031,Urological,11,11,NHS Greater Glasgow and Clyde
+3742,2019Q2,S08000031,Urological,12,8,NHS Greater Glasgow and Clyde
+3759,2019Q2,S08000031,Urological,351,326,NHS Greater Glasgow and Clyde
+3770,2019Q2,S08000031,Urological,17,17,NHS Greater Glasgow and Clyde
+3780,2019Q3,S08000031,Urological,9,9,NHS Greater Glasgow and Clyde
+3794,2019Q3,S08000031,Urological,23,21,NHS Greater Glasgow and Clyde
+3809,2019Q3,S08000031,Urological,323,301,NHS Greater Glasgow and Clyde
+3819,2019Q3,S08000031,Urological,24,23,NHS Greater Glasgow and Clyde
+3829,2019Q4,S08000031,Urological,6,6,NHS Greater Glasgow and Clyde
+3838,2019Q4,S08000031,Urological,11,11,NHS Greater Glasgow and Clyde
+3850,2019Q4,S08000031,Urological,2,2,NHS Greater Glasgow and Clyde
+3852,2019Q4,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3863,2019Q4,S08000031,Urological,360,339,NHS Greater Glasgow and Clyde
+3873,2019Q4,S08000031,Urological,8,8,NHS Greater Glasgow and Clyde
+3882,2020Q1,S08000031,Urological,8,8,NHS Greater Glasgow and Clyde
+3886,2020Q1,S08000031,Urological,3,3,NHS Greater Glasgow and Clyde
+3894,2020Q1,S08000031,Urological,9,8,NHS Greater Glasgow and Clyde
+3900,2020Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3914,2020Q1,S08000031,Urological,347,313,NHS Greater Glasgow and Clyde
+3924,2020Q1,S08000031,Urological,16,15,NHS Greater Glasgow and Clyde
+3935,2020Q2,S08000031,Urological,5,5,NHS Greater Glasgow and Clyde
+3946,2020Q2,S08000031,Urological,6,6,NHS Greater Glasgow and Clyde
+3957,2020Q2,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+3968,2020Q2,S08000031,Urological,288,273,NHS Greater Glasgow and Clyde
+3978,2020Q2,S08000031,Urological,5,5,NHS Greater Glasgow and Clyde
+3986,2020Q3,S08000031,Urological,4,4,NHS Greater Glasgow and Clyde
+3996,2020Q3,S08000031,Urological,15,15,NHS Greater Glasgow and Clyde
+4002,2020Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4016,2020Q3,S08000031,Urological,262,250,NHS Greater Glasgow and Clyde
+4027,2020Q3,S08000031,Urological,12,12,NHS Greater Glasgow and Clyde
+4036,2020Q4,S08000031,Urological,8,8,NHS Greater Glasgow and Clyde
+4039,2020Q4,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4048,2020Q4,S08000031,Urological,22,22,NHS Greater Glasgow and Clyde
+4055,2020Q4,S08000031,Urological,2,2,NHS Greater Glasgow and Clyde
+4069,2020Q4,S08000031,Urological,294,284,NHS Greater Glasgow and Clyde
+4078,2020Q4,S08000031,Urological,14,14,NHS Greater Glasgow and Clyde
+4087,2021Q1,S08000031,Urological,6,6,NHS Greater Glasgow and Clyde
+4101,2021Q1,S08000031,Urological,19,19,NHS Greater Glasgow and Clyde
+4108,2021Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4122,2021Q1,S08000031,Urological,302,290,NHS Greater Glasgow and Clyde
+4133,2021Q1,S08000031,Urological,16,16,NHS Greater Glasgow and Clyde
+4142,2021Q2,S08000031,Urological,2,2,NHS Greater Glasgow and Clyde
+4153,2021Q2,S08000031,Urological,15,14,NHS Greater Glasgow and Clyde
+4167,2021Q2,S08000031,Urological,374,359,NHS Greater Glasgow and Clyde
+4177,2021Q2,S08000031,Urological,23,21,NHS Greater Glasgow and Clyde
+4186,2021Q3,S08000031,Urological,5,4,NHS Greater Glasgow and Clyde
+4191,2021Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4200,2021Q3,S08000031,Urological,15,13,NHS Greater Glasgow and Clyde
+4209,2021Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4220,2021Q3,S08000031,Urological,311,286,NHS Greater Glasgow and Clyde
+4231,2021Q3,S08000031,Urological,18,17,NHS Greater Glasgow and Clyde
+4240,2021Q4,S08000031,Urological,4,2,NHS Greater Glasgow and Clyde
+4252,2021Q4,S08000031,Urological,16,16,NHS Greater Glasgow and Clyde
+4261,2021Q4,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4265,2021Q4,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4276,2021Q4,S08000031,Urological,337,331,NHS Greater Glasgow and Clyde
+4286,2021Q4,S08000031,Urological,14,14,NHS Greater Glasgow and Clyde
+4294,2022Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4300,2022Q1,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4309,2022Q1,S08000031,Urological,9,9,NHS Greater Glasgow and Clyde
+4333,2022Q1,S08000031,Urological,359,350,NHS Greater Glasgow and Clyde
+4343,2022Q1,S08000031,Urological,21,21,NHS Greater Glasgow and Clyde
+4353,2022Q2,S08000031,Urological,6,1,NHS Greater Glasgow and Clyde
+4366,2022Q2,S08000031,Urological,16,8,NHS Greater Glasgow and Clyde
+4371,2022Q2,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4384,2022Q2,S08000031,Urological,320,285,NHS Greater Glasgow and Clyde
+4394,2022Q2,S08000031,Urological,23,17,NHS Greater Glasgow and Clyde
+4404,2022Q3,S08000031,Urological,3,2,NHS Greater Glasgow and Clyde
+4407,2022Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4420,2022Q3,S08000031,Urological,15,6,NHS Greater Glasgow and Clyde
+4426,2022Q3,S08000031,Urological,2,1,NHS Greater Glasgow and Clyde
+4431,2022Q3,S08000031,Urological,1,0,NHS Greater Glasgow and Clyde
+4433,2022Q3,S08000031,Urological,1,1,NHS Greater Glasgow and Clyde
+4444,2022Q3,S08000031,Urological,398,340,NHS Greater Glasgow and Clyde
+4453,2022Q3,S08000031,Urological,14,7,NHS Greater Glasgow and Clyde
+4464,2012Q1,S08000016,Urological,21,21,NHS Borders
+4477,2012Q2,S08000016,Urological,28,28,NHS Borders
+4490,2012Q3,S08000016,Urological,31,31,NHS Borders
+4500,2012Q4,S08000016,Urological,14,14,NHS Borders
+4510,2013Q1,S08000016,Urological,28,28,NHS Borders
+4520,2013Q2,S08000016,Urological,27,27,NHS Borders
+4522,2013Q2,S08000016,Urological,1,1,NHS Borders
+4532,2013Q3,S08000016,Urological,16,16,NHS Borders
+4543,2013Q4,S08000016,Urological,21,21,NHS Borders
+4553,2014Q1,S08000016,Urological,20,20,NHS Borders
+4564,2014Q2,S08000016,Urological,23,23,NHS Borders
+4573,2014Q3,S08000016,Urological,18,18,NHS Borders
+4585,2014Q4,S08000016,Urological,19,19,NHS Borders
+4597,2015Q1,S08000016,Urological,22,22,NHS Borders
+4609,2015Q2,S08000016,Urological,17,17,NHS Borders
+4621,2015Q3,S08000016,Urological,6,6,NHS Borders
+4632,2015Q4,S08000016,Urological,17,16,NHS Borders
+4641,2016Q1,S08000016,Urological,16,16,NHS Borders
+4653,2016Q2,S08000016,Urological,19,18,NHS Borders
+4663,2016Q3,S08000016,Urological,25,25,NHS Borders
+4676,2016Q4,S08000016,Urological,27,27,NHS Borders
+4689,2017Q1,S08000016,Urological,23,22,NHS Borders
+4701,2017Q2,S08000016,Urological,19,19,NHS Borders
+4713,2017Q3,S08000016,Urological,28,28,NHS Borders
+4723,2017Q4,S08000016,Urological,23,23,NHS Borders
+4737,2018Q1,S08000016,Urological,14,14,NHS Borders
+4747,2018Q2,S08000016,Urological,21,21,NHS Borders
+4758,2018Q3,S08000016,Urological,26,26,NHS Borders
+4767,2018Q4,S08000016,Urological,20,20,NHS Borders
+4778,2019Q1,S08000016,Urological,16,16,NHS Borders
+4789,2019Q2,S08000016,Urological,12,12,NHS Borders
+4798,2019Q3,S08000016,Urological,19,19,NHS Borders
+4808,2019Q4,S08000016,Urological,11,11,NHS Borders
+4821,2020Q1,S08000016,Urological,8,8,NHS Borders
+4833,2020Q2,S08000016,Urological,19,18,NHS Borders
+4843,2020Q3,S08000016,Urological,9,9,NHS Borders
+4853,2020Q4,S08000016,Urological,11,11,NHS Borders
+4864,2021Q1,S08000016,Urological,13,13,NHS Borders
+4874,2021Q2,S08000016,Urological,13,13,NHS Borders
+4886,2021Q3,S08000016,Urological,15,15,NHS Borders
+4899,2021Q4,S08000016,Urological,15,15,NHS Borders
+4911,2022Q1,S08000016,Urological,11,11,NHS Borders
+4921,2022Q2,S08000016,Urological,18,18,NHS Borders
+4932,2022Q3,S08000016,Urological,23,22,NHS Borders
+4943,2012Q1,S08000024,Urological,3,3,NHS Lothian
+4952,2012Q1,S08000024,Urological,14,13,NHS Lothian
+4956,2012Q1,S08000024,Urological,2,2,NHS Lothian
+4960,2012Q1,S08000024,Urological,1,1,NHS Lothian
+4971,2012Q1,S08000024,Urological,197,193,NHS Lothian
+4981,2012Q1,S08000024,Urological,7,6,NHS Lothian
+4986,2012Q1,S08000024,Urological,1,1,NHS Lothian
+4994,2012Q2,S08000024,Urological,6,5,NHS Lothian
+5002,2012Q2,S08000024,Urological,12,11,NHS Lothian
+5006,2012Q2,S08000024,Urological,1,1,NHS Lothian
+5019,2012Q2,S08000024,Urological,145,134,NHS Lothian
+5028,2012Q2,S08000024,Urological,4,4,NHS Lothian
+5031,2012Q2,S08000024,Urological,1,1,NHS Lothian
+5047,2012Q3,S08000024,Urological,5,5,NHS Lothian
+5056,2012Q3,S08000024,Urological,10,10,NHS Lothian
+5058,2012Q3,S08000024,Urological,1,1,NHS Lothian
+5060,2012Q3,S08000024,Urological,2,2,NHS Lothian
+5071,2012Q3,S08000024,Urological,154,146,NHS Lothian
+5081,2012Q3,S08000024,Urological,3,3,NHS Lothian
+5086,2012Q3,S08000024,Urological,1,1,NHS Lothian
+5095,2012Q4,S08000024,Urological,1,1,NHS Lothian
+5103,2012Q4,S08000024,Urological,11,11,NHS Lothian
+5120,2012Q4,S08000024,Urological,161,156,NHS Lothian
+5132,2012Q4,S08000024,Urological,2,2,NHS Lothian
+5137,2012Q4,S08000024,Urological,1,1,NHS Lothian
+5140,2012Q4,S08000024,Urological,1,1,NHS Lothian
+5150,2013Q1,S08000024,Urological,2,2,NHS Lothian
+5160,2013Q1,S08000024,Urological,13,13,NHS Lothian
+5174,2013Q1,S08000024,Urological,145,145,NHS Lothian
+5183,2013Q1,S08000024,Urological,9,9,NHS Lothian
+5199,2013Q2,S08000024,Urological,6,6,NHS Lothian
+5209,2013Q2,S08000024,Urological,15,13,NHS Lothian
+5213,2013Q2,S08000024,Urological,1,1,NHS Lothian
+5224,2013Q2,S08000024,Urological,158,157,NHS Lothian
+5226,2013Q2,S08000024,Urological,1,1,NHS Lothian
+5236,2013Q2,S08000024,Urological,7,7,NHS Lothian
+5241,2013Q2,S08000024,Urological,1,1,NHS Lothian
+5252,2013Q3,S08000024,Urological,6,6,NHS Lothian
+5261,2013Q3,S08000024,Urological,10,10,NHS Lothian
+5265,2013Q3,S08000024,Urological,1,1,NHS Lothian
+5280,2013Q3,S08000024,Urological,176,176,NHS Lothian
+5290,2013Q3,S08000024,Urological,6,6,NHS Lothian
+5302,2013Q4,S08000024,Urological,6,5,NHS Lothian
+5312,2013Q4,S08000024,Urological,5,5,NHS Lothian
+5317,2013Q4,S08000024,Urological,2,2,NHS Lothian
+5328,2013Q4,S08000024,Urological,198,194,NHS Lothian
+5338,2013Q4,S08000024,Urological,7,7,NHS Lothian
+5343,2013Q4,S08000024,Urological,1,0,NHS Lothian
+5353,2014Q1,S08000024,Urological,12,12,NHS Lothian
+5361,2014Q1,S08000024,Urological,12,9,NHS Lothian
+5378,2014Q1,S08000024,Urological,191,187,NHS Lothian
+5387,2014Q1,S08000024,Urological,10,10,NHS Lothian
+5392,2014Q1,S08000024,Urological,1,1,NHS Lothian
+5403,2014Q2,S08000024,Urological,7,4,NHS Lothian
+5411,2014Q2,S08000024,Urological,16,14,NHS Lothian
+5419,2014Q2,S08000024,Urological,1,1,NHS Lothian
+5430,2014Q2,S08000024,Urological,172,164,NHS Lothian
+5439,2014Q2,S08000024,Urological,6,5,NHS Lothian
+5447,2014Q2,S08000024,Urological,1,0,NHS Lothian
+5459,2014Q3,S08000024,Urological,14,13,NHS Lothian
+5467,2014Q3,S08000024,Urological,12,11,NHS Lothian
+5471,2014Q3,S08000024,Urological,1,1,NHS Lothian
+5473,2014Q3,S08000024,Urological,1,0,NHS Lothian
+5484,2014Q3,S08000024,Urological,175,166,NHS Lothian
+5492,2014Q3,S08000024,Urological,12,11,NHS Lothian
+5495,2014Q3,S08000024,Urological,2,2,NHS Lothian
+5500,2014Q3,S08000024,Urological,2,2,NHS Lothian
+5511,2014Q4,S08000024,Urological,8,4,NHS Lothian
+5517,2014Q4,S08000024,Urological,12,9,NHS Lothian
+5532,2014Q4,S08000024,Urological,147,137,NHS Lothian
+5542,2014Q4,S08000024,Urological,6,3,NHS Lothian
+5547,2014Q4,S08000024,Urological,2,1,NHS Lothian
+5557,2015Q1,S08000024,Urological,7,4,NHS Lothian
+5566,2015Q1,S08000024,Urological,15,7,NHS Lothian
+5570,2015Q1,S08000024,Urological,1,1,NHS Lothian
+5581,2015Q1,S08000024,Urological,131,111,NHS Lothian
+5590,2015Q1,S08000024,Urological,4,2,NHS Lothian
+5595,2015Q1,S08000024,Urological,1,1,NHS Lothian
+5598,2015Q1,S08000024,Urological,5,3,NHS Lothian
+5601,2015Q2,S08000024,Urological,1,1,NHS Lothian
+5609,2015Q2,S08000024,Urological,14,12,NHS Lothian
+5617,2015Q2,S08000024,Urological,14,7,NHS Lothian
+5622,2015Q2,S08000024,Urological,1,1,NHS Lothian
+5633,2015Q2,S08000024,Urological,149,133,NHS Lothian
+5642,2015Q2,S08000024,Urological,6,5,NHS Lothian
+5648,2015Q2,S08000024,Urological,1,1,NHS Lothian
+5651,2015Q2,S08000024,Urological,4,4,NHS Lothian
+5658,2015Q3,S08000024,Urological,12,10,NHS Lothian
+5664,2015Q3,S08000024,Urological,16,11,NHS Lothian
+5668,2015Q3,S08000024,Urological,1,1,NHS Lothian
+5681,2015Q3,S08000024,Urological,157,149,NHS Lothian
+5689,2015Q3,S08000024,Urological,9,7,NHS Lothian
+5694,2015Q3,S08000024,Urological,1,1,NHS Lothian
+5696,2015Q3,S08000024,Urological,11,9,NHS Lothian
+5705,2015Q4,S08000024,Urological,8,8,NHS Lothian
+5714,2015Q4,S08000024,Urological,12,10,NHS Lothian
+5719,2015Q4,S08000024,Urological,3,3,NHS Lothian
+5730,2015Q4,S08000024,Urological,143,130,NHS Lothian
+5737,2015Q4,S08000024,Urological,5,5,NHS Lothian
+5740,2015Q4,S08000024,Urological,1,0,NHS Lothian
+5743,2015Q4,S08000024,Urological,9,2,NHS Lothian
+5751,2016Q1,S08000024,Urological,6,4,NHS Lothian
+5757,2016Q1,S08000024,Urological,3,2,NHS Lothian
+5765,2016Q1,S08000024,Urological,1,1,NHS Lothian
+5776,2016Q1,S08000024,Urological,162,130,NHS Lothian
+5784,2016Q1,S08000024,Urological,6,4,NHS Lothian
+5790,2016Q1,S08000024,Urological,4,2,NHS Lothian
+5798,2016Q2,S08000024,Urological,3,2,NHS Lothian
+5807,2016Q2,S08000024,Urological,8,6,NHS Lothian
+5824,2016Q2,S08000024,Urological,124,98,NHS Lothian
+5831,2016Q2,S08000024,Urological,3,1,NHS Lothian
+5838,2016Q2,S08000024,Urological,6,0,NHS Lothian
+5847,2016Q3,S08000024,Urological,5,0,NHS Lothian
+5856,2016Q3,S08000024,Urological,10,5,NHS Lothian
+5862,2016Q3,S08000024,Urological,2,1,NHS Lothian
+5873,2016Q3,S08000024,Urological,114,81,NHS Lothian
+5881,2016Q3,S08000024,Urological,5,4,NHS Lothian
+5886,2016Q3,S08000024,Urological,1,1,NHS Lothian
+5889,2016Q3,S08000024,Urological,2,1,NHS Lothian
+5899,2016Q4,S08000024,Urological,9,6,NHS Lothian
+5907,2016Q4,S08000024,Urological,13,4,NHS Lothian
+5912,2016Q4,S08000024,Urological,3,1,NHS Lothian
+5923,2016Q4,S08000024,Urological,133,100,NHS Lothian
+5933,2016Q4,S08000024,Urological,2,1,NHS Lothian
+5941,2016Q4,S08000024,Urological,1,0,NHS Lothian
+5948,2017Q1,S08000024,Urological,8,5,NHS Lothian
+5956,2017Q1,S08000024,Urological,9,6,NHS Lothian
+5958,2017Q1,S08000024,Urological,3,2,NHS Lothian
+5960,2017Q1,S08000024,Urological,1,1,NHS Lothian
+5962,2017Q1,S08000024,Urological,2,1,NHS Lothian
+5973,2017Q1,S08000024,Urological,149,113,NHS Lothian
+5982,2017Q1,S08000024,Urological,5,3,NHS Lothian
+5985,2017Q1,S08000024,Urological,1,1,NHS Lothian
+5988,2017Q1,S08000024,Urological,1,0,NHS Lothian
+5998,2017Q2,S08000024,Urological,8,4,NHS Lothian
+6006,2017Q2,S08000024,Urological,7,5,NHS Lothian
+6009,2017Q2,S08000024,Urological,1,1,NHS Lothian
+6011,2017Q2,S08000024,Urological,1,1,NHS Lothian
+6013,2017Q2,S08000024,Urological,3,3,NHS Lothian
+6024,2017Q2,S08000024,Urological,173,139,NHS Lothian
+6026,2017Q2,S08000024,Urological,1,0,NHS Lothian
+6035,2017Q2,S08000024,Urological,10,8,NHS Lothian
+6048,2017Q3,S08000024,Urological,13,7,NHS Lothian
+6056,2017Q3,S08000024,Urological,10,3,NHS Lothian
+6062,2017Q3,S08000024,Urological,2,1,NHS Lothian
+6073,2017Q3,S08000024,Urological,179,134,NHS Lothian
+6083,2017Q3,S08000024,Urological,14,13,NHS Lothian
+6086,2017Q3,S08000024,Urological,2,0,NHS Lothian
+6100,2017Q4,S08000024,Urological,10,5,NHS Lothian
+6109,2017Q4,S08000024,Urological,11,3,NHS Lothian
+6113,2017Q4,S08000024,Urological,4,2,NHS Lothian
+6124,2017Q4,S08000024,Urological,166,130,NHS Lothian
+6134,2017Q4,S08000024,Urological,12,12,NHS Lothian
+6137,2017Q4,S08000024,Urological,1,1,NHS Lothian
+6141,2017Q4,S08000024,Urological,1,1,NHS Lothian
+6153,2018Q1,S08000024,Urological,8,2,NHS Lothian
+6161,2018Q1,S08000024,Urological,13,6,NHS Lothian
+6175,2018Q1,S08000024,Urological,179,123,NHS Lothian
+6182,2018Q1,S08000024,Urological,8,8,NHS Lothian
+6186,2018Q1,S08000024,Urological,1,1,NHS Lothian
+6195,2018Q2,S08000024,Urological,6,5,NHS Lothian
+6202,2018Q2,S08000024,Urological,9,4,NHS Lothian
+6205,2018Q2,S08000024,Urological,2,2,NHS Lothian
+6207,2018Q2,S08000024,Urological,1,0,NHS Lothian
+6218,2018Q2,S08000024,Urological,168,125,NHS Lothian
+6226,2018Q2,S08000024,Urological,13,12,NHS Lothian
+6242,2018Q3,S08000024,Urological,3,2,NHS Lothian
+6251,2018Q3,S08000024,Urological,16,7,NHS Lothian
+6256,2018Q3,S08000024,Urological,4,3,NHS Lothian
+6267,2018Q3,S08000024,Urological,183,155,NHS Lothian
+6277,2018Q3,S08000024,Urological,14,13,NHS Lothian
+6280,2018Q3,S08000024,Urological,1,1,NHS Lothian
+6292,2018Q4,S08000024,Urological,10,10,NHS Lothian
+6301,2018Q4,S08000024,Urological,20,18,NHS Lothian
+6317,2018Q4,S08000024,Urological,189,175,NHS Lothian
+6324,2018Q4,S08000024,Urological,5,5,NHS Lothian
+6327,2018Q4,S08000024,Urological,1,1,NHS Lothian
+6329,2018Q4,S08000024,Urological,1,1,NHS Lothian
+6339,2019Q1,S08000024,Urological,7,7,NHS Lothian
+6348,2019Q1,S08000024,Urological,7,7,NHS Lothian
+6351,2019Q1,S08000024,Urological,1,1,NHS Lothian
+6353,2019Q1,S08000024,Urological,1,1,NHS Lothian
+6356,2019Q1,S08000024,Urological,2,1,NHS Lothian
+6367,2019Q1,S08000024,Urological,182,163,NHS Lothian
+6376,2019Q1,S08000024,Urological,18,17,NHS Lothian
+6379,2019Q1,S08000024,Urological,1,1,NHS Lothian
+6391,2019Q2,S08000024,Urological,8,8,NHS Lothian
+6399,2019Q2,S08000024,Urological,14,9,NHS Lothian
+6404,2019Q2,S08000024,Urological,1,1,NHS Lothian
+6415,2019Q2,S08000024,Urological,195,177,NHS Lothian
+6424,2019Q2,S08000024,Urological,14,14,NHS Lothian
+6429,2019Q2,S08000024,Urological,1,1,NHS Lothian
+6439,2019Q3,S08000024,Urological,7,5,NHS Lothian
+6448,2019Q3,S08000024,Urological,10,7,NHS Lothian
+6451,2019Q3,S08000024,Urological,1,0,NHS Lothian
+6455,2019Q3,S08000024,Urological,1,1,NHS Lothian
+6466,2019Q3,S08000024,Urological,180,161,NHS Lothian
+6475,2019Q3,S08000024,Urological,27,26,NHS Lothian
+6479,2019Q3,S08000024,Urological,2,1,NHS Lothian
+6494,2019Q4,S08000024,Urological,5,5,NHS Lothian
+6503,2019Q4,S08000024,Urological,12,6,NHS Lothian
+6506,2019Q4,S08000024,Urological,1,1,NHS Lothian
+6509,2019Q4,S08000024,Urological,3,3,NHS Lothian
+6520,2019Q4,S08000024,Urological,197,178,NHS Lothian
+6529,2019Q4,S08000024,Urological,13,13,NHS Lothian
+6532,2019Q4,S08000024,Urological,3,2,NHS Lothian
+6544,2020Q1,S08000024,Urological,5,5,NHS Lothian
+6551,2020Q1,S08000024,Urological,16,16,NHS Lothian
+6556,2020Q1,S08000024,Urological,1,1,NHS Lothian
+6569,2020Q1,S08000024,Urological,201,192,NHS Lothian
+6577,2020Q1,S08000024,Urological,13,13,NHS Lothian
+6580,2020Q1,S08000024,Urological,2,2,NHS Lothian
+6591,2020Q2,S08000024,Urological,7,7,NHS Lothian
+6600,2020Q2,S08000024,Urological,11,8,NHS Lothian
+6605,2020Q2,S08000024,Urological,1,1,NHS Lothian
+6616,2020Q2,S08000024,Urological,187,167,NHS Lothian
+6626,2020Q2,S08000024,Urological,12,8,NHS Lothian
+6632,2020Q3,S08000024,Urological,1,1,NHS Lothian
+6640,2020Q3,S08000024,Urological,7,7,NHS Lothian
+6650,2020Q3,S08000024,Urological,8,8,NHS Lothian
+6655,2020Q3,S08000024,Urological,2,2,NHS Lothian
+6666,2020Q3,S08000024,Urological,147,139,NHS Lothian
+6675,2020Q3,S08000024,Urological,5,4,NHS Lothian
+6682,2020Q3,S08000024,Urological,1,1,NHS Lothian
+6691,2020Q4,S08000024,Urological,2,2,NHS Lothian
+6701,2020Q4,S08000024,Urological,18,16,NHS Lothian
+6716,2020Q4,S08000024,Urological,190,179,NHS Lothian
+6718,2020Q4,S08000024,Urological,1,1,NHS Lothian
+6727,2020Q4,S08000024,Urological,19,19,NHS Lothian
+6730,2020Q4,S08000024,Urological,3,3,NHS Lothian
+6739,2021Q1,S08000024,Urological,6,6,NHS Lothian
+6748,2021Q1,S08000024,Urological,16,15,NHS Lothian
+6753,2021Q1,S08000024,Urological,1,1,NHS Lothian
+6757,2021Q1,S08000024,Urological,3,3,NHS Lothian
+6768,2021Q1,S08000024,Urological,186,173,NHS Lothian
+6776,2021Q1,S08000024,Urological,19,19,NHS Lothian
+6779,2021Q1,S08000024,Urological,2,2,NHS Lothian
+6787,2021Q2,S08000024,Urological,4,4,NHS Lothian
+6795,2021Q2,S08000024,Urological,6,5,NHS Lothian
+6803,2021Q2,S08000024,Urological,4,4,NHS Lothian
+6814,2021Q2,S08000024,Urological,163,154,NHS Lothian
+6816,2021Q2,S08000024,Urological,1,1,NHS Lothian
+6825,2021Q2,S08000024,Urological,19,19,NHS Lothian
+6828,2021Q2,S08000024,Urological,3,3,NHS Lothian
+6838,2021Q3,S08000024,Urological,6,6,NHS Lothian
+6846,2021Q3,S08000024,Urological,16,15,NHS Lothian
+6855,2021Q3,S08000024,Urological,4,4,NHS Lothian
+6866,2021Q3,S08000024,Urological,188,172,NHS Lothian
+6875,2021Q3,S08000024,Urological,11,11,NHS Lothian
+6881,2021Q3,S08000024,Urological,1,1,NHS Lothian
+6892,2021Q4,S08000024,Urological,4,4,NHS Lothian
+6902,2021Q4,S08000024,Urological,7,6,NHS Lothian
+6906,2021Q4,S08000024,Urological,1,1,NHS Lothian
+6908,2021Q4,S08000024,Urological,1,1,NHS Lothian
+6919,2021Q4,S08000024,Urological,214,207,NHS Lothian
+6928,2021Q4,S08000024,Urological,16,16,NHS Lothian
+6931,2021Q4,S08000024,Urological,1,1,NHS Lothian
+6941,2022Q1,S08000024,Urological,3,3,NHS Lothian
+6948,2022Q1,S08000024,Urological,14,14,NHS Lothian
+6953,2022Q1,S08000024,Urological,1,1,NHS Lothian
+6955,2022Q1,S08000024,Urological,1,1,NHS Lothian
+6966,2022Q1,S08000024,Urological,224,213,NHS Lothian
+6977,2022Q1,S08000024,Urological,10,10,NHS Lothian
+6994,2022Q2,S08000024,Urological,6,6,NHS Lothian
+7001,2022Q2,S08000024,Urological,10,3,NHS Lothian
+7004,2022Q2,S08000024,Urological,1,1,NHS Lothian
+7010,2022Q2,S08000024,Urological,3,3,NHS Lothian
+7021,2022Q2,S08000024,Urological,236,196,NHS Lothian
+7023,2022Q2,S08000024,Urological,1,1,NHS Lothian
+7032,2022Q2,S08000024,Urological,2,1,NHS Lothian
+7045,2022Q3,S08000024,Urological,1,1,NHS Lothian
+7054,2022Q3,S08000024,Urological,7,4,NHS Lothian
+7058,2022Q3,S08000024,Urological,1,1,NHS Lothian
+7069,2022Q3,S08000024,Urological,198,169,NHS Lothian
+7077,2022Q3,S08000024,Urological,11,2,NHS Lothian
+7094,2012Q1,S08000019,Urological,64,56,NHS Forth Valley
+7107,2012Q2,S08000019,Urological,56,43,NHS Forth Valley
+7111,2012Q2,S08000019,Urological,1,1,NHS Forth Valley
+7113,2012Q3,S08000019,Urological,1,1,NHS Forth Valley
+7124,2012Q3,S08000019,Urological,49,45,NHS Forth Valley
+7136,2012Q4,S08000019,Urological,45,45,NHS Forth Valley
+7148,2013Q1,S08000019,Urological,48,47,NHS Forth Valley
+7158,2013Q2,S08000019,Urological,51,50,NHS Forth Valley
+7171,2013Q3,S08000019,Urological,36,31,NHS Forth Valley
+7184,2013Q4,S08000019,Urological,67,64,NHS Forth Valley
+7199,2014Q1,S08000019,Urological,67,67,NHS Forth Valley
+7214,2014Q2,S08000019,Urological,72,72,NHS Forth Valley
+7227,2014Q3,S08000019,Urological,59,58,NHS Forth Valley
+7240,2014Q4,S08000019,Urological,62,62,NHS Forth Valley
+7255,2015Q1,S08000019,Urological,70,70,NHS Forth Valley
+7270,2015Q2,S08000019,Urological,75,75,NHS Forth Valley
+7281,2015Q3,S08000019,Urological,75,75,NHS Forth Valley
+7294,2015Q4,S08000019,Urological,70,70,NHS Forth Valley
+7306,2016Q1,S08000019,Urological,62,62,NHS Forth Valley
+7308,2016Q1,S08000019,Urological,1,1,NHS Forth Valley
+7319,2016Q2,S08000019,Urological,78,78,NHS Forth Valley
+7330,2016Q3,S08000019,Urological,72,72,NHS Forth Valley
+7334,2016Q3,S08000019,Urological,1,1,NHS Forth Valley
+7345,2016Q4,S08000019,Urological,71,68,NHS Forth Valley
+7359,2017Q1,S08000019,Urological,80,80,NHS Forth Valley
+7377,2017Q2,S08000019,Urological,84,82,NHS Forth Valley
+7390,2017Q3,S08000019,Urological,82,79,NHS Forth Valley
+7402,2017Q4,S08000019,Urological,94,94,NHS Forth Valley
+7415,2018Q1,S08000019,Urological,116,114,NHS Forth Valley
+7428,2018Q2,S08000019,Urological,82,82,NHS Forth Valley
+7441,2018Q3,S08000019,Urological,119,117,NHS Forth Valley
+7454,2018Q4,S08000019,Urological,84,82,NHS Forth Valley
+7467,2019Q1,S08000019,Urological,86,86,NHS Forth Valley
+7471,2019Q1,S08000019,Urological,1,1,NHS Forth Valley
+7482,2019Q2,S08000019,Urological,81,77,NHS Forth Valley
+7494,2019Q3,S08000019,Urological,82,79,NHS Forth Valley
+7509,2019Q4,S08000019,Urological,77,76,NHS Forth Valley
+7524,2020Q1,S08000019,Urological,98,98,NHS Forth Valley
+7539,2020Q2,S08000019,Urological,66,66,NHS Forth Valley
+7553,2020Q3,S08000019,Urological,69,69,NHS Forth Valley
+7564,2020Q4,S08000019,Urological,74,73,NHS Forth Valley
+7578,2021Q1,S08000019,Urological,76,74,NHS Forth Valley
+7581,2021Q1,S08000019,Urological,1,0,NHS Forth Valley
+7592,2021Q2,S08000019,Urological,63,61,NHS Forth Valley
+7605,2021Q3,S08000019,Urological,65,61,NHS Forth Valley
+7616,2021Q4,S08000019,Urological,102,100,NHS Forth Valley
+7629,2022Q1,S08000019,Urological,90,88,NHS Forth Valley
+7641,2022Q2,S08000019,Urological,85,83,NHS Forth Valley
+7655,2022Q3,S08000019,Urological,99,97,NHS Forth Valley
+7670,2012Q1,S08000022,Urological,46,43,NHS Highland
+7675,2012Q1,S08000022,Urological,1,1,NHS Highland
+7690,2012Q2,S08000022,Urological,60,53,NHS Highland
+7695,2012Q2,S08000022,Urological,4,4,NHS Highland
+7709,2012Q3,S08000022,Urological,59,51,NHS Highland
+7714,2012Q3,S08000022,Urological,1,1,NHS Highland
+7724,2012Q4,S08000022,Urological,47,44,NHS Highland
+7731,2012Q4,S08000022,Urological,5,5,NHS Highland
+7746,2013Q1,S08000022,Urological,45,42,NHS Highland
+7754,2013Q1,S08000022,Urological,2,1,NHS Highland
+7765,2013Q2,S08000022,Urological,54,51,NHS Highland
+7770,2013Q2,S08000022,Urological,5,3,NHS Highland
+7783,2013Q3,S08000022,Urological,68,64,NHS Highland
+7790,2013Q3,S08000022,Urological,1,0,NHS Highland
+7806,2013Q4,S08000022,Urological,65,56,NHS Highland
+7813,2013Q4,S08000022,Urological,1,0,NHS Highland
+7824,2014Q1,S08000022,Urological,67,58,NHS Highland
+7829,2014Q1,S08000022,Urological,1,1,NHS Highland
+7845,2014Q2,S08000022,Urological,74,71,NHS Highland
+7868,2014Q3,S08000022,Urological,74,58,NHS Highland
+7886,2014Q4,S08000022,Urological,49,43,NHS Highland
+7908,2015Q1,S08000022,Urological,69,64,NHS Highland
+7928,2015Q2,S08000022,Urological,52,44,NHS Highland
+7944,2015Q3,S08000022,Urological,62,54,NHS Highland
+7952,2015Q3,S08000022,Urological,1,1,NHS Highland
+7969,2015Q4,S08000022,Urological,72,65,NHS Highland
+7973,2015Q4,S08000022,Urological,3,2,NHS Highland
+7984,2016Q1,S08000022,Urological,49,42,NHS Highland
+7988,2016Q1,S08000022,Urological,4,4,NHS Highland
+8000,2016Q2,S08000022,Urological,62,58,NHS Highland
+8006,2016Q2,S08000022,Urological,5,5,NHS Highland
+8026,2016Q3,S08000022,Urological,49,38,NHS Highland
+8031,2016Q3,S08000022,Urological,1,0,NHS Highland
+8042,2016Q4,S08000022,Urological,51,44,NHS Highland
+8049,2016Q4,S08000022,Urological,2,2,NHS Highland
+8060,2017Q1,S08000022,Urological,51,49,NHS Highland
+8068,2017Q1,S08000022,Urological,3,3,NHS Highland
+8081,2017Q2,S08000022,Urological,51,48,NHS Highland
+8084,2017Q2,S08000022,Urological,4,2,NHS Highland
+8101,2017Q3,S08000022,Urological,56,48,NHS Highland
+8106,2017Q3,S08000022,Urological,2,2,NHS Highland
+8122,2017Q4,S08000022,Urological,54,48,NHS Highland
+8145,2018Q1,S08000022,Urological,78,69,NHS Highland
+8153,2018Q1,S08000022,Urological,3,3,NHS Highland
+8166,2018Q2,S08000022,Urological,63,54,NHS Highland
+8184,2018Q3,S08000022,Urological,56,43,NHS Highland
+8196,2018Q4,S08000022,Urological,1,1,NHS Highland
+8207,2018Q4,S08000022,Urological,61,49,NHS Highland
+8214,2018Q4,S08000022,Urological,4,2,NHS Highland
+8225,2019Q1,S08000022,Urological,80,70,NHS Highland
+8232,2019Q1,S08000022,Urological,4,3,NHS Highland
+8236,2019Q2,S08000022,Urological,1,1,NHS Highland
+8247,2019Q2,S08000022,Urological,73,71,NHS Highland
+8253,2019Q2,S08000022,Urological,2,2,NHS Highland
+8269,2019Q3,S08000022,Urological,64,58,NHS Highland
+8276,2019Q3,S08000022,Urological,1,0,NHS Highland
+8290,2019Q4,S08000022,Urological,79,76,NHS Highland
+8295,2019Q4,S08000022,Urological,4,4,NHS Highland
+8311,2020Q1,S08000022,Urological,70,60,NHS Highland
+8317,2020Q1,S08000022,Urological,1,1,NHS Highland
+8332,2020Q2,S08000022,Urological,68,65,NHS Highland
+8339,2020Q2,S08000022,Urological,2,2,NHS Highland
+8352,2020Q3,S08000022,Urological,52,45,NHS Highland
+8357,2020Q3,S08000022,Urological,2,1,NHS Highland
+8359,2020Q3,S08000022,Urological,1,1,NHS Highland
+8370,2020Q4,S08000022,Urological,74,68,NHS Highland
+8376,2020Q4,S08000022,Urological,2,2,NHS Highland
+8389,2021Q1,S08000022,Urological,64,62,NHS Highland
+8395,2021Q1,S08000022,Urological,3,3,NHS Highland
+8410,2021Q2,S08000022,Urological,95,87,NHS Highland
+8416,2021Q2,S08000022,Urological,4,4,NHS Highland
+8429,2021Q3,S08000022,Urological,78,74,NHS Highland
+8435,2021Q3,S08000022,Urological,7,7,NHS Highland
+8447,2021Q4,S08000022,Urological,82,79,NHS Highland
+8452,2021Q4,S08000022,Urological,3,3,NHS Highland
+8463,2022Q1,S08000022,Urological,79,76,NHS Highland
+8468,2022Q1,S08000022,Urological,11,11,NHS Highland
+8479,2022Q2,S08000022,Urological,76,75,NHS Highland
+8485,2022Q2,S08000022,Urological,8,7,NHS Highland
+8498,2022Q3,S08000022,Urological,82,73,NHS Highland
+8504,2022Q3,S08000022,Urological,5,4,NHS Highland
+8519,2012Q1,S08000029,Urological,95,91,NHS Fife
+8531,2012Q2,S08000029,Urological,74,68,NHS Fife
+8542,2012Q3,S08000029,Urological,88,83,NHS Fife
+8557,2012Q4,S08000029,Urological,83,81,NHS Fife
+8570,2013Q1,S08000029,Urological,68,64,NHS Fife
+8583,2013Q2,S08000029,Urological,72,69,NHS Fife
+8595,2013Q3,S08000029,Urological,86,76,NHS Fife
+8608,2013Q4,S08000029,Urological,71,68,NHS Fife
+8621,2014Q1,S08000029,Urological,102,96,NHS Fife
+8632,2014Q2,S08000029,Urological,74,69,NHS Fife
+8645,2014Q3,S08000029,Urological,89,78,NHS Fife
+8659,2014Q4,S08000029,Urological,58,51,NHS Fife
+8671,2015Q1,S08000029,Urological,76,67,NHS Fife
+8684,2015Q2,S08000029,Urological,71,67,NHS Fife
+8697,2015Q3,S08000029,Urological,81,75,NHS Fife
+8712,2015Q4,S08000029,Urological,79,73,NHS Fife
+8725,2016Q1,S08000029,Urological,56,49,NHS Fife
+8740,2016Q2,S08000029,Urological,102,90,NHS Fife
+8752,2016Q3,S08000029,Urological,76,59,NHS Fife
+8765,2016Q4,S08000029,Urological,62,57,NHS Fife
+8778,2017Q1,S08000029,Urological,80,75,NHS Fife
+8791,2017Q2,S08000029,Urological,78,77,NHS Fife
+8804,2017Q3,S08000029,Urological,77,72,NHS Fife
+8815,2017Q4,S08000029,Urological,80,78,NHS Fife
+8828,2018Q1,S08000029,Urological,63,58,NHS Fife
+8841,2018Q2,S08000029,Urological,82,72,NHS Fife
+8856,2018Q3,S08000029,Urological,83,72,NHS Fife
+8869,2018Q4,S08000029,Urological,90,82,NHS Fife
+8880,2019Q1,S08000029,Urological,101,89,NHS Fife
+8893,2019Q2,S08000029,Urological,86,69,NHS Fife
+8906,2019Q3,S08000029,Urological,91,84,NHS Fife
+8920,2019Q4,S08000029,Urological,88,84,NHS Fife
+8933,2020Q1,S08000029,Urological,113,103,NHS Fife
+8946,2020Q2,S08000029,Urological,79,74,NHS Fife
+8957,2020Q3,S08000029,Urological,60,56,NHS Fife
+8970,2020Q4,S08000029,Urological,95,92,NHS Fife
+8983,2021Q1,S08000029,Urological,68,67,NHS Fife
+8996,2021Q2,S08000029,Urological,86,84,NHS Fife
+9009,2021Q3,S08000029,Urological,87,84,NHS Fife
+9021,2021Q4,S08000029,Urological,81,81,NHS Fife
+9034,2022Q1,S08000029,Urological,105,100,NHS Fife
+9047,2022Q2,S08000029,Urological,93,86,NHS Fife
+9059,2022Q3,S08000029,Urological,99,89,NHS Fife
+9061,2012Q1,S08000030,Urological,1,1,NHS Tayside
+9065,2012Q1,S08000030,Urological,2,2,NHS Tayside
+9076,2012Q1,S08000030,Urological,95,89,NHS Tayside
+9079,2012Q2,S08000030,Urological,1,1,NHS Tayside
+9090,2012Q2,S08000030,Urological,92,88,NHS Tayside
+9096,2012Q3,S08000030,Urological,1,1,NHS Tayside
+9107,2012Q3,S08000030,Urological,102,96,NHS Tayside
+9111,2012Q4,S08000030,Urological,1,1,NHS Tayside
+9122,2012Q4,S08000030,Urological,105,99,NHS Tayside
+9129,2013Q1,S08000030,Urological,2,2,NHS Tayside
+9140,2013Q1,S08000030,Urological,92,83,NHS Tayside
+9157,2013Q2,S08000030,Urological,113,108,NHS Tayside
+9164,2013Q3,S08000030,Urological,1,1,NHS Tayside
+9175,2013Q3,S08000030,Urological,98,95,NHS Tayside
+9182,2013Q4,S08000030,Urological,1,1,NHS Tayside
+9193,2013Q4,S08000030,Urological,113,106,NHS Tayside
+9205,2014Q1,S08000030,Urological,110,105,NHS Tayside
+9212,2014Q2,S08000030,Urological,1,1,NHS Tayside
+9222,2014Q2,S08000030,Urological,105,95,NHS Tayside
+9226,2014Q3,S08000030,Urological,2,2,NHS Tayside
+9235,2014Q3,S08000030,Urological,130,122,NHS Tayside
+9238,2014Q4,S08000030,Urological,1,1,NHS Tayside
+9247,2014Q4,S08000030,Urological,123,112,NHS Tayside
+9249,2014Q4,S08000030,Urological,1,1,NHS Tayside
+9255,2015Q1,S08000030,Urological,1,0,NHS Tayside
+9266,2015Q1,S08000030,Urological,107,94,NHS Tayside
+9272,2015Q2,S08000030,Urological,3,3,NHS Tayside
+9283,2015Q2,S08000030,Urological,107,98,NHS Tayside
+9297,2015Q3,S08000030,Urological,110,84,NHS Tayside
+9303,2015Q4,S08000030,Urological,1,1,NHS Tayside
+9314,2015Q4,S08000030,Urological,96,80,NHS Tayside
+9334,2016Q1,S08000030,Urological,136,110,NHS Tayside
+9342,2016Q2,S08000030,Urological,1,1,NHS Tayside
+9353,2016Q2,S08000030,Urological,132,114,NHS Tayside
+9362,2016Q3,S08000030,Urological,1,1,NHS Tayside
+9373,2016Q3,S08000030,Urological,116,94,NHS Tayside
+9392,2016Q4,S08000030,Urological,121,97,NHS Tayside
+9407,2017Q1,S08000030,Urological,131,106,NHS Tayside
+9425,2017Q2,S08000030,Urological,131,107,NHS Tayside
+9433,2017Q3,S08000030,Urological,1,1,NHS Tayside
+9444,2017Q3,S08000030,Urological,134,120,NHS Tayside
+9462,2017Q4,S08000030,Urological,123,112,NHS Tayside
+9480,2018Q1,S08000030,Urological,127,108,NHS Tayside
+9498,2018Q2,S08000030,Urological,124,114,NHS Tayside
+9516,2018Q3,S08000030,Urological,101,95,NHS Tayside
+9534,2018Q4,S08000030,Urological,102,83,NHS Tayside
+9552,2019Q1,S08000030,Urological,116,100,NHS Tayside
+9570,2019Q2,S08000030,Urological,109,106,NHS Tayside
+9579,2019Q3,S08000030,Urological,1,1,NHS Tayside
+9590,2019Q3,S08000030,Urological,111,110,NHS Tayside
+9607,2019Q4,S08000030,Urological,118,117,NHS Tayside
+9613,2020Q1,S08000030,Urological,1,1,NHS Tayside
+9624,2020Q1,S08000030,Urological,138,137,NHS Tayside
+9642,2020Q2,S08000030,Urological,80,79,NHS Tayside
+9659,2020Q3,S08000030,Urological,62,61,NHS Tayside
+9663,2020Q4,S08000030,Urological,1,1,NHS Tayside
+9674,2020Q4,S08000030,Urological,96,96,NHS Tayside
+9690,2021Q1,S08000030,Urological,77,74,NHS Tayside
+9705,2021Q2,S08000030,Urological,109,100,NHS Tayside
+9723,2021Q3,S08000030,Urological,127,122,NHS Tayside
+9729,2021Q4,S08000030,Urological,1,1,NHS Tayside
+9740,2021Q4,S08000030,Urological,105,104,NHS Tayside
+9758,2022Q1,S08000030,Urological,109,109,NHS Tayside
+9774,2022Q2,S08000030,Urological,151,151,NHS Tayside
+9790,2022Q3,S08000030,Urological,124,122,NHS Tayside
+9793,2012Q1,S08000025,Urological,1,1,NHS Orkney
+9814,2013Q2,S08000025,Urological,1,1,NHS Orkney
+9820,2013Q3,S08000025,Urological,1,1,NHS Orkney
+9824,2013Q4,S08000025,Urological,2,2,NHS Orkney
+9827,2014Q1,S08000025,Urological,1,1,NHS Orkney
+9834,2014Q3,S08000025,Urological,2,2,NHS Orkney
+9840,2014Q4,S08000025,Urological,1,1,NHS Orkney
+9852,2015Q3,S08000025,Urological,1,1,NHS Orkney
+9859,2015Q4,S08000025,Urological,1,1,NHS Orkney
+9869,2016Q2,S08000025,Urological,3,3,NHS Orkney
+9881,2016Q4,S08000025,Urological,1,1,NHS Orkney
+9894,2017Q2,S08000025,Urological,1,1,NHS Orkney
+9907,2018Q1,S08000025,Urological,2,2,NHS Orkney
+9917,2018Q3,S08000025,Urological,1,1,NHS Orkney
+9923,2018Q4,S08000025,Urological,2,2,NHS Orkney
+9925,2019Q1,S08000025,Urological,1,1,NHS Orkney
+9935,2019Q2,S08000025,Urological,1,1,NHS Orkney
+9947,2019Q4,S08000025,Urological,2,2,NHS Orkney
+9953,2020Q1,S08000025,Urological,1,1,NHS Orkney
+9957,2020Q2,S08000025,Urological,3,3,NHS Orkney
+9963,2020Q3,S08000025,Urological,2,2,NHS Orkney
+9971,2020Q4,S08000025,Urological,5,5,NHS Orkney
+9973,2021Q1,S08000025,Urological,1,1,NHS Orkney
+9984,2021Q2,S08000025,Urological,2,2,NHS Orkney
+9986,2021Q3,S08000025,Urological,1,1,NHS Orkney
+9995,2021Q4,S08000025,Urological,4,4,NHS Orkney
+10001,2022Q1,S08000025,Urological,2,2,NHS Orkney
+10007,2022Q2,S08000025,Urological,2,2,NHS Orkney
+10014,2022Q3,S08000025,Urological,2,2,NHS Orkney
+10022,2012Q1,S08000026,Urological,7,7,NHS Shetland
+10029,2012Q2,S08000026,Urological,6,6,NHS Shetland
+10039,2012Q4,S08000026,Urological,5,5,NHS Shetland
+10044,2013Q1,S08000026,Urological,6,6,NHS Shetland
+10051,2013Q2,S08000026,Urological,13,12,NHS Shetland
+10059,2013Q3,S08000026,Urological,6,6,NHS Shetland
+10066,2013Q4,S08000026,Urological,10,10,NHS Shetland
+10068,2014Q1,S08000026,Urological,1,1,NHS Shetland
+10074,2014Q1,S08000026,Urological,9,9,NHS Shetland
+10080,2014Q2,S08000026,Urological,7,7,NHS Shetland
+10082,2014Q3,S08000026,Urological,1,1,NHS Shetland
+10088,2014Q3,S08000026,Urological,7,7,NHS Shetland
+10094,2014Q4,S08000026,Urological,3,3,NHS Shetland
+10101,2015Q1,S08000026,Urological,3,3,NHS Shetland
+10103,2015Q2,S08000026,Urological,1,1,NHS Shetland
+10110,2015Q2,S08000026,Urological,4,4,NHS Shetland
+10116,2015Q3,S08000026,Urological,9,9,NHS Shetland
+10128,2016Q1,S08000026,Urological,4,4,NHS Shetland
+10135,2016Q2,S08000026,Urological,3,3,NHS Shetland
+10143,2016Q3,S08000026,Urological,3,3,NHS Shetland
+10152,2016Q4,S08000026,Urological,5,5,NHS Shetland
+10159,2017Q1,S08000026,Urological,14,14,NHS Shetland
+10164,2017Q2,S08000026,Urological,1,1,NHS Shetland
+10170,2017Q3,S08000026,Urological,10,10,NHS Shetland
+10176,2017Q4,S08000026,Urological,7,6,NHS Shetland
+10182,2018Q1,S08000026,Urological,4,4,NHS Shetland
+10184,2018Q2,S08000026,Urological,1,1,NHS Shetland
+10191,2018Q2,S08000026,Urological,7,7,NHS Shetland
+10195,2018Q3,S08000026,Urological,4,4,NHS Shetland
+10202,2018Q3,S08000026,Urological,4,4,NHS Shetland
+10204,2018Q4,S08000026,Urological,1,1,NHS Shetland
+10212,2018Q4,S08000026,Urological,9,8,NHS Shetland
+10220,2019Q1,S08000026,Urological,3,3,NHS Shetland
+10226,2019Q2,S08000026,Urological,12,12,NHS Shetland
+10229,2019Q3,S08000026,Urological,1,1,NHS Shetland
+10231,2019Q3,S08000026,Urological,1,1,NHS Shetland
+10237,2019Q3,S08000026,Urological,3,3,NHS Shetland
+10247,2019Q4,S08000026,Urological,6,6,NHS Shetland
+10250,2020Q1,S08000026,Urological,1,0,NHS Shetland
+10254,2020Q1,S08000026,Urological,8,7,NHS Shetland
+10261,2020Q2,S08000026,Urological,2,2,NHS Shetland
+10268,2020Q3,S08000026,Urological,4,4,NHS Shetland
+10278,2020Q4,S08000026,Urological,4,4,NHS Shetland
+10284,2021Q1,S08000026,Urological,3,3,NHS Shetland
+10289,2021Q2,S08000026,Urological,6,6,NHS Shetland
+10294,2021Q3,S08000026,Urological,4,4,NHS Shetland
+10302,2021Q4,S08000026,Urological,8,8,NHS Shetland
+10310,2022Q1,S08000026,Urological,4,4,NHS Shetland
+10318,2022Q2,S08000026,Urological,5,5,NHS Shetland
+10321,2022Q3,S08000026,Urological,1,1,NHS Shetland
+10328,2022Q3,S08000026,Urological,7,7,NHS Shetland
+10335,2012Q1,S08000028,Urological,2,2,NHS Western Isles
+10345,2012Q3,S08000028,Urological,3,3,NHS Western Isles
+10358,2013Q1,S08000028,Urological,1,1,NHS Western Isles
+10372,2013Q3,S08000028,Urological,4,4,NHS Western Isles
+10379,2013Q4,S08000028,Urological,1,1,NHS Western Isles
+10381,2014Q1,S08000028,Urological,1,1,NHS Western Isles
+10388,2014Q2,S08000028,Urological,2,2,NHS Western Isles
+10394,2014Q3,S08000028,Urological,3,3,NHS Western Isles
+10402,2014Q4,S08000028,Urological,1,1,NHS Western Isles
+10417,2015Q2,S08000028,Urological,1,1,NHS Western Isles
+10423,2015Q2,S08000028,Urological,1,1,NHS Western Isles
+10426,2015Q3,S08000028,Urological,4,4,NHS Western Isles
+10438,2015Q4,S08000028,Urological,3,3,NHS Western Isles
+10445,2016Q1,S08000028,Urological,5,5,NHS Western Isles
+10447,2016Q2,S08000028,Urological,1,1,NHS Western Isles
+10454,2016Q2,S08000028,Urological,2,2,NHS Western Isles
+10463,2016Q3,S08000028,Urological,1,1,NHS Western Isles
+10465,2016Q4,S08000028,Urological,1,1,NHS Western Isles
+10470,2016Q4,S08000028,Urological,4,4,NHS Western Isles
+10477,2017Q1,S08000028,Urological,6,6,NHS Western Isles
+10486,2017Q2,S08000028,Urological,7,7,NHS Western Isles
+10493,2017Q3,S08000028,Urological,2,2,NHS Western Isles
+10498,2017Q4,S08000028,Urological,3,3,NHS Western Isles
+10507,2018Q1,S08000028,Urological,2,2,NHS Western Isles
+10515,2018Q2,S08000028,Urological,1,1,NHS Western Isles
+10524,2018Q3,S08000028,Urological,3,3,NHS Western Isles
+10526,2018Q4,S08000028,Urological,1,1,NHS Western Isles
+10532,2018Q4,S08000028,Urological,3,3,NHS Western Isles
+10538,2019Q1,S08000028,Urological,6,6,NHS Western Isles
+10545,2019Q2,S08000028,Urological,4,4,NHS Western Isles
+10553,2019Q3,S08000028,Urological,6,6,NHS Western Isles
+10560,2019Q4,S08000028,Urological,5,5,NHS Western Isles
+10567,2020Q1,S08000028,Urological,5,5,NHS Western Isles
+10574,2020Q2,S08000028,Urological,4,4,NHS Western Isles
+10581,2020Q3,S08000028,Urological,3,3,NHS Western Isles
+10587,2020Q4,S08000028,Urological,4,4,NHS Western Isles
+10591,2021Q1,S08000028,Urological,3,3,NHS Western Isles
+10598,2021Q2,S08000028,Urological,3,3,NHS Western Isles
+10600,2021Q3,S08000028,Urological,1,1,NHS Western Isles
+10608,2021Q3,S08000028,Urological,6,6,NHS Western Isles
+10613,2021Q4,S08000028,Urological,3,3,NHS Western Isles
+10620,2022Q1,S08000028,Urological,6,6,NHS Western Isles
+10622,2022Q2,S08000028,Urological,2,2,NHS Western Isles
+10629,2022Q2,S08000028,Urological,10,10,NHS Western Isles
+10641,2022Q3,S08000028,Urological,2,2,NHS Western Isles
+10656,2012Q1,S08000032,Urological,84,81,NHS Lanarkshire
+10669,2012Q2,S08000032,Urological,83,81,NHS Lanarkshire
+10683,2012Q3,S08000032,Urological,81,76,NHS Lanarkshire
+10696,2012Q4,S08000032,Urological,102,90,NHS Lanarkshire
+10711,2013Q1,S08000032,Urological,95,88,NHS Lanarkshire
+10726,2013Q2,S08000032,Urological,77,72,NHS Lanarkshire
+10739,2013Q3,S08000032,Urological,49,46,NHS Lanarkshire
+10754,2013Q4,S08000032,Urological,57,53,NHS Lanarkshire
+10769,2014Q1,S08000032,Urological,78,63,NHS Lanarkshire
+10782,2014Q2,S08000032,Urological,106,96,NHS Lanarkshire
+10797,2014Q3,S08000032,Urological,91,85,NHS Lanarkshire
+10810,2014Q4,S08000032,Urological,103,98,NHS Lanarkshire
+10825,2015Q1,S08000032,Urological,85,80,NHS Lanarkshire
+10840,2015Q2,S08000032,Urological,86,75,NHS Lanarkshire
+10855,2015Q3,S08000032,Urological,90,77,NHS Lanarkshire
+10870,2015Q4,S08000032,Urological,100,86,NHS Lanarkshire
+10874,2016Q1,S08000032,Urological,1,1,NHS Lanarkshire
+10885,2016Q1,S08000032,Urological,84,77,NHS Lanarkshire
+10898,2016Q2,S08000032,Urological,118,101,NHS Lanarkshire
+10912,2016Q3,S08000032,Urological,119,112,NHS Lanarkshire
+10928,2016Q4,S08000032,Urological,97,84,NHS Lanarkshire
+10943,2017Q1,S08000032,Urological,92,82,NHS Lanarkshire
+10958,2017Q2,S08000032,Urological,116,101,NHS Lanarkshire
+10973,2017Q3,S08000032,Urological,101,94,NHS Lanarkshire
+10989,2017Q4,S08000032,Urological,114,108,NHS Lanarkshire
+11004,2018Q1,S08000032,Urological,108,107,NHS Lanarkshire
+11018,2018Q2,S08000032,Urological,123,121,NHS Lanarkshire
+11033,2018Q3,S08000032,Urological,121,118,NHS Lanarkshire
+11049,2018Q4,S08000032,Urological,108,106,NHS Lanarkshire
+11064,2019Q1,S08000032,Urological,106,103,NHS Lanarkshire
+11068,2019Q2,S08000032,Urological,1,0,NHS Lanarkshire
+11081,2019Q2,S08000032,Urological,112,103,NHS Lanarkshire
+11096,2019Q3,S08000032,Urological,72,68,NHS Lanarkshire
+11111,2019Q4,S08000032,Urological,60,60,NHS Lanarkshire
+11128,2020Q1,S08000032,Urological,101,94,NHS Lanarkshire
+11143,2020Q2,S08000032,Urological,69,66,NHS Lanarkshire
+11158,2020Q3,S08000032,Urological,44,43,NHS Lanarkshire
+11172,2020Q4,S08000032,Urological,50,47,NHS Lanarkshire
+11175,2021Q1,S08000032,Urological,1,1,NHS Lanarkshire
+11186,2021Q1,S08000032,Urological,74,72,NHS Lanarkshire
+11199,2021Q2,S08000032,Urological,81,79,NHS Lanarkshire
+11214,2021Q3,S08000032,Urological,71,67,NHS Lanarkshire
+11231,2021Q4,S08000032,Urological,82,81,NHS Lanarkshire
+11246,2022Q1,S08000032,Urological,72,68,NHS Lanarkshire
+11261,2022Q2,S08000032,Urological,93,87,NHS Lanarkshire
+11277,2022Q3,S08000032,Urological,101,96,NHS Lanarkshire
