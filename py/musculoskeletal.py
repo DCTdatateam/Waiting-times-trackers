@@ -3,8 +3,9 @@ import pandas as pd
 patientswaiting= pd.read_csv("https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/eff86139-89de-4169-83d5-7b5cec2ed3e9/download/open_data_ahp_msk_waiting_december2021.csv")
 HBcodes = pd.read_csv("https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/652ff726-e676-4a20-abda-435b98dd7bdc/download/hb14_hb19.csv")
 patientsseen = pd.read_csv("https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/6a403c6f-bff1-425e-918e-cd17a134227f/download/open_data_ahp_msk_seen_with_mats_december2021.csv")
+HSCPcodes = pd.read_csv("https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/944765d7-d0d9-46a0-b377-abb3de51d08e/download/hscp16_hscp19.csv")
 
-merge1= pd.merge(patientswaiting, HBcodes, left_on='HBT', right_on='HB')
+merge1= pd.merge(patientswaiting, HSCPcodes, left_on='HSCP', right_on='HSCP')
 merge2= pd.merge(patientsseen, HBcodes, left_on='HBT', right_on='HB')
 
 merge1= merge1.drop(columns=['PatientsWaitingQF', 'NumberWaitingZeroToFourWeeksQF', 'NumberWaitingFiveToEightWeeksQF', 'NumberWaitingNineToTwelveWeeksQF', 'NumberWaitingThirteenToSixteenWeeksQF', 'NumberWaitingSixteenPlusWeeksQF', 'NumberWaitingFourPlusWeeksQF', 'NumberWaitingZeroToFourWeeksPcQF', 'NumberWaitingFiveToEightWeeksPcQF', 'NumberWaitingNineToTwelveWeeksPcQF', 'NumberWaitingThirteenToSixteenWeeksPcQF', 'NumberWaitingSixteenPlusWeeksPcQF', 'NumberWaitingFourPlusWeeksPcQF', 'HBDateEnacted', 'HBDateArchived', 'Country'])
