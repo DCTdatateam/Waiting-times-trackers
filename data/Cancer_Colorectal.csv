@@ -1,1080 +1,1079 @@
 ,Quarter,HBT,Cancer type,Number of eligible referrals,Number of eligible referrals treated within 31 days,Health board
-3,2012Q1,S08000015,Colorectal,53,53,NHS Ayrshire and Arran
-14,2012Q2,S08000015,Colorectal,48,46,NHS Ayrshire and Arran
-25,2012Q3,S08000015,Colorectal,52,51,NHS Ayrshire and Arran
-36,2012Q4,S08000015,Colorectal,73,70,NHS Ayrshire and Arran
-47,2013Q1,S08000015,Colorectal,58,58,NHS Ayrshire and Arran
-58,2013Q2,S08000015,Colorectal,61,58,NHS Ayrshire and Arran
-69,2013Q3,S08000015,Colorectal,58,58,NHS Ayrshire and Arran
-79,2013Q4,S08000015,Colorectal,63,62,NHS Ayrshire and Arran
-90,2014Q1,S08000015,Colorectal,57,57,NHS Ayrshire and Arran
-99,2014Q1,S08000015,Colorectal,1,1,NHS Ayrshire and Arran
-103,2014Q2,S08000015,Colorectal,59,55,NHS Ayrshire and Arran
-114,2014Q3,S08000015,Colorectal,57,56,NHS Ayrshire and Arran
-125,2014Q4,S08000015,Colorectal,48,47,NHS Ayrshire and Arran
-136,2015Q1,S08000015,Colorectal,53,51,NHS Ayrshire and Arran
-147,2015Q2,S08000015,Colorectal,69,67,NHS Ayrshire and Arran
-158,2015Q3,S08000015,Colorectal,48,47,NHS Ayrshire and Arran
-169,2015Q4,S08000015,Colorectal,60,59,NHS Ayrshire and Arran
-179,2016Q1,S08000015,Colorectal,45,45,NHS Ayrshire and Arran
-190,2016Q2,S08000015,Colorectal,61,61,NHS Ayrshire and Arran
-200,2016Q3,S08000015,Colorectal,59,59,NHS Ayrshire and Arran
-211,2016Q4,S08000015,Colorectal,50,50,NHS Ayrshire and Arran
-222,2017Q1,S08000015,Colorectal,55,55,NHS Ayrshire and Arran
-233,2017Q2,S08000015,Colorectal,38,37,NHS Ayrshire and Arran
-244,2017Q3,S08000015,Colorectal,63,63,NHS Ayrshire and Arran
-254,2017Q4,S08000015,Colorectal,60,57,NHS Ayrshire and Arran
-265,2018Q1,S08000015,Colorectal,58,58,NHS Ayrshire and Arran
-275,2018Q2,S08000015,Colorectal,52,50,NHS Ayrshire and Arran
-286,2018Q3,S08000015,Colorectal,58,56,NHS Ayrshire and Arran
-299,2018Q4,S08000015,Colorectal,72,71,NHS Ayrshire and Arran
-310,2019Q1,S08000015,Colorectal,46,45,NHS Ayrshire and Arran
-321,2019Q2,S08000015,Colorectal,67,66,NHS Ayrshire and Arran
-332,2019Q3,S08000015,Colorectal,64,64,NHS Ayrshire and Arran
-345,2019Q4,S08000015,Colorectal,44,43,NHS Ayrshire and Arran
-356,2020Q1,S08000015,Colorectal,55,54,NHS Ayrshire and Arran
-369,2020Q2,S08000015,Colorectal,26,24,NHS Ayrshire and Arran
-379,2020Q3,S08000015,Colorectal,26,25,NHS Ayrshire and Arran
-390,2020Q4,S08000015,Colorectal,39,39,NHS Ayrshire and Arran
-401,2021Q1,S08000015,Colorectal,44,42,NHS Ayrshire and Arran
-413,2021Q2,S08000015,Colorectal,54,52,NHS Ayrshire and Arran
-426,2021Q3,S08000015,Colorectal,62,61,NHS Ayrshire and Arran
+2,2012Q1,S08000015,Colorectal,53,53,NHS Ayrshire and Arran
+12,2012Q2,S08000015,Colorectal,48,46,NHS Ayrshire and Arran
+22,2012Q3,S08000015,Colorectal,52,51,NHS Ayrshire and Arran
+32,2012Q4,S08000015,Colorectal,73,70,NHS Ayrshire and Arran
+42,2013Q1,S08000015,Colorectal,58,58,NHS Ayrshire and Arran
+52,2013Q2,S08000015,Colorectal,61,58,NHS Ayrshire and Arran
+62,2013Q3,S08000015,Colorectal,58,58,NHS Ayrshire and Arran
+71,2013Q4,S08000015,Colorectal,63,62,NHS Ayrshire and Arran
+81,2014Q1,S08000015,Colorectal,57,57,NHS Ayrshire and Arran
+89,2014Q1,S08000015,Colorectal,1,1,NHS Ayrshire and Arran
+92,2014Q2,S08000015,Colorectal,59,55,NHS Ayrshire and Arran
+102,2014Q3,S08000015,Colorectal,57,56,NHS Ayrshire and Arran
+112,2014Q4,S08000015,Colorectal,48,47,NHS Ayrshire and Arran
+122,2015Q1,S08000015,Colorectal,53,51,NHS Ayrshire and Arran
+132,2015Q2,S08000015,Colorectal,69,67,NHS Ayrshire and Arran
+142,2015Q3,S08000015,Colorectal,48,47,NHS Ayrshire and Arran
+152,2015Q4,S08000015,Colorectal,60,59,NHS Ayrshire and Arran
+161,2016Q1,S08000015,Colorectal,45,45,NHS Ayrshire and Arran
+171,2016Q2,S08000015,Colorectal,61,61,NHS Ayrshire and Arran
+180,2016Q3,S08000015,Colorectal,59,59,NHS Ayrshire and Arran
+190,2016Q4,S08000015,Colorectal,50,50,NHS Ayrshire and Arran
+200,2017Q1,S08000015,Colorectal,55,55,NHS Ayrshire and Arran
+210,2017Q2,S08000015,Colorectal,38,37,NHS Ayrshire and Arran
+220,2017Q3,S08000015,Colorectal,63,63,NHS Ayrshire and Arran
+229,2017Q4,S08000015,Colorectal,60,57,NHS Ayrshire and Arran
+239,2018Q1,S08000015,Colorectal,58,58,NHS Ayrshire and Arran
+248,2018Q2,S08000015,Colorectal,52,50,NHS Ayrshire and Arran
+258,2018Q3,S08000015,Colorectal,58,56,NHS Ayrshire and Arran
+269,2018Q4,S08000015,Colorectal,72,71,NHS Ayrshire and Arran
+279,2019Q1,S08000015,Colorectal,46,45,NHS Ayrshire and Arran
+289,2019Q2,S08000015,Colorectal,67,66,NHS Ayrshire and Arran
+299,2019Q3,S08000015,Colorectal,64,64,NHS Ayrshire and Arran
+310,2019Q4,S08000015,Colorectal,44,43,NHS Ayrshire and Arran
+320,2020Q1,S08000015,Colorectal,55,54,NHS Ayrshire and Arran
+331,2020Q2,S08000015,Colorectal,26,24,NHS Ayrshire and Arran
+340,2020Q3,S08000015,Colorectal,26,25,NHS Ayrshire and Arran
+389,2020Q4,S08000015,Colorectal,39,39,NHS Ayrshire and Arran
+400,2021Q1,S08000015,Colorectal,44,42,NHS Ayrshire and Arran
+412,2021Q2,S08000015,Colorectal,54,52,NHS Ayrshire and Arran
+425,2021Q3,S08000015,Colorectal,62,61,NHS Ayrshire and Arran
 435,2021Q4,S08000015,Colorectal,58,57,NHS Ayrshire and Arran
-450,2021Q4,S08000015,Colorectal,58,57,NHS Ayrshire and Arran
-466,2022Q1,S08000015,Colorectal,53,52,NHS Ayrshire and Arran
-479,2022Q2,S08000015,Colorectal,58,58,NHS Ayrshire and Arran
-490,2022Q3,S08000015,Colorectal,64,62,NHS Ayrshire and Arran
-501,2022Q4,S08000015,Colorectal,45,45,NHS Ayrshire and Arran
-510,2022Q4,S08000015,Colorectal,1,1,NHS Ayrshire and Arran
-518,2012Q1,S08000017,Colorectal,33,31,NHS Dumfries and Galloway
-528,2012Q2,S08000017,Colorectal,35,34,NHS Dumfries and Galloway
-541,2012Q3,S08000017,Colorectal,35,35,NHS Dumfries and Galloway
-554,2012Q4,S08000017,Colorectal,32,32,NHS Dumfries and Galloway
-565,2013Q1,S08000017,Colorectal,22,22,NHS Dumfries and Galloway
-575,2013Q2,S08000017,Colorectal,26,26,NHS Dumfries and Galloway
-587,2013Q3,S08000017,Colorectal,35,35,NHS Dumfries and Galloway
-599,2013Q4,S08000017,Colorectal,19,19,NHS Dumfries and Galloway
-612,2014Q1,S08000017,Colorectal,25,25,NHS Dumfries and Galloway
-624,2014Q2,S08000017,Colorectal,34,33,NHS Dumfries and Galloway
-637,2014Q3,S08000017,Colorectal,30,30,NHS Dumfries and Galloway
-649,2014Q4,S08000017,Colorectal,22,22,NHS Dumfries and Galloway
-661,2015Q1,S08000017,Colorectal,28,28,NHS Dumfries and Galloway
-674,2015Q2,S08000017,Colorectal,27,27,NHS Dumfries and Galloway
-687,2015Q3,S08000017,Colorectal,24,22,NHS Dumfries and Galloway
-700,2015Q4,S08000017,Colorectal,25,25,NHS Dumfries and Galloway
-712,2016Q1,S08000017,Colorectal,25,25,NHS Dumfries and Galloway
-723,2016Q2,S08000017,Colorectal,31,31,NHS Dumfries and Galloway
-736,2016Q3,S08000017,Colorectal,28,27,NHS Dumfries and Galloway
-746,2016Q4,S08000017,Colorectal,16,13,NHS Dumfries and Galloway
-759,2017Q1,S08000017,Colorectal,22,21,NHS Dumfries and Galloway
-772,2017Q2,S08000017,Colorectal,22,22,NHS Dumfries and Galloway
-784,2017Q3,S08000017,Colorectal,26,23,NHS Dumfries and Galloway
-796,2017Q4,S08000017,Colorectal,26,24,NHS Dumfries and Galloway
-808,2018Q1,S08000017,Colorectal,31,30,NHS Dumfries and Galloway
-821,2018Q2,S08000017,Colorectal,30,30,NHS Dumfries and Galloway
-834,2018Q3,S08000017,Colorectal,26,24,NHS Dumfries and Galloway
-846,2018Q4,S08000017,Colorectal,27,26,NHS Dumfries and Galloway
-858,2019Q1,S08000017,Colorectal,20,18,NHS Dumfries and Galloway
-871,2019Q2,S08000017,Colorectal,29,29,NHS Dumfries and Galloway
-884,2019Q3,S08000017,Colorectal,26,25,NHS Dumfries and Galloway
-894,2019Q4,S08000017,Colorectal,35,34,NHS Dumfries and Galloway
-906,2020Q1,S08000017,Colorectal,39,39,NHS Dumfries and Galloway
-917,2020Q2,S08000017,Colorectal,20,20,NHS Dumfries and Galloway
-928,2020Q3,S08000017,Colorectal,17,17,NHS Dumfries and Galloway
-940,2020Q4,S08000017,Colorectal,18,18,NHS Dumfries and Galloway
-955,2021Q1,S08000017,Colorectal,31,30,NHS Dumfries and Galloway
-967,2021Q2,S08000017,Colorectal,30,30,NHS Dumfries and Galloway
-979,2021Q3,S08000017,Colorectal,27,26,NHS Dumfries and Galloway
-990,2021Q4,S08000017,Colorectal,33,31,NHS Dumfries and Galloway
-1002,2021Q4,S08000017,Colorectal,33,31,NHS Dumfries and Galloway
-1013,2022Q1,S08000017,Colorectal,27,25,NHS Dumfries and Galloway
-1024,2022Q2,S08000017,Colorectal,22,22,NHS Dumfries and Galloway
-1037,2022Q3,S08000017,Colorectal,27,25,NHS Dumfries and Galloway
-1052,2022Q4,S08000017,Colorectal,33,32,NHS Dumfries and Galloway
-1066,2012Q1,S08000020,Colorectal,74,73,NHS Grampian
-1079,2012Q1,S08000020,Colorectal,2,2,NHS Grampian
-1085,2012Q1,S08000020,Colorectal,2,2,NHS Grampian
-1096,2012Q2,S08000020,Colorectal,96,96,NHS Grampian
-1109,2012Q2,S08000020,Colorectal,1,1,NHS Grampian
-1119,2012Q3,S08000020,Colorectal,101,97,NHS Grampian
-1130,2012Q3,S08000020,Colorectal,1,1,NHS Grampian
-1135,2012Q3,S08000020,Colorectal,1,1,NHS Grampian
-1143,2012Q4,S08000020,Colorectal,75,75,NHS Grampian
-1161,2012Q4,S08000020,Colorectal,1,1,NHS Grampian
-1172,2013Q1,S08000020,Colorectal,67,66,NHS Grampian
-1196,2013Q2,S08000020,Colorectal,84,80,NHS Grampian
-1209,2013Q2,S08000020,Colorectal,2,2,NHS Grampian
-1213,2013Q2,S08000020,Colorectal,1,0,NHS Grampian
-1219,2013Q3,S08000020,Colorectal,76,76,NHS Grampian
-1237,2013Q3,S08000020,Colorectal,2,2,NHS Grampian
-1245,2013Q4,S08000020,Colorectal,79,79,NHS Grampian
-1260,2013Q4,S08000020,Colorectal,1,1,NHS Grampian
-1268,2014Q1,S08000020,Colorectal,62,62,NHS Grampian
-1281,2014Q1,S08000020,Colorectal,2,2,NHS Grampian
-1285,2014Q1,S08000020,Colorectal,3,3,NHS Grampian
-1295,2014Q2,S08000020,Colorectal,75,75,NHS Grampian
-1309,2014Q2,S08000020,Colorectal,1,1,NHS Grampian
-1323,2014Q3,S08000020,Colorectal,81,77,NHS Grampian
-1339,2014Q3,S08000020,Colorectal,1,1,NHS Grampian
-1343,2014Q3,S08000020,Colorectal,1,1,NHS Grampian
-1349,2014Q3,S08000020,Colorectal,1,1,NHS Grampian
-1357,2014Q4,S08000020,Colorectal,76,76,NHS Grampian
-1374,2014Q4,S08000020,Colorectal,2,2,NHS Grampian
-1380,2015Q1,S08000020,Colorectal,73,73,NHS Grampian
-1391,2015Q1,S08000020,Colorectal,1,1,NHS Grampian
-1400,2015Q2,S08000020,Colorectal,78,74,NHS Grampian
-1414,2015Q2,S08000020,Colorectal,1,1,NHS Grampian
-1425,2015Q3,S08000020,Colorectal,84,82,NHS Grampian
-1439,2015Q3,S08000020,Colorectal,1,0,NHS Grampian
-1442,2015Q3,S08000020,Colorectal,4,2,NHS Grampian
-1453,2015Q4,S08000020,Colorectal,68,67,NHS Grampian
-1469,2015Q4,S08000020,Colorectal,1,1,NHS Grampian
-1482,2016Q1,S08000020,Colorectal,83,78,NHS Grampian
-1491,2016Q1,S08000020,Colorectal,3,1,NHS Grampian
-1511,2016Q2,S08000020,Colorectal,66,64,NHS Grampian
-1532,2016Q3,S08000020,Colorectal,89,86,NHS Grampian
-1541,2016Q3,S08000020,Colorectal,1,1,NHS Grampian
-1546,2016Q3,S08000020,Colorectal,2,2,NHS Grampian
-1549,2016Q3,S08000020,Colorectal,2,2,NHS Grampian
-1560,2016Q4,S08000020,Colorectal,80,74,NHS Grampian
-1570,2016Q4,S08000020,Colorectal,1,1,NHS Grampian
-1575,2016Q4,S08000020,Colorectal,1,1,NHS Grampian
-1580,2016Q4,S08000020,Colorectal,1,1,NHS Grampian
-1590,2017Q1,S08000020,Colorectal,68,66,NHS Grampian
-1623,2017Q2,S08000020,Colorectal,67,64,NHS Grampian
-1653,2017Q3,S08000020,Colorectal,91,86,NHS Grampian
-1665,2017Q3,S08000020,Colorectal,1,0,NHS Grampian
-1677,2017Q4,S08000020,Colorectal,85,78,NHS Grampian
-1695,2017Q4,S08000020,Colorectal,1,1,NHS Grampian
-1707,2018Q1,S08000020,Colorectal,71,66,NHS Grampian
-1726,2018Q1,S08000020,Colorectal,1,1,NHS Grampian
-1735,2018Q2,S08000020,Colorectal,97,85,NHS Grampian
-1744,2018Q2,S08000020,Colorectal,1,1,NHS Grampian
-1749,2018Q2,S08000020,Colorectal,1,1,NHS Grampian
-1768,2018Q3,S08000020,Colorectal,87,83,NHS Grampian
-1784,2018Q3,S08000020,Colorectal,1,1,NHS Grampian
-1791,2018Q4,S08000020,Colorectal,105,99,NHS Grampian
-1803,2018Q4,S08000020,Colorectal,3,2,NHS Grampian
-1821,2019Q1,S08000020,Colorectal,101,91,NHS Grampian
-1845,2019Q1,S08000020,Colorectal,1,0,NHS Grampian
-1852,2019Q2,S08000020,Colorectal,91,90,NHS Grampian
-1861,2019Q2,S08000020,Colorectal,1,1,NHS Grampian
-1883,2019Q3,S08000020,Colorectal,98,95,NHS Grampian
-1896,2019Q3,S08000020,Colorectal,1,1,NHS Grampian
-1900,2019Q3,S08000020,Colorectal,1,1,NHS Grampian
-1913,2019Q4,S08000020,Colorectal,83,64,NHS Grampian
-1926,2019Q4,S08000020,Colorectal,2,2,NHS Grampian
-1946,2020Q1,S08000020,Colorectal,100,90,NHS Grampian
-1960,2020Q1,S08000020,Colorectal,1,0,NHS Grampian
-1977,2020Q2,S08000020,Colorectal,81,69,NHS Grampian
-1990,2020Q2,S08000020,Colorectal,1,1,NHS Grampian
-2002,2020Q3,S08000020,Colorectal,59,59,NHS Grampian
-2016,2020Q3,S08000020,Colorectal,2,2,NHS Grampian
-2032,2020Q4,S08000020,Colorectal,66,64,NHS Grampian
-2057,2021Q1,S08000020,Colorectal,73,71,NHS Grampian
-2070,2021Q1,S08000020,Colorectal,1,1,NHS Grampian
-2085,2021Q2,S08000020,Colorectal,90,83,NHS Grampian
-2104,2021Q2,S08000020,Colorectal,1,1,NHS Grampian
-2117,2021Q3,S08000020,Colorectal,93,85,NHS Grampian
-2130,2021Q3,S08000020,Colorectal,1,0,NHS Grampian
-2149,2021Q4,S08000020,Colorectal,108,99,NHS Grampian
-2174,2021Q4,S08000020,Colorectal,108,99,NHS Grampian
-2199,2022Q1,S08000020,Colorectal,82,80,NHS Grampian
-2209,2022Q1,S08000020,Colorectal,1,1,NHS Grampian
-2213,2022Q1,S08000020,Colorectal,1,1,NHS Grampian
-2230,2022Q2,S08000020,Colorectal,99,92,NHS Grampian
-2239,2022Q2,S08000020,Colorectal,2,2,NHS Grampian
-2242,2022Q2,S08000020,Colorectal,2,1,NHS Grampian
-2257,2022Q3,S08000020,Colorectal,96,87,NHS Grampian
-2266,2022Q3,S08000020,Colorectal,1,1,NHS Grampian
-2268,2022Q3,S08000020,Colorectal,1,1,NHS Grampian
-2284,2022Q4,S08000020,Colorectal,93,91,NHS Grampian
-2298,2022Q4,S08000020,Colorectal,4,3,NHS Grampian
-2313,2012Q1,S08000031,Colorectal,3,2,NHS Greater Glasgow and Clyde
-2321,2012Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2326,2012Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-2339,2012Q1,S08000031,Colorectal,182,172,NHS Greater Glasgow and Clyde
-2350,2012Q1,S08000031,Colorectal,11,10,NHS Greater Glasgow and Clyde
-2361,2012Q2,S08000031,Colorectal,7,6,NHS Greater Glasgow and Clyde
-2374,2012Q2,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
-2381,2012Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2389,2012Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2395,2012Q2,S08000031,Colorectal,218,212,NHS Greater Glasgow and Clyde
-2406,2012Q2,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
-2415,2012Q3,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
-2427,2012Q3,S08000031,Colorectal,9,8,NHS Greater Glasgow and Clyde
-2436,2012Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-2443,2012Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2447,2012Q3,S08000031,Colorectal,193,189,NHS Greater Glasgow and Clyde
-2457,2012Q3,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
-2467,2012Q4,S08000031,Colorectal,7,6,NHS Greater Glasgow and Clyde
-2478,2012Q4,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
-2486,2012Q4,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-2496,2012Q4,S08000031,Colorectal,180,174,NHS Greater Glasgow and Clyde
-2507,2012Q4,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
-2517,2013Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-2527,2013Q1,S08000031,Colorectal,5,4,NHS Greater Glasgow and Clyde
-2535,2013Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2537,2013Q1,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-2543,2013Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2549,2013Q1,S08000031,Colorectal,166,160,NHS Greater Glasgow and Clyde
-2560,2013Q1,S08000031,Colorectal,10,9,NHS Greater Glasgow and Clyde
-2570,2013Q2,S08000031,Colorectal,7,7,NHS Greater Glasgow and Clyde
-2584,2013Q2,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
-2592,2013Q2,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-2599,2013Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2605,2013Q2,S08000031,Colorectal,173,169,NHS Greater Glasgow and Clyde
-2616,2013Q2,S08000031,Colorectal,8,6,NHS Greater Glasgow and Clyde
-2627,2013Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2640,2013Q3,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-2658,2013Q3,S08000031,Colorectal,170,165,NHS Greater Glasgow and Clyde
-2669,2013Q3,S08000031,Colorectal,12,12,NHS Greater Glasgow and Clyde
-2679,2013Q4,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
-2689,2013Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2707,2013Q4,S08000031,Colorectal,178,171,NHS Greater Glasgow and Clyde
-2717,2013Q4,S08000031,Colorectal,10,10,NHS Greater Glasgow and Clyde
-2727,2014Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-2735,2014Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2741,2014Q1,S08000031,Colorectal,14,12,NHS Greater Glasgow and Clyde
-2751,2014Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2760,2014Q1,S08000031,Colorectal,194,190,NHS Greater Glasgow and Clyde
-2771,2014Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-2781,2014Q2,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
-2794,2014Q2,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-2804,2014Q2,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-2814,2014Q2,S08000031,Colorectal,204,198,NHS Greater Glasgow and Clyde
-2825,2014Q2,S08000031,Colorectal,12,11,NHS Greater Glasgow and Clyde
-2836,2014Q3,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
-2849,2014Q3,S08000031,Colorectal,6,4,NHS Greater Glasgow and Clyde
-2858,2014Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-2863,2014Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2868,2014Q3,S08000031,Colorectal,227,220,NHS Greater Glasgow and Clyde
-2879,2014Q3,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
-2890,2014Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-2902,2014Q4,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
-2911,2014Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2919,2014Q4,S08000031,Colorectal,178,175,NHS Greater Glasgow and Clyde
-2930,2014Q4,S08000031,Colorectal,11,11,NHS Greater Glasgow and Clyde
-2940,2015Q1,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
-2953,2015Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-2972,2015Q1,S08000031,Colorectal,187,185,NHS Greater Glasgow and Clyde
-2982,2015Q1,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
-2993,2015Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3008,2015Q2,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3017,2015Q2,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-3029,2015Q2,S08000031,Colorectal,182,180,NHS Greater Glasgow and Clyde
-3040,2015Q2,S08000031,Colorectal,6,5,NHS Greater Glasgow and Clyde
-3050,2015Q3,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
-3064,2015Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-3075,2015Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3079,2015Q3,S08000031,Colorectal,147,143,NHS Greater Glasgow and Clyde
-3090,2015Q3,S08000031,Colorectal,11,11,NHS Greater Glasgow and Clyde
-3099,2015Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3113,2015Q4,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
-3132,2015Q4,S08000031,Colorectal,158,155,NHS Greater Glasgow and Clyde
-3143,2015Q4,S08000031,Colorectal,10,10,NHS Greater Glasgow and Clyde
-3154,2016Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-3166,2016Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-3180,2016Q1,S08000031,Colorectal,166,161,NHS Greater Glasgow and Clyde
-3191,2016Q1,S08000031,Colorectal,12,9,NHS Greater Glasgow and Clyde
-3202,2016Q2,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
-3213,2016Q2,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3236,2016Q2,S08000031,Colorectal,171,164,NHS Greater Glasgow and Clyde
-3247,2016Q2,S08000031,Colorectal,12,11,NHS Greater Glasgow and Clyde
-3257,2016Q3,S08000031,Colorectal,7,7,NHS Greater Glasgow and Clyde
-3269,2016Q3,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-3278,2016Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3284,2016Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3290,2016Q3,S08000031,Colorectal,162,155,NHS Greater Glasgow and Clyde
-3301,2016Q3,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
-3312,2016Q4,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
-3324,2016Q4,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-3340,2016Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3345,2016Q4,S08000031,Colorectal,163,161,NHS Greater Glasgow and Clyde
-3356,2016Q4,S08000031,Colorectal,7,6,NHS Greater Glasgow and Clyde
-3365,2017Q1,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
-3378,2017Q1,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3387,2017Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3396,2017Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3403,2017Q1,S08000031,Colorectal,187,178,NHS Greater Glasgow and Clyde
-3414,2017Q1,S08000031,Colorectal,13,12,NHS Greater Glasgow and Clyde
-3424,2017Q2,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
-3437,2017Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3444,2017Q2,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3455,2017Q2,S08000031,Colorectal,186,182,NHS Greater Glasgow and Clyde
-3466,2017Q2,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
-3476,2017Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3494,2017Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-3505,2017Q3,S08000031,Colorectal,180,177,NHS Greater Glasgow and Clyde
-3516,2017Q3,S08000031,Colorectal,10,10,NHS Greater Glasgow and Clyde
-3525,2017Q4,S08000031,Colorectal,3,2,NHS Greater Glasgow and Clyde
-3539,2017Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3547,2017Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3556,2017Q4,S08000031,Colorectal,179,174,NHS Greater Glasgow and Clyde
-3567,2017Q4,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
-3578,2018Q1,S08000031,Colorectal,5,4,NHS Greater Glasgow and Clyde
-3598,2018Q1,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3603,2018Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3608,2018Q1,S08000031,Colorectal,187,182,NHS Greater Glasgow and Clyde
-3619,2018Q1,S08000031,Colorectal,13,12,NHS Greater Glasgow and Clyde
-3629,2018Q2,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3639,2018Q2,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-3646,2018Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3655,2018Q2,S08000031,Colorectal,165,161,NHS Greater Glasgow and Clyde
-3665,2018Q2,S08000031,Colorectal,13,12,NHS Greater Glasgow and Clyde
-3676,2018Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-3686,2018Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-3704,2018Q3,S08000031,Colorectal,198,191,NHS Greater Glasgow and Clyde
-3715,2018Q3,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
-3725,2018Q4,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
-3737,2018Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3744,2018Q4,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-3748,2018Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3754,2018Q4,S08000031,Colorectal,205,202,NHS Greater Glasgow and Clyde
-3765,2018Q4,S08000031,Colorectal,12,11,NHS Greater Glasgow and Clyde
-3776,2019Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3787,2019Q1,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3800,2019Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3807,2019Q1,S08000031,Colorectal,217,211,NHS Greater Glasgow and Clyde
-3818,2019Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-3829,2019Q2,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-3843,2019Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3851,2019Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3854,2019Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3859,2019Q2,S08000031,Colorectal,197,183,NHS Greater Glasgow and Clyde
-3870,2019Q2,S08000031,Colorectal,10,8,NHS Greater Glasgow and Clyde
-3881,2019Q3,S08000031,Colorectal,6,5,NHS Greater Glasgow and Clyde
-3894,2019Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-3909,2019Q3,S08000031,Colorectal,200,180,NHS Greater Glasgow and Clyde
-3920,2019Q3,S08000031,Colorectal,8,6,NHS Greater Glasgow and Clyde
-3930,2019Q4,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
-3940,2019Q4,S08000031,Colorectal,6,5,NHS Greater Glasgow and Clyde
-3947,2019Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3953,2019Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-3963,2019Q4,S08000031,Colorectal,222,212,NHS Greater Glasgow and Clyde
-3974,2019Q4,S08000031,Colorectal,3,2,NHS Greater Glasgow and Clyde
-3984,2020Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-3996,2020Q1,S08000031,Colorectal,3,1,NHS Greater Glasgow and Clyde
-4003,2020Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-4014,2020Q1,S08000031,Colorectal,197,183,NHS Greater Glasgow and Clyde
-4025,2020Q1,S08000031,Colorectal,5,4,NHS Greater Glasgow and Clyde
-4035,2020Q2,S08000031,Colorectal,7,7,NHS Greater Glasgow and Clyde
-4048,2020Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-4068,2020Q2,S08000031,Colorectal,108,102,NHS Greater Glasgow and Clyde
-4079,2020Q2,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-4088,2020Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-4105,2020Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-4116,2020Q3,S08000031,Colorectal,154,153,NHS Greater Glasgow and Clyde
-4127,2020Q3,S08000031,Colorectal,6,5,NHS Greater Glasgow and Clyde
-4137,2020Q4,S08000031,Colorectal,7,7,NHS Greater Glasgow and Clyde
-4148,2020Q4,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
-4169,2020Q4,S08000031,Colorectal,163,162,NHS Greater Glasgow and Clyde
-4179,2020Q4,S08000031,Colorectal,1,0,NHS Greater Glasgow and Clyde
-4188,2021Q1,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
-4201,2021Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-4210,2021Q1,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-4222,2021Q1,S08000031,Colorectal,176,173,NHS Greater Glasgow and Clyde
-4233,2021Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-4244,2021Q2,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
-4255,2021Q2,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
-4267,2021Q2,S08000031,Colorectal,163,161,NHS Greater Glasgow and Clyde
-4278,2021Q2,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-4288,2021Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-4301,2021Q3,S08000031,Colorectal,2,1,NHS Greater Glasgow and Clyde
-4313,2021Q3,S08000031,Colorectal,1,0,NHS Greater Glasgow and Clyde
-4320,2021Q3,S08000031,Colorectal,200,192,NHS Greater Glasgow and Clyde
-4331,2021Q3,S08000031,Colorectal,7,6,NHS Greater Glasgow and Clyde
-4340,2021Q4,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-4350,2021Q4,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
-4357,2021Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-4359,2021Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-4369,2021Q4,S08000031,Colorectal,194,188,NHS Greater Glasgow and Clyde
-4378,2021Q4,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
-4395,2021Q4,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-4405,2021Q4,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
-4412,2021Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-4414,2021Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-4424,2021Q4,S08000031,Colorectal,194,188,NHS Greater Glasgow and Clyde
-4433,2021Q4,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
-4450,2022Q1,S08000031,Colorectal,6,5,NHS Greater Glasgow and Clyde
-4456,2022Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-4460,2022Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
-4469,2022Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-4474,2022Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-4476,2022Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-4479,2022Q1,S08000031,Colorectal,215,208,NHS Greater Glasgow and Clyde
-4488,2022Q1,S08000031,Colorectal,7,3,NHS Greater Glasgow and Clyde
-4508,2022Q2,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
-4515,2022Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-4518,2022Q2,S08000031,Colorectal,8,5,NHS Greater Glasgow and Clyde
-4525,2022Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-4532,2022Q2,S08000031,Colorectal,194,191,NHS Greater Glasgow and Clyde
-4542,2022Q2,S08000031,Colorectal,9,7,NHS Greater Glasgow and Clyde
-4559,2022Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-4566,2022Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-4572,2022Q3,S08000031,Colorectal,4,2,NHS Greater Glasgow and Clyde
-4579,2022Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-4584,2022Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-4591,2022Q3,S08000031,Colorectal,214,209,NHS Greater Glasgow and Clyde
-4600,2022Q3,S08000031,Colorectal,7,5,NHS Greater Glasgow and Clyde
-4618,2022Q4,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
-4624,2022Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-4626,2022Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-4637,2022Q4,S08000031,Colorectal,239,227,NHS Greater Glasgow and Clyde
-4647,2022Q4,S08000031,Colorectal,5,3,NHS Greater Glasgow and Clyde
-4666,2012Q1,S08000016,Colorectal,18,18,NHS Borders
-4679,2012Q2,S08000016,Colorectal,22,22,NHS Borders
-4692,2012Q3,S08000016,Colorectal,17,17,NHS Borders
-4703,2012Q4,S08000016,Colorectal,15,15,NHS Borders
-4712,2013Q1,S08000016,Colorectal,13,13,NHS Borders
-4722,2013Q2,S08000016,Colorectal,16,16,NHS Borders
-4734,2013Q3,S08000016,Colorectal,31,31,NHS Borders
-4745,2013Q4,S08000016,Colorectal,21,21,NHS Borders
-4755,2014Q1,S08000016,Colorectal,18,18,NHS Borders
-4766,2014Q2,S08000016,Colorectal,22,22,NHS Borders
-4776,2014Q3,S08000016,Colorectal,21,21,NHS Borders
-4788,2014Q4,S08000016,Colorectal,12,12,NHS Borders
-4799,2015Q1,S08000016,Colorectal,20,19,NHS Borders
-4811,2015Q2,S08000016,Colorectal,16,16,NHS Borders
-4823,2015Q3,S08000016,Colorectal,17,17,NHS Borders
-4834,2015Q4,S08000016,Colorectal,16,16,NHS Borders
-4844,2016Q1,S08000016,Colorectal,14,14,NHS Borders
-4856,2016Q2,S08000016,Colorectal,16,16,NHS Borders
-4865,2016Q3,S08000016,Colorectal,18,18,NHS Borders
-4878,2016Q4,S08000016,Colorectal,20,20,NHS Borders
-4891,2017Q1,S08000016,Colorectal,21,21,NHS Borders
-4903,2017Q2,S08000016,Colorectal,11,8,NHS Borders
-4915,2017Q3,S08000016,Colorectal,18,18,NHS Borders
-4925,2017Q4,S08000016,Colorectal,11,11,NHS Borders
-4939,2018Q1,S08000016,Colorectal,23,23,NHS Borders
-4950,2018Q2,S08000016,Colorectal,15,15,NHS Borders
-4960,2018Q3,S08000016,Colorectal,14,14,NHS Borders
-4970,2018Q4,S08000016,Colorectal,12,12,NHS Borders
-4980,2019Q1,S08000016,Colorectal,25,25,NHS Borders
-4991,2019Q2,S08000016,Colorectal,18,18,NHS Borders
-5001,2019Q3,S08000016,Colorectal,15,15,NHS Borders
-5010,2019Q4,S08000016,Colorectal,21,20,NHS Borders
-5023,2020Q1,S08000016,Colorectal,12,12,NHS Borders
-5035,2020Q2,S08000016,Colorectal,25,25,NHS Borders
-5045,2020Q3,S08000016,Colorectal,16,16,NHS Borders
-5055,2020Q4,S08000016,Colorectal,10,10,NHS Borders
-5068,2021Q1,S08000016,Colorectal,19,19,NHS Borders
-5076,2021Q2,S08000016,Colorectal,22,22,NHS Borders
-5088,2021Q3,S08000016,Colorectal,13,10,NHS Borders
-5100,2021Q4,S08000016,Colorectal,25,24,NHS Borders
-5113,2021Q4,S08000016,Colorectal,25,24,NHS Borders
-5125,2022Q1,S08000016,Colorectal,10,10,NHS Borders
-5136,2022Q2,S08000016,Colorectal,11,11,NHS Borders
-5146,2022Q3,S08000016,Colorectal,17,17,NHS Borders
-5159,2022Q4,S08000016,Colorectal,17,16,NHS Borders
-5172,2012Q1,S08000024,Colorectal,2,2,NHS Lothian
-5199,2012Q1,S08000024,Colorectal,139,134,NHS Lothian
-5210,2012Q1,S08000024,Colorectal,4,4,NHS Lothian
-5232,2012Q2,S08000024,Colorectal,1,1,NHS Lothian
-5247,2012Q2,S08000024,Colorectal,119,108,NHS Lothian
-5257,2012Q2,S08000024,Colorectal,3,3,NHS Lothian
-5276,2012Q3,S08000024,Colorectal,2,2,NHS Lothian
-5285,2012Q3,S08000024,Colorectal,1,1,NHS Lothian
-5299,2012Q3,S08000024,Colorectal,104,98,NHS Lothian
-5310,2012Q3,S08000024,Colorectal,4,4,NHS Lothian
-5324,2012Q4,S08000024,Colorectal,2,2,NHS Lothian
-5333,2012Q4,S08000024,Colorectal,2,2,NHS Lothian
-5348,2012Q4,S08000024,Colorectal,145,141,NHS Lothian
-5360,2012Q4,S08000024,Colorectal,2,2,NHS Lothian
-5380,2013Q1,S08000024,Colorectal,1,1,NHS Lothian
-5389,2013Q1,S08000024,Colorectal,1,1,NHS Lothian
-5402,2013Q1,S08000024,Colorectal,139,134,NHS Lothian
-5413,2013Q1,S08000024,Colorectal,6,6,NHS Lothian
-5428,2013Q2,S08000024,Colorectal,1,1,NHS Lothian
-5438,2013Q2,S08000024,Colorectal,4,4,NHS Lothian
-5452,2013Q2,S08000024,Colorectal,118,115,NHS Lothian
-5465,2013Q2,S08000024,Colorectal,6,6,NHS Lothian
-5483,2013Q3,S08000024,Colorectal,4,4,NHS Lothian
-5491,2013Q3,S08000024,Colorectal,2,2,NHS Lothian
-5502,2013Q3,S08000024,Colorectal,1,1,NHS Lothian
-5508,2013Q3,S08000024,Colorectal,154,153,NHS Lothian
-5518,2013Q3,S08000024,Colorectal,4,4,NHS Lothian
-5529,2013Q3,S08000024,Colorectal,1,1,NHS Lothian
-5532,2013Q4,S08000024,Colorectal,3,3,NHS Lothian
-5541,2013Q4,S08000024,Colorectal,3,3,NHS Lothian
-5556,2013Q4,S08000024,Colorectal,132,131,NHS Lothian
-5567,2013Q4,S08000024,Colorectal,4,4,NHS Lothian
-5583,2014Q1,S08000024,Colorectal,6,6,NHS Lothian
-5606,2014Q1,S08000024,Colorectal,106,103,NHS Lothian
-5616,2014Q1,S08000024,Colorectal,1,1,NHS Lothian
-5658,2014Q2,S08000024,Colorectal,116,112,NHS Lothian
-5668,2014Q2,S08000024,Colorectal,7,7,NHS Lothian
-5687,2014Q3,S08000024,Colorectal,2,2,NHS Lothian
-5697,2014Q3,S08000024,Colorectal,1,1,NHS Lothian
-5704,2014Q3,S08000024,Colorectal,1,1,NHS Lothian
-5712,2014Q3,S08000024,Colorectal,104,103,NHS Lothian
-5722,2014Q3,S08000024,Colorectal,7,7,NHS Lothian
-5741,2014Q4,S08000024,Colorectal,1,1,NHS Lothian
-5760,2014Q4,S08000024,Colorectal,106,102,NHS Lothian
-5771,2014Q4,S08000024,Colorectal,3,3,NHS Lothian
-5781,2014Q4,S08000024,Colorectal,1,1,NHS Lothian
-5787,2015Q1,S08000024,Colorectal,8,8,NHS Lothian
-5796,2015Q1,S08000024,Colorectal,1,1,NHS Lothian
-5809,2015Q1,S08000024,Colorectal,78,71,NHS Lothian
-5820,2015Q1,S08000024,Colorectal,2,2,NHS Lothian
-5832,2015Q1,S08000024,Colorectal,1,1,NHS Lothian
-5839,2015Q2,S08000024,Colorectal,6,6,NHS Lothian
-5848,2015Q2,S08000024,Colorectal,2,2,NHS Lothian
-5861,2015Q2,S08000024,Colorectal,90,84,NHS Lothian
-5871,2015Q2,S08000024,Colorectal,4,4,NHS Lothian
-5895,2015Q3,S08000024,Colorectal,1,1,NHS Lothian
-5909,2015Q3,S08000024,Colorectal,98,95,NHS Lothian
-5919,2015Q3,S08000024,Colorectal,4,4,NHS Lothian
-5935,2015Q4,S08000024,Colorectal,4,4,NHS Lothian
-5944,2015Q4,S08000024,Colorectal,2,2,NHS Lothian
-5958,2015Q4,S08000024,Colorectal,103,98,NHS Lothian
-5977,2015Q4,S08000024,Colorectal,1,1,NHS Lothian
-5982,2016Q1,S08000024,Colorectal,6,6,NHS Lothian
-5988,2016Q1,S08000024,Colorectal,2,2,NHS Lothian
-6004,2016Q1,S08000024,Colorectal,108,102,NHS Lothian
-6014,2016Q1,S08000024,Colorectal,3,3,NHS Lothian
-6028,2016Q2,S08000024,Colorectal,3,3,NHS Lothian
-6037,2016Q2,S08000024,Colorectal,2,2,NHS Lothian
-6052,2016Q2,S08000024,Colorectal,76,72,NHS Lothian
-6062,2016Q2,S08000024,Colorectal,4,4,NHS Lothian
-6072,2016Q2,S08000024,Colorectal,1,1,NHS Lothian
-6075,2016Q3,S08000024,Colorectal,2,2,NHS Lothian
-6085,2016Q3,S08000024,Colorectal,2,2,NHS Lothian
-6101,2016Q3,S08000024,Colorectal,65,59,NHS Lothian
-6111,2016Q3,S08000024,Colorectal,6,6,NHS Lothian
-6123,2016Q3,S08000024,Colorectal,2,1,NHS Lothian
-6129,2016Q4,S08000024,Colorectal,2,2,NHS Lothian
-6137,2016Q4,S08000024,Colorectal,1,1,NHS Lothian
-6151,2016Q4,S08000024,Colorectal,105,95,NHS Lothian
-6162,2016Q4,S08000024,Colorectal,5,5,NHS Lothian
-6178,2017Q1,S08000024,Colorectal,5,5,NHS Lothian
-6185,2017Q1,S08000024,Colorectal,3,3,NHS Lothian
-6201,2017Q1,S08000024,Colorectal,103,97,NHS Lothian
-6212,2017Q1,S08000024,Colorectal,8,8,NHS Lothian
-6222,2017Q1,S08000024,Colorectal,2,2,NHS Lothian
-6228,2017Q2,S08000024,Colorectal,2,2,NHS Lothian
-6236,2017Q2,S08000024,Colorectal,3,3,NHS Lothian
-6252,2017Q2,S08000024,Colorectal,108,99,NHS Lothian
-6264,2017Q2,S08000024,Colorectal,2,2,NHS Lothian
-6278,2017Q3,S08000024,Colorectal,1,1,NHS Lothian
-6287,2017Q3,S08000024,Colorectal,1,1,NHS Lothian
-6301,2017Q3,S08000024,Colorectal,107,96,NHS Lothian
-6312,2017Q3,S08000024,Colorectal,2,2,NHS Lothian
-6323,2017Q3,S08000024,Colorectal,1,1,NHS Lothian
-6326,2017Q3,S08000024,Colorectal,1,1,NHS Lothian
-6329,2017Q4,S08000024,Colorectal,4,4,NHS Lothian
-6337,2017Q4,S08000024,Colorectal,2,2,NHS Lothian
-6352,2017Q4,S08000024,Colorectal,107,101,NHS Lothian
-6363,2017Q4,S08000024,Colorectal,5,5,NHS Lothian
-6374,2017Q4,S08000024,Colorectal,1,1,NHS Lothian
-6381,2018Q1,S08000024,Colorectal,8,8,NHS Lothian
-6390,2018Q1,S08000024,Colorectal,4,3,NHS Lothian
-6403,2018Q1,S08000024,Colorectal,101,95,NHS Lothian
-6413,2018Q1,S08000024,Colorectal,4,4,NHS Lothian
-6424,2018Q2,S08000024,Colorectal,4,4,NHS Lothian
-6432,2018Q2,S08000024,Colorectal,1,1,NHS Lothian
-6446,2018Q2,S08000024,Colorectal,116,111,NHS Lothian
-6456,2018Q2,S08000024,Colorectal,5,5,NHS Lothian
-6471,2018Q3,S08000024,Colorectal,6,6,NHS Lothian
-6480,2018Q3,S08000024,Colorectal,3,3,NHS Lothian
-6495,2018Q3,S08000024,Colorectal,109,102,NHS Lothian
-6506,2018Q3,S08000024,Colorectal,9,9,NHS Lothian
-6521,2018Q4,S08000024,Colorectal,5,4,NHS Lothian
-6530,2018Q4,S08000024,Colorectal,1,1,NHS Lothian
-6545,2018Q4,S08000024,Colorectal,107,91,NHS Lothian
-6555,2018Q4,S08000024,Colorectal,6,6,NHS Lothian
-6569,2019Q1,S08000024,Colorectal,1,1,NHS Lothian
-6578,2019Q1,S08000024,Colorectal,3,3,NHS Lothian
-6595,2019Q1,S08000024,Colorectal,102,91,NHS Lothian
-6606,2019Q1,S08000024,Colorectal,9,9,NHS Lothian
-6616,2019Q1,S08000024,Colorectal,1,1,NHS Lothian
-6621,2019Q2,S08000024,Colorectal,1,1,NHS Lothian
-6629,2019Q2,S08000024,Colorectal,2,2,NHS Lothian
-6643,2019Q2,S08000024,Colorectal,107,84,NHS Lothian
-6654,2019Q2,S08000024,Colorectal,7,7,NHS Lothian
-6667,2019Q3,S08000024,Colorectal,2,2,NHS Lothian
-6677,2019Q3,S08000024,Colorectal,1,1,NHS Lothian
-6694,2019Q3,S08000024,Colorectal,116,93,NHS Lothian
-6705,2019Q3,S08000024,Colorectal,5,5,NHS Lothian
-6719,2019Q3,S08000024,Colorectal,1,1,NHS Lothian
-6724,2019Q4,S08000024,Colorectal,2,2,NHS Lothian
-6732,2019Q4,S08000024,Colorectal,1,1,NHS Lothian
-6748,2019Q4,S08000024,Colorectal,122,103,NHS Lothian
-6759,2019Q4,S08000024,Colorectal,1,1,NHS Lothian
-6773,2020Q1,S08000024,Colorectal,2,2,NHS Lothian
-6781,2020Q1,S08000024,Colorectal,1,1,NHS Lothian
-6797,2020Q1,S08000024,Colorectal,122,102,NHS Lothian
-6806,2020Q1,S08000024,Colorectal,7,7,NHS Lothian
-6822,2020Q2,S08000024,Colorectal,6,5,NHS Lothian
-6829,2020Q2,S08000024,Colorectal,2,2,NHS Lothian
-6844,2020Q2,S08000024,Colorectal,105,96,NHS Lothian
-6856,2020Q2,S08000024,Colorectal,5,5,NHS Lothian
-6870,2020Q3,S08000024,Colorectal,4,4,NHS Lothian
-6879,2020Q3,S08000024,Colorectal,1,1,NHS Lothian
-6889,2020Q3,S08000024,Colorectal,1,1,NHS Lothian
-6894,2020Q3,S08000024,Colorectal,95,92,NHS Lothian
-6904,2020Q3,S08000024,Colorectal,4,4,NHS Lothian
-6920,2020Q4,S08000024,Colorectal,1,1,NHS Lothian
-6930,2020Q4,S08000024,Colorectal,6,5,NHS Lothian
-6944,2020Q4,S08000024,Colorectal,109,107,NHS Lothian
-6957,2020Q4,S08000024,Colorectal,4,4,NHS Lothian
-6969,2021Q1,S08000024,Colorectal,3,3,NHS Lothian
-6977,2021Q1,S08000024,Colorectal,1,1,NHS Lothian
-6996,2021Q1,S08000024,Colorectal,119,117,NHS Lothian
-7006,2021Q1,S08000024,Colorectal,4,4,NHS Lothian
-7025,2021Q2,S08000024,Colorectal,3,3,NHS Lothian
-7042,2021Q2,S08000024,Colorectal,125,123,NHS Lothian
-7054,2021Q2,S08000024,Colorectal,7,7,NHS Lothian
-7077,2021Q3,S08000024,Colorectal,2,2,NHS Lothian
-7083,2021Q3,S08000024,Colorectal,1,1,NHS Lothian
-7094,2021Q3,S08000024,Colorectal,149,142,NHS Lothian
-7104,2021Q3,S08000024,Colorectal,4,4,NHS Lothian
-7119,2021Q4,S08000024,Colorectal,3,3,NHS Lothian
-7128,2021Q4,S08000024,Colorectal,1,1,NHS Lothian
-7140,2021Q4,S08000024,Colorectal,150,141,NHS Lothian
-7150,2021Q4,S08000024,Colorectal,1,1,NHS Lothian
-7171,2021Q4,S08000024,Colorectal,3,3,NHS Lothian
-7180,2021Q4,S08000024,Colorectal,1,1,NHS Lothian
-7192,2021Q4,S08000024,Colorectal,150,141,NHS Lothian
-7202,2021Q4,S08000024,Colorectal,1,1,NHS Lothian
-7228,2022Q1,S08000024,Colorectal,2,2,NHS Lothian
-7239,2022Q1,S08000024,Colorectal,110,100,NHS Lothian
-7250,2022Q1,S08000024,Colorectal,6,5,NHS Lothian
-7258,2022Q1,S08000024,Colorectal,1,1,NHS Lothian
-7275,2022Q2,S08000024,Colorectal,4,4,NHS Lothian
-7294,2022Q2,S08000024,Colorectal,127,121,NHS Lothian
-7305,2022Q2,S08000024,Colorectal,5,5,NHS Lothian
-7325,2022Q3,S08000024,Colorectal,2,2,NHS Lothian
-7334,2022Q3,S08000024,Colorectal,3,3,NHS Lothian
-7344,2022Q3,S08000024,Colorectal,102,91,NHS Lothian
-7354,2022Q3,S08000024,Colorectal,5,5,NHS Lothian
-7362,2022Q3,S08000024,Colorectal,1,1,NHS Lothian
-7374,2022Q4,S08000024,Colorectal,2,2,NHS Lothian
-7380,2022Q4,S08000024,Colorectal,3,2,NHS Lothian
-7387,2022Q4,S08000024,Colorectal,1,1,NHS Lothian
-7393,2022Q4,S08000024,Colorectal,132,119,NHS Lothian
-7403,2022Q4,S08000024,Colorectal,4,4,NHS Lothian
-7426,2012Q1,S08000019,Colorectal,43,42,NHS Forth Valley
-7439,2012Q2,S08000019,Colorectal,49,47,NHS Forth Valley
-7456,2012Q3,S08000019,Colorectal,31,28,NHS Forth Valley
-7468,2012Q4,S08000019,Colorectal,48,46,NHS Forth Valley
-7480,2013Q1,S08000019,Colorectal,53,51,NHS Forth Valley
-7490,2013Q2,S08000019,Colorectal,45,42,NHS Forth Valley
-7503,2013Q3,S08000019,Colorectal,31,31,NHS Forth Valley
-7516,2013Q4,S08000019,Colorectal,28,27,NHS Forth Valley
-7531,2014Q1,S08000019,Colorectal,34,32,NHS Forth Valley
-7546,2014Q2,S08000019,Colorectal,32,32,NHS Forth Valley
-7559,2014Q3,S08000019,Colorectal,36,35,NHS Forth Valley
-7572,2014Q4,S08000019,Colorectal,40,40,NHS Forth Valley
-7587,2015Q1,S08000019,Colorectal,38,37,NHS Forth Valley
-7602,2015Q2,S08000019,Colorectal,47,46,NHS Forth Valley
-7614,2015Q3,S08000019,Colorectal,36,36,NHS Forth Valley
-7626,2015Q4,S08000019,Colorectal,33,31,NHS Forth Valley
-7639,2016Q1,S08000019,Colorectal,44,42,NHS Forth Valley
-7651,2016Q2,S08000019,Colorectal,34,33,NHS Forth Valley
-7664,2016Q3,S08000019,Colorectal,33,30,NHS Forth Valley
-7677,2016Q4,S08000019,Colorectal,49,49,NHS Forth Valley
-7691,2017Q1,S08000019,Colorectal,45,45,NHS Forth Valley
-7703,2017Q1,S08000019,Colorectal,1,1,NHS Forth Valley
-7709,2017Q2,S08000019,Colorectal,52,51,NHS Forth Valley
-7722,2017Q3,S08000019,Colorectal,49,45,NHS Forth Valley
-7734,2017Q4,S08000019,Colorectal,35,35,NHS Forth Valley
-7747,2018Q1,S08000019,Colorectal,43,40,NHS Forth Valley
-7760,2018Q2,S08000019,Colorectal,52,48,NHS Forth Valley
-7773,2018Q3,S08000019,Colorectal,51,46,NHS Forth Valley
-7786,2018Q4,S08000019,Colorectal,42,42,NHS Forth Valley
-7799,2019Q1,S08000019,Colorectal,46,42,NHS Forth Valley
-7814,2019Q2,S08000019,Colorectal,47,42,NHS Forth Valley
-7826,2019Q3,S08000019,Colorectal,42,41,NHS Forth Valley
-7841,2019Q4,S08000019,Colorectal,46,45,NHS Forth Valley
-7856,2020Q1,S08000019,Colorectal,60,59,NHS Forth Valley
-7871,2020Q2,S08000019,Colorectal,26,25,NHS Forth Valley
-7885,2020Q3,S08000019,Colorectal,24,23,NHS Forth Valley
-7896,2020Q4,S08000019,Colorectal,42,42,NHS Forth Valley
-7910,2021Q1,S08000019,Colorectal,48,48,NHS Forth Valley
-7924,2021Q2,S08000019,Colorectal,45,43,NHS Forth Valley
-7937,2021Q3,S08000019,Colorectal,50,49,NHS Forth Valley
-7947,2021Q4,S08000019,Colorectal,43,43,NHS Forth Valley
-7960,2021Q4,S08000019,Colorectal,43,43,NHS Forth Valley
-7973,2022Q1,S08000019,Colorectal,61,59,NHS Forth Valley
-7985,2022Q2,S08000019,Colorectal,46,46,NHS Forth Valley
-7999,2022Q3,S08000019,Colorectal,36,35,NHS Forth Valley
-8014,2022Q4,S08000019,Colorectal,38,34,NHS Forth Valley
-8030,2012Q1,S08000022,Colorectal,38,36,NHS Highland
-8039,2012Q1,S08000022,Colorectal,2,2,NHS Highland
-8044,2012Q1,S08000022,Colorectal,2,2,NHS Highland
-8050,2012Q2,S08000022,Colorectal,45,45,NHS Highland
-8059,2012Q2,S08000022,Colorectal,3,3,NHS Highland
-8064,2012Q2,S08000022,Colorectal,2,2,NHS Highland
-8069,2012Q3,S08000022,Colorectal,37,36,NHS Highland
-8078,2012Q3,S08000022,Colorectal,2,1,NHS Highland
-8084,2012Q4,S08000022,Colorectal,48,45,NHS Highland
-8093,2012Q4,S08000022,Colorectal,2,1,NHS Highland
-8100,2012Q4,S08000022,Colorectal,3,3,NHS Highland
-8106,2013Q1,S08000022,Colorectal,55,52,NHS Highland
-8115,2013Q1,S08000022,Colorectal,1,1,NHS Highland
-8117,2013Q1,S08000022,Colorectal,1,1,NHS Highland
-8125,2013Q2,S08000022,Colorectal,51,51,NHS Highland
-8134,2013Q2,S08000022,Colorectal,4,4,NHS Highland
-8143,2013Q3,S08000022,Colorectal,56,54,NHS Highland
-8152,2013Q3,S08000022,Colorectal,1,1,NHS Highland
-8159,2013Q3,S08000022,Colorectal,1,1,NHS Highland
-8166,2013Q4,S08000022,Colorectal,48,48,NHS Highland
-8175,2013Q4,S08000022,Colorectal,1,1,NHS Highland
-8184,2014Q1,S08000022,Colorectal,42,42,NHS Highland
-8193,2014Q1,S08000022,Colorectal,2,2,NHS Highland
-8205,2014Q2,S08000022,Colorectal,42,40,NHS Highland
-8214,2014Q2,S08000022,Colorectal,5,5,NHS Highland
-8222,2014Q2,S08000022,Colorectal,1,1,NHS Highland
-8228,2014Q3,S08000022,Colorectal,36,36,NHS Highland
-8238,2014Q3,S08000022,Colorectal,1,1,NHS Highland
-8242,2014Q3,S08000022,Colorectal,3,3,NHS Highland
-8246,2014Q4,S08000022,Colorectal,37,36,NHS Highland
-8255,2014Q4,S08000022,Colorectal,3,3,NHS Highland
-8259,2014Q4,S08000022,Colorectal,1,1,NHS Highland
-8263,2015Q1,S08000022,Colorectal,1,1,NHS Highland
-8268,2015Q1,S08000022,Colorectal,40,40,NHS Highland
-8277,2015Q1,S08000022,Colorectal,2,2,NHS Highland
-8288,2015Q2,S08000022,Colorectal,53,51,NHS Highland
-8297,2015Q2,S08000022,Colorectal,3,2,NHS Highland
-8304,2015Q3,S08000022,Colorectal,46,44,NHS Highland
-8313,2015Q3,S08000022,Colorectal,2,2,NHS Highland
-8323,2015Q4,S08000022,Colorectal,1,1,NHS Highland
-8329,2015Q4,S08000022,Colorectal,48,46,NHS Highland
-8338,2015Q4,S08000022,Colorectal,1,1,NHS Highland
-8344,2016Q1,S08000022,Colorectal,48,45,NHS Highland
-8353,2016Q1,S08000022,Colorectal,6,5,NHS Highland
-8360,2016Q2,S08000022,Colorectal,49,47,NHS Highland
-8369,2016Q2,S08000022,Colorectal,1,1,NHS Highland
-8375,2016Q2,S08000022,Colorectal,1,1,NHS Highland
-8386,2016Q3,S08000022,Colorectal,39,38,NHS Highland
-8395,2016Q3,S08000022,Colorectal,2,2,NHS Highland
-8402,2016Q4,S08000022,Colorectal,38,37,NHS Highland
-8411,2016Q4,S08000022,Colorectal,3,3,NHS Highland
-8420,2017Q1,S08000022,Colorectal,44,42,NHS Highland
-8430,2017Q1,S08000022,Colorectal,1,1,NHS Highland
-8441,2017Q2,S08000022,Colorectal,64,62,NHS Highland
-8453,2017Q2,S08000022,Colorectal,1,1,NHS Highland
-8461,2017Q3,S08000022,Colorectal,35,32,NHS Highland
-8470,2017Q3,S08000022,Colorectal,5,4,NHS Highland
-8482,2017Q4,S08000022,Colorectal,38,36,NHS Highland
-8493,2017Q4,S08000022,Colorectal,4,3,NHS Highland
-8500,2018Q1,S08000022,Colorectal,1,1,NHS Highland
-8505,2018Q1,S08000022,Colorectal,43,40,NHS Highland
-8516,2018Q1,S08000022,Colorectal,6,5,NHS Highland
-8526,2018Q2,S08000022,Colorectal,47,42,NHS Highland
-8544,2018Q3,S08000022,Colorectal,47,47,NHS Highland
-8555,2018Q3,S08000022,Colorectal,5,3,NHS Highland
-8567,2018Q4,S08000022,Colorectal,45,44,NHS Highland
-8577,2018Q4,S08000022,Colorectal,2,1,NHS Highland
-8585,2019Q1,S08000022,Colorectal,53,51,NHS Highland
-8596,2019Q1,S08000022,Colorectal,2,0,NHS Highland
-8602,2019Q2,S08000022,Colorectal,1,1,NHS Highland
-8607,2019Q2,S08000022,Colorectal,65,57,NHS Highland
-8616,2019Q2,S08000022,Colorectal,5,5,NHS Highland
-8624,2019Q3,S08000022,Colorectal,1,1,NHS Highland
-8629,2019Q3,S08000022,Colorectal,57,51,NHS Highland
-8638,2019Q3,S08000022,Colorectal,6,5,NHS Highland
-8646,2019Q3,S08000022,Colorectal,1,1,NHS Highland
-8650,2019Q4,S08000022,Colorectal,54,53,NHS Highland
-8659,2019Q4,S08000022,Colorectal,1,1,NHS Highland
-8666,2020Q1,S08000022,Colorectal,2,2,NHS Highland
-8671,2020Q1,S08000022,Colorectal,47,45,NHS Highland
-8680,2020Q1,S08000022,Colorectal,6,5,NHS Highland
-8692,2020Q2,S08000022,Colorectal,36,35,NHS Highland
-8701,2020Q2,S08000022,Colorectal,2,1,NHS Highland
-8712,2020Q3,S08000022,Colorectal,25,24,NHS Highland
-8721,2020Q3,S08000022,Colorectal,1,1,NHS Highland
-8730,2020Q4,S08000022,Colorectal,50,48,NHS Highland
-8739,2020Q4,S08000022,Colorectal,4,4,NHS Highland
-8749,2021Q1,S08000022,Colorectal,52,46,NHS Highland
-8758,2021Q1,S08000022,Colorectal,3,3,NHS Highland
-8770,2021Q2,S08000022,Colorectal,58,57,NHS Highland
-8779,2021Q2,S08000022,Colorectal,5,5,NHS Highland
-8789,2021Q3,S08000022,Colorectal,58,55,NHS Highland
-8798,2021Q3,S08000022,Colorectal,7,7,NHS Highland
-8806,2021Q4,S08000022,Colorectal,58,57,NHS Highland
-8814,2021Q4,S08000022,Colorectal,8,7,NHS Highland
-8821,2021Q4,S08000022,Colorectal,58,57,NHS Highland
-8829,2021Q4,S08000022,Colorectal,8,7,NHS Highland
-8837,2022Q1,S08000022,Colorectal,49,48,NHS Highland
-8845,2022Q1,S08000022,Colorectal,5,5,NHS Highland
-8853,2022Q2,S08000022,Colorectal,52,50,NHS Highland
-8861,2022Q2,S08000022,Colorectal,5,5,NHS Highland
-8872,2022Q3,S08000022,Colorectal,54,54,NHS Highland
-8880,2022Q3,S08000022,Colorectal,3,2,NHS Highland
-8891,2022Q4,S08000022,Colorectal,54,53,NHS Highland
-8899,2022Q4,S08000022,Colorectal,4,3,NHS Highland
-8913,2012Q1,S08000029,Colorectal,42,42,NHS Fife
-8925,2012Q2,S08000029,Colorectal,48,48,NHS Fife
-8936,2012Q3,S08000029,Colorectal,58,57,NHS Fife
-8951,2012Q4,S08000029,Colorectal,43,43,NHS Fife
-8964,2013Q1,S08000029,Colorectal,40,40,NHS Fife
-8977,2013Q2,S08000029,Colorectal,49,49,NHS Fife
-8990,2013Q3,S08000029,Colorectal,47,46,NHS Fife
-9002,2013Q4,S08000029,Colorectal,42,42,NHS Fife
-9015,2014Q1,S08000029,Colorectal,60,60,NHS Fife
-9026,2014Q2,S08000029,Colorectal,43,42,NHS Fife
-9039,2014Q3,S08000029,Colorectal,47,47,NHS Fife
-9053,2014Q4,S08000029,Colorectal,54,54,NHS Fife
-9065,2015Q1,S08000029,Colorectal,37,37,NHS Fife
-9078,2015Q2,S08000029,Colorectal,46,46,NHS Fife
-9091,2015Q3,S08000029,Colorectal,44,42,NHS Fife
-9100,2015Q3,S08000029,Colorectal,1,1,NHS Fife
-9106,2015Q4,S08000029,Colorectal,49,48,NHS Fife
-9119,2016Q1,S08000029,Colorectal,41,41,NHS Fife
-9134,2016Q2,S08000029,Colorectal,39,39,NHS Fife
-9146,2016Q3,S08000029,Colorectal,49,48,NHS Fife
-9159,2016Q4,S08000029,Colorectal,45,45,NHS Fife
-9172,2017Q1,S08000029,Colorectal,44,44,NHS Fife
-9185,2017Q2,S08000029,Colorectal,39,39,NHS Fife
-9198,2017Q3,S08000029,Colorectal,51,51,NHS Fife
-9209,2017Q4,S08000029,Colorectal,51,51,NHS Fife
-9222,2018Q1,S08000029,Colorectal,46,46,NHS Fife
-9235,2018Q2,S08000029,Colorectal,41,41,NHS Fife
-9250,2018Q3,S08000029,Colorectal,53,53,NHS Fife
-9263,2018Q4,S08000029,Colorectal,70,70,NHS Fife
-9274,2019Q1,S08000029,Colorectal,63,61,NHS Fife
-9287,2019Q2,S08000029,Colorectal,58,57,NHS Fife
-9300,2019Q3,S08000029,Colorectal,59,59,NHS Fife
-9314,2019Q4,S08000029,Colorectal,55,55,NHS Fife
-9327,2020Q1,S08000029,Colorectal,54,52,NHS Fife
-9340,2020Q2,S08000029,Colorectal,35,33,NHS Fife
-9351,2020Q3,S08000029,Colorectal,42,42,NHS Fife
-9364,2020Q4,S08000029,Colorectal,40,40,NHS Fife
-9377,2021Q1,S08000029,Colorectal,47,47,NHS Fife
-9390,2021Q2,S08000029,Colorectal,49,49,NHS Fife
-9403,2021Q3,S08000029,Colorectal,59,59,NHS Fife
-9413,2021Q4,S08000029,Colorectal,52,52,NHS Fife
-9425,2021Q4,S08000029,Colorectal,52,52,NHS Fife
-9438,2022Q1,S08000029,Colorectal,42,42,NHS Fife
-9452,2022Q2,S08000029,Colorectal,53,52,NHS Fife
-9464,2022Q3,S08000029,Colorectal,68,68,NHS Fife
-9476,2022Q4,S08000029,Colorectal,49,49,NHS Fife
-9497,2012Q1,S08000030,Colorectal,77,75,NHS Tayside
-9511,2012Q2,S08000030,Colorectal,68,68,NHS Tayside
-9528,2012Q3,S08000030,Colorectal,70,70,NHS Tayside
-9543,2012Q4,S08000030,Colorectal,65,63,NHS Tayside
-9554,2013Q1,S08000030,Colorectal,1,1,NHS Tayside
-9561,2013Q1,S08000030,Colorectal,66,66,NHS Tayside
-9572,2013Q2,S08000030,Colorectal,1,1,NHS Tayside
-9578,2013Q2,S08000030,Colorectal,67,67,NHS Tayside
-9589,2013Q3,S08000030,Colorectal,1,1,NHS Tayside
-9596,2013Q3,S08000030,Colorectal,77,72,NHS Tayside
-9614,2013Q4,S08000030,Colorectal,86,85,NHS Tayside
-9627,2014Q1,S08000030,Colorectal,79,74,NHS Tayside
-9644,2014Q2,S08000030,Colorectal,76,76,NHS Tayside
-9652,2014Q3,S08000030,Colorectal,1,1,NHS Tayside
-9658,2014Q3,S08000030,Colorectal,73,71,NHS Tayside
-9670,2014Q4,S08000030,Colorectal,85,85,NHS Tayside
-9679,2015Q1,S08000030,Colorectal,1,1,NHS Tayside
-9687,2015Q1,S08000030,Colorectal,68,67,NHS Tayside
-9704,2015Q2,S08000030,Colorectal,70,70,NHS Tayside
-9718,2015Q3,S08000030,Colorectal,78,76,NHS Tayside
-9735,2015Q4,S08000030,Colorectal,87,86,NHS Tayside
-9744,2016Q1,S08000030,Colorectal,1,1,NHS Tayside
-9755,2016Q1,S08000030,Colorectal,63,62,NHS Tayside
-9774,2016Q2,S08000030,Colorectal,82,80,NHS Tayside
-9783,2016Q2,S08000030,Colorectal,1,1,NHS Tayside
-9794,2016Q3,S08000030,Colorectal,72,69,NHS Tayside
-9803,2016Q4,S08000030,Colorectal,1,1,NHS Tayside
-9813,2016Q4,S08000030,Colorectal,96,92,NHS Tayside
-9828,2017Q1,S08000030,Colorectal,75,71,NHS Tayside
-9846,2017Q2,S08000030,Colorectal,84,81,NHS Tayside
-9857,2017Q3,S08000030,Colorectal,1,1,NHS Tayside
-9865,2017Q3,S08000030,Colorectal,61,59,NHS Tayside
-9883,2017Q4,S08000030,Colorectal,63,61,NHS Tayside
-9901,2018Q1,S08000030,Colorectal,91,90,NHS Tayside
-9919,2018Q2,S08000030,Colorectal,79,79,NHS Tayside
-9930,2018Q3,S08000030,Colorectal,1,1,NHS Tayside
-9937,2018Q3,S08000030,Colorectal,67,64,NHS Tayside
-9955,2018Q4,S08000030,Colorectal,78,75,NHS Tayside
-9973,2019Q1,S08000030,Colorectal,62,61,NHS Tayside
-9991,2019Q2,S08000030,Colorectal,73,73,NHS Tayside
-10011,2019Q3,S08000030,Colorectal,66,66,NHS Tayside
-10028,2019Q4,S08000030,Colorectal,70,70,NHS Tayside
-10045,2020Q1,S08000030,Colorectal,84,84,NHS Tayside
-10063,2020Q2,S08000030,Colorectal,57,56,NHS Tayside
-10080,2020Q3,S08000030,Colorectal,68,68,NHS Tayside
-10095,2020Q4,S08000030,Colorectal,61,61,NHS Tayside
-10111,2021Q1,S08000030,Colorectal,47,45,NHS Tayside
-10126,2021Q2,S08000030,Colorectal,85,85,NHS Tayside
-10144,2021Q3,S08000030,Colorectal,61,61,NHS Tayside
-10158,2021Q4,S08000030,Colorectal,84,82,NHS Tayside
-10175,2021Q4,S08000030,Colorectal,84,82,NHS Tayside
-10192,2022Q1,S08000030,Colorectal,67,66,NHS Tayside
-10209,2022Q2,S08000030,Colorectal,77,77,NHS Tayside
-10225,2022Q3,S08000030,Colorectal,71,70,NHS Tayside
-10242,2022Q4,S08000030,Colorectal,88,84,NHS Tayside
-10254,2012Q1,S08000025,Colorectal,2,2,NHS Orkney
-10265,2012Q3,S08000025,Colorectal,1,1,NHS Orkney
-10268,2012Q4,S08000025,Colorectal,1,1,NHS Orkney
-10272,2013Q1,S08000025,Colorectal,1,1,NHS Orkney
-10275,2013Q2,S08000025,Colorectal,1,1,NHS Orkney
-10280,2013Q3,S08000025,Colorectal,1,1,NHS Orkney
-10284,2013Q4,S08000025,Colorectal,1,1,NHS Orkney
-10288,2014Q1,S08000025,Colorectal,1,1,NHS Orkney
-10291,2014Q2,S08000025,Colorectal,1,1,NHS Orkney
-10295,2014Q3,S08000025,Colorectal,1,1,NHS Orkney
-10299,2014Q4,S08000025,Colorectal,1,1,NHS Orkney
-10308,2015Q1,S08000025,Colorectal,1,1,NHS Orkney
-10310,2015Q2,S08000025,Colorectal,3,3,NHS Orkney
-10317,2015Q3,S08000025,Colorectal,2,2,NHS Orkney
-10329,2016Q2,S08000025,Colorectal,3,3,NHS Orkney
-10336,2016Q3,S08000025,Colorectal,2,2,NHS Orkney
-10341,2016Q4,S08000025,Colorectal,2,2,NHS Orkney
-10345,2017Q1,S08000025,Colorectal,4,4,NHS Orkney
-10352,2017Q2,S08000025,Colorectal,1,1,NHS Orkney
-10360,2017Q3,S08000025,Colorectal,1,1,NHS Orkney
-10363,2017Q4,S08000025,Colorectal,2,2,NHS Orkney
-10365,2018Q1,S08000025,Colorectal,4,4,NHS Orkney
-10373,2018Q2,S08000025,Colorectal,2,2,NHS Orkney
-10375,2018Q3,S08000025,Colorectal,2,2,NHS Orkney
-10382,2018Q4,S08000025,Colorectal,3,2,NHS Orkney
-10389,2019Q1,S08000025,Colorectal,3,3,NHS Orkney
-10394,2019Q2,S08000025,Colorectal,4,4,NHS Orkney
-10401,2019Q3,S08000025,Colorectal,1,1,NHS Orkney
-10405,2019Q4,S08000025,Colorectal,7,7,NHS Orkney
-10411,2020Q1,S08000025,Colorectal,1,1,NHS Orkney
-10421,2020Q3,S08000025,Colorectal,6,6,NHS Orkney
-10430,2020Q4,S08000025,Colorectal,4,4,NHS Orkney
-10437,2021Q1,S08000025,Colorectal,2,2,NHS Orkney
-10441,2021Q2,S08000025,Colorectal,2,2,NHS Orkney
-10452,2021Q4,S08000025,Colorectal,2,2,NHS Orkney
-10459,2021Q4,S08000025,Colorectal,2,2,NHS Orkney
-10465,2022Q1,S08000025,Colorectal,2,2,NHS Orkney
-10472,2022Q2,S08000025,Colorectal,2,2,NHS Orkney
-10477,2022Q3,S08000025,Colorectal,2,2,NHS Orkney
-10484,2022Q4,S08000025,Colorectal,2,2,NHS Orkney
-10493,2012Q1,S08000026,Colorectal,5,5,NHS Shetland
-10501,2012Q2,S08000026,Colorectal,2,2,NHS Shetland
-10511,2012Q4,S08000026,Colorectal,13,13,NHS Shetland
-10525,2013Q2,S08000026,Colorectal,7,7,NHS Shetland
-10532,2013Q3,S08000026,Colorectal,3,3,NHS Shetland
-10540,2013Q4,S08000026,Colorectal,6,6,NHS Shetland
-10546,2014Q1,S08000026,Colorectal,3,3,NHS Shetland
-10555,2014Q2,S08000026,Colorectal,3,3,NHS Shetland
-10561,2014Q3,S08000026,Colorectal,3,3,NHS Shetland
-10567,2014Q4,S08000026,Colorectal,4,4,NHS Shetland
-10573,2015Q1,S08000026,Colorectal,2,2,NHS Shetland
-10589,2015Q3,S08000026,Colorectal,4,4,NHS Shetland
-10594,2015Q4,S08000026,Colorectal,1,1,NHS Shetland
-10599,2016Q1,S08000026,Colorectal,2,2,NHS Shetland
-10609,2016Q2,S08000026,Colorectal,2,2,NHS Shetland
-10616,2016Q3,S08000026,Colorectal,2,2,NHS Shetland
-10624,2016Q4,S08000026,Colorectal,6,6,NHS Shetland
-10631,2017Q1,S08000026,Colorectal,4,4,NHS Shetland
-10638,2017Q2,S08000026,Colorectal,4,4,NHS Shetland
-10643,2017Q3,S08000026,Colorectal,1,1,NHS Shetland
-10655,2018Q1,S08000026,Colorectal,6,6,NHS Shetland
-10663,2018Q2,S08000026,Colorectal,1,1,NHS Shetland
-10669,2018Q3,S08000026,Colorectal,1,1,NHS Shetland
-10674,2018Q3,S08000026,Colorectal,1,1,NHS Shetland
-10684,2018Q4,S08000026,Colorectal,5,5,NHS Shetland
-10692,2019Q1,S08000026,Colorectal,3,3,NHS Shetland
-10699,2019Q2,S08000026,Colorectal,3,3,NHS Shetland
-10710,2019Q3,S08000026,Colorectal,5,5,NHS Shetland
-10716,2019Q4,S08000026,Colorectal,1,1,NHS Shetland
-10719,2019Q4,S08000026,Colorectal,3,3,NHS Shetland
-10728,2020Q1,S08000026,Colorectal,1,1,NHS Shetland
-10733,2020Q2,S08000026,Colorectal,1,1,NHS Shetland
-10740,2020Q3,S08000026,Colorectal,2,2,NHS Shetland
-10750,2020Q4,S08000026,Colorectal,1,1,NHS Shetland
-10757,2021Q1,S08000026,Colorectal,2,2,NHS Shetland
-10763,2021Q2,S08000026,Colorectal,2,2,NHS Shetland
-10768,2021Q3,S08000026,Colorectal,7,7,NHS Shetland
-10772,2021Q4,S08000026,Colorectal,1,1,NHS Shetland
-10780,2021Q4,S08000026,Colorectal,1,1,NHS Shetland
-10788,2022Q1,S08000026,Colorectal,3,3,NHS Shetland
-10797,2022Q2,S08000026,Colorectal,3,3,NHS Shetland
-10806,2022Q3,S08000026,Colorectal,3,3,NHS Shetland
-10815,2022Q4,S08000026,Colorectal,3,3,NHS Shetland
-10822,2012Q1,S08000028,Colorectal,5,5,NHS Western Isles
-10829,2012Q2,S08000028,Colorectal,4,4,NHS Western Isles
-10834,2012Q3,S08000028,Colorectal,4,4,NHS Western Isles
-10839,2012Q4,S08000028,Colorectal,3,3,NHS Western Isles
-10847,2013Q1,S08000028,Colorectal,2,2,NHS Western Isles
-10854,2013Q2,S08000028,Colorectal,3,3,NHS Western Isles
-10860,2013Q3,S08000028,Colorectal,4,4,NHS Western Isles
-10866,2013Q4,S08000028,Colorectal,4,4,NHS Western Isles
-10875,2014Q1,S08000028,Colorectal,1,1,NHS Western Isles
-10882,2014Q2,S08000028,Colorectal,2,2,NHS Western Isles
-10888,2014Q3,S08000028,Colorectal,4,4,NHS Western Isles
-10896,2014Q4,S08000028,Colorectal,3,3,NHS Western Isles
-10903,2015Q1,S08000028,Colorectal,1,1,NHS Western Isles
-10920,2015Q3,S08000028,Colorectal,5,5,NHS Western Isles
-10927,2015Q4,S08000028,Colorectal,1,1,NHS Western Isles
-10934,2016Q1,S08000028,Colorectal,2,2,NHS Western Isles
-10942,2016Q2,S08000028,Colorectal,3,3,NHS Western Isles
-10951,2016Q3,S08000028,Colorectal,1,1,NHS Western Isles
-10967,2017Q1,S08000028,Colorectal,4,4,NHS Western Isles
-10973,2017Q2,S08000028,Colorectal,1,1,NHS Western Isles
-10987,2017Q4,S08000028,Colorectal,1,1,NHS Western Isles
-10995,2018Q1,S08000028,Colorectal,2,2,NHS Western Isles
-11003,2018Q2,S08000028,Colorectal,1,1,NHS Western Isles
-11013,2018Q3,S08000028,Colorectal,2,2,NHS Western Isles
-11026,2019Q1,S08000028,Colorectal,4,4,NHS Western Isles
-11032,2019Q2,S08000028,Colorectal,3,3,NHS Western Isles
-11039,2019Q3,S08000028,Colorectal,5,5,NHS Western Isles
-11048,2019Q4,S08000028,Colorectal,4,4,NHS Western Isles
-11061,2020Q2,S08000028,Colorectal,3,3,NHS Western Isles
-11075,2020Q4,S08000028,Colorectal,2,2,NHS Western Isles
-11086,2021Q2,S08000028,Colorectal,3,3,NHS Western Isles
-11095,2021Q3,S08000028,Colorectal,6,6,NHS Western Isles
-11101,2021Q4,S08000028,Colorectal,5,5,NHS Western Isles
-11106,2021Q4,S08000028,Colorectal,5,5,NHS Western Isles
-11111,2022Q1,S08000028,Colorectal,2,2,NHS Western Isles
-11119,2022Q2,S08000028,Colorectal,3,3,NHS Western Isles
-11128,2022Q3,S08000028,Colorectal,1,1,NHS Western Isles
-11130,2022Q3,S08000028,Colorectal,3,3,NHS Western Isles
-11142,2022Q4,S08000028,Colorectal,1,1,NHS Western Isles
-11154,2012Q1,S08000032,Colorectal,68,68,NHS Lanarkshire
-11167,2012Q2,S08000032,Colorectal,73,72,NHS Lanarkshire
-11177,2012Q3,S08000032,Colorectal,1,1,NHS Lanarkshire
-11181,2012Q3,S08000032,Colorectal,60,60,NHS Lanarkshire
-11194,2012Q4,S08000032,Colorectal,70,69,NHS Lanarkshire
-11209,2013Q1,S08000032,Colorectal,66,66,NHS Lanarkshire
-11218,2013Q2,S08000032,Colorectal,1,1,NHS Lanarkshire
-11224,2013Q2,S08000032,Colorectal,71,71,NHS Lanarkshire
-11237,2013Q3,S08000032,Colorectal,54,54,NHS Lanarkshire
-11252,2013Q4,S08000032,Colorectal,72,72,NHS Lanarkshire
-11267,2014Q1,S08000032,Colorectal,68,68,NHS Lanarkshire
-11280,2014Q2,S08000032,Colorectal,74,74,NHS Lanarkshire
-11295,2014Q3,S08000032,Colorectal,72,72,NHS Lanarkshire
-11308,2014Q4,S08000032,Colorectal,68,68,NHS Lanarkshire
-11323,2015Q1,S08000032,Colorectal,65,65,NHS Lanarkshire
-11338,2015Q2,S08000032,Colorectal,62,62,NHS Lanarkshire
-11353,2015Q3,S08000032,Colorectal,63,60,NHS Lanarkshire
-11368,2015Q4,S08000032,Colorectal,66,61,NHS Lanarkshire
-11378,2016Q1,S08000032,Colorectal,1,1,NHS Lanarkshire
-11383,2016Q1,S08000032,Colorectal,69,66,NHS Lanarkshire
-11396,2016Q2,S08000032,Colorectal,66,65,NHS Lanarkshire
-11410,2016Q3,S08000032,Colorectal,65,65,NHS Lanarkshire
-11426,2016Q4,S08000032,Colorectal,67,67,NHS Lanarkshire
-11441,2017Q1,S08000032,Colorectal,72,72,NHS Lanarkshire
-11456,2017Q2,S08000032,Colorectal,69,68,NHS Lanarkshire
-11471,2017Q3,S08000032,Colorectal,79,79,NHS Lanarkshire
-11483,2017Q4,S08000032,Colorectal,1,1,NHS Lanarkshire
-11487,2017Q4,S08000032,Colorectal,72,71,NHS Lanarkshire
-11502,2018Q1,S08000032,Colorectal,59,59,NHS Lanarkshire
-11517,2018Q2,S08000032,Colorectal,79,76,NHS Lanarkshire
-11531,2018Q3,S08000032,Colorectal,72,72,NHS Lanarkshire
-11547,2018Q4,S08000032,Colorectal,56,56,NHS Lanarkshire
-11562,2019Q1,S08000032,Colorectal,79,79,NHS Lanarkshire
-11579,2019Q2,S08000032,Colorectal,80,76,NHS Lanarkshire
-11594,2019Q3,S08000032,Colorectal,71,71,NHS Lanarkshire
-11609,2019Q4,S08000032,Colorectal,80,79,NHS Lanarkshire
-11626,2020Q1,S08000032,Colorectal,89,87,NHS Lanarkshire
-11641,2020Q2,S08000032,Colorectal,47,41,NHS Lanarkshire
-11656,2020Q3,S08000032,Colorectal,68,65,NHS Lanarkshire
-11666,2020Q4,S08000032,Colorectal,1,1,NHS Lanarkshire
-11670,2020Q4,S08000032,Colorectal,80,79,NHS Lanarkshire
-11684,2021Q1,S08000032,Colorectal,71,68,NHS Lanarkshire
-11697,2021Q2,S08000032,Colorectal,81,81,NHS Lanarkshire
-11712,2021Q3,S08000032,Colorectal,86,84,NHS Lanarkshire
-11725,2021Q4,S08000032,Colorectal,120,118,NHS Lanarkshire
-11742,2021Q4,S08000032,Colorectal,120,118,NHS Lanarkshire
-11758,2022Q1,S08000032,Colorectal,83,80,NHS Lanarkshire
-11773,2022Q2,S08000032,Colorectal,92,87,NHS Lanarkshire
-11788,2022Q3,S08000032,Colorectal,80,72,NHS Lanarkshire
-11804,2022Q4,S08000032,Colorectal,107,105,NHS Lanarkshire
+451,2022Q1,S08000015,Colorectal,53,52,NHS Ayrshire and Arran
+464,2022Q2,S08000015,Colorectal,58,58,NHS Ayrshire and Arran
+475,2022Q3,S08000015,Colorectal,64,62,NHS Ayrshire and Arran
+486,2022Q4,S08000015,Colorectal,45,45,NHS Ayrshire and Arran
+495,2022Q4,S08000015,Colorectal,1,1,NHS Ayrshire and Arran
+500,2023Q1,S08000015,Colorectal,66,66,NHS Ayrshire and Arran
+511,2012Q1,S08000017,Colorectal,33,31,NHS Dumfries and Galloway
+520,2012Q2,S08000017,Colorectal,35,34,NHS Dumfries and Galloway
+531,2012Q3,S08000017,Colorectal,35,35,NHS Dumfries and Galloway
+542,2012Q4,S08000017,Colorectal,32,32,NHS Dumfries and Galloway
+552,2013Q1,S08000017,Colorectal,22,22,NHS Dumfries and Galloway
+561,2013Q2,S08000017,Colorectal,26,26,NHS Dumfries and Galloway
+571,2013Q3,S08000017,Colorectal,35,35,NHS Dumfries and Galloway
+581,2013Q4,S08000017,Colorectal,19,19,NHS Dumfries and Galloway
+592,2014Q1,S08000017,Colorectal,25,25,NHS Dumfries and Galloway
+602,2014Q2,S08000017,Colorectal,34,33,NHS Dumfries and Galloway
+613,2014Q3,S08000017,Colorectal,30,30,NHS Dumfries and Galloway
+623,2014Q4,S08000017,Colorectal,22,22,NHS Dumfries and Galloway
+633,2015Q1,S08000017,Colorectal,28,28,NHS Dumfries and Galloway
+644,2015Q2,S08000017,Colorectal,27,27,NHS Dumfries and Galloway
+655,2015Q3,S08000017,Colorectal,24,22,NHS Dumfries and Galloway
+666,2015Q4,S08000017,Colorectal,25,25,NHS Dumfries and Galloway
+676,2016Q1,S08000017,Colorectal,25,25,NHS Dumfries and Galloway
+685,2016Q2,S08000017,Colorectal,31,31,NHS Dumfries and Galloway
+696,2016Q3,S08000017,Colorectal,28,27,NHS Dumfries and Galloway
+705,2016Q4,S08000017,Colorectal,16,13,NHS Dumfries and Galloway
+716,2017Q1,S08000017,Colorectal,22,21,NHS Dumfries and Galloway
+727,2017Q2,S08000017,Colorectal,22,22,NHS Dumfries and Galloway
+737,2017Q3,S08000017,Colorectal,26,23,NHS Dumfries and Galloway
+747,2017Q4,S08000017,Colorectal,26,24,NHS Dumfries and Galloway
+757,2018Q1,S08000017,Colorectal,31,30,NHS Dumfries and Galloway
+768,2018Q2,S08000017,Colorectal,30,30,NHS Dumfries and Galloway
+779,2018Q3,S08000017,Colorectal,26,24,NHS Dumfries and Galloway
+789,2018Q4,S08000017,Colorectal,27,26,NHS Dumfries and Galloway
+799,2019Q1,S08000017,Colorectal,20,18,NHS Dumfries and Galloway
+810,2019Q2,S08000017,Colorectal,29,29,NHS Dumfries and Galloway
+821,2019Q3,S08000017,Colorectal,26,25,NHS Dumfries and Galloway
+830,2019Q4,S08000017,Colorectal,35,34,NHS Dumfries and Galloway
+840,2020Q1,S08000017,Colorectal,39,39,NHS Dumfries and Galloway
+850,2020Q2,S08000017,Colorectal,20,20,NHS Dumfries and Galloway
+860,2020Q3,S08000017,Colorectal,17,17,NHS Dumfries and Galloway
+933,2020Q4,S08000017,Colorectal,18,18,NHS Dumfries and Galloway
+948,2021Q1,S08000017,Colorectal,31,30,NHS Dumfries and Galloway
+960,2021Q2,S08000017,Colorectal,30,30,NHS Dumfries and Galloway
+972,2021Q3,S08000017,Colorectal,27,26,NHS Dumfries and Galloway
+985,2021Q4,S08000017,Colorectal,33,31,NHS Dumfries and Galloway
+996,2022Q1,S08000017,Colorectal,27,25,NHS Dumfries and Galloway
+1007,2022Q2,S08000017,Colorectal,22,22,NHS Dumfries and Galloway
+1020,2022Q3,S08000017,Colorectal,27,25,NHS Dumfries and Galloway
+1035,2022Q4,S08000017,Colorectal,33,32,NHS Dumfries and Galloway
+1045,2023Q1,S08000017,Colorectal,35,34,NHS Dumfries and Galloway
+1057,2012Q1,S08000020,Colorectal,74,73,NHS Grampian
+1068,2012Q1,S08000020,Colorectal,2,2,NHS Grampian
+1073,2012Q1,S08000020,Colorectal,2,2,NHS Grampian
+1082,2012Q2,S08000020,Colorectal,96,96,NHS Grampian
+1093,2012Q2,S08000020,Colorectal,1,1,NHS Grampian
+1101,2012Q3,S08000020,Colorectal,101,97,NHS Grampian
+1110,2012Q3,S08000020,Colorectal,1,1,NHS Grampian
+1114,2012Q3,S08000020,Colorectal,1,1,NHS Grampian
+1121,2012Q4,S08000020,Colorectal,75,75,NHS Grampian
+1136,2012Q4,S08000020,Colorectal,1,1,NHS Grampian
+1145,2013Q1,S08000020,Colorectal,67,66,NHS Grampian
+1165,2013Q2,S08000020,Colorectal,84,80,NHS Grampian
+1176,2013Q2,S08000020,Colorectal,2,2,NHS Grampian
+1179,2013Q2,S08000020,Colorectal,1,0,NHS Grampian
+1184,2013Q3,S08000020,Colorectal,76,76,NHS Grampian
+1199,2013Q3,S08000020,Colorectal,2,2,NHS Grampian
+1206,2013Q4,S08000020,Colorectal,79,79,NHS Grampian
+1218,2013Q4,S08000020,Colorectal,1,1,NHS Grampian
+1225,2014Q1,S08000020,Colorectal,62,62,NHS Grampian
+1236,2014Q1,S08000020,Colorectal,2,2,NHS Grampian
+1239,2014Q1,S08000020,Colorectal,3,3,NHS Grampian
+1247,2014Q2,S08000020,Colorectal,75,75,NHS Grampian
+1259,2014Q2,S08000020,Colorectal,1,1,NHS Grampian
+1270,2014Q3,S08000020,Colorectal,81,77,NHS Grampian
+1284,2014Q3,S08000020,Colorectal,1,1,NHS Grampian
+1287,2014Q3,S08000020,Colorectal,1,1,NHS Grampian
+1292,2014Q3,S08000020,Colorectal,1,1,NHS Grampian
+1297,2014Q4,S08000020,Colorectal,76,76,NHS Grampian
+1311,2014Q4,S08000020,Colorectal,2,2,NHS Grampian
+1316,2015Q1,S08000020,Colorectal,73,73,NHS Grampian
+1325,2015Q1,S08000020,Colorectal,1,1,NHS Grampian
+1332,2015Q2,S08000020,Colorectal,78,74,NHS Grampian
+1344,2015Q2,S08000020,Colorectal,1,1,NHS Grampian
+1352,2015Q3,S08000020,Colorectal,84,82,NHS Grampian
+1364,2015Q3,S08000020,Colorectal,1,0,NHS Grampian
+1366,2015Q3,S08000020,Colorectal,4,2,NHS Grampian
+1375,2015Q4,S08000020,Colorectal,68,67,NHS Grampian
+1389,2015Q4,S08000020,Colorectal,1,1,NHS Grampian
+1400,2016Q1,S08000020,Colorectal,83,78,NHS Grampian
+1408,2016Q1,S08000020,Colorectal,3,1,NHS Grampian
+1424,2016Q2,S08000020,Colorectal,66,64,NHS Grampian
+1441,2016Q3,S08000020,Colorectal,89,86,NHS Grampian
+1449,2016Q3,S08000020,Colorectal,1,1,NHS Grampian
+1453,2016Q3,S08000020,Colorectal,2,2,NHS Grampian
+1455,2016Q3,S08000020,Colorectal,2,2,NHS Grampian
+1464,2016Q4,S08000020,Colorectal,80,74,NHS Grampian
+1473,2016Q4,S08000020,Colorectal,1,1,NHS Grampian
+1477,2016Q4,S08000020,Colorectal,1,1,NHS Grampian
+1481,2016Q4,S08000020,Colorectal,1,1,NHS Grampian
+1488,2017Q1,S08000020,Colorectal,68,66,NHS Grampian
+1515,2017Q2,S08000020,Colorectal,67,64,NHS Grampian
+1539,2017Q3,S08000020,Colorectal,91,86,NHS Grampian
+1549,2017Q3,S08000020,Colorectal,1,0,NHS Grampian
+1558,2017Q4,S08000020,Colorectal,85,78,NHS Grampian
+1573,2017Q4,S08000020,Colorectal,1,1,NHS Grampian
+1582,2018Q1,S08000020,Colorectal,71,66,NHS Grampian
+1598,2018Q1,S08000020,Colorectal,1,1,NHS Grampian
+1604,2018Q2,S08000020,Colorectal,97,85,NHS Grampian
+1612,2018Q2,S08000020,Colorectal,1,1,NHS Grampian
+1616,2018Q2,S08000020,Colorectal,1,1,NHS Grampian
+1632,2018Q3,S08000020,Colorectal,87,83,NHS Grampian
+1645,2018Q3,S08000020,Colorectal,1,1,NHS Grampian
+1651,2018Q4,S08000020,Colorectal,105,99,NHS Grampian
+1661,2018Q4,S08000020,Colorectal,3,2,NHS Grampian
+1676,2019Q1,S08000020,Colorectal,101,91,NHS Grampian
+1696,2019Q1,S08000020,Colorectal,1,0,NHS Grampian
+1701,2019Q2,S08000020,Colorectal,91,90,NHS Grampian
+1709,2019Q2,S08000020,Colorectal,1,1,NHS Grampian
+1726,2019Q3,S08000020,Colorectal,98,95,NHS Grampian
+1737,2019Q3,S08000020,Colorectal,1,1,NHS Grampian
+1740,2019Q3,S08000020,Colorectal,1,1,NHS Grampian
+1750,2019Q4,S08000020,Colorectal,83,64,NHS Grampian
+1761,2019Q4,S08000020,Colorectal,2,2,NHS Grampian
+1776,2020Q1,S08000020,Colorectal,100,90,NHS Grampian
+1788,2020Q1,S08000020,Colorectal,1,0,NHS Grampian
+1801,2020Q2,S08000020,Colorectal,81,69,NHS Grampian
+1812,2020Q2,S08000020,Colorectal,1,1,NHS Grampian
+1820,2020Q3,S08000020,Colorectal,59,59,NHS Grampian
+1832,2020Q3,S08000020,Colorectal,2,2,NHS Grampian
+2024,2020Q4,S08000020,Colorectal,66,64,NHS Grampian
+2049,2021Q1,S08000020,Colorectal,73,71,NHS Grampian
+2060,2021Q1,S08000020,Colorectal,1,1,NHS Grampian
+2077,2021Q2,S08000020,Colorectal,90,83,NHS Grampian
+2093,2021Q2,S08000020,Colorectal,1,1,NHS Grampian
+2109,2021Q3,S08000020,Colorectal,93,85,NHS Grampian
+2120,2021Q3,S08000020,Colorectal,1,0,NHS Grampian
+2142,2021Q4,S08000020,Colorectal,108,99,NHS Grampian
+2167,2022Q1,S08000020,Colorectal,82,80,NHS Grampian
+2177,2022Q1,S08000020,Colorectal,1,1,NHS Grampian
+2181,2022Q1,S08000020,Colorectal,1,1,NHS Grampian
+2198,2022Q2,S08000020,Colorectal,99,92,NHS Grampian
+2207,2022Q2,S08000020,Colorectal,2,2,NHS Grampian
+2210,2022Q2,S08000020,Colorectal,2,1,NHS Grampian
+2225,2022Q3,S08000020,Colorectal,96,87,NHS Grampian
+2234,2022Q3,S08000020,Colorectal,1,1,NHS Grampian
+2236,2022Q3,S08000020,Colorectal,1,1,NHS Grampian
+2252,2022Q4,S08000020,Colorectal,93,91,NHS Grampian
+2266,2022Q4,S08000020,Colorectal,4,3,NHS Grampian
+2280,2023Q1,S08000020,Colorectal,90,86,NHS Grampian
+2291,2023Q1,S08000020,Colorectal,1,1,NHS Grampian
+2308,2012Q1,S08000031,Colorectal,3,2,NHS Greater Glasgow and Clyde
+2315,2012Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2319,2012Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+2330,2012Q1,S08000031,Colorectal,182,172,NHS Greater Glasgow and Clyde
+2340,2012Q1,S08000031,Colorectal,11,10,NHS Greater Glasgow and Clyde
+2350,2012Q2,S08000031,Colorectal,7,6,NHS Greater Glasgow and Clyde
+2361,2012Q2,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
+2367,2012Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2373,2012Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2378,2012Q2,S08000031,Colorectal,218,212,NHS Greater Glasgow and Clyde
+2388,2012Q2,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
+2396,2012Q3,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
+2406,2012Q3,S08000031,Colorectal,9,8,NHS Greater Glasgow and Clyde
+2414,2012Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+2420,2012Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2423,2012Q3,S08000031,Colorectal,193,189,NHS Greater Glasgow and Clyde
+2432,2012Q3,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
+2441,2012Q4,S08000031,Colorectal,7,6,NHS Greater Glasgow and Clyde
+2450,2012Q4,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
+2457,2012Q4,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+2465,2012Q4,S08000031,Colorectal,180,174,NHS Greater Glasgow and Clyde
+2475,2012Q4,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
+2484,2013Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+2492,2013Q1,S08000031,Colorectal,5,4,NHS Greater Glasgow and Clyde
+2499,2013Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2500,2013Q1,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+2505,2013Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2510,2013Q1,S08000031,Colorectal,166,160,NHS Greater Glasgow and Clyde
+2520,2013Q1,S08000031,Colorectal,10,9,NHS Greater Glasgow and Clyde
+2529,2013Q2,S08000031,Colorectal,7,7,NHS Greater Glasgow and Clyde
+2541,2013Q2,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
+2548,2013Q2,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+2554,2013Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2559,2013Q2,S08000031,Colorectal,173,169,NHS Greater Glasgow and Clyde
+2569,2013Q2,S08000031,Colorectal,8,6,NHS Greater Glasgow and Clyde
+2579,2013Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2590,2013Q3,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+2605,2013Q3,S08000031,Colorectal,170,165,NHS Greater Glasgow and Clyde
+2615,2013Q3,S08000031,Colorectal,12,12,NHS Greater Glasgow and Clyde
+2624,2013Q4,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
+2633,2013Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2648,2013Q4,S08000031,Colorectal,178,171,NHS Greater Glasgow and Clyde
+2657,2013Q4,S08000031,Colorectal,10,10,NHS Greater Glasgow and Clyde
+2666,2014Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+2673,2014Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2678,2014Q1,S08000031,Colorectal,14,12,NHS Greater Glasgow and Clyde
+2686,2014Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2693,2014Q1,S08000031,Colorectal,194,190,NHS Greater Glasgow and Clyde
+2703,2014Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+2712,2014Q2,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
+2723,2014Q2,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+2731,2014Q2,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+2739,2014Q2,S08000031,Colorectal,204,198,NHS Greater Glasgow and Clyde
+2749,2014Q2,S08000031,Colorectal,12,11,NHS Greater Glasgow and Clyde
+2759,2014Q3,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
+2770,2014Q3,S08000031,Colorectal,6,4,NHS Greater Glasgow and Clyde
+2778,2014Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+2782,2014Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2786,2014Q3,S08000031,Colorectal,227,220,NHS Greater Glasgow and Clyde
+2796,2014Q3,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
+2806,2014Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+2816,2014Q4,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
+2823,2014Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2830,2014Q4,S08000031,Colorectal,178,175,NHS Greater Glasgow and Clyde
+2840,2014Q4,S08000031,Colorectal,11,11,NHS Greater Glasgow and Clyde
+2849,2015Q1,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
+2860,2015Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2875,2015Q1,S08000031,Colorectal,187,185,NHS Greater Glasgow and Clyde
+2884,2015Q1,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
+2894,2015Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2907,2015Q2,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+2915,2015Q2,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+2925,2015Q2,S08000031,Colorectal,182,180,NHS Greater Glasgow and Clyde
+2935,2015Q2,S08000031,Colorectal,6,5,NHS Greater Glasgow and Clyde
+2944,2015Q3,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
+2956,2015Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+2965,2015Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+2968,2015Q3,S08000031,Colorectal,147,143,NHS Greater Glasgow and Clyde
+2978,2015Q3,S08000031,Colorectal,11,11,NHS Greater Glasgow and Clyde
+2986,2015Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+2998,2015Q4,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
+3014,2015Q4,S08000031,Colorectal,158,155,NHS Greater Glasgow and Clyde
+3024,2015Q4,S08000031,Colorectal,10,10,NHS Greater Glasgow and Clyde
+3034,2016Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+3044,2016Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+3056,2016Q1,S08000031,Colorectal,166,161,NHS Greater Glasgow and Clyde
+3066,2016Q1,S08000031,Colorectal,12,9,NHS Greater Glasgow and Clyde
+3076,2016Q2,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
+3085,2016Q2,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3104,2016Q2,S08000031,Colorectal,171,164,NHS Greater Glasgow and Clyde
+3114,2016Q2,S08000031,Colorectal,12,11,NHS Greater Glasgow and Clyde
+3123,2016Q3,S08000031,Colorectal,7,7,NHS Greater Glasgow and Clyde
+3133,2016Q3,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+3141,2016Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3146,2016Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3151,2016Q3,S08000031,Colorectal,162,155,NHS Greater Glasgow and Clyde
+3161,2016Q3,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
+3171,2016Q4,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
+3181,2016Q4,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+3194,2016Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3198,2016Q4,S08000031,Colorectal,163,161,NHS Greater Glasgow and Clyde
+3208,2016Q4,S08000031,Colorectal,7,6,NHS Greater Glasgow and Clyde
+3216,2017Q1,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
+3227,2017Q1,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3235,2017Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3242,2017Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3247,2017Q1,S08000031,Colorectal,187,178,NHS Greater Glasgow and Clyde
+3257,2017Q1,S08000031,Colorectal,13,12,NHS Greater Glasgow and Clyde
+3266,2017Q2,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
+3277,2017Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3283,2017Q2,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3292,2017Q2,S08000031,Colorectal,186,182,NHS Greater Glasgow and Clyde
+3302,2017Q2,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
+3311,2017Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3326,2017Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+3335,2017Q3,S08000031,Colorectal,180,177,NHS Greater Glasgow and Clyde
+3345,2017Q3,S08000031,Colorectal,10,10,NHS Greater Glasgow and Clyde
+3353,2017Q4,S08000031,Colorectal,3,2,NHS Greater Glasgow and Clyde
+3365,2017Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3372,2017Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3379,2017Q4,S08000031,Colorectal,179,174,NHS Greater Glasgow and Clyde
+3389,2017Q4,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
+3399,2018Q1,S08000031,Colorectal,5,4,NHS Greater Glasgow and Clyde
+3415,2018Q1,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3419,2018Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3423,2018Q1,S08000031,Colorectal,187,182,NHS Greater Glasgow and Clyde
+3433,2018Q1,S08000031,Colorectal,13,12,NHS Greater Glasgow and Clyde
+3442,2018Q2,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3450,2018Q2,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+3456,2018Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3463,2018Q2,S08000031,Colorectal,165,161,NHS Greater Glasgow and Clyde
+3472,2018Q2,S08000031,Colorectal,13,12,NHS Greater Glasgow and Clyde
+3482,2018Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+3490,2018Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+3505,2018Q3,S08000031,Colorectal,198,191,NHS Greater Glasgow and Clyde
+3515,2018Q3,S08000031,Colorectal,8,8,NHS Greater Glasgow and Clyde
+3524,2018Q4,S08000031,Colorectal,9,9,NHS Greater Glasgow and Clyde
+3534,2018Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3540,2018Q4,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+3543,2018Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3548,2018Q4,S08000031,Colorectal,205,202,NHS Greater Glasgow and Clyde
+3558,2018Q4,S08000031,Colorectal,12,11,NHS Greater Glasgow and Clyde
+3568,2019Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3577,2019Q1,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3587,2019Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3593,2019Q1,S08000031,Colorectal,217,211,NHS Greater Glasgow and Clyde
+3603,2019Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+3613,2019Q2,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+3625,2019Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3632,2019Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3634,2019Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3638,2019Q2,S08000031,Colorectal,197,183,NHS Greater Glasgow and Clyde
+3648,2019Q2,S08000031,Colorectal,10,8,NHS Greater Glasgow and Clyde
+3658,2019Q3,S08000031,Colorectal,6,5,NHS Greater Glasgow and Clyde
+3669,2019Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3682,2019Q3,S08000031,Colorectal,200,180,NHS Greater Glasgow and Clyde
+3692,2019Q3,S08000031,Colorectal,8,6,NHS Greater Glasgow and Clyde
+3701,2019Q4,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
+3709,2019Q4,S08000031,Colorectal,6,5,NHS Greater Glasgow and Clyde
+3715,2019Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3720,2019Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3728,2019Q4,S08000031,Colorectal,222,212,NHS Greater Glasgow and Clyde
+3738,2019Q4,S08000031,Colorectal,3,2,NHS Greater Glasgow and Clyde
+3747,2020Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+3757,2020Q1,S08000031,Colorectal,3,1,NHS Greater Glasgow and Clyde
+3763,2020Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+3772,2020Q1,S08000031,Colorectal,197,183,NHS Greater Glasgow and Clyde
+3782,2020Q1,S08000031,Colorectal,5,4,NHS Greater Glasgow and Clyde
+3791,2020Q2,S08000031,Colorectal,7,7,NHS Greater Glasgow and Clyde
+3802,2020Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3819,2020Q2,S08000031,Colorectal,108,102,NHS Greater Glasgow and Clyde
+3829,2020Q2,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+3837,2020Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+3851,2020Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+3860,2020Q3,S08000031,Colorectal,154,153,NHS Greater Glasgow and Clyde
+3870,2020Q3,S08000031,Colorectal,6,5,NHS Greater Glasgow and Clyde
+4132,2020Q4,S08000031,Colorectal,7,7,NHS Greater Glasgow and Clyde
+4141,2020Q4,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
+4159,2020Q4,S08000031,Colorectal,163,162,NHS Greater Glasgow and Clyde
+4168,2020Q4,S08000031,Colorectal,1,0,NHS Greater Glasgow and Clyde
+4183,2021Q1,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
+4194,2021Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+4202,2021Q1,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+4211,2021Q1,S08000031,Colorectal,176,173,NHS Greater Glasgow and Clyde
+4221,2021Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+4239,2021Q2,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
+4248,2021Q2,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
+4258,2021Q2,S08000031,Colorectal,163,161,NHS Greater Glasgow and Clyde
+4268,2021Q2,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+4283,2021Q3,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+4294,2021Q3,S08000031,Colorectal,2,1,NHS Greater Glasgow and Clyde
+4304,2021Q3,S08000031,Colorectal,1,0,NHS Greater Glasgow and Clyde
+4309,2021Q3,S08000031,Colorectal,200,192,NHS Greater Glasgow and Clyde
+4319,2021Q3,S08000031,Colorectal,7,6,NHS Greater Glasgow and Clyde
+4336,2021Q4,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+4346,2021Q4,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
+4353,2021Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+4355,2021Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+4365,2021Q4,S08000031,Colorectal,194,188,NHS Greater Glasgow and Clyde
+4374,2021Q4,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
+4391,2022Q1,S08000031,Colorectal,6,5,NHS Greater Glasgow and Clyde
+4397,2022Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+4401,2022Q1,S08000031,Colorectal,4,4,NHS Greater Glasgow and Clyde
+4410,2022Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+4415,2022Q1,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+4417,2022Q1,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+4420,2022Q1,S08000031,Colorectal,215,208,NHS Greater Glasgow and Clyde
+4429,2022Q1,S08000031,Colorectal,7,3,NHS Greater Glasgow and Clyde
+4449,2022Q2,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
+4456,2022Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+4459,2022Q2,S08000031,Colorectal,8,5,NHS Greater Glasgow and Clyde
+4466,2022Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+4473,2022Q2,S08000031,Colorectal,194,191,NHS Greater Glasgow and Clyde
+4483,2022Q2,S08000031,Colorectal,9,7,NHS Greater Glasgow and Clyde
+4500,2022Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+4507,2022Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+4513,2022Q3,S08000031,Colorectal,4,2,NHS Greater Glasgow and Clyde
+4520,2022Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+4525,2022Q3,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+4532,2022Q3,S08000031,Colorectal,214,209,NHS Greater Glasgow and Clyde
+4541,2022Q3,S08000031,Colorectal,7,5,NHS Greater Glasgow and Clyde
+4559,2022Q4,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
+4565,2022Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+4567,2022Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+4578,2022Q4,S08000031,Colorectal,239,227,NHS Greater Glasgow and Clyde
+4588,2022Q4,S08000031,Colorectal,5,3,NHS Greater Glasgow and Clyde
+4606,2023Q1,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
+4616,2023Q1,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
+4631,2023Q1,S08000031,Colorectal,232,220,NHS Greater Glasgow and Clyde
+4641,2023Q1,S08000031,Colorectal,11,4,NHS Greater Glasgow and Clyde
+4657,2012Q1,S08000016,Colorectal,18,18,NHS Borders
+4668,2012Q2,S08000016,Colorectal,22,22,NHS Borders
+4679,2012Q3,S08000016,Colorectal,17,17,NHS Borders
+4689,2012Q4,S08000016,Colorectal,15,15,NHS Borders
+4697,2013Q1,S08000016,Colorectal,13,13,NHS Borders
+4706,2013Q2,S08000016,Colorectal,16,16,NHS Borders
+4716,2013Q3,S08000016,Colorectal,31,31,NHS Borders
+4726,2013Q4,S08000016,Colorectal,21,21,NHS Borders
+4735,2014Q1,S08000016,Colorectal,18,18,NHS Borders
+4745,2014Q2,S08000016,Colorectal,22,22,NHS Borders
+4754,2014Q3,S08000016,Colorectal,21,21,NHS Borders
+4764,2014Q4,S08000016,Colorectal,12,12,NHS Borders
+4773,2015Q1,S08000016,Colorectal,20,19,NHS Borders
+4783,2015Q2,S08000016,Colorectal,16,16,NHS Borders
+4793,2015Q3,S08000016,Colorectal,17,17,NHS Borders
+4803,2015Q4,S08000016,Colorectal,16,16,NHS Borders
+4812,2016Q1,S08000016,Colorectal,14,14,NHS Borders
+4822,2016Q2,S08000016,Colorectal,16,16,NHS Borders
+4830,2016Q3,S08000016,Colorectal,18,18,NHS Borders
+4841,2016Q4,S08000016,Colorectal,20,20,NHS Borders
+4852,2017Q1,S08000016,Colorectal,21,21,NHS Borders
+4862,2017Q2,S08000016,Colorectal,11,8,NHS Borders
+4872,2017Q3,S08000016,Colorectal,18,18,NHS Borders
+4881,2017Q4,S08000016,Colorectal,11,11,NHS Borders
+4893,2018Q1,S08000016,Colorectal,23,23,NHS Borders
+4903,2018Q2,S08000016,Colorectal,15,15,NHS Borders
+4912,2018Q3,S08000016,Colorectal,14,14,NHS Borders
+4921,2018Q4,S08000016,Colorectal,12,12,NHS Borders
+4930,2019Q1,S08000016,Colorectal,25,25,NHS Borders
+4940,2019Q2,S08000016,Colorectal,18,18,NHS Borders
+4949,2019Q3,S08000016,Colorectal,15,15,NHS Borders
+4957,2019Q4,S08000016,Colorectal,21,20,NHS Borders
+4968,2020Q1,S08000016,Colorectal,12,12,NHS Borders
+4978,2020Q2,S08000016,Colorectal,25,25,NHS Borders
+4987,2020Q3,S08000016,Colorectal,16,16,NHS Borders
+5046,2020Q4,S08000016,Colorectal,10,10,NHS Borders
+5059,2021Q1,S08000016,Colorectal,19,19,NHS Borders
+5067,2021Q2,S08000016,Colorectal,22,22,NHS Borders
+5079,2021Q3,S08000016,Colorectal,13,10,NHS Borders
+5092,2021Q4,S08000016,Colorectal,25,24,NHS Borders
+5104,2022Q1,S08000016,Colorectal,10,10,NHS Borders
+5115,2022Q2,S08000016,Colorectal,11,11,NHS Borders
+5125,2022Q3,S08000016,Colorectal,17,17,NHS Borders
+5138,2022Q4,S08000016,Colorectal,17,16,NHS Borders
+5151,2023Q1,S08000016,Colorectal,25,22,NHS Borders
+5163,2012Q1,S08000024,Colorectal,2,2,NHS Lothian
+5185,2012Q1,S08000024,Colorectal,139,134,NHS Lothian
+5195,2012Q1,S08000024,Colorectal,4,4,NHS Lothian
+5212,2012Q2,S08000024,Colorectal,1,1,NHS Lothian
+5223,2012Q2,S08000024,Colorectal,119,108,NHS Lothian
+5232,2012Q2,S08000024,Colorectal,3,3,NHS Lothian
+5246,2012Q3,S08000024,Colorectal,2,2,NHS Lothian
+5254,2012Q3,S08000024,Colorectal,1,1,NHS Lothian
+5265,2012Q3,S08000024,Colorectal,104,98,NHS Lothian
+5275,2012Q3,S08000024,Colorectal,4,4,NHS Lothian
+5286,2012Q4,S08000024,Colorectal,2,2,NHS Lothian
+5294,2012Q4,S08000024,Colorectal,2,2,NHS Lothian
+5305,2012Q4,S08000024,Colorectal,145,141,NHS Lothian
+5315,2012Q4,S08000024,Colorectal,2,2,NHS Lothian
+5330,2013Q1,S08000024,Colorectal,1,1,NHS Lothian
+5338,2013Q1,S08000024,Colorectal,1,1,NHS Lothian
+5349,2013Q1,S08000024,Colorectal,139,134,NHS Lothian
+5359,2013Q1,S08000024,Colorectal,6,6,NHS Lothian
+5370,2013Q2,S08000024,Colorectal,1,1,NHS Lothian
+5379,2013Q2,S08000024,Colorectal,4,4,NHS Lothian
+5390,2013Q2,S08000024,Colorectal,118,115,NHS Lothian
+5401,2013Q2,S08000024,Colorectal,6,6,NHS Lothian
+5414,2013Q3,S08000024,Colorectal,4,4,NHS Lothian
+5421,2013Q3,S08000024,Colorectal,2,2,NHS Lothian
+5429,2013Q3,S08000024,Colorectal,1,1,NHS Lothian
+5434,2013Q3,S08000024,Colorectal,154,153,NHS Lothian
+5443,2013Q3,S08000024,Colorectal,4,4,NHS Lothian
+5452,2013Q3,S08000024,Colorectal,1,1,NHS Lothian
+5454,2013Q4,S08000024,Colorectal,3,3,NHS Lothian
+5462,2013Q4,S08000024,Colorectal,3,3,NHS Lothian
+5474,2013Q4,S08000024,Colorectal,132,131,NHS Lothian
+5484,2013Q4,S08000024,Colorectal,4,4,NHS Lothian
+5496,2014Q1,S08000024,Colorectal,6,6,NHS Lothian
+5514,2014Q1,S08000024,Colorectal,106,103,NHS Lothian
+5523,2014Q1,S08000024,Colorectal,1,1,NHS Lothian
+5555,2014Q2,S08000024,Colorectal,116,112,NHS Lothian
+5564,2014Q2,S08000024,Colorectal,7,7,NHS Lothian
+5578,2014Q3,S08000024,Colorectal,2,2,NHS Lothian
+5587,2014Q3,S08000024,Colorectal,1,1,NHS Lothian
+5593,2014Q3,S08000024,Colorectal,1,1,NHS Lothian
+5599,2014Q3,S08000024,Colorectal,104,103,NHS Lothian
+5608,2014Q3,S08000024,Colorectal,7,7,NHS Lothian
+5622,2014Q4,S08000024,Colorectal,1,1,NHS Lothian
+5637,2014Q4,S08000024,Colorectal,106,102,NHS Lothian
+5647,2014Q4,S08000024,Colorectal,3,3,NHS Lothian
+5655,2014Q4,S08000024,Colorectal,1,1,NHS Lothian
+5659,2015Q1,S08000024,Colorectal,8,8,NHS Lothian
+5667,2015Q1,S08000024,Colorectal,1,1,NHS Lothian
+5677,2015Q1,S08000024,Colorectal,78,71,NHS Lothian
+5687,2015Q1,S08000024,Colorectal,2,2,NHS Lothian
+5696,2015Q1,S08000024,Colorectal,1,1,NHS Lothian
+5701,2015Q2,S08000024,Colorectal,6,6,NHS Lothian
+5709,2015Q2,S08000024,Colorectal,2,2,NHS Lothian
+5719,2015Q2,S08000024,Colorectal,90,84,NHS Lothian
+5728,2015Q2,S08000024,Colorectal,4,4,NHS Lothian
+5747,2015Q3,S08000024,Colorectal,1,1,NHS Lothian
+5757,2015Q3,S08000024,Colorectal,98,95,NHS Lothian
+5766,2015Q3,S08000024,Colorectal,4,4,NHS Lothian
+5777,2015Q4,S08000024,Colorectal,4,4,NHS Lothian
+5785,2015Q4,S08000024,Colorectal,2,2,NHS Lothian
+5796,2015Q4,S08000024,Colorectal,103,98,NHS Lothian
+5812,2015Q4,S08000024,Colorectal,1,1,NHS Lothian
+5815,2016Q1,S08000024,Colorectal,6,6,NHS Lothian
+5820,2016Q1,S08000024,Colorectal,2,2,NHS Lothian
+5832,2016Q1,S08000024,Colorectal,108,102,NHS Lothian
+5841,2016Q1,S08000024,Colorectal,3,3,NHS Lothian
+5851,2016Q2,S08000024,Colorectal,3,3,NHS Lothian
+5859,2016Q2,S08000024,Colorectal,2,2,NHS Lothian
+5871,2016Q2,S08000024,Colorectal,76,72,NHS Lothian
+5880,2016Q2,S08000024,Colorectal,4,4,NHS Lothian
+5887,2016Q2,S08000024,Colorectal,1,1,NHS Lothian
+5889,2016Q3,S08000024,Colorectal,2,2,NHS Lothian
+5898,2016Q3,S08000024,Colorectal,2,2,NHS Lothian
+5911,2016Q3,S08000024,Colorectal,65,59,NHS Lothian
+5920,2016Q3,S08000024,Colorectal,6,6,NHS Lothian
+5929,2016Q3,S08000024,Colorectal,2,1,NHS Lothian
+5933,2016Q4,S08000024,Colorectal,2,2,NHS Lothian
+5940,2016Q4,S08000024,Colorectal,1,1,NHS Lothian
+5951,2016Q4,S08000024,Colorectal,105,95,NHS Lothian
+5961,2016Q4,S08000024,Colorectal,5,5,NHS Lothian
+5973,2017Q1,S08000024,Colorectal,5,5,NHS Lothian
+5979,2017Q1,S08000024,Colorectal,3,3,NHS Lothian
+5991,2017Q1,S08000024,Colorectal,103,97,NHS Lothian
+6001,2017Q1,S08000024,Colorectal,8,8,NHS Lothian
+6009,2017Q1,S08000024,Colorectal,2,2,NHS Lothian
+6013,2017Q2,S08000024,Colorectal,2,2,NHS Lothian
+6020,2017Q2,S08000024,Colorectal,3,3,NHS Lothian
+6032,2017Q2,S08000024,Colorectal,108,99,NHS Lothian
+6042,2017Q2,S08000024,Colorectal,2,2,NHS Lothian
+6053,2017Q3,S08000024,Colorectal,1,1,NHS Lothian
+6061,2017Q3,S08000024,Colorectal,1,1,NHS Lothian
+6071,2017Q3,S08000024,Colorectal,107,96,NHS Lothian
+6081,2017Q3,S08000024,Colorectal,2,2,NHS Lothian
+6090,2017Q3,S08000024,Colorectal,1,1,NHS Lothian
+6092,2017Q3,S08000024,Colorectal,1,1,NHS Lothian
+6094,2017Q4,S08000024,Colorectal,4,4,NHS Lothian
+6101,2017Q4,S08000024,Colorectal,2,2,NHS Lothian
+6113,2017Q4,S08000024,Colorectal,107,101,NHS Lothian
+6123,2017Q4,S08000024,Colorectal,5,5,NHS Lothian
+6132,2017Q4,S08000024,Colorectal,1,1,NHS Lothian
+6136,2018Q1,S08000024,Colorectal,8,8,NHS Lothian
+6144,2018Q1,S08000024,Colorectal,4,3,NHS Lothian
+6155,2018Q1,S08000024,Colorectal,101,95,NHS Lothian
+6164,2018Q1,S08000024,Colorectal,4,4,NHS Lothian
+6173,2018Q2,S08000024,Colorectal,4,4,NHS Lothian
+6180,2018Q2,S08000024,Colorectal,1,1,NHS Lothian
+6191,2018Q2,S08000024,Colorectal,116,111,NHS Lothian
+6200,2018Q2,S08000024,Colorectal,5,5,NHS Lothian
+6211,2018Q3,S08000024,Colorectal,6,6,NHS Lothian
+6219,2018Q3,S08000024,Colorectal,3,3,NHS Lothian
+6231,2018Q3,S08000024,Colorectal,109,102,NHS Lothian
+6241,2018Q3,S08000024,Colorectal,9,9,NHS Lothian
+6252,2018Q4,S08000024,Colorectal,5,4,NHS Lothian
+6260,2018Q4,S08000024,Colorectal,1,1,NHS Lothian
+6272,2018Q4,S08000024,Colorectal,107,91,NHS Lothian
+6281,2018Q4,S08000024,Colorectal,6,6,NHS Lothian
+6291,2019Q1,S08000024,Colorectal,1,1,NHS Lothian
+6299,2019Q1,S08000024,Colorectal,3,3,NHS Lothian
+6312,2019Q1,S08000024,Colorectal,102,91,NHS Lothian
+6322,2019Q1,S08000024,Colorectal,9,9,NHS Lothian
+6330,2019Q1,S08000024,Colorectal,1,1,NHS Lothian
+6333,2019Q2,S08000024,Colorectal,1,1,NHS Lothian
+6340,2019Q2,S08000024,Colorectal,2,2,NHS Lothian
+6351,2019Q2,S08000024,Colorectal,107,84,NHS Lothian
+6361,2019Q2,S08000024,Colorectal,7,7,NHS Lothian
+6371,2019Q3,S08000024,Colorectal,2,2,NHS Lothian
+6380,2019Q3,S08000024,Colorectal,1,1,NHS Lothian
+6394,2019Q3,S08000024,Colorectal,116,93,NHS Lothian
+6404,2019Q3,S08000024,Colorectal,5,5,NHS Lothian
+6415,2019Q3,S08000024,Colorectal,1,1,NHS Lothian
+6418,2019Q4,S08000024,Colorectal,2,2,NHS Lothian
+6425,2019Q4,S08000024,Colorectal,1,1,NHS Lothian
+6438,2019Q4,S08000024,Colorectal,122,103,NHS Lothian
+6448,2019Q4,S08000024,Colorectal,1,1,NHS Lothian
+6458,2020Q1,S08000024,Colorectal,2,2,NHS Lothian
+6465,2020Q1,S08000024,Colorectal,1,1,NHS Lothian
+6477,2020Q1,S08000024,Colorectal,122,102,NHS Lothian
+6485,2020Q1,S08000024,Colorectal,7,7,NHS Lothian
+6497,2020Q2,S08000024,Colorectal,6,5,NHS Lothian
+6503,2020Q2,S08000024,Colorectal,2,2,NHS Lothian
+6515,2020Q2,S08000024,Colorectal,105,96,NHS Lothian
+6525,2020Q2,S08000024,Colorectal,5,5,NHS Lothian
+6535,2020Q3,S08000024,Colorectal,4,4,NHS Lothian
+6543,2020Q3,S08000024,Colorectal,1,1,NHS Lothian
+6551,2020Q3,S08000024,Colorectal,1,1,NHS Lothian
+6555,2020Q3,S08000024,Colorectal,95,92,NHS Lothian
+6564,2020Q3,S08000024,Colorectal,4,4,NHS Lothian
+6911,2020Q4,S08000024,Colorectal,1,1,NHS Lothian
+6920,2020Q4,S08000024,Colorectal,6,5,NHS Lothian
+6931,2020Q4,S08000024,Colorectal,109,107,NHS Lothian
+6942,2020Q4,S08000024,Colorectal,4,4,NHS Lothian
+6960,2021Q1,S08000024,Colorectal,3,3,NHS Lothian
+6967,2021Q1,S08000024,Colorectal,1,1,NHS Lothian
+6982,2021Q1,S08000024,Colorectal,119,117,NHS Lothian
+6991,2021Q1,S08000024,Colorectal,4,4,NHS Lothian
+7015,2021Q2,S08000024,Colorectal,3,3,NHS Lothian
+7028,2021Q2,S08000024,Colorectal,125,123,NHS Lothian
+7038,2021Q2,S08000024,Colorectal,7,7,NHS Lothian
+7067,2021Q3,S08000024,Colorectal,2,2,NHS Lothian
+7072,2021Q3,S08000024,Colorectal,1,1,NHS Lothian
+7080,2021Q3,S08000024,Colorectal,149,142,NHS Lothian
+7089,2021Q3,S08000024,Colorectal,4,4,NHS Lothian
+7111,2021Q4,S08000024,Colorectal,3,3,NHS Lothian
+7120,2021Q4,S08000024,Colorectal,1,1,NHS Lothian
+7132,2021Q4,S08000024,Colorectal,150,141,NHS Lothian
+7142,2021Q4,S08000024,Colorectal,1,1,NHS Lothian
+7168,2022Q1,S08000024,Colorectal,2,2,NHS Lothian
+7179,2022Q1,S08000024,Colorectal,110,100,NHS Lothian
+7190,2022Q1,S08000024,Colorectal,6,5,NHS Lothian
+7198,2022Q1,S08000024,Colorectal,1,1,NHS Lothian
+7215,2022Q2,S08000024,Colorectal,4,4,NHS Lothian
+7234,2022Q2,S08000024,Colorectal,127,121,NHS Lothian
+7245,2022Q2,S08000024,Colorectal,5,5,NHS Lothian
+7265,2022Q3,S08000024,Colorectal,2,2,NHS Lothian
+7274,2022Q3,S08000024,Colorectal,3,3,NHS Lothian
+7284,2022Q3,S08000024,Colorectal,102,91,NHS Lothian
+7294,2022Q3,S08000024,Colorectal,5,5,NHS Lothian
+7302,2022Q3,S08000024,Colorectal,1,1,NHS Lothian
+7314,2022Q4,S08000024,Colorectal,2,2,NHS Lothian
+7320,2022Q4,S08000024,Colorectal,3,2,NHS Lothian
+7327,2022Q4,S08000024,Colorectal,1,1,NHS Lothian
+7333,2022Q4,S08000024,Colorectal,132,119,NHS Lothian
+7343,2022Q4,S08000024,Colorectal,4,4,NHS Lothian
+7364,2023Q1,S08000024,Colorectal,2,2,NHS Lothian
+7370,2023Q1,S08000024,Colorectal,2,2,NHS Lothian
+7384,2023Q1,S08000024,Colorectal,107,95,NHS Lothian
+7394,2023Q1,S08000024,Colorectal,2,2,NHS Lothian
+7415,2012Q1,S08000019,Colorectal,43,42,NHS Forth Valley
+7426,2012Q2,S08000019,Colorectal,49,47,NHS Forth Valley
+7439,2012Q3,S08000019,Colorectal,31,28,NHS Forth Valley
+7449,2012Q4,S08000019,Colorectal,48,46,NHS Forth Valley
+7459,2013Q1,S08000019,Colorectal,53,51,NHS Forth Valley
+7468,2013Q2,S08000019,Colorectal,45,42,NHS Forth Valley
+7479,2013Q3,S08000019,Colorectal,31,31,NHS Forth Valley
+7490,2013Q4,S08000019,Colorectal,28,27,NHS Forth Valley
+7502,2014Q1,S08000019,Colorectal,34,32,NHS Forth Valley
+7514,2014Q2,S08000019,Colorectal,32,32,NHS Forth Valley
+7525,2014Q3,S08000019,Colorectal,36,35,NHS Forth Valley
+7536,2014Q4,S08000019,Colorectal,40,40,NHS Forth Valley
+7548,2015Q1,S08000019,Colorectal,38,37,NHS Forth Valley
+7560,2015Q2,S08000019,Colorectal,47,46,NHS Forth Valley
+7570,2015Q3,S08000019,Colorectal,36,36,NHS Forth Valley
+7580,2015Q4,S08000019,Colorectal,33,31,NHS Forth Valley
+7591,2016Q1,S08000019,Colorectal,44,42,NHS Forth Valley
+7601,2016Q2,S08000019,Colorectal,34,33,NHS Forth Valley
+7612,2016Q3,S08000019,Colorectal,33,30,NHS Forth Valley
+7622,2016Q4,S08000019,Colorectal,49,49,NHS Forth Valley
+7634,2017Q1,S08000019,Colorectal,45,45,NHS Forth Valley
+7644,2017Q1,S08000019,Colorectal,1,1,NHS Forth Valley
+7648,2017Q2,S08000019,Colorectal,52,51,NHS Forth Valley
+7659,2017Q3,S08000019,Colorectal,49,45,NHS Forth Valley
+7669,2017Q4,S08000019,Colorectal,35,35,NHS Forth Valley
+7680,2018Q1,S08000019,Colorectal,43,40,NHS Forth Valley
+7691,2018Q2,S08000019,Colorectal,52,48,NHS Forth Valley
+7702,2018Q3,S08000019,Colorectal,51,46,NHS Forth Valley
+7713,2018Q4,S08000019,Colorectal,42,42,NHS Forth Valley
+7724,2019Q1,S08000019,Colorectal,46,42,NHS Forth Valley
+7736,2019Q2,S08000019,Colorectal,47,42,NHS Forth Valley
+7746,2019Q3,S08000019,Colorectal,42,41,NHS Forth Valley
+7758,2019Q4,S08000019,Colorectal,46,45,NHS Forth Valley
+7770,2020Q1,S08000019,Colorectal,60,59,NHS Forth Valley
+7782,2020Q2,S08000019,Colorectal,26,25,NHS Forth Valley
+7793,2020Q3,S08000019,Colorectal,24,23,NHS Forth Valley
+7885,2020Q4,S08000019,Colorectal,42,42,NHS Forth Valley
+7899,2021Q1,S08000019,Colorectal,48,48,NHS Forth Valley
+7913,2021Q2,S08000019,Colorectal,45,43,NHS Forth Valley
+7926,2021Q3,S08000019,Colorectal,50,49,NHS Forth Valley
+7937,2021Q4,S08000019,Colorectal,43,43,NHS Forth Valley
+7950,2022Q1,S08000019,Colorectal,61,59,NHS Forth Valley
+7962,2022Q2,S08000019,Colorectal,46,46,NHS Forth Valley
+7976,2022Q3,S08000019,Colorectal,36,35,NHS Forth Valley
+7991,2022Q4,S08000019,Colorectal,38,34,NHS Forth Valley
+8005,2023Q1,S08000019,Colorectal,27,27,NHS Forth Valley
+8020,2012Q1,S08000022,Colorectal,38,36,NHS Highland
+8028,2012Q1,S08000022,Colorectal,2,2,NHS Highland
+8032,2012Q1,S08000022,Colorectal,2,2,NHS Highland
+8036,2012Q2,S08000022,Colorectal,45,45,NHS Highland
+8044,2012Q2,S08000022,Colorectal,3,3,NHS Highland
+8048,2012Q2,S08000022,Colorectal,2,2,NHS Highland
+8051,2012Q3,S08000022,Colorectal,37,36,NHS Highland
+8059,2012Q3,S08000022,Colorectal,2,1,NHS Highland
+8064,2012Q4,S08000022,Colorectal,48,45,NHS Highland
+8072,2012Q4,S08000022,Colorectal,2,1,NHS Highland
+8078,2012Q4,S08000022,Colorectal,3,3,NHS Highland
+8082,2013Q1,S08000022,Colorectal,55,52,NHS Highland
+8090,2013Q1,S08000022,Colorectal,1,1,NHS Highland
+8091,2013Q1,S08000022,Colorectal,1,1,NHS Highland
+8098,2013Q2,S08000022,Colorectal,51,51,NHS Highland
+8106,2013Q2,S08000022,Colorectal,4,4,NHS Highland
+8113,2013Q3,S08000022,Colorectal,56,54,NHS Highland
+8121,2013Q3,S08000022,Colorectal,1,1,NHS Highland
+8127,2013Q3,S08000022,Colorectal,1,1,NHS Highland
+8132,2013Q4,S08000022,Colorectal,48,48,NHS Highland
+8140,2013Q4,S08000022,Colorectal,1,1,NHS Highland
+8148,2014Q1,S08000022,Colorectal,42,42,NHS Highland
+8156,2014Q1,S08000022,Colorectal,2,2,NHS Highland
+8165,2014Q2,S08000022,Colorectal,42,40,NHS Highland
+8173,2014Q2,S08000022,Colorectal,5,5,NHS Highland
+8180,2014Q2,S08000022,Colorectal,1,1,NHS Highland
+8184,2014Q3,S08000022,Colorectal,36,36,NHS Highland
+8193,2014Q3,S08000022,Colorectal,1,1,NHS Highland
+8196,2014Q3,S08000022,Colorectal,3,3,NHS Highland
+8199,2014Q4,S08000022,Colorectal,37,36,NHS Highland
+8207,2014Q4,S08000022,Colorectal,3,3,NHS Highland
+8210,2014Q4,S08000022,Colorectal,1,1,NHS Highland
+8213,2015Q1,S08000022,Colorectal,1,1,NHS Highland
+8217,2015Q1,S08000022,Colorectal,40,40,NHS Highland
+8225,2015Q1,S08000022,Colorectal,2,2,NHS Highland
+8233,2015Q2,S08000022,Colorectal,53,51,NHS Highland
+8241,2015Q2,S08000022,Colorectal,3,2,NHS Highland
+8247,2015Q3,S08000022,Colorectal,46,44,NHS Highland
+8255,2015Q3,S08000022,Colorectal,2,2,NHS Highland
+8263,2015Q4,S08000022,Colorectal,1,1,NHS Highland
+8268,2015Q4,S08000022,Colorectal,48,46,NHS Highland
+8276,2015Q4,S08000022,Colorectal,1,1,NHS Highland
+8281,2016Q1,S08000022,Colorectal,48,45,NHS Highland
+8289,2016Q1,S08000022,Colorectal,6,5,NHS Highland
+8294,2016Q2,S08000022,Colorectal,49,47,NHS Highland
+8302,2016Q2,S08000022,Colorectal,1,1,NHS Highland
+8307,2016Q2,S08000022,Colorectal,1,1,NHS Highland
+8315,2016Q3,S08000022,Colorectal,39,38,NHS Highland
+8323,2016Q3,S08000022,Colorectal,2,2,NHS Highland
+8329,2016Q4,S08000022,Colorectal,38,37,NHS Highland
+8337,2016Q4,S08000022,Colorectal,3,3,NHS Highland
+8345,2017Q1,S08000022,Colorectal,44,42,NHS Highland
+8354,2017Q1,S08000022,Colorectal,1,1,NHS Highland
+8363,2017Q2,S08000022,Colorectal,64,62,NHS Highland
+8373,2017Q2,S08000022,Colorectal,1,1,NHS Highland
+8379,2017Q3,S08000022,Colorectal,35,32,NHS Highland
+8387,2017Q3,S08000022,Colorectal,5,4,NHS Highland
+8396,2017Q4,S08000022,Colorectal,38,36,NHS Highland
+8405,2017Q4,S08000022,Colorectal,4,3,NHS Highland
+8410,2018Q1,S08000022,Colorectal,1,1,NHS Highland
+8414,2018Q1,S08000022,Colorectal,43,40,NHS Highland
+8423,2018Q1,S08000022,Colorectal,6,5,NHS Highland
+8431,2018Q2,S08000022,Colorectal,47,42,NHS Highland
+8446,2018Q3,S08000022,Colorectal,47,47,NHS Highland
+8455,2018Q3,S08000022,Colorectal,5,3,NHS Highland
+8464,2018Q4,S08000022,Colorectal,45,44,NHS Highland
+8473,2018Q4,S08000022,Colorectal,2,1,NHS Highland
+8480,2019Q1,S08000022,Colorectal,53,51,NHS Highland
+8489,2019Q1,S08000022,Colorectal,2,0,NHS Highland
+8494,2019Q2,S08000022,Colorectal,1,1,NHS Highland
+8498,2019Q2,S08000022,Colorectal,65,57,NHS Highland
+8506,2019Q2,S08000022,Colorectal,5,5,NHS Highland
+8512,2019Q3,S08000022,Colorectal,1,1,NHS Highland
+8516,2019Q3,S08000022,Colorectal,57,51,NHS Highland
+8524,2019Q3,S08000022,Colorectal,6,5,NHS Highland
+8531,2019Q3,S08000022,Colorectal,1,1,NHS Highland
+8534,2019Q4,S08000022,Colorectal,54,53,NHS Highland
+8542,2019Q4,S08000022,Colorectal,1,1,NHS Highland
+8547,2020Q1,S08000022,Colorectal,2,2,NHS Highland
+8551,2020Q1,S08000022,Colorectal,47,45,NHS Highland
+8559,2020Q1,S08000022,Colorectal,6,5,NHS Highland
+8568,2020Q2,S08000022,Colorectal,36,35,NHS Highland
+8576,2020Q2,S08000022,Colorectal,2,1,NHS Highland
+8585,2020Q3,S08000022,Colorectal,25,24,NHS Highland
+8593,2020Q3,S08000022,Colorectal,1,1,NHS Highland
+8720,2020Q4,S08000022,Colorectal,50,48,NHS Highland
+8728,2020Q4,S08000022,Colorectal,4,4,NHS Highland
+8738,2021Q1,S08000022,Colorectal,52,46,NHS Highland
+8746,2021Q1,S08000022,Colorectal,3,3,NHS Highland
+8759,2021Q2,S08000022,Colorectal,58,57,NHS Highland
+8767,2021Q2,S08000022,Colorectal,5,5,NHS Highland
+8779,2021Q3,S08000022,Colorectal,58,55,NHS Highland
+8787,2021Q3,S08000022,Colorectal,7,7,NHS Highland
+8797,2021Q4,S08000022,Colorectal,58,57,NHS Highland
+8805,2021Q4,S08000022,Colorectal,8,7,NHS Highland
+8813,2022Q1,S08000022,Colorectal,49,48,NHS Highland
+8821,2022Q1,S08000022,Colorectal,5,5,NHS Highland
+8829,2022Q2,S08000022,Colorectal,52,50,NHS Highland
+8837,2022Q2,S08000022,Colorectal,5,5,NHS Highland
+8848,2022Q3,S08000022,Colorectal,54,54,NHS Highland
+8856,2022Q3,S08000022,Colorectal,3,2,NHS Highland
+8867,2022Q4,S08000022,Colorectal,54,53,NHS Highland
+8875,2022Q4,S08000022,Colorectal,4,3,NHS Highland
+8887,2023Q1,S08000022,Colorectal,55,52,NHS Highland
+8895,2023Q1,S08000022,Colorectal,3,3,NHS Highland
+8907,2012Q1,S08000029,Colorectal,42,42,NHS Fife
+8917,2012Q2,S08000029,Colorectal,48,48,NHS Fife
+8927,2012Q3,S08000029,Colorectal,58,57,NHS Fife
+8939,2012Q4,S08000029,Colorectal,43,43,NHS Fife
+8950,2013Q1,S08000029,Colorectal,40,40,NHS Fife
+8961,2013Q2,S08000029,Colorectal,49,49,NHS Fife
+8972,2013Q3,S08000029,Colorectal,47,46,NHS Fife
+8982,2013Q4,S08000029,Colorectal,42,42,NHS Fife
+8993,2014Q1,S08000029,Colorectal,60,60,NHS Fife
+9003,2014Q2,S08000029,Colorectal,43,42,NHS Fife
+9014,2014Q3,S08000029,Colorectal,47,47,NHS Fife
+9026,2014Q4,S08000029,Colorectal,54,54,NHS Fife
+9036,2015Q1,S08000029,Colorectal,37,37,NHS Fife
+9047,2015Q2,S08000029,Colorectal,46,46,NHS Fife
+9058,2015Q3,S08000029,Colorectal,44,42,NHS Fife
+9066,2015Q3,S08000029,Colorectal,1,1,NHS Fife
+9070,2015Q4,S08000029,Colorectal,49,48,NHS Fife
+9081,2016Q1,S08000029,Colorectal,41,41,NHS Fife
+9093,2016Q2,S08000029,Colorectal,39,39,NHS Fife
+9103,2016Q3,S08000029,Colorectal,49,48,NHS Fife
+9114,2016Q4,S08000029,Colorectal,45,45,NHS Fife
+9125,2017Q1,S08000029,Colorectal,44,44,NHS Fife
+9136,2017Q2,S08000029,Colorectal,39,39,NHS Fife
+9147,2017Q3,S08000029,Colorectal,51,51,NHS Fife
+9157,2017Q4,S08000029,Colorectal,51,51,NHS Fife
+9168,2018Q1,S08000029,Colorectal,46,46,NHS Fife
+9179,2018Q2,S08000029,Colorectal,41,41,NHS Fife
+9191,2018Q3,S08000029,Colorectal,53,53,NHS Fife
+9202,2018Q4,S08000029,Colorectal,70,70,NHS Fife
+9212,2019Q1,S08000029,Colorectal,63,61,NHS Fife
+9223,2019Q2,S08000029,Colorectal,58,57,NHS Fife
+9234,2019Q3,S08000029,Colorectal,59,59,NHS Fife
+9245,2019Q4,S08000029,Colorectal,55,55,NHS Fife
+9256,2020Q1,S08000029,Colorectal,54,52,NHS Fife
+9267,2020Q2,S08000029,Colorectal,35,33,NHS Fife
+9277,2020Q3,S08000029,Colorectal,42,42,NHS Fife
+9358,2020Q4,S08000029,Colorectal,40,40,NHS Fife
+9371,2021Q1,S08000029,Colorectal,47,47,NHS Fife
+9384,2021Q2,S08000029,Colorectal,49,49,NHS Fife
+9397,2021Q3,S08000029,Colorectal,59,59,NHS Fife
+9409,2021Q4,S08000029,Colorectal,52,52,NHS Fife
+9422,2022Q1,S08000029,Colorectal,42,42,NHS Fife
+9436,2022Q2,S08000029,Colorectal,53,52,NHS Fife
+9448,2022Q3,S08000029,Colorectal,68,68,NHS Fife
+9460,2022Q4,S08000029,Colorectal,49,49,NHS Fife
+9474,2023Q1,S08000029,Colorectal,48,47,NHS Fife
+9489,2012Q1,S08000030,Colorectal,77,75,NHS Tayside
+9501,2012Q2,S08000030,Colorectal,68,68,NHS Tayside
+9515,2012Q3,S08000030,Colorectal,70,70,NHS Tayside
+9527,2012Q4,S08000030,Colorectal,65,63,NHS Tayside
+9536,2013Q1,S08000030,Colorectal,1,1,NHS Tayside
+9542,2013Q1,S08000030,Colorectal,66,66,NHS Tayside
+9551,2013Q2,S08000030,Colorectal,1,1,NHS Tayside
+9555,2013Q2,S08000030,Colorectal,67,67,NHS Tayside
+9564,2013Q3,S08000030,Colorectal,1,1,NHS Tayside
+9569,2013Q3,S08000030,Colorectal,77,72,NHS Tayside
+9584,2013Q4,S08000030,Colorectal,86,85,NHS Tayside
+9595,2014Q1,S08000030,Colorectal,79,74,NHS Tayside
+9609,2014Q2,S08000030,Colorectal,76,76,NHS Tayside
+9616,2014Q3,S08000030,Colorectal,1,1,NHS Tayside
+9621,2014Q3,S08000030,Colorectal,73,71,NHS Tayside
+9631,2014Q4,S08000030,Colorectal,85,85,NHS Tayside
+9638,2015Q1,S08000030,Colorectal,1,1,NHS Tayside
+9645,2015Q1,S08000030,Colorectal,68,67,NHS Tayside
+9659,2015Q2,S08000030,Colorectal,70,70,NHS Tayside
+9671,2015Q3,S08000030,Colorectal,78,76,NHS Tayside
+9685,2015Q4,S08000030,Colorectal,87,86,NHS Tayside
+9693,2016Q1,S08000030,Colorectal,1,1,NHS Tayside
+9701,2016Q1,S08000030,Colorectal,63,62,NHS Tayside
+9716,2016Q2,S08000030,Colorectal,82,80,NHS Tayside
+9724,2016Q2,S08000030,Colorectal,1,1,NHS Tayside
+9732,2016Q3,S08000030,Colorectal,72,69,NHS Tayside
+9740,2016Q4,S08000030,Colorectal,1,1,NHS Tayside
+9747,2016Q4,S08000030,Colorectal,96,92,NHS Tayside
+9760,2017Q1,S08000030,Colorectal,75,71,NHS Tayside
+9774,2017Q2,S08000030,Colorectal,84,81,NHS Tayside
+9783,2017Q3,S08000030,Colorectal,1,1,NHS Tayside
+9790,2017Q3,S08000030,Colorectal,61,59,NHS Tayside
+9805,2017Q4,S08000030,Colorectal,63,61,NHS Tayside
+9820,2018Q1,S08000030,Colorectal,91,90,NHS Tayside
+9835,2018Q2,S08000030,Colorectal,79,79,NHS Tayside
+9844,2018Q3,S08000030,Colorectal,1,1,NHS Tayside
+9850,2018Q3,S08000030,Colorectal,67,64,NHS Tayside
+9865,2018Q4,S08000030,Colorectal,78,75,NHS Tayside
+9879,2019Q1,S08000030,Colorectal,62,61,NHS Tayside
+9893,2019Q2,S08000030,Colorectal,73,73,NHS Tayside
+9909,2019Q3,S08000030,Colorectal,66,66,NHS Tayside
+9923,2019Q4,S08000030,Colorectal,70,70,NHS Tayside
+9937,2020Q1,S08000030,Colorectal,84,84,NHS Tayside
+9952,2020Q2,S08000030,Colorectal,57,56,NHS Tayside
+9966,2020Q3,S08000030,Colorectal,68,68,NHS Tayside
+10088,2020Q4,S08000030,Colorectal,61,61,NHS Tayside
+10103,2021Q1,S08000030,Colorectal,47,45,NHS Tayside
+10118,2021Q2,S08000030,Colorectal,85,85,NHS Tayside
+10136,2021Q3,S08000030,Colorectal,61,61,NHS Tayside
+10153,2021Q4,S08000030,Colorectal,84,82,NHS Tayside
+10170,2022Q1,S08000030,Colorectal,67,66,NHS Tayside
+10187,2022Q2,S08000030,Colorectal,77,77,NHS Tayside
+10203,2022Q3,S08000030,Colorectal,71,70,NHS Tayside
+10220,2022Q4,S08000030,Colorectal,88,84,NHS Tayside
+10238,2023Q1,S08000030,Colorectal,73,67,NHS Tayside
+10248,2012Q1,S08000025,Colorectal,2,2,NHS Orkney
+10255,2012Q3,S08000025,Colorectal,1,1,NHS Orkney
+10257,2012Q4,S08000025,Colorectal,1,1,NHS Orkney
+10260,2013Q1,S08000025,Colorectal,1,1,NHS Orkney
+10262,2013Q2,S08000025,Colorectal,1,1,NHS Orkney
+10265,2013Q3,S08000025,Colorectal,1,1,NHS Orkney
+10268,2013Q4,S08000025,Colorectal,1,1,NHS Orkney
+10271,2014Q1,S08000025,Colorectal,1,1,NHS Orkney
+10273,2014Q2,S08000025,Colorectal,1,1,NHS Orkney
+10276,2014Q3,S08000025,Colorectal,1,1,NHS Orkney
+10279,2014Q4,S08000025,Colorectal,1,1,NHS Orkney
+10286,2015Q1,S08000025,Colorectal,1,1,NHS Orkney
+10287,2015Q2,S08000025,Colorectal,3,3,NHS Orkney
+10292,2015Q3,S08000025,Colorectal,2,2,NHS Orkney
+10299,2016Q2,S08000025,Colorectal,3,3,NHS Orkney
+10304,2016Q3,S08000025,Colorectal,2,2,NHS Orkney
+10307,2016Q4,S08000025,Colorectal,2,2,NHS Orkney
+10310,2017Q1,S08000025,Colorectal,4,4,NHS Orkney
+10315,2017Q2,S08000025,Colorectal,1,1,NHS Orkney
+10321,2017Q3,S08000025,Colorectal,1,1,NHS Orkney
+10323,2017Q4,S08000025,Colorectal,2,2,NHS Orkney
+10324,2018Q1,S08000025,Colorectal,4,4,NHS Orkney
+10330,2018Q2,S08000025,Colorectal,2,2,NHS Orkney
+10331,2018Q3,S08000025,Colorectal,2,2,NHS Orkney
+10337,2018Q4,S08000025,Colorectal,3,2,NHS Orkney
+10342,2019Q1,S08000025,Colorectal,3,3,NHS Orkney
+10346,2019Q2,S08000025,Colorectal,4,4,NHS Orkney
+10351,2019Q3,S08000025,Colorectal,1,1,NHS Orkney
+10354,2019Q4,S08000025,Colorectal,7,7,NHS Orkney
+10359,2020Q1,S08000025,Colorectal,1,1,NHS Orkney
+10367,2020Q3,S08000025,Colorectal,6,6,NHS Orkney
+10423,2020Q4,S08000025,Colorectal,4,4,NHS Orkney
+10430,2021Q1,S08000025,Colorectal,2,2,NHS Orkney
+10435,2021Q2,S08000025,Colorectal,2,2,NHS Orkney
+10447,2021Q4,S08000025,Colorectal,2,2,NHS Orkney
+10453,2022Q1,S08000025,Colorectal,2,2,NHS Orkney
+10460,2022Q2,S08000025,Colorectal,2,2,NHS Orkney
+10465,2022Q3,S08000025,Colorectal,2,2,NHS Orkney
+10472,2022Q4,S08000025,Colorectal,2,2,NHS Orkney
+10481,2023Q1,S08000025,Colorectal,1,1,NHS Orkney
+10488,2012Q1,S08000026,Colorectal,5,5,NHS Shetland
+10495,2012Q2,S08000026,Colorectal,2,2,NHS Shetland
+10503,2012Q4,S08000026,Colorectal,13,13,NHS Shetland
+10514,2013Q2,S08000026,Colorectal,7,7,NHS Shetland
+10519,2013Q3,S08000026,Colorectal,3,3,NHS Shetland
+10525,2013Q4,S08000026,Colorectal,6,6,NHS Shetland
+10529,2014Q1,S08000026,Colorectal,3,3,NHS Shetland
+10536,2014Q2,S08000026,Colorectal,3,3,NHS Shetland
+10540,2014Q3,S08000026,Colorectal,3,3,NHS Shetland
+10545,2014Q4,S08000026,Colorectal,4,4,NHS Shetland
+10550,2015Q1,S08000026,Colorectal,2,2,NHS Shetland
+10563,2015Q3,S08000026,Colorectal,4,4,NHS Shetland
+10567,2015Q4,S08000026,Colorectal,1,1,NHS Shetland
+10571,2016Q1,S08000026,Colorectal,2,2,NHS Shetland
+10579,2016Q2,S08000026,Colorectal,2,2,NHS Shetland
+10584,2016Q3,S08000026,Colorectal,2,2,NHS Shetland
+10590,2016Q4,S08000026,Colorectal,6,6,NHS Shetland
+10596,2017Q1,S08000026,Colorectal,4,4,NHS Shetland
+10602,2017Q2,S08000026,Colorectal,4,4,NHS Shetland
+10606,2017Q3,S08000026,Colorectal,1,1,NHS Shetland
+10615,2018Q1,S08000026,Colorectal,6,6,NHS Shetland
+10621,2018Q2,S08000026,Colorectal,1,1,NHS Shetland
+10626,2018Q3,S08000026,Colorectal,1,1,NHS Shetland
+10630,2018Q3,S08000026,Colorectal,1,1,NHS Shetland
+10638,2018Q4,S08000026,Colorectal,5,5,NHS Shetland
+10645,2019Q1,S08000026,Colorectal,3,3,NHS Shetland
+10651,2019Q2,S08000026,Colorectal,3,3,NHS Shetland
+10659,2019Q3,S08000026,Colorectal,5,5,NHS Shetland
+10664,2019Q4,S08000026,Colorectal,1,1,NHS Shetland
+10666,2019Q4,S08000026,Colorectal,3,3,NHS Shetland
+10673,2020Q1,S08000026,Colorectal,1,1,NHS Shetland
+10677,2020Q2,S08000026,Colorectal,1,1,NHS Shetland
+10683,2020Q3,S08000026,Colorectal,2,2,NHS Shetland
+10744,2020Q4,S08000026,Colorectal,1,1,NHS Shetland
+10752,2021Q1,S08000026,Colorectal,2,2,NHS Shetland
+10758,2021Q2,S08000026,Colorectal,2,2,NHS Shetland
+10763,2021Q3,S08000026,Colorectal,7,7,NHS Shetland
+10768,2021Q4,S08000026,Colorectal,1,1,NHS Shetland
+10776,2022Q1,S08000026,Colorectal,3,3,NHS Shetland
+10785,2022Q2,S08000026,Colorectal,3,3,NHS Shetland
+10794,2022Q3,S08000026,Colorectal,3,3,NHS Shetland
+10803,2022Q4,S08000026,Colorectal,3,3,NHS Shetland
+10810,2023Q1,S08000026,Colorectal,1,1,NHS Shetland
+10811,2023Q1,S08000026,Colorectal,1,1,NHS Shetland
+10818,2012Q1,S08000028,Colorectal,5,5,NHS Western Isles
+10824,2012Q2,S08000028,Colorectal,4,4,NHS Western Isles
+10828,2012Q3,S08000028,Colorectal,4,4,NHS Western Isles
+10832,2012Q4,S08000028,Colorectal,3,3,NHS Western Isles
+10838,2013Q1,S08000028,Colorectal,2,2,NHS Western Isles
+10843,2013Q2,S08000028,Colorectal,3,3,NHS Western Isles
+10847,2013Q3,S08000028,Colorectal,4,4,NHS Western Isles
+10852,2013Q4,S08000028,Colorectal,4,4,NHS Western Isles
+10859,2014Q1,S08000028,Colorectal,1,1,NHS Western Isles
+10864,2014Q2,S08000028,Colorectal,2,2,NHS Western Isles
+10868,2014Q3,S08000028,Colorectal,4,4,NHS Western Isles
+10874,2014Q4,S08000028,Colorectal,3,3,NHS Western Isles
+10879,2015Q1,S08000028,Colorectal,1,1,NHS Western Isles
+10892,2015Q3,S08000028,Colorectal,5,5,NHS Western Isles
+10897,2015Q4,S08000028,Colorectal,1,1,NHS Western Isles
+10902,2016Q1,S08000028,Colorectal,2,2,NHS Western Isles
+10908,2016Q2,S08000028,Colorectal,3,3,NHS Western Isles
+10915,2016Q3,S08000028,Colorectal,1,1,NHS Western Isles
+10927,2017Q1,S08000028,Colorectal,4,4,NHS Western Isles
+10931,2017Q2,S08000028,Colorectal,1,1,NHS Western Isles
+10942,2017Q4,S08000028,Colorectal,1,1,NHS Western Isles
+10948,2018Q1,S08000028,Colorectal,2,2,NHS Western Isles
+10954,2018Q2,S08000028,Colorectal,1,1,NHS Western Isles
+10962,2018Q3,S08000028,Colorectal,2,2,NHS Western Isles
+10972,2019Q1,S08000028,Colorectal,4,4,NHS Western Isles
+10977,2019Q2,S08000028,Colorectal,3,3,NHS Western Isles
+10983,2019Q3,S08000028,Colorectal,5,5,NHS Western Isles
+10991,2019Q4,S08000028,Colorectal,4,4,NHS Western Isles
+11001,2020Q2,S08000028,Colorectal,3,3,NHS Western Isles
+11071,2020Q4,S08000028,Colorectal,2,2,NHS Western Isles
+11082,2021Q2,S08000028,Colorectal,3,3,NHS Western Isles
+11090,2021Q3,S08000028,Colorectal,6,6,NHS Western Isles
+11098,2021Q4,S08000028,Colorectal,5,5,NHS Western Isles
+11103,2022Q1,S08000028,Colorectal,2,2,NHS Western Isles
+11111,2022Q2,S08000028,Colorectal,3,3,NHS Western Isles
+11120,2022Q3,S08000028,Colorectal,1,1,NHS Western Isles
+11122,2022Q3,S08000028,Colorectal,3,3,NHS Western Isles
+11134,2022Q4,S08000028,Colorectal,1,1,NHS Western Isles
+11151,2012Q1,S08000032,Colorectal,68,68,NHS Lanarkshire
+11162,2012Q2,S08000032,Colorectal,73,72,NHS Lanarkshire
+11171,2012Q3,S08000032,Colorectal,1,1,NHS Lanarkshire
+11174,2012Q3,S08000032,Colorectal,60,60,NHS Lanarkshire
+11185,2012Q4,S08000032,Colorectal,70,69,NHS Lanarkshire
+11197,2013Q1,S08000032,Colorectal,66,66,NHS Lanarkshire
+11205,2013Q2,S08000032,Colorectal,1,1,NHS Lanarkshire
+11209,2013Q2,S08000032,Colorectal,71,71,NHS Lanarkshire
+11220,2013Q3,S08000032,Colorectal,54,54,NHS Lanarkshire
+11232,2013Q4,S08000032,Colorectal,72,72,NHS Lanarkshire
+11244,2014Q1,S08000032,Colorectal,68,68,NHS Lanarkshire
+11255,2014Q2,S08000032,Colorectal,74,74,NHS Lanarkshire
+11267,2014Q3,S08000032,Colorectal,72,72,NHS Lanarkshire
+11278,2014Q4,S08000032,Colorectal,68,68,NHS Lanarkshire
+11290,2015Q1,S08000032,Colorectal,65,65,NHS Lanarkshire
+11302,2015Q2,S08000032,Colorectal,62,62,NHS Lanarkshire
+11314,2015Q3,S08000032,Colorectal,63,60,NHS Lanarkshire
+11326,2015Q4,S08000032,Colorectal,66,61,NHS Lanarkshire
+11335,2016Q1,S08000032,Colorectal,1,1,NHS Lanarkshire
+11339,2016Q1,S08000032,Colorectal,69,66,NHS Lanarkshire
+11350,2016Q2,S08000032,Colorectal,66,65,NHS Lanarkshire
+11362,2016Q3,S08000032,Colorectal,65,65,NHS Lanarkshire
+11375,2016Q4,S08000032,Colorectal,67,67,NHS Lanarkshire
+11387,2017Q1,S08000032,Colorectal,72,72,NHS Lanarkshire
+11399,2017Q2,S08000032,Colorectal,69,68,NHS Lanarkshire
+11411,2017Q3,S08000032,Colorectal,79,79,NHS Lanarkshire
+11421,2017Q4,S08000032,Colorectal,1,1,NHS Lanarkshire
+11424,2017Q4,S08000032,Colorectal,72,71,NHS Lanarkshire
+11436,2018Q1,S08000032,Colorectal,59,59,NHS Lanarkshire
+11448,2018Q2,S08000032,Colorectal,79,76,NHS Lanarkshire
+11459,2018Q3,S08000032,Colorectal,72,72,NHS Lanarkshire
+11472,2018Q4,S08000032,Colorectal,56,56,NHS Lanarkshire
+11484,2019Q1,S08000032,Colorectal,79,79,NHS Lanarkshire
+11497,2019Q2,S08000032,Colorectal,80,76,NHS Lanarkshire
+11509,2019Q3,S08000032,Colorectal,71,71,NHS Lanarkshire
+11521,2019Q4,S08000032,Colorectal,80,79,NHS Lanarkshire
+11534,2020Q1,S08000032,Colorectal,89,87,NHS Lanarkshire
+11546,2020Q2,S08000032,Colorectal,47,41,NHS Lanarkshire
+11558,2020Q3,S08000032,Colorectal,68,65,NHS Lanarkshire
+11664,2020Q4,S08000032,Colorectal,1,1,NHS Lanarkshire
+11667,2020Q4,S08000032,Colorectal,80,79,NHS Lanarkshire
+11681,2021Q1,S08000032,Colorectal,71,68,NHS Lanarkshire
+11694,2021Q2,S08000032,Colorectal,81,81,NHS Lanarkshire
+11708,2021Q3,S08000032,Colorectal,86,84,NHS Lanarkshire
+11724,2021Q4,S08000032,Colorectal,120,118,NHS Lanarkshire
+11740,2022Q1,S08000032,Colorectal,83,80,NHS Lanarkshire
+11755,2022Q2,S08000032,Colorectal,92,87,NHS Lanarkshire
+11770,2022Q3,S08000032,Colorectal,80,72,NHS Lanarkshire
+11786,2022Q4,S08000032,Colorectal,107,105,NHS Lanarkshire
+11801,2023Q1,S08000032,Colorectal,98,91,NHS Lanarkshire

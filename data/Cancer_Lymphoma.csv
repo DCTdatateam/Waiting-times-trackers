@@ -1,768 +1,774 @@
 ,Quarter,HBT,Cancer type,Number of eligible referrals,Number of eligible referrals treated within 31 days,Health board
-6,2012Q1,S08000015,Lymphoma,25,25,NHS Ayrshire and Arran
-17,2012Q2,S08000015,Lymphoma,20,20,NHS Ayrshire and Arran
-28,2012Q3,S08000015,Lymphoma,12,12,NHS Ayrshire and Arran
-39,2012Q4,S08000015,Lymphoma,5,5,NHS Ayrshire and Arran
-50,2013Q1,S08000015,Lymphoma,10,10,NHS Ayrshire and Arran
-61,2013Q2,S08000015,Lymphoma,6,6,NHS Ayrshire and Arran
-72,2013Q3,S08000015,Lymphoma,15,15,NHS Ayrshire and Arran
-82,2013Q4,S08000015,Lymphoma,13,13,NHS Ayrshire and Arran
-93,2014Q1,S08000015,Lymphoma,10,10,NHS Ayrshire and Arran
-106,2014Q2,S08000015,Lymphoma,16,16,NHS Ayrshire and Arran
-117,2014Q3,S08000015,Lymphoma,17,17,NHS Ayrshire and Arran
-128,2014Q4,S08000015,Lymphoma,15,15,NHS Ayrshire and Arran
-139,2015Q1,S08000015,Lymphoma,22,22,NHS Ayrshire and Arran
-150,2015Q2,S08000015,Lymphoma,13,13,NHS Ayrshire and Arran
-161,2015Q3,S08000015,Lymphoma,19,19,NHS Ayrshire and Arran
-172,2015Q4,S08000015,Lymphoma,14,14,NHS Ayrshire and Arran
-182,2016Q1,S08000015,Lymphoma,15,15,NHS Ayrshire and Arran
-193,2016Q2,S08000015,Lymphoma,14,14,NHS Ayrshire and Arran
-203,2016Q3,S08000015,Lymphoma,22,22,NHS Ayrshire and Arran
-214,2016Q4,S08000015,Lymphoma,14,14,NHS Ayrshire and Arran
-225,2017Q1,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
-236,2017Q2,S08000015,Lymphoma,22,22,NHS Ayrshire and Arran
-247,2017Q3,S08000015,Lymphoma,12,12,NHS Ayrshire and Arran
-257,2017Q4,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
-268,2018Q1,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
-278,2018Q2,S08000015,Lymphoma,12,12,NHS Ayrshire and Arran
-289,2018Q3,S08000015,Lymphoma,1,1,NHS Ayrshire and Arran
-302,2018Q4,S08000015,Lymphoma,2,2,NHS Ayrshire and Arran
-313,2019Q1,S08000015,Lymphoma,5,5,NHS Ayrshire and Arran
-324,2019Q2,S08000015,Lymphoma,4,4,NHS Ayrshire and Arran
-335,2019Q3,S08000015,Lymphoma,12,12,NHS Ayrshire and Arran
-348,2019Q4,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
-359,2020Q1,S08000015,Lymphoma,13,12,NHS Ayrshire and Arran
-372,2020Q2,S08000015,Lymphoma,14,14,NHS Ayrshire and Arran
-382,2020Q3,S08000015,Lymphoma,10,10,NHS Ayrshire and Arran
-393,2020Q4,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
-404,2021Q1,S08000015,Lymphoma,5,5,NHS Ayrshire and Arran
-416,2021Q2,S08000015,Lymphoma,18,18,NHS Ayrshire and Arran
-429,2021Q3,S08000015,Lymphoma,13,13,NHS Ayrshire and Arran
+5,2012Q1,S08000015,Lymphoma,25,25,NHS Ayrshire and Arran
+15,2012Q2,S08000015,Lymphoma,20,20,NHS Ayrshire and Arran
+25,2012Q3,S08000015,Lymphoma,12,12,NHS Ayrshire and Arran
+35,2012Q4,S08000015,Lymphoma,5,5,NHS Ayrshire and Arran
+45,2013Q1,S08000015,Lymphoma,10,10,NHS Ayrshire and Arran
+55,2013Q2,S08000015,Lymphoma,6,6,NHS Ayrshire and Arran
+65,2013Q3,S08000015,Lymphoma,15,15,NHS Ayrshire and Arran
+74,2013Q4,S08000015,Lymphoma,13,13,NHS Ayrshire and Arran
+84,2014Q1,S08000015,Lymphoma,10,10,NHS Ayrshire and Arran
+95,2014Q2,S08000015,Lymphoma,16,16,NHS Ayrshire and Arran
+105,2014Q3,S08000015,Lymphoma,17,17,NHS Ayrshire and Arran
+115,2014Q4,S08000015,Lymphoma,15,15,NHS Ayrshire and Arran
+125,2015Q1,S08000015,Lymphoma,22,22,NHS Ayrshire and Arran
+135,2015Q2,S08000015,Lymphoma,13,13,NHS Ayrshire and Arran
+145,2015Q3,S08000015,Lymphoma,19,19,NHS Ayrshire and Arran
+155,2015Q4,S08000015,Lymphoma,14,14,NHS Ayrshire and Arran
+164,2016Q1,S08000015,Lymphoma,15,15,NHS Ayrshire and Arran
+174,2016Q2,S08000015,Lymphoma,14,14,NHS Ayrshire and Arran
+183,2016Q3,S08000015,Lymphoma,22,22,NHS Ayrshire and Arran
+193,2016Q4,S08000015,Lymphoma,14,14,NHS Ayrshire and Arran
+203,2017Q1,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
+213,2017Q2,S08000015,Lymphoma,22,22,NHS Ayrshire and Arran
+223,2017Q3,S08000015,Lymphoma,12,12,NHS Ayrshire and Arran
+232,2017Q4,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
+242,2018Q1,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
+251,2018Q2,S08000015,Lymphoma,12,12,NHS Ayrshire and Arran
+261,2018Q3,S08000015,Lymphoma,1,1,NHS Ayrshire and Arran
+272,2018Q4,S08000015,Lymphoma,2,2,NHS Ayrshire and Arran
+282,2019Q1,S08000015,Lymphoma,5,5,NHS Ayrshire and Arran
+292,2019Q2,S08000015,Lymphoma,4,4,NHS Ayrshire and Arran
+302,2019Q3,S08000015,Lymphoma,12,12,NHS Ayrshire and Arran
+313,2019Q4,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
+323,2020Q1,S08000015,Lymphoma,13,12,NHS Ayrshire and Arran
+334,2020Q2,S08000015,Lymphoma,14,14,NHS Ayrshire and Arran
+343,2020Q3,S08000015,Lymphoma,10,10,NHS Ayrshire and Arran
+392,2020Q4,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
+403,2021Q1,S08000015,Lymphoma,5,5,NHS Ayrshire and Arran
+415,2021Q2,S08000015,Lymphoma,18,18,NHS Ayrshire and Arran
+428,2021Q3,S08000015,Lymphoma,13,13,NHS Ayrshire and Arran
 438,2021Q4,S08000015,Lymphoma,16,16,NHS Ayrshire and Arran
-453,2021Q4,S08000015,Lymphoma,16,16,NHS Ayrshire and Arran
-469,2022Q1,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
-482,2022Q2,S08000015,Lymphoma,22,22,NHS Ayrshire and Arran
-493,2022Q3,S08000015,Lymphoma,9,9,NHS Ayrshire and Arran
-504,2022Q4,S08000015,Lymphoma,16,16,NHS Ayrshire and Arran
-521,2012Q1,S08000017,Lymphoma,10,10,NHS Dumfries and Galloway
-531,2012Q2,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
-544,2012Q3,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
-557,2012Q4,S08000017,Lymphoma,4,4,NHS Dumfries and Galloway
-568,2013Q1,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
-578,2013Q2,S08000017,Lymphoma,17,17,NHS Dumfries and Galloway
-590,2013Q3,S08000017,Lymphoma,6,6,NHS Dumfries and Galloway
-602,2013Q4,S08000017,Lymphoma,5,5,NHS Dumfries and Galloway
-615,2014Q1,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
-627,2014Q2,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
-639,2014Q3,S08000017,Lymphoma,5,5,NHS Dumfries and Galloway
-652,2014Q4,S08000017,Lymphoma,14,14,NHS Dumfries and Galloway
-664,2015Q1,S08000017,Lymphoma,12,12,NHS Dumfries and Galloway
-677,2015Q2,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
-690,2015Q3,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
-703,2015Q4,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
-714,2016Q1,S08000017,Lymphoma,12,12,NHS Dumfries and Galloway
-726,2016Q2,S08000017,Lymphoma,6,6,NHS Dumfries and Galloway
-739,2016Q3,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
-749,2016Q4,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
-762,2017Q1,S08000017,Lymphoma,7,7,NHS Dumfries and Galloway
-775,2017Q2,S08000017,Lymphoma,7,7,NHS Dumfries and Galloway
-786,2017Q3,S08000017,Lymphoma,11,11,NHS Dumfries and Galloway
-799,2017Q4,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
-811,2018Q1,S08000017,Lymphoma,7,7,NHS Dumfries and Galloway
-824,2018Q2,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
-837,2018Q3,S08000017,Lymphoma,10,10,NHS Dumfries and Galloway
-849,2018Q4,S08000017,Lymphoma,11,11,NHS Dumfries and Galloway
-861,2019Q1,S08000017,Lymphoma,5,5,NHS Dumfries and Galloway
-874,2019Q2,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
-887,2019Q3,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
-897,2019Q4,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
-909,2020Q1,S08000017,Lymphoma,12,12,NHS Dumfries and Galloway
-920,2020Q2,S08000017,Lymphoma,10,10,NHS Dumfries and Galloway
-931,2020Q3,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
-943,2020Q4,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
-958,2021Q1,S08000017,Lymphoma,5,5,NHS Dumfries and Galloway
-970,2021Q2,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
-982,2021Q3,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
-992,2021Q4,S08000017,Lymphoma,3,3,NHS Dumfries and Galloway
-1004,2021Q4,S08000017,Lymphoma,3,3,NHS Dumfries and Galloway
-1016,2022Q1,S08000017,Lymphoma,6,6,NHS Dumfries and Galloway
-1027,2022Q2,S08000017,Lymphoma,6,6,NHS Dumfries and Galloway
-1040,2022Q3,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
-1054,2022Q4,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
-1069,2012Q1,S08000020,Lymphoma,6,6,NHS Grampian
-1088,2012Q1,S08000020,Lymphoma,2,2,NHS Grampian
-1099,2012Q2,S08000020,Lymphoma,38,37,NHS Grampian
-1110,2012Q2,S08000020,Lymphoma,2,2,NHS Grampian
-1122,2012Q3,S08000020,Lymphoma,22,22,NHS Grampian
-1132,2012Q3,S08000020,Lymphoma,1,1,NHS Grampian
-1146,2012Q4,S08000020,Lymphoma,15,15,NHS Grampian
-1154,2012Q4,S08000020,Lymphoma,1,1,NHS Grampian
-1164,2012Q4,S08000020,Lymphoma,3,3,NHS Grampian
-1175,2013Q1,S08000020,Lymphoma,24,24,NHS Grampian
-1199,2013Q2,S08000020,Lymphoma,13,13,NHS Grampian
-1222,2013Q3,S08000020,Lymphoma,10,10,NHS Grampian
-1239,2013Q3,S08000020,Lymphoma,1,1,NHS Grampian
-1248,2013Q4,S08000020,Lymphoma,27,27,NHS Grampian
-1271,2014Q1,S08000020,Lymphoma,17,17,NHS Grampian
-1287,2014Q1,S08000020,Lymphoma,2,2,NHS Grampian
-1298,2014Q2,S08000020,Lymphoma,29,29,NHS Grampian
-1310,2014Q2,S08000020,Lymphoma,3,3,NHS Grampian
-1326,2014Q3,S08000020,Lymphoma,10,10,NHS Grampian
-1340,2014Q3,S08000020,Lymphoma,1,1,NHS Grampian
-1360,2014Q4,S08000020,Lymphoma,11,11,NHS Grampian
-1383,2015Q1,S08000020,Lymphoma,34,33,NHS Grampian
-1403,2015Q2,S08000020,Lymphoma,39,36,NHS Grampian
-1417,2015Q2,S08000020,Lymphoma,1,1,NHS Grampian
-1428,2015Q3,S08000020,Lymphoma,28,26,NHS Grampian
-1435,2015Q3,S08000020,Lymphoma,1,1,NHS Grampian
-1445,2015Q3,S08000020,Lymphoma,1,1,NHS Grampian
-1456,2015Q4,S08000020,Lymphoma,36,36,NHS Grampian
-1476,2015Q4,S08000020,Lymphoma,1,1,NHS Grampian
-1485,2016Q1,S08000020,Lymphoma,27,27,NHS Grampian
-1497,2016Q1,S08000020,Lymphoma,1,1,NHS Grampian
-1503,2016Q1,S08000020,Lymphoma,1,1,NHS Grampian
-1514,2016Q2,S08000020,Lymphoma,30,30,NHS Grampian
-1524,2016Q2,S08000020,Lymphoma,2,2,NHS Grampian
-1535,2016Q3,S08000020,Lymphoma,36,35,NHS Grampian
-1552,2016Q3,S08000020,Lymphoma,2,2,NHS Grampian
-1563,2016Q4,S08000020,Lymphoma,39,39,NHS Grampian
-1581,2016Q4,S08000020,Lymphoma,2,2,NHS Grampian
-1593,2017Q1,S08000020,Lymphoma,34,32,NHS Grampian
-1626,2017Q2,S08000020,Lymphoma,24,22,NHS Grampian
-1641,2017Q2,S08000020,Lymphoma,1,1,NHS Grampian
-1656,2017Q3,S08000020,Lymphoma,33,33,NHS Grampian
-1668,2017Q3,S08000020,Lymphoma,2,2,NHS Grampian
-1680,2017Q4,S08000020,Lymphoma,29,27,NHS Grampian
-1687,2017Q4,S08000020,Lymphoma,1,1,NHS Grampian
-1710,2018Q1,S08000020,Lymphoma,33,33,NHS Grampian
-1738,2018Q2,S08000020,Lymphoma,31,30,NHS Grampian
-1751,2018Q2,S08000020,Lymphoma,2,2,NHS Grampian
-1757,2018Q2,S08000020,Lymphoma,1,1,NHS Grampian
-1771,2018Q3,S08000020,Lymphoma,36,35,NHS Grampian
-1780,2018Q3,S08000020,Lymphoma,1,1,NHS Grampian
-1785,2018Q3,S08000020,Lymphoma,1,1,NHS Grampian
-1794,2018Q4,S08000020,Lymphoma,33,31,NHS Grampian
-1806,2018Q4,S08000020,Lymphoma,1,1,NHS Grampian
-1824,2019Q1,S08000020,Lymphoma,36,35,NHS Grampian
-1841,2019Q1,S08000020,Lymphoma,1,1,NHS Grampian
-1855,2019Q2,S08000020,Lymphoma,33,32,NHS Grampian
-1867,2019Q2,S08000020,Lymphoma,1,1,NHS Grampian
-1873,2019Q2,S08000020,Lymphoma,1,1,NHS Grampian
-1886,2019Q3,S08000020,Lymphoma,42,42,NHS Grampian
-1901,2019Q3,S08000020,Lymphoma,1,1,NHS Grampian
-1916,2019Q4,S08000020,Lymphoma,38,37,NHS Grampian
-1932,2019Q4,S08000020,Lymphoma,1,1,NHS Grampian
-1942,2019Q4,S08000020,Lymphoma,1,1,NHS Grampian
-1949,2020Q1,S08000020,Lymphoma,31,31,NHS Grampian
-1966,2020Q1,S08000020,Lymphoma,1,1,NHS Grampian
-1980,2020Q2,S08000020,Lymphoma,31,30,NHS Grampian
-2005,2020Q3,S08000020,Lymphoma,34,34,NHS Grampian
-2023,2020Q3,S08000020,Lymphoma,1,1,NHS Grampian
-2035,2020Q4,S08000020,Lymphoma,32,32,NHS Grampian
-2050,2020Q4,S08000020,Lymphoma,1,1,NHS Grampian
-2060,2021Q1,S08000020,Lymphoma,31,31,NHS Grampian
-2075,2021Q1,S08000020,Lymphoma,1,1,NHS Grampian
-2088,2021Q2,S08000020,Lymphoma,28,28,NHS Grampian
-2107,2021Q2,S08000020,Lymphoma,1,1,NHS Grampian
-2120,2021Q3,S08000020,Lymphoma,47,47,NHS Grampian
-2131,2021Q3,S08000020,Lymphoma,1,1,NHS Grampian
-2138,2021Q3,S08000020,Lymphoma,1,1,NHS Grampian
-2152,2021Q4,S08000020,Lymphoma,35,35,NHS Grampian
-2177,2021Q4,S08000020,Lymphoma,35,35,NHS Grampian
-2202,2022Q1,S08000020,Lymphoma,25,25,NHS Grampian
-2215,2022Q1,S08000020,Lymphoma,2,2,NHS Grampian
-2233,2022Q2,S08000020,Lymphoma,26,26,NHS Grampian
-2244,2022Q2,S08000020,Lymphoma,1,1,NHS Grampian
-2260,2022Q3,S08000020,Lymphoma,37,37,NHS Grampian
-2287,2022Q4,S08000020,Lymphoma,29,29,NHS Grampian
-2342,2012Q1,S08000031,Lymphoma,43,43,NHS Greater Glasgow and Clyde
-2353,2012Q1,S08000031,Lymphoma,1,0,NHS Greater Glasgow and Clyde
-2364,2012Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2398,2012Q2,S08000031,Lymphoma,55,55,NHS Greater Glasgow and Clyde
-2438,2012Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-2450,2012Q3,S08000031,Lymphoma,54,54,NHS Greater Glasgow and Clyde
-2460,2012Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2481,2012Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2488,2012Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2499,2012Q4,S08000031,Lymphoma,61,61,NHS Greater Glasgow and Clyde
-2510,2012Q4,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-2552,2013Q1,S08000031,Lymphoma,60,60,NHS Greater Glasgow and Clyde
-2579,2013Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-2587,2013Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2594,2013Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-2601,2013Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2608,2013Q2,S08000031,Lymphoma,67,67,NHS Greater Glasgow and Clyde
-2619,2013Q2,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-2636,2013Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2650,2013Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2661,2013Q3,S08000031,Lymphoma,53,53,NHS Greater Glasgow and Clyde
-2672,2013Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2692,2013Q4,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-2701,2013Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2710,2013Q4,S08000031,Lymphoma,74,74,NHS Greater Glasgow and Clyde
-2737,2014Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2744,2014Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-2763,2014Q1,S08000031,Lymphoma,64,64,NHS Greater Glasgow and Clyde
-2790,2014Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-2797,2014Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-2806,2014Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2817,2014Q2,S08000031,Lymphoma,63,63,NHS Greater Glasgow and Clyde
-2828,2014Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2852,2014Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2871,2014Q3,S08000031,Lymphoma,72,72,NHS Greater Glasgow and Clyde
-2882,2014Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2899,2014Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2913,2014Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-2922,2014Q4,S08000031,Lymphoma,66,66,NHS Greater Glasgow and Clyde
-2943,2015Q1,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-2975,2015Q1,S08000031,Lymphoma,82,82,NHS Greater Glasgow and Clyde
-2985,2015Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3002,2015Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3011,2015Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3019,2015Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3032,2015Q2,S08000031,Lymphoma,58,58,NHS Greater Glasgow and Clyde
-3043,2015Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3053,2015Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3060,2015Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3067,2015Q3,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-3082,2015Q3,S08000031,Lymphoma,66,66,NHS Greater Glasgow and Clyde
-3108,2015Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3116,2015Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3135,2015Q4,S08000031,Lymphoma,63,63,NHS Greater Glasgow and Clyde
-3146,2015Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3169,2016Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3183,2016Q1,S08000031,Lymphoma,76,76,NHS Greater Glasgow and Clyde
-3194,2016Q1,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-3216,2016Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3239,2016Q2,S08000031,Lymphoma,71,70,NHS Greater Glasgow and Clyde
-3250,2016Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3260,2016Q3,S08000031,Lymphoma,1,0,NHS Greater Glasgow and Clyde
-3272,2016Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3280,2016Q3,S08000031,Lymphoma,4,4,NHS Greater Glasgow and Clyde
-3293,2016Q3,S08000031,Lymphoma,66,65,NHS Greater Glasgow and Clyde
-3304,2016Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3315,2016Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3327,2016Q4,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-3348,2016Q4,S08000031,Lymphoma,64,64,NHS Greater Glasgow and Clyde
-3381,2017Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3389,2017Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3406,2017Q1,S08000031,Lymphoma,65,65,NHS Greater Glasgow and Clyde
-3416,2017Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3434,2017Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3447,2017Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3458,2017Q2,S08000031,Lymphoma,73,73,NHS Greater Glasgow and Clyde
-3496,2017Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3508,2017Q3,S08000031,Lymphoma,51,51,NHS Greater Glasgow and Clyde
-3528,2017Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3535,2017Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3542,2017Q4,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-3559,2017Q4,S08000031,Lymphoma,83,83,NHS Greater Glasgow and Clyde
-3570,2017Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3581,2018Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3591,2018Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3611,2018Q1,S08000031,Lymphoma,76,76,NHS Greater Glasgow and Clyde
-3622,2018Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3658,2018Q2,S08000031,Lymphoma,83,83,NHS Greater Glasgow and Clyde
-3668,2018Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3694,2018Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3707,2018Q3,S08000031,Lymphoma,77,77,NHS Greater Glasgow and Clyde
-3718,2018Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3728,2018Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3749,2018Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3757,2018Q4,S08000031,Lymphoma,76,76,NHS Greater Glasgow and Clyde
-3768,2018Q4,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-3784,2019Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3810,2019Q1,S08000031,Lymphoma,73,73,NHS Greater Glasgow and Clyde
-3821,2019Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3832,2019Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3839,2019Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3846,2019Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3862,2019Q2,S08000031,Lymphoma,72,72,NHS Greater Glasgow and Clyde
-3873,2019Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3890,2019Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3897,2019Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3904,2019Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3912,2019Q3,S08000031,Lymphoma,78,78,NHS Greater Glasgow and Clyde
-3923,2019Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-3949,2019Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3955,2019Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-3966,2019Q4,S08000031,Lymphoma,60,60,NHS Greater Glasgow and Clyde
-3977,2019Q4,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-3992,2020Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4004,2020Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4017,2020Q1,S08000031,Lymphoma,91,91,NHS Greater Glasgow and Clyde
-4028,2020Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4038,2020Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4045,2020Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4056,2020Q2,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-4062,2020Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4071,2020Q2,S08000031,Lymphoma,32,32,NHS Greater Glasgow and Clyde
-4082,2020Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4100,2020Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4107,2020Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4119,2020Q3,S08000031,Lymphoma,64,64,NHS Greater Glasgow and Clyde
-4130,2020Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+454,2022Q1,S08000015,Lymphoma,11,11,NHS Ayrshire and Arran
+467,2022Q2,S08000015,Lymphoma,22,22,NHS Ayrshire and Arran
+478,2022Q3,S08000015,Lymphoma,9,9,NHS Ayrshire and Arran
+489,2022Q4,S08000015,Lymphoma,16,16,NHS Ayrshire and Arran
+503,2023Q1,S08000015,Lymphoma,8,8,NHS Ayrshire and Arran
+514,2012Q1,S08000017,Lymphoma,10,10,NHS Dumfries and Galloway
+523,2012Q2,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
+534,2012Q3,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
+545,2012Q4,S08000017,Lymphoma,4,4,NHS Dumfries and Galloway
+555,2013Q1,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
+564,2013Q2,S08000017,Lymphoma,17,17,NHS Dumfries and Galloway
+574,2013Q3,S08000017,Lymphoma,6,6,NHS Dumfries and Galloway
+584,2013Q4,S08000017,Lymphoma,5,5,NHS Dumfries and Galloway
+595,2014Q1,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
+605,2014Q2,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
+615,2014Q3,S08000017,Lymphoma,5,5,NHS Dumfries and Galloway
+626,2014Q4,S08000017,Lymphoma,14,14,NHS Dumfries and Galloway
+636,2015Q1,S08000017,Lymphoma,12,12,NHS Dumfries and Galloway
+647,2015Q2,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
+658,2015Q3,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
+669,2015Q4,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
+678,2016Q1,S08000017,Lymphoma,12,12,NHS Dumfries and Galloway
+688,2016Q2,S08000017,Lymphoma,6,6,NHS Dumfries and Galloway
+699,2016Q3,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
+708,2016Q4,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
+719,2017Q1,S08000017,Lymphoma,7,7,NHS Dumfries and Galloway
+730,2017Q2,S08000017,Lymphoma,7,7,NHS Dumfries and Galloway
+739,2017Q3,S08000017,Lymphoma,11,11,NHS Dumfries and Galloway
+750,2017Q4,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
+760,2018Q1,S08000017,Lymphoma,7,7,NHS Dumfries and Galloway
+771,2018Q2,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
+782,2018Q3,S08000017,Lymphoma,10,10,NHS Dumfries and Galloway
+792,2018Q4,S08000017,Lymphoma,11,11,NHS Dumfries and Galloway
+802,2019Q1,S08000017,Lymphoma,5,5,NHS Dumfries and Galloway
+813,2019Q2,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
+824,2019Q3,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
+833,2019Q4,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
+843,2020Q1,S08000017,Lymphoma,12,12,NHS Dumfries and Galloway
+853,2020Q2,S08000017,Lymphoma,10,10,NHS Dumfries and Galloway
+863,2020Q3,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
+936,2020Q4,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
+951,2021Q1,S08000017,Lymphoma,5,5,NHS Dumfries and Galloway
+963,2021Q2,S08000017,Lymphoma,9,9,NHS Dumfries and Galloway
+975,2021Q3,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
+987,2021Q4,S08000017,Lymphoma,3,3,NHS Dumfries and Galloway
+999,2022Q1,S08000017,Lymphoma,6,6,NHS Dumfries and Galloway
+1010,2022Q2,S08000017,Lymphoma,6,6,NHS Dumfries and Galloway
+1023,2022Q3,S08000017,Lymphoma,13,13,NHS Dumfries and Galloway
+1037,2022Q4,S08000017,Lymphoma,8,8,NHS Dumfries and Galloway
+1048,2023Q1,S08000017,Lymphoma,11,11,NHS Dumfries and Galloway
+1060,2012Q1,S08000020,Lymphoma,6,6,NHS Grampian
+1076,2012Q1,S08000020,Lymphoma,2,2,NHS Grampian
+1085,2012Q2,S08000020,Lymphoma,38,37,NHS Grampian
+1094,2012Q2,S08000020,Lymphoma,2,2,NHS Grampian
+1104,2012Q3,S08000020,Lymphoma,22,22,NHS Grampian
+1112,2012Q3,S08000020,Lymphoma,1,1,NHS Grampian
+1124,2012Q4,S08000020,Lymphoma,15,15,NHS Grampian
+1131,2012Q4,S08000020,Lymphoma,1,1,NHS Grampian
+1139,2012Q4,S08000020,Lymphoma,3,3,NHS Grampian
+1148,2013Q1,S08000020,Lymphoma,24,24,NHS Grampian
+1168,2013Q2,S08000020,Lymphoma,13,13,NHS Grampian
+1187,2013Q3,S08000020,Lymphoma,10,10,NHS Grampian
+1201,2013Q3,S08000020,Lymphoma,1,1,NHS Grampian
+1209,2013Q4,S08000020,Lymphoma,27,27,NHS Grampian
+1228,2014Q1,S08000020,Lymphoma,17,17,NHS Grampian
+1241,2014Q1,S08000020,Lymphoma,2,2,NHS Grampian
+1250,2014Q2,S08000020,Lymphoma,29,29,NHS Grampian
+1260,2014Q2,S08000020,Lymphoma,3,3,NHS Grampian
+1273,2014Q3,S08000020,Lymphoma,10,10,NHS Grampian
+1285,2014Q3,S08000020,Lymphoma,1,1,NHS Grampian
+1300,2014Q4,S08000020,Lymphoma,11,11,NHS Grampian
+1319,2015Q1,S08000020,Lymphoma,34,33,NHS Grampian
+1335,2015Q2,S08000020,Lymphoma,39,36,NHS Grampian
+1346,2015Q2,S08000020,Lymphoma,1,1,NHS Grampian
+1355,2015Q3,S08000020,Lymphoma,28,26,NHS Grampian
+1361,2015Q3,S08000020,Lymphoma,1,1,NHS Grampian
+1369,2015Q3,S08000020,Lymphoma,1,1,NHS Grampian
+1378,2015Q4,S08000020,Lymphoma,36,36,NHS Grampian
+1395,2015Q4,S08000020,Lymphoma,1,1,NHS Grampian
+1403,2016Q1,S08000020,Lymphoma,27,27,NHS Grampian
+1413,2016Q1,S08000020,Lymphoma,1,1,NHS Grampian
+1418,2016Q1,S08000020,Lymphoma,1,1,NHS Grampian
+1427,2016Q2,S08000020,Lymphoma,30,30,NHS Grampian
+1435,2016Q2,S08000020,Lymphoma,2,2,NHS Grampian
+1444,2016Q3,S08000020,Lymphoma,36,35,NHS Grampian
+1458,2016Q3,S08000020,Lymphoma,2,2,NHS Grampian
+1467,2016Q4,S08000020,Lymphoma,39,39,NHS Grampian
+1482,2016Q4,S08000020,Lymphoma,2,2,NHS Grampian
+1491,2017Q1,S08000020,Lymphoma,34,32,NHS Grampian
+1518,2017Q2,S08000020,Lymphoma,24,22,NHS Grampian
+1530,2017Q2,S08000020,Lymphoma,1,1,NHS Grampian
+1542,2017Q3,S08000020,Lymphoma,33,33,NHS Grampian
+1551,2017Q3,S08000020,Lymphoma,2,2,NHS Grampian
+1561,2017Q4,S08000020,Lymphoma,29,27,NHS Grampian
+1567,2017Q4,S08000020,Lymphoma,1,1,NHS Grampian
+1585,2018Q1,S08000020,Lymphoma,33,33,NHS Grampian
+1607,2018Q2,S08000020,Lymphoma,31,30,NHS Grampian
+1618,2018Q2,S08000020,Lymphoma,2,2,NHS Grampian
+1623,2018Q2,S08000020,Lymphoma,1,1,NHS Grampian
+1635,2018Q3,S08000020,Lymphoma,36,35,NHS Grampian
+1642,2018Q3,S08000020,Lymphoma,1,1,NHS Grampian
+1646,2018Q3,S08000020,Lymphoma,1,1,NHS Grampian
+1654,2018Q4,S08000020,Lymphoma,33,31,NHS Grampian
+1664,2018Q4,S08000020,Lymphoma,1,1,NHS Grampian
+1679,2019Q1,S08000020,Lymphoma,36,35,NHS Grampian
+1693,2019Q1,S08000020,Lymphoma,1,1,NHS Grampian
+1704,2019Q2,S08000020,Lymphoma,33,32,NHS Grampian
+1714,2019Q2,S08000020,Lymphoma,1,1,NHS Grampian
+1719,2019Q2,S08000020,Lymphoma,1,1,NHS Grampian
+1729,2019Q3,S08000020,Lymphoma,42,42,NHS Grampian
+1741,2019Q3,S08000020,Lymphoma,1,1,NHS Grampian
+1753,2019Q4,S08000020,Lymphoma,38,37,NHS Grampian
+1766,2019Q4,S08000020,Lymphoma,1,1,NHS Grampian
+1773,2019Q4,S08000020,Lymphoma,1,1,NHS Grampian
+1779,2020Q1,S08000020,Lymphoma,31,31,NHS Grampian
+1793,2020Q1,S08000020,Lymphoma,1,1,NHS Grampian
+1804,2020Q2,S08000020,Lymphoma,31,30,NHS Grampian
+1823,2020Q3,S08000020,Lymphoma,34,34,NHS Grampian
+1838,2020Q3,S08000020,Lymphoma,1,1,NHS Grampian
+2027,2020Q4,S08000020,Lymphoma,32,32,NHS Grampian
+2039,2020Q4,S08000020,Lymphoma,1,1,NHS Grampian
+2052,2021Q1,S08000020,Lymphoma,31,31,NHS Grampian
+2064,2021Q1,S08000020,Lymphoma,1,1,NHS Grampian
+2080,2021Q2,S08000020,Lymphoma,28,28,NHS Grampian
+2096,2021Q2,S08000020,Lymphoma,1,1,NHS Grampian
+2112,2021Q3,S08000020,Lymphoma,47,47,NHS Grampian
+2121,2021Q3,S08000020,Lymphoma,1,1,NHS Grampian
+2127,2021Q3,S08000020,Lymphoma,1,1,NHS Grampian
+2145,2021Q4,S08000020,Lymphoma,35,35,NHS Grampian
+2170,2022Q1,S08000020,Lymphoma,25,25,NHS Grampian
+2183,2022Q1,S08000020,Lymphoma,2,2,NHS Grampian
+2201,2022Q2,S08000020,Lymphoma,26,26,NHS Grampian
+2212,2022Q2,S08000020,Lymphoma,1,1,NHS Grampian
+2228,2022Q3,S08000020,Lymphoma,37,37,NHS Grampian
+2255,2022Q4,S08000020,Lymphoma,29,29,NHS Grampian
+2283,2023Q1,S08000020,Lymphoma,29,29,NHS Grampian
+2293,2023Q1,S08000020,Lymphoma,2,2,NHS Grampian
+2333,2012Q1,S08000031,Lymphoma,43,43,NHS Greater Glasgow and Clyde
+2343,2012Q1,S08000031,Lymphoma,1,0,NHS Greater Glasgow and Clyde
+2353,2012Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2381,2012Q2,S08000031,Lymphoma,55,55,NHS Greater Glasgow and Clyde
+2416,2012Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2426,2012Q3,S08000031,Lymphoma,54,54,NHS Greater Glasgow and Clyde
+2435,2012Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2453,2012Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2459,2012Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2468,2012Q4,S08000031,Lymphoma,61,61,NHS Greater Glasgow and Clyde
+2478,2012Q4,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+2513,2013Q1,S08000031,Lymphoma,60,60,NHS Greater Glasgow and Clyde
+2537,2013Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2544,2013Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2550,2013Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2556,2013Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2562,2013Q2,S08000031,Lymphoma,67,67,NHS Greater Glasgow and Clyde
+2572,2013Q2,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+2587,2013Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2599,2013Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2608,2013Q3,S08000031,Lymphoma,53,53,NHS Greater Glasgow and Clyde
+2618,2013Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2636,2013Q4,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2643,2013Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2651,2013Q4,S08000031,Lymphoma,74,74,NHS Greater Glasgow and Clyde
+2675,2014Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2681,2014Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2696,2014Q1,S08000031,Lymphoma,64,64,NHS Greater Glasgow and Clyde
+2720,2014Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2726,2014Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2733,2014Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2742,2014Q2,S08000031,Lymphoma,63,63,NHS Greater Glasgow and Clyde
+2752,2014Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2773,2014Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2789,2014Q3,S08000031,Lymphoma,72,72,NHS Greater Glasgow and Clyde
+2799,2014Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2814,2014Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2825,2014Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2833,2014Q4,S08000031,Lymphoma,66,66,NHS Greater Glasgow and Clyde
+2852,2015Q1,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+2878,2015Q1,S08000031,Lymphoma,82,82,NHS Greater Glasgow and Clyde
+2887,2015Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2902,2015Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2910,2015Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2917,2015Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2928,2015Q2,S08000031,Lymphoma,58,58,NHS Greater Glasgow and Clyde
+2938,2015Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2947,2015Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+2953,2015Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+2959,2015Q3,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+2971,2015Q3,S08000031,Lymphoma,66,66,NHS Greater Glasgow and Clyde
+2994,2015Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3001,2015Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3017,2015Q4,S08000031,Lymphoma,63,63,NHS Greater Glasgow and Clyde
+3027,2015Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3047,2016Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3059,2016Q1,S08000031,Lymphoma,76,76,NHS Greater Glasgow and Clyde
+3069,2016Q1,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+3088,2016Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3107,2016Q2,S08000031,Lymphoma,71,70,NHS Greater Glasgow and Clyde
+3117,2016Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3126,2016Q3,S08000031,Lymphoma,1,0,NHS Greater Glasgow and Clyde
+3136,2016Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3143,2016Q3,S08000031,Lymphoma,4,4,NHS Greater Glasgow and Clyde
+3154,2016Q3,S08000031,Lymphoma,66,65,NHS Greater Glasgow and Clyde
+3164,2016Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3174,2016Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3184,2016Q4,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+3201,2016Q4,S08000031,Lymphoma,64,64,NHS Greater Glasgow and Clyde
+3230,2017Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3237,2017Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3250,2017Q1,S08000031,Lymphoma,65,65,NHS Greater Glasgow and Clyde
+3259,2017Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3275,2017Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3286,2017Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3295,2017Q2,S08000031,Lymphoma,73,73,NHS Greater Glasgow and Clyde
+3328,2017Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3338,2017Q3,S08000031,Lymphoma,51,51,NHS Greater Glasgow and Clyde
+3356,2017Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3362,2017Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3368,2017Q4,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+3382,2017Q4,S08000031,Lymphoma,83,83,NHS Greater Glasgow and Clyde
+3392,2017Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3402,2018Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3410,2018Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3426,2018Q1,S08000031,Lymphoma,76,76,NHS Greater Glasgow and Clyde
+3436,2018Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3466,2018Q2,S08000031,Lymphoma,83,83,NHS Greater Glasgow and Clyde
+3475,2018Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3497,2018Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3508,2018Q3,S08000031,Lymphoma,77,77,NHS Greater Glasgow and Clyde
+3518,2018Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3527,2018Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3544,2018Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3551,2018Q4,S08000031,Lymphoma,76,76,NHS Greater Glasgow and Clyde
+3561,2018Q4,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+3575,2019Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3596,2019Q1,S08000031,Lymphoma,73,73,NHS Greater Glasgow and Clyde
+3606,2019Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3616,2019Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3622,2019Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3628,2019Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3641,2019Q2,S08000031,Lymphoma,72,72,NHS Greater Glasgow and Clyde
+3651,2019Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3666,2019Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3672,2019Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3678,2019Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3685,2019Q3,S08000031,Lymphoma,78,78,NHS Greater Glasgow and Clyde
+3695,2019Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3717,2019Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3722,2019Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3731,2019Q4,S08000031,Lymphoma,60,60,NHS Greater Glasgow and Clyde
+3741,2019Q4,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+3754,2020Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3764,2020Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3775,2020Q1,S08000031,Lymphoma,91,91,NHS Greater Glasgow and Clyde
+3785,2020Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3794,2020Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3800,2020Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3809,2020Q2,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+3814,2020Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3822,2020Q2,S08000031,Lymphoma,32,32,NHS Greater Glasgow and Clyde
+3832,2020Q2,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+3847,2020Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3853,2020Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+3863,2020Q3,S08000031,Lymphoma,64,64,NHS Greater Glasgow and Clyde
+3873,2020Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+4144,2020Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
 4151,2020Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4159,2020Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4172,2020Q4,S08000031,Lymphoma,35,35,NHS Greater Glasgow and Clyde
-4182,2020Q4,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4197,2021Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4204,2021Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4212,2021Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4225,2021Q1,S08000031,Lymphoma,25,25,NHS Greater Glasgow and Clyde
-4236,2021Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4252,2021Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4270,2021Q2,S08000031,Lymphoma,29,29,NHS Greater Glasgow and Clyde
-4281,2021Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4296,2021Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4314,2021Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4323,2021Q3,S08000031,Lymphoma,23,23,NHS Greater Glasgow and Clyde
-4334,2021Q3,S08000031,Lymphoma,4,4,NHS Greater Glasgow and Clyde
-4348,2021Q4,S08000031,Lymphoma,2,1,NHS Greater Glasgow and Clyde
-4372,2021Q4,S08000031,Lymphoma,39,39,NHS Greater Glasgow and Clyde
-4381,2021Q4,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4403,2021Q4,S08000031,Lymphoma,2,1,NHS Greater Glasgow and Clyde
-4427,2021Q4,S08000031,Lymphoma,39,39,NHS Greater Glasgow and Clyde
-4436,2021Q4,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4457,2022Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4463,2022Q1,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-4470,2022Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4482,2022Q1,S08000031,Lymphoma,34,33,NHS Greater Glasgow and Clyde
-4491,2022Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4511,2022Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4517,2022Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4521,2022Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4535,2022Q2,S08000031,Lymphoma,36,36,NHS Greater Glasgow and Clyde
-4545,2022Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4562,2022Q3,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
-4569,2022Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4585,2022Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4594,2022Q3,S08000031,Lymphoma,27,26,NHS Greater Glasgow and Clyde
-4603,2022Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
-4640,2022Q4,S08000031,Lymphoma,43,43,NHS Greater Glasgow and Clyde
-4650,2022Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
-4669,2012Q1,S08000016,Lymphoma,7,7,NHS Borders
-4682,2012Q2,S08000016,Lymphoma,6,6,NHS Borders
-4695,2012Q3,S08000016,Lymphoma,9,9,NHS Borders
-4705,2012Q4,S08000016,Lymphoma,17,17,NHS Borders
-4715,2013Q1,S08000016,Lymphoma,8,8,NHS Borders
-4725,2013Q2,S08000016,Lymphoma,3,3,NHS Borders
-4737,2013Q3,S08000016,Lymphoma,14,14,NHS Borders
-4748,2013Q4,S08000016,Lymphoma,7,7,NHS Borders
-4758,2014Q1,S08000016,Lymphoma,4,4,NHS Borders
-4769,2014Q2,S08000016,Lymphoma,9,9,NHS Borders
-4778,2014Q3,S08000016,Lymphoma,3,3,NHS Borders
-4790,2014Q4,S08000016,Lymphoma,5,5,NHS Borders
-4802,2015Q1,S08000016,Lymphoma,6,6,NHS Borders
-4814,2015Q2,S08000016,Lymphoma,8,8,NHS Borders
-4826,2015Q3,S08000016,Lymphoma,7,7,NHS Borders
-4837,2015Q4,S08000016,Lymphoma,6,6,NHS Borders
-4846,2016Q1,S08000016,Lymphoma,2,2,NHS Borders
-4858,2016Q2,S08000016,Lymphoma,4,4,NHS Borders
-4868,2016Q3,S08000016,Lymphoma,12,12,NHS Borders
-4881,2016Q4,S08000016,Lymphoma,7,7,NHS Borders
-4894,2017Q1,S08000016,Lymphoma,8,8,NHS Borders
-4906,2017Q2,S08000016,Lymphoma,4,4,NHS Borders
-4918,2017Q3,S08000016,Lymphoma,9,9,NHS Borders
-4928,2017Q4,S08000016,Lymphoma,5,5,NHS Borders
-4935,2017Q4,S08000016,Lymphoma,1,1,NHS Borders
-4942,2018Q1,S08000016,Lymphoma,10,10,NHS Borders
-4952,2018Q2,S08000016,Lymphoma,6,6,NHS Borders
-4963,2018Q3,S08000016,Lymphoma,4,4,NHS Borders
-4972,2018Q4,S08000016,Lymphoma,7,7,NHS Borders
-4983,2019Q1,S08000016,Lymphoma,8,8,NHS Borders
-4994,2019Q2,S08000016,Lymphoma,4,4,NHS Borders
-5003,2019Q3,S08000016,Lymphoma,6,6,NHS Borders
-5013,2019Q4,S08000016,Lymphoma,8,8,NHS Borders
-5026,2020Q1,S08000016,Lymphoma,6,6,NHS Borders
-5038,2020Q2,S08000016,Lymphoma,6,6,NHS Borders
-5048,2020Q3,S08000016,Lymphoma,4,4,NHS Borders
-5058,2020Q4,S08000016,Lymphoma,4,4,NHS Borders
-5070,2021Q1,S08000016,Lymphoma,6,6,NHS Borders
-5079,2021Q2,S08000016,Lymphoma,4,4,NHS Borders
-5091,2021Q3,S08000016,Lymphoma,3,3,NHS Borders
-5103,2021Q4,S08000016,Lymphoma,1,1,NHS Borders
-5116,2021Q4,S08000016,Lymphoma,1,1,NHS Borders
-5128,2022Q1,S08000016,Lymphoma,2,2,NHS Borders
-5138,2022Q2,S08000016,Lymphoma,5,5,NHS Borders
-5149,2022Q3,S08000016,Lymphoma,4,4,NHS Borders
-5162,2022Q4,S08000016,Lymphoma,4,4,NHS Borders
-5202,2012Q1,S08000024,Lymphoma,34,34,NHS Lothian
-5213,2012Q1,S08000024,Lymphoma,3,3,NHS Lothian
-5235,2012Q2,S08000024,Lymphoma,1,1,NHS Lothian
-5250,2012Q2,S08000024,Lymphoma,37,37,NHS Lothian
-5279,2012Q3,S08000024,Lymphoma,2,2,NHS Lothian
-5302,2012Q3,S08000024,Lymphoma,49,49,NHS Lothian
-5327,2012Q4,S08000024,Lymphoma,1,1,NHS Lothian
-5351,2012Q4,S08000024,Lymphoma,34,34,NHS Lothian
-5363,2012Q4,S08000024,Lymphoma,1,0,NHS Lothian
-5405,2013Q1,S08000024,Lymphoma,42,42,NHS Lothian
-5441,2013Q2,S08000024,Lymphoma,1,1,NHS Lothian
-5455,2013Q2,S08000024,Lymphoma,39,39,NHS Lothian
-5468,2013Q2,S08000024,Lymphoma,2,2,NHS Lothian
-5511,2013Q3,S08000024,Lymphoma,40,40,NHS Lothian
-5521,2013Q3,S08000024,Lymphoma,1,1,NHS Lothian
-5559,2013Q4,S08000024,Lymphoma,42,42,NHS Lothian
-5570,2013Q4,S08000024,Lymphoma,4,4,NHS Lothian
-5609,2014Q1,S08000024,Lymphoma,41,40,NHS Lothian
-5619,2014Q1,S08000024,Lymphoma,1,1,NHS Lothian
-5661,2014Q2,S08000024,Lymphoma,36,36,NHS Lothian
-5671,2014Q2,S08000024,Lymphoma,2,2,NHS Lothian
-5690,2014Q3,S08000024,Lymphoma,1,1,NHS Lothian
-5715,2014Q3,S08000024,Lymphoma,36,36,NHS Lothian
-5744,2014Q4,S08000024,Lymphoma,1,1,NHS Lothian
-5763,2014Q4,S08000024,Lymphoma,31,31,NHS Lothian
-5774,2014Q4,S08000024,Lymphoma,1,1,NHS Lothian
-5812,2015Q1,S08000024,Lymphoma,41,41,NHS Lothian
-5823,2015Q1,S08000024,Lymphoma,3,3,NHS Lothian
-5864,2015Q2,S08000024,Lymphoma,45,45,NHS Lothian
-5874,2015Q2,S08000024,Lymphoma,1,1,NHS Lothian
-5891,2015Q3,S08000024,Lymphoma,1,1,NHS Lothian
-5912,2015Q3,S08000024,Lymphoma,32,32,NHS Lothian
-5922,2015Q3,S08000024,Lymphoma,1,1,NHS Lothian
-5961,2015Q4,S08000024,Lymphoma,38,38,NHS Lothian
-6007,2016Q1,S08000024,Lymphoma,40,40,NHS Lothian
-6017,2016Q1,S08000024,Lymphoma,1,1,NHS Lothian
-6031,2016Q2,S08000024,Lymphoma,1,1,NHS Lothian
-6055,2016Q2,S08000024,Lymphoma,34,34,NHS Lothian
-6078,2016Q3,S08000024,Lymphoma,1,1,NHS Lothian
-6104,2016Q3,S08000024,Lymphoma,30,29,NHS Lothian
-6114,2016Q3,S08000024,Lymphoma,1,1,NHS Lothian
-6132,2016Q4,S08000024,Lymphoma,1,1,NHS Lothian
-6154,2016Q4,S08000024,Lymphoma,39,39,NHS Lothian
-6204,2017Q1,S08000024,Lymphoma,38,38,NHS Lothian
-6231,2017Q2,S08000024,Lymphoma,1,1,NHS Lothian
-6255,2017Q2,S08000024,Lymphoma,48,48,NHS Lothian
-6267,2017Q2,S08000024,Lymphoma,3,3,NHS Lothian
-6281,2017Q3,S08000024,Lymphoma,1,1,NHS Lothian
-6304,2017Q3,S08000024,Lymphoma,27,27,NHS Lothian
-6340,2017Q4,S08000024,Lymphoma,1,1,NHS Lothian
-6355,2017Q4,S08000024,Lymphoma,37,37,NHS Lothian
-6366,2017Q4,S08000024,Lymphoma,3,3,NHS Lothian
-6384,2018Q1,S08000024,Lymphoma,1,1,NHS Lothian
-6393,2018Q1,S08000024,Lymphoma,1,1,NHS Lothian
-6406,2018Q1,S08000024,Lymphoma,36,36,NHS Lothian
-6427,2018Q2,S08000024,Lymphoma,1,1,NHS Lothian
-6449,2018Q2,S08000024,Lymphoma,32,32,NHS Lothian
-6474,2018Q3,S08000024,Lymphoma,1,1,NHS Lothian
-6498,2018Q3,S08000024,Lymphoma,42,42,NHS Lothian
-6509,2018Q3,S08000024,Lymphoma,1,1,NHS Lothian
-6548,2018Q4,S08000024,Lymphoma,44,44,NHS Lothian
-6598,2019Q1,S08000024,Lymphoma,30,30,NHS Lothian
-6609,2019Q1,S08000024,Lymphoma,1,1,NHS Lothian
-6619,2019Q1,S08000024,Lymphoma,1,1,NHS Lothian
-6646,2019Q2,S08000024,Lymphoma,25,25,NHS Lothian
-6657,2019Q2,S08000024,Lymphoma,1,1,NHS Lothian
-6670,2019Q3,S08000024,Lymphoma,2,2,NHS Lothian
-6697,2019Q3,S08000024,Lymphoma,31,31,NHS Lothian
-6727,2019Q4,S08000024,Lymphoma,1,1,NHS Lothian
-6735,2019Q4,S08000024,Lymphoma,1,1,NHS Lothian
-6751,2019Q4,S08000024,Lymphoma,33,33,NHS Lothian
-6762,2019Q4,S08000024,Lymphoma,1,1,NHS Lothian
-6800,2020Q1,S08000024,Lymphoma,20,20,NHS Lothian
-6847,2020Q2,S08000024,Lymphoma,49,49,NHS Lothian
-6882,2020Q3,S08000024,Lymphoma,1,1,NHS Lothian
-6897,2020Q3,S08000024,Lymphoma,40,39,NHS Lothian
-6907,2020Q3,S08000024,Lymphoma,2,2,NHS Lothian
-6923,2020Q4,S08000024,Lymphoma,1,1,NHS Lothian
-6947,2020Q4,S08000024,Lymphoma,33,33,NHS Lothian
-6971,2021Q1,S08000024,Lymphoma,1,1,NHS Lothian
-6980,2021Q1,S08000024,Lymphoma,1,1,NHS Lothian
-6990,2021Q1,S08000024,Lymphoma,1,1,NHS Lothian
-6999,2021Q1,S08000024,Lymphoma,34,33,NHS Lothian
-7045,2021Q2,S08000024,Lymphoma,42,42,NHS Lothian
-7057,2021Q2,S08000024,Lymphoma,1,1,NHS Lothian
-7097,2021Q3,S08000024,Lymphoma,37,36,NHS Lothian
-7107,2021Q3,S08000024,Lymphoma,1,1,NHS Lothian
-7143,2021Q4,S08000024,Lymphoma,35,35,NHS Lothian
-7195,2021Q4,S08000024,Lymphoma,35,35,NHS Lothian
-7225,2022Q1,S08000024,Lymphoma,1,1,NHS Lothian
-7242,2022Q1,S08000024,Lymphoma,34,34,NHS Lothian
-7253,2022Q1,S08000024,Lymphoma,1,1,NHS Lothian
-7297,2022Q2,S08000024,Lymphoma,42,42,NHS Lothian
-7308,2022Q2,S08000024,Lymphoma,1,1,NHS Lothian
-7347,2022Q3,S08000024,Lymphoma,24,24,NHS Lothian
-7383,2022Q4,S08000024,Lymphoma,2,2,NHS Lothian
-7396,2022Q4,S08000024,Lymphoma,40,40,NHS Lothian
-7406,2022Q4,S08000024,Lymphoma,1,1,NHS Lothian
-7429,2012Q1,S08000019,Lymphoma,12,12,NHS Forth Valley
-7442,2012Q2,S08000019,Lymphoma,12,12,NHS Forth Valley
-7459,2012Q3,S08000019,Lymphoma,11,11,NHS Forth Valley
-7471,2012Q4,S08000019,Lymphoma,12,12,NHS Forth Valley
-7483,2013Q1,S08000019,Lymphoma,9,9,NHS Forth Valley
-7493,2013Q2,S08000019,Lymphoma,19,19,NHS Forth Valley
-7506,2013Q3,S08000019,Lymphoma,15,15,NHS Forth Valley
-7519,2013Q4,S08000019,Lymphoma,10,10,NHS Forth Valley
-7534,2014Q1,S08000019,Lymphoma,14,14,NHS Forth Valley
-7549,2014Q2,S08000019,Lymphoma,16,16,NHS Forth Valley
-7562,2014Q3,S08000019,Lymphoma,9,9,NHS Forth Valley
-7575,2014Q4,S08000019,Lymphoma,16,16,NHS Forth Valley
-7590,2015Q1,S08000019,Lymphoma,13,13,NHS Forth Valley
-7605,2015Q2,S08000019,Lymphoma,16,16,NHS Forth Valley
-7617,2015Q3,S08000019,Lymphoma,15,15,NHS Forth Valley
-7629,2015Q4,S08000019,Lymphoma,9,9,NHS Forth Valley
-7642,2016Q1,S08000019,Lymphoma,7,7,NHS Forth Valley
-7654,2016Q2,S08000019,Lymphoma,10,10,NHS Forth Valley
-7666,2016Q3,S08000019,Lymphoma,12,12,NHS Forth Valley
-7680,2016Q4,S08000019,Lymphoma,10,10,NHS Forth Valley
-7694,2017Q1,S08000019,Lymphoma,15,15,NHS Forth Valley
-7712,2017Q2,S08000019,Lymphoma,9,9,NHS Forth Valley
-7725,2017Q3,S08000019,Lymphoma,14,14,NHS Forth Valley
-7737,2017Q4,S08000019,Lymphoma,11,11,NHS Forth Valley
-7750,2018Q1,S08000019,Lymphoma,16,16,NHS Forth Valley
-7763,2018Q2,S08000019,Lymphoma,18,18,NHS Forth Valley
-7776,2018Q3,S08000019,Lymphoma,14,14,NHS Forth Valley
-7789,2018Q4,S08000019,Lymphoma,19,19,NHS Forth Valley
-7802,2019Q1,S08000019,Lymphoma,17,17,NHS Forth Valley
-7817,2019Q2,S08000019,Lymphoma,12,12,NHS Forth Valley
-7829,2019Q3,S08000019,Lymphoma,15,15,NHS Forth Valley
-7844,2019Q4,S08000019,Lymphoma,14,14,NHS Forth Valley
-7859,2020Q1,S08000019,Lymphoma,21,21,NHS Forth Valley
-7874,2020Q2,S08000019,Lymphoma,17,17,NHS Forth Valley
-7888,2020Q3,S08000019,Lymphoma,10,10,NHS Forth Valley
-7899,2020Q4,S08000019,Lymphoma,9,9,NHS Forth Valley
-7913,2021Q1,S08000019,Lymphoma,14,14,NHS Forth Valley
-7927,2021Q2,S08000019,Lymphoma,21,21,NHS Forth Valley
-7940,2021Q3,S08000019,Lymphoma,13,13,NHS Forth Valley
-7950,2021Q4,S08000019,Lymphoma,8,8,NHS Forth Valley
-7963,2021Q4,S08000019,Lymphoma,8,8,NHS Forth Valley
-7976,2022Q1,S08000019,Lymphoma,13,12,NHS Forth Valley
-7988,2022Q2,S08000019,Lymphoma,14,14,NHS Forth Valley
-8002,2022Q3,S08000019,Lymphoma,19,19,NHS Forth Valley
-8017,2022Q4,S08000019,Lymphoma,17,17,NHS Forth Valley
-8033,2012Q1,S08000022,Lymphoma,15,15,NHS Highland
-8053,2012Q2,S08000022,Lymphoma,17,17,NHS Highland
-8072,2012Q3,S08000022,Lymphoma,15,14,NHS Highland
-8087,2012Q4,S08000022,Lymphoma,17,16,NHS Highland
-8096,2012Q4,S08000022,Lymphoma,2,2,NHS Highland
-8109,2013Q1,S08000022,Lymphoma,15,15,NHS Highland
-8128,2013Q2,S08000022,Lymphoma,15,14,NHS Highland
-8135,2013Q2,S08000022,Lymphoma,1,1,NHS Highland
-8139,2013Q3,S08000022,Lymphoma,1,1,NHS Highland
-8146,2013Q3,S08000022,Lymphoma,15,15,NHS Highland
-8155,2013Q3,S08000022,Lymphoma,2,2,NHS Highland
-8169,2013Q4,S08000022,Lymphoma,12,12,NHS Highland
-8187,2014Q1,S08000022,Lymphoma,9,8,NHS Highland
-8201,2014Q2,S08000022,Lymphoma,1,1,NHS Highland
-8208,2014Q2,S08000022,Lymphoma,20,20,NHS Highland
-8217,2014Q2,S08000022,Lymphoma,1,1,NHS Highland
-8225,2014Q2,S08000022,Lymphoma,1,1,NHS Highland
-8231,2014Q3,S08000022,Lymphoma,17,17,NHS Highland
-8249,2014Q4,S08000022,Lymphoma,19,19,NHS Highland
-8261,2014Q4,S08000022,Lymphoma,1,1,NHS Highland
-8264,2015Q1,S08000022,Lymphoma,1,1,NHS Highland
-8271,2015Q1,S08000022,Lymphoma,11,11,NHS Highland
-8291,2015Q2,S08000022,Lymphoma,9,9,NHS Highland
-8307,2015Q3,S08000022,Lymphoma,17,17,NHS Highland
-8316,2015Q3,S08000022,Lymphoma,1,1,NHS Highland
-8325,2015Q4,S08000022,Lymphoma,1,1,NHS Highland
-8332,2015Q4,S08000022,Lymphoma,11,11,NHS Highland
-8339,2015Q4,S08000022,Lymphoma,2,2,NHS Highland
-8347,2016Q1,S08000022,Lymphoma,12,12,NHS Highland
-8363,2016Q2,S08000022,Lymphoma,15,15,NHS Highland
-8382,2016Q3,S08000022,Lymphoma,1,1,NHS Highland
-8389,2016Q3,S08000022,Lymphoma,13,13,NHS Highland
-8405,2016Q4,S08000022,Lymphoma,15,15,NHS Highland
-8414,2016Q4,S08000022,Lymphoma,2,2,NHS Highland
-8423,2017Q1,S08000022,Lymphoma,16,16,NHS Highland
-8433,2017Q1,S08000022,Lymphoma,2,2,NHS Highland
-8437,2017Q2,S08000022,Lymphoma,1,1,NHS Highland
-8444,2017Q2,S08000022,Lymphoma,13,13,NHS Highland
-8454,2017Q2,S08000022,Lymphoma,1,1,NHS Highland
-8457,2017Q3,S08000022,Lymphoma,1,1,NHS Highland
-8464,2017Q3,S08000022,Lymphoma,20,20,NHS Highland
-8485,2017Q4,S08000022,Lymphoma,14,14,NHS Highland
-8494,2017Q4,S08000022,Lymphoma,1,1,NHS Highland
-8508,2018Q1,S08000022,Lymphoma,16,15,NHS Highland
-8518,2018Q1,S08000022,Lymphoma,1,1,NHS Highland
-8529,2018Q2,S08000022,Lymphoma,10,10,NHS Highland
-8536,2018Q2,S08000022,Lymphoma,1,1,NHS Highland
-8547,2018Q3,S08000022,Lymphoma,14,14,NHS Highland
-8570,2018Q4,S08000022,Lymphoma,21,21,NHS Highland
-8579,2018Q4,S08000022,Lymphoma,1,1,NHS Highland
-8588,2019Q1,S08000022,Lymphoma,17,17,NHS Highland
-8597,2019Q1,S08000022,Lymphoma,2,2,NHS Highland
-8610,2019Q2,S08000022,Lymphoma,17,17,NHS Highland
-8632,2019Q3,S08000022,Lymphoma,18,17,NHS Highland
-8641,2019Q3,S08000022,Lymphoma,1,1,NHS Highland
-8653,2019Q4,S08000022,Lymphoma,8,8,NHS Highland
-8674,2020Q1,S08000022,Lymphoma,13,13,NHS Highland
-8682,2020Q1,S08000022,Lymphoma,1,1,NHS Highland
-8695,2020Q2,S08000022,Lymphoma,15,15,NHS Highland
-8704,2020Q2,S08000022,Lymphoma,1,1,NHS Highland
-8715,2020Q3,S08000022,Lymphoma,4,4,NHS Highland
-8722,2020Q3,S08000022,Lymphoma,1,1,NHS Highland
-8733,2020Q4,S08000022,Lymphoma,12,11,NHS Highland
-8741,2020Q4,S08000022,Lymphoma,2,2,NHS Highland
-8752,2021Q1,S08000022,Lymphoma,15,15,NHS Highland
-8773,2021Q2,S08000022,Lymphoma,11,11,NHS Highland
-8781,2021Q2,S08000022,Lymphoma,4,4,NHS Highland
-8785,2021Q2,S08000022,Lymphoma,1,1,NHS Highland
-8792,2021Q3,S08000022,Lymphoma,16,16,NHS Highland
-8800,2021Q3,S08000022,Lymphoma,1,1,NHS Highland
-8809,2021Q4,S08000022,Lymphoma,8,8,NHS Highland
-8824,2021Q4,S08000022,Lymphoma,8,8,NHS Highland
-8840,2022Q1,S08000022,Lymphoma,16,16,NHS Highland
-8856,2022Q2,S08000022,Lymphoma,14,14,NHS Highland
-8875,2022Q3,S08000022,Lymphoma,17,17,NHS Highland
-8894,2022Q4,S08000022,Lymphoma,14,14,NHS Highland
-8904,2022Q4,S08000022,Lymphoma,1,1,NHS Highland
-8916,2012Q1,S08000029,Lymphoma,10,10,NHS Fife
-8928,2012Q2,S08000029,Lymphoma,16,16,NHS Fife
-8939,2012Q3,S08000029,Lymphoma,10,10,NHS Fife
-8954,2012Q4,S08000029,Lymphoma,13,13,NHS Fife
-8967,2013Q1,S08000029,Lymphoma,20,20,NHS Fife
-8980,2013Q2,S08000029,Lymphoma,16,16,NHS Fife
-8992,2013Q3,S08000029,Lymphoma,14,14,NHS Fife
-9005,2013Q4,S08000029,Lymphoma,16,16,NHS Fife
-9018,2014Q1,S08000029,Lymphoma,18,18,NHS Fife
-9029,2014Q2,S08000029,Lymphoma,12,12,NHS Fife
-9042,2014Q3,S08000029,Lymphoma,18,18,NHS Fife
-9056,2014Q4,S08000029,Lymphoma,25,25,NHS Fife
-9068,2015Q1,S08000029,Lymphoma,19,19,NHS Fife
-9081,2015Q2,S08000029,Lymphoma,16,16,NHS Fife
-9094,2015Q3,S08000029,Lymphoma,16,16,NHS Fife
-9109,2015Q4,S08000029,Lymphoma,14,14,NHS Fife
-9122,2016Q1,S08000029,Lymphoma,14,14,NHS Fife
-9137,2016Q2,S08000029,Lymphoma,17,17,NHS Fife
-9149,2016Q3,S08000029,Lymphoma,15,15,NHS Fife
-9162,2016Q4,S08000029,Lymphoma,16,16,NHS Fife
-9175,2017Q1,S08000029,Lymphoma,12,12,NHS Fife
-9188,2017Q2,S08000029,Lymphoma,23,23,NHS Fife
-9201,2017Q3,S08000029,Lymphoma,16,16,NHS Fife
-9212,2017Q4,S08000029,Lymphoma,20,20,NHS Fife
-9225,2018Q1,S08000029,Lymphoma,14,14,NHS Fife
-9238,2018Q2,S08000029,Lymphoma,11,11,NHS Fife
-9253,2018Q3,S08000029,Lymphoma,19,19,NHS Fife
-9266,2018Q4,S08000029,Lymphoma,19,19,NHS Fife
-9277,2019Q1,S08000029,Lymphoma,16,16,NHS Fife
-9290,2019Q2,S08000029,Lymphoma,20,20,NHS Fife
-9303,2019Q3,S08000029,Lymphoma,14,14,NHS Fife
-9311,2019Q4,S08000029,Lymphoma,1,1,NHS Fife
-9317,2019Q4,S08000029,Lymphoma,16,16,NHS Fife
-9330,2020Q1,S08000029,Lymphoma,15,14,NHS Fife
-9343,2020Q2,S08000029,Lymphoma,16,16,NHS Fife
-9354,2020Q3,S08000029,Lymphoma,10,10,NHS Fife
-9367,2020Q4,S08000029,Lymphoma,17,17,NHS Fife
-9380,2021Q1,S08000029,Lymphoma,18,18,NHS Fife
-9393,2021Q2,S08000029,Lymphoma,22,22,NHS Fife
-9406,2021Q3,S08000029,Lymphoma,26,26,NHS Fife
-9416,2021Q4,S08000029,Lymphoma,23,23,NHS Fife
-9428,2021Q4,S08000029,Lymphoma,23,23,NHS Fife
-9441,2022Q1,S08000029,Lymphoma,20,20,NHS Fife
-9455,2022Q2,S08000029,Lymphoma,25,25,NHS Fife
-9466,2022Q3,S08000029,Lymphoma,20,20,NHS Fife
-9479,2022Q4,S08000029,Lymphoma,20,20,NHS Fife
-9500,2012Q1,S08000030,Lymphoma,26,26,NHS Tayside
-9514,2012Q2,S08000030,Lymphoma,17,17,NHS Tayside
-9531,2012Q3,S08000030,Lymphoma,21,21,NHS Tayside
-9546,2012Q4,S08000030,Lymphoma,18,18,NHS Tayside
-9555,2013Q1,S08000030,Lymphoma,2,2,NHS Tayside
-9564,2013Q1,S08000030,Lymphoma,18,18,NHS Tayside
-9581,2013Q2,S08000030,Lymphoma,23,23,NHS Tayside
-9599,2013Q3,S08000030,Lymphoma,28,26,NHS Tayside
-9617,2013Q4,S08000030,Lymphoma,7,7,NHS Tayside
-9681,2015Q1,S08000030,Lymphoma,1,1,NHS Tayside
-9690,2015Q1,S08000030,Lymphoma,17,17,NHS Tayside
-9696,2015Q1,S08000030,Lymphoma,1,1,NHS Tayside
-9707,2015Q2,S08000030,Lymphoma,19,19,NHS Tayside
-9721,2015Q3,S08000030,Lymphoma,8,8,NHS Tayside
-9738,2015Q4,S08000030,Lymphoma,22,22,NHS Tayside
-9747,2016Q1,S08000030,Lymphoma,1,1,NHS Tayside
-9750,2016Q1,S08000030,Lymphoma,1,1,NHS Tayside
-9758,2016Q1,S08000030,Lymphoma,15,15,NHS Tayside
-9777,2016Q2,S08000030,Lymphoma,21,21,NHS Tayside
-9797,2016Q3,S08000030,Lymphoma,16,16,NHS Tayside
-9816,2016Q4,S08000030,Lymphoma,12,11,NHS Tayside
-9831,2017Q1,S08000030,Lymphoma,20,20,NHS Tayside
-9849,2017Q2,S08000030,Lymphoma,20,20,NHS Tayside
-9868,2017Q3,S08000030,Lymphoma,20,20,NHS Tayside
-9886,2017Q4,S08000030,Lymphoma,17,17,NHS Tayside
-9896,2018Q1,S08000030,Lymphoma,1,1,NHS Tayside
-9904,2018Q1,S08000030,Lymphoma,32,32,NHS Tayside
-9922,2018Q2,S08000030,Lymphoma,21,21,NHS Tayside
-9940,2018Q3,S08000030,Lymphoma,13,13,NHS Tayside
-9946,2018Q4,S08000030,Lymphoma,1,1,NHS Tayside
-9958,2018Q4,S08000030,Lymphoma,18,18,NHS Tayside
-9976,2019Q1,S08000030,Lymphoma,19,19,NHS Tayside
-9994,2019Q2,S08000030,Lymphoma,29,28,NHS Tayside
-10014,2019Q3,S08000030,Lymphoma,23,23,NHS Tayside
-10031,2019Q4,S08000030,Lymphoma,19,19,NHS Tayside
-10048,2020Q1,S08000030,Lymphoma,21,21,NHS Tayside
-10066,2020Q2,S08000030,Lymphoma,20,20,NHS Tayside
-10083,2020Q3,S08000030,Lymphoma,10,10,NHS Tayside
-10098,2020Q4,S08000030,Lymphoma,17,17,NHS Tayside
-10114,2021Q1,S08000030,Lymphoma,17,17,NHS Tayside
-10129,2021Q2,S08000030,Lymphoma,35,35,NHS Tayside
-10147,2021Q3,S08000030,Lymphoma,23,23,NHS Tayside
-10161,2021Q4,S08000030,Lymphoma,24,24,NHS Tayside
-10178,2021Q4,S08000030,Lymphoma,24,24,NHS Tayside
-10195,2022Q1,S08000030,Lymphoma,18,18,NHS Tayside
-10212,2022Q2,S08000030,Lymphoma,16,16,NHS Tayside
-10228,2022Q3,S08000030,Lymphoma,14,14,NHS Tayside
-10245,2022Q4,S08000030,Lymphoma,14,14,NHS Tayside
-10262,2012Q3,S08000025,Lymphoma,1,1,NHS Orkney
-10311,2015Q2,S08000025,Lymphoma,1,1,NHS Orkney
-10330,2016Q2,S08000025,Lymphoma,1,1,NHS Orkney
-10413,2020Q1,S08000025,Lymphoma,1,1,NHS Orkney
-10443,2021Q2,S08000025,Lymphoma,1,1,NHS Orkney
-10451,2021Q4,S08000025,Lymphoma,1,1,NHS Orkney
-10458,2021Q4,S08000025,Lymphoma,1,1,NHS Orkney
-10486,2022Q4,S08000025,Lymphoma,1,1,NHS Orkney
-10495,2012Q1,S08000026,Lymphoma,1,1,NHS Shetland
-10502,2012Q2,S08000026,Lymphoma,1,1,NHS Shetland
-10633,2017Q1,S08000026,Lymphoma,1,1,NHS Shetland
-10639,2017Q2,S08000026,Lymphoma,1,1,NHS Shetland
-10758,2021Q1,S08000026,Lymphoma,1,1,NHS Shetland
-10774,2021Q4,S08000026,Lymphoma,1,1,NHS Shetland
-10782,2021Q4,S08000026,Lymphoma,1,1,NHS Shetland
-10790,2022Q1,S08000026,Lymphoma,1,1,NHS Shetland
-10868,2013Q4,S08000028,Lymphoma,1,1,NHS Western Isles
-10905,2015Q1,S08000028,Lymphoma,1,1,NHS Western Isles
-10997,2018Q1,S08000028,Lymphoma,1,1,NHS Western Isles
-11064,2020Q2,S08000028,Lymphoma,1,1,NHS Western Isles
-11157,2012Q1,S08000032,Lymphoma,26,26,NHS Lanarkshire
-11170,2012Q2,S08000032,Lymphoma,27,27,NHS Lanarkshire
-11184,2012Q3,S08000032,Lymphoma,24,24,NHS Lanarkshire
-11197,2012Q4,S08000032,Lymphoma,23,23,NHS Lanarkshire
-11212,2013Q1,S08000032,Lymphoma,26,26,NHS Lanarkshire
-11227,2013Q2,S08000032,Lymphoma,24,24,NHS Lanarkshire
-11240,2013Q3,S08000032,Lymphoma,25,25,NHS Lanarkshire
-11255,2013Q4,S08000032,Lymphoma,22,22,NHS Lanarkshire
-11270,2014Q1,S08000032,Lymphoma,19,19,NHS Lanarkshire
-11283,2014Q2,S08000032,Lymphoma,23,23,NHS Lanarkshire
-11298,2014Q3,S08000032,Lymphoma,25,25,NHS Lanarkshire
-11311,2014Q4,S08000032,Lymphoma,18,18,NHS Lanarkshire
-11326,2015Q1,S08000032,Lymphoma,28,28,NHS Lanarkshire
-11341,2015Q2,S08000032,Lymphoma,15,15,NHS Lanarkshire
-11356,2015Q3,S08000032,Lymphoma,29,29,NHS Lanarkshire
-11371,2015Q4,S08000032,Lymphoma,22,22,NHS Lanarkshire
-11386,2016Q1,S08000032,Lymphoma,24,24,NHS Lanarkshire
-11399,2016Q2,S08000032,Lymphoma,24,24,NHS Lanarkshire
-11413,2016Q3,S08000032,Lymphoma,17,17,NHS Lanarkshire
-11429,2016Q4,S08000032,Lymphoma,19,19,NHS Lanarkshire
-11444,2017Q1,S08000032,Lymphoma,29,29,NHS Lanarkshire
-11459,2017Q2,S08000032,Lymphoma,19,19,NHS Lanarkshire
-11474,2017Q3,S08000032,Lymphoma,26,26,NHS Lanarkshire
-11490,2017Q4,S08000032,Lymphoma,27,27,NHS Lanarkshire
-11505,2018Q1,S08000032,Lymphoma,34,34,NHS Lanarkshire
-11520,2018Q2,S08000032,Lymphoma,27,27,NHS Lanarkshire
-11534,2018Q3,S08000032,Lymphoma,18,18,NHS Lanarkshire
-11550,2018Q4,S08000032,Lymphoma,30,30,NHS Lanarkshire
-11565,2019Q1,S08000032,Lymphoma,28,28,NHS Lanarkshire
-11582,2019Q2,S08000032,Lymphoma,21,21,NHS Lanarkshire
-11597,2019Q3,S08000032,Lymphoma,27,27,NHS Lanarkshire
-11612,2019Q4,S08000032,Lymphoma,26,26,NHS Lanarkshire
-11629,2020Q1,S08000032,Lymphoma,21,21,NHS Lanarkshire
-11644,2020Q2,S08000032,Lymphoma,21,21,NHS Lanarkshire
-11659,2020Q3,S08000032,Lymphoma,29,29,NHS Lanarkshire
-11673,2020Q4,S08000032,Lymphoma,19,19,NHS Lanarkshire
-11687,2021Q1,S08000032,Lymphoma,20,20,NHS Lanarkshire
-11700,2021Q2,S08000032,Lymphoma,26,26,NHS Lanarkshire
-11715,2021Q3,S08000032,Lymphoma,24,24,NHS Lanarkshire
-11728,2021Q4,S08000032,Lymphoma,19,19,NHS Lanarkshire
-11745,2021Q4,S08000032,Lymphoma,19,19,NHS Lanarkshire
-11761,2022Q1,S08000032,Lymphoma,16,16,NHS Lanarkshire
-11776,2022Q2,S08000032,Lymphoma,15,15,NHS Lanarkshire
-11791,2022Q3,S08000032,Lymphoma,13,13,NHS Lanarkshire
-11807,2022Q4,S08000032,Lymphoma,20,20,NHS Lanarkshire
+4162,2020Q4,S08000031,Lymphoma,35,35,NHS Greater Glasgow and Clyde
+4171,2020Q4,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+4191,2021Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4197,2021Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+4204,2021Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4214,2021Q1,S08000031,Lymphoma,25,25,NHS Greater Glasgow and Clyde
+4224,2021Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4246,2021Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4261,2021Q2,S08000031,Lymphoma,29,29,NHS Greater Glasgow and Clyde
+4271,2021Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4290,2021Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+4305,2021Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4312,2021Q3,S08000031,Lymphoma,23,23,NHS Greater Glasgow and Clyde
+4322,2021Q3,S08000031,Lymphoma,4,4,NHS Greater Glasgow and Clyde
+4344,2021Q4,S08000031,Lymphoma,2,1,NHS Greater Glasgow and Clyde
+4368,2021Q4,S08000031,Lymphoma,39,39,NHS Greater Glasgow and Clyde
+4377,2021Q4,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+4398,2022Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4404,2022Q1,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+4411,2022Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+4423,2022Q1,S08000031,Lymphoma,34,33,NHS Greater Glasgow and Clyde
+4432,2022Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+4452,2022Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4458,2022Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4462,2022Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4476,2022Q2,S08000031,Lymphoma,36,36,NHS Greater Glasgow and Clyde
+4486,2022Q2,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4503,2022Q3,S08000031,Lymphoma,3,3,NHS Greater Glasgow and Clyde
+4510,2022Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+4526,2022Q3,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4535,2022Q3,S08000031,Lymphoma,27,26,NHS Greater Glasgow and Clyde
+4544,2022Q3,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+4581,2022Q4,S08000031,Lymphoma,43,43,NHS Greater Glasgow and Clyde
+4591,2022Q4,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4609,2023Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4614,2023Q1,S08000031,Lymphoma,1,1,NHS Greater Glasgow and Clyde
+4619,2023Q1,S08000031,Lymphoma,4,4,NHS Greater Glasgow and Clyde
+4634,2023Q1,S08000031,Lymphoma,37,36,NHS Greater Glasgow and Clyde
+4644,2023Q1,S08000031,Lymphoma,2,2,NHS Greater Glasgow and Clyde
+4660,2012Q1,S08000016,Lymphoma,7,7,NHS Borders
+4671,2012Q2,S08000016,Lymphoma,6,6,NHS Borders
+4682,2012Q3,S08000016,Lymphoma,9,9,NHS Borders
+4691,2012Q4,S08000016,Lymphoma,17,17,NHS Borders
+4700,2013Q1,S08000016,Lymphoma,8,8,NHS Borders
+4709,2013Q2,S08000016,Lymphoma,3,3,NHS Borders
+4719,2013Q3,S08000016,Lymphoma,14,14,NHS Borders
+4729,2013Q4,S08000016,Lymphoma,7,7,NHS Borders
+4738,2014Q1,S08000016,Lymphoma,4,4,NHS Borders
+4748,2014Q2,S08000016,Lymphoma,9,9,NHS Borders
+4756,2014Q3,S08000016,Lymphoma,3,3,NHS Borders
+4766,2014Q4,S08000016,Lymphoma,5,5,NHS Borders
+4776,2015Q1,S08000016,Lymphoma,6,6,NHS Borders
+4786,2015Q2,S08000016,Lymphoma,8,8,NHS Borders
+4796,2015Q3,S08000016,Lymphoma,7,7,NHS Borders
+4806,2015Q4,S08000016,Lymphoma,6,6,NHS Borders
+4814,2016Q1,S08000016,Lymphoma,2,2,NHS Borders
+4824,2016Q2,S08000016,Lymphoma,4,4,NHS Borders
+4833,2016Q3,S08000016,Lymphoma,12,12,NHS Borders
+4844,2016Q4,S08000016,Lymphoma,7,7,NHS Borders
+4855,2017Q1,S08000016,Lymphoma,8,8,NHS Borders
+4865,2017Q2,S08000016,Lymphoma,4,4,NHS Borders
+4875,2017Q3,S08000016,Lymphoma,9,9,NHS Borders
+4884,2017Q4,S08000016,Lymphoma,5,5,NHS Borders
+4890,2017Q4,S08000016,Lymphoma,1,1,NHS Borders
+4896,2018Q1,S08000016,Lymphoma,10,10,NHS Borders
+4905,2018Q2,S08000016,Lymphoma,6,6,NHS Borders
+4915,2018Q3,S08000016,Lymphoma,4,4,NHS Borders
+4923,2018Q4,S08000016,Lymphoma,7,7,NHS Borders
+4933,2019Q1,S08000016,Lymphoma,8,8,NHS Borders
+4943,2019Q2,S08000016,Lymphoma,4,4,NHS Borders
+4951,2019Q3,S08000016,Lymphoma,6,6,NHS Borders
+4960,2019Q4,S08000016,Lymphoma,8,8,NHS Borders
+4971,2020Q1,S08000016,Lymphoma,6,6,NHS Borders
+4981,2020Q2,S08000016,Lymphoma,6,6,NHS Borders
+4990,2020Q3,S08000016,Lymphoma,4,4,NHS Borders
+5049,2020Q4,S08000016,Lymphoma,4,4,NHS Borders
+5061,2021Q1,S08000016,Lymphoma,6,6,NHS Borders
+5070,2021Q2,S08000016,Lymphoma,4,4,NHS Borders
+5082,2021Q3,S08000016,Lymphoma,3,3,NHS Borders
+5095,2021Q4,S08000016,Lymphoma,1,1,NHS Borders
+5107,2022Q1,S08000016,Lymphoma,2,2,NHS Borders
+5117,2022Q2,S08000016,Lymphoma,5,5,NHS Borders
+5128,2022Q3,S08000016,Lymphoma,4,4,NHS Borders
+5141,2022Q4,S08000016,Lymphoma,4,4,NHS Borders
+5154,2023Q1,S08000016,Lymphoma,1,1,NHS Borders
+5188,2012Q1,S08000024,Lymphoma,34,34,NHS Lothian
+5198,2012Q1,S08000024,Lymphoma,3,3,NHS Lothian
+5215,2012Q2,S08000024,Lymphoma,1,1,NHS Lothian
+5226,2012Q2,S08000024,Lymphoma,37,37,NHS Lothian
+5249,2012Q3,S08000024,Lymphoma,2,2,NHS Lothian
+5268,2012Q3,S08000024,Lymphoma,49,49,NHS Lothian
+5289,2012Q4,S08000024,Lymphoma,1,1,NHS Lothian
+5308,2012Q4,S08000024,Lymphoma,34,34,NHS Lothian
+5318,2012Q4,S08000024,Lymphoma,1,0,NHS Lothian
+5352,2013Q1,S08000024,Lymphoma,42,42,NHS Lothian
+5382,2013Q2,S08000024,Lymphoma,1,1,NHS Lothian
+5393,2013Q2,S08000024,Lymphoma,39,39,NHS Lothian
+5404,2013Q2,S08000024,Lymphoma,2,2,NHS Lothian
+5437,2013Q3,S08000024,Lymphoma,40,40,NHS Lothian
+5446,2013Q3,S08000024,Lymphoma,1,1,NHS Lothian
+5477,2013Q4,S08000024,Lymphoma,42,42,NHS Lothian
+5487,2013Q4,S08000024,Lymphoma,4,4,NHS Lothian
+5517,2014Q1,S08000024,Lymphoma,41,40,NHS Lothian
+5526,2014Q1,S08000024,Lymphoma,1,1,NHS Lothian
+5558,2014Q2,S08000024,Lymphoma,36,36,NHS Lothian
+5567,2014Q2,S08000024,Lymphoma,2,2,NHS Lothian
+5581,2014Q3,S08000024,Lymphoma,1,1,NHS Lothian
+5602,2014Q3,S08000024,Lymphoma,36,36,NHS Lothian
+5625,2014Q4,S08000024,Lymphoma,1,1,NHS Lothian
+5640,2014Q4,S08000024,Lymphoma,31,31,NHS Lothian
+5650,2014Q4,S08000024,Lymphoma,1,1,NHS Lothian
+5680,2015Q1,S08000024,Lymphoma,41,41,NHS Lothian
+5690,2015Q1,S08000024,Lymphoma,3,3,NHS Lothian
+5722,2015Q2,S08000024,Lymphoma,45,45,NHS Lothian
+5731,2015Q2,S08000024,Lymphoma,1,1,NHS Lothian
+5744,2015Q3,S08000024,Lymphoma,1,1,NHS Lothian
+5760,2015Q3,S08000024,Lymphoma,32,32,NHS Lothian
+5769,2015Q3,S08000024,Lymphoma,1,1,NHS Lothian
+5799,2015Q4,S08000024,Lymphoma,38,38,NHS Lothian
+5835,2016Q1,S08000024,Lymphoma,40,40,NHS Lothian
+5844,2016Q1,S08000024,Lymphoma,1,1,NHS Lothian
+5854,2016Q2,S08000024,Lymphoma,1,1,NHS Lothian
+5874,2016Q2,S08000024,Lymphoma,34,34,NHS Lothian
+5892,2016Q3,S08000024,Lymphoma,1,1,NHS Lothian
+5914,2016Q3,S08000024,Lymphoma,30,29,NHS Lothian
+5923,2016Q3,S08000024,Lymphoma,1,1,NHS Lothian
+5936,2016Q4,S08000024,Lymphoma,1,1,NHS Lothian
+5954,2016Q4,S08000024,Lymphoma,39,39,NHS Lothian
+5994,2017Q1,S08000024,Lymphoma,38,38,NHS Lothian
+6016,2017Q2,S08000024,Lymphoma,1,1,NHS Lothian
+6035,2017Q2,S08000024,Lymphoma,48,48,NHS Lothian
+6045,2017Q2,S08000024,Lymphoma,3,3,NHS Lothian
+6056,2017Q3,S08000024,Lymphoma,1,1,NHS Lothian
+6074,2017Q3,S08000024,Lymphoma,27,27,NHS Lothian
+6104,2017Q4,S08000024,Lymphoma,1,1,NHS Lothian
+6116,2017Q4,S08000024,Lymphoma,37,37,NHS Lothian
+6126,2017Q4,S08000024,Lymphoma,3,3,NHS Lothian
+6139,2018Q1,S08000024,Lymphoma,1,1,NHS Lothian
+6147,2018Q1,S08000024,Lymphoma,1,1,NHS Lothian
+6158,2018Q1,S08000024,Lymphoma,36,36,NHS Lothian
+6176,2018Q2,S08000024,Lymphoma,1,1,NHS Lothian
+6194,2018Q2,S08000024,Lymphoma,32,32,NHS Lothian
+6214,2018Q3,S08000024,Lymphoma,1,1,NHS Lothian
+6234,2018Q3,S08000024,Lymphoma,42,42,NHS Lothian
+6244,2018Q3,S08000024,Lymphoma,1,1,NHS Lothian
+6275,2018Q4,S08000024,Lymphoma,44,44,NHS Lothian
+6315,2019Q1,S08000024,Lymphoma,30,30,NHS Lothian
+6325,2019Q1,S08000024,Lymphoma,1,1,NHS Lothian
+6332,2019Q1,S08000024,Lymphoma,1,1,NHS Lothian
+6354,2019Q2,S08000024,Lymphoma,25,25,NHS Lothian
+6364,2019Q2,S08000024,Lymphoma,1,1,NHS Lothian
+6374,2019Q3,S08000024,Lymphoma,2,2,NHS Lothian
+6397,2019Q3,S08000024,Lymphoma,31,31,NHS Lothian
+6421,2019Q4,S08000024,Lymphoma,1,1,NHS Lothian
+6428,2019Q4,S08000024,Lymphoma,1,1,NHS Lothian
+6441,2019Q4,S08000024,Lymphoma,33,33,NHS Lothian
+6451,2019Q4,S08000024,Lymphoma,1,1,NHS Lothian
+6480,2020Q1,S08000024,Lymphoma,20,20,NHS Lothian
+6518,2020Q2,S08000024,Lymphoma,49,49,NHS Lothian
+6546,2020Q3,S08000024,Lymphoma,1,1,NHS Lothian
+6558,2020Q3,S08000024,Lymphoma,40,39,NHS Lothian
+6567,2020Q3,S08000024,Lymphoma,2,2,NHS Lothian
+6914,2020Q4,S08000024,Lymphoma,1,1,NHS Lothian
+6934,2020Q4,S08000024,Lymphoma,33,33,NHS Lothian
+6962,2021Q1,S08000024,Lymphoma,1,1,NHS Lothian
+6970,2021Q1,S08000024,Lymphoma,1,1,NHS Lothian
+6977,2021Q1,S08000024,Lymphoma,1,1,NHS Lothian
+6985,2021Q1,S08000024,Lymphoma,34,33,NHS Lothian
+7031,2021Q2,S08000024,Lymphoma,42,42,NHS Lothian
+7041,2021Q2,S08000024,Lymphoma,1,1,NHS Lothian
+7083,2021Q3,S08000024,Lymphoma,37,36,NHS Lothian
+7092,2021Q3,S08000024,Lymphoma,1,1,NHS Lothian
+7135,2021Q4,S08000024,Lymphoma,35,35,NHS Lothian
+7165,2022Q1,S08000024,Lymphoma,1,1,NHS Lothian
+7182,2022Q1,S08000024,Lymphoma,34,34,NHS Lothian
+7193,2022Q1,S08000024,Lymphoma,1,1,NHS Lothian
+7237,2022Q2,S08000024,Lymphoma,42,42,NHS Lothian
+7248,2022Q2,S08000024,Lymphoma,1,1,NHS Lothian
+7287,2022Q3,S08000024,Lymphoma,24,24,NHS Lothian
+7323,2022Q4,S08000024,Lymphoma,2,2,NHS Lothian
+7336,2022Q4,S08000024,Lymphoma,40,40,NHS Lothian
+7346,2022Q4,S08000024,Lymphoma,1,1,NHS Lothian
+7387,2023Q1,S08000024,Lymphoma,35,35,NHS Lothian
+7397,2023Q1,S08000024,Lymphoma,2,1,NHS Lothian
+7418,2012Q1,S08000019,Lymphoma,12,12,NHS Forth Valley
+7429,2012Q2,S08000019,Lymphoma,12,12,NHS Forth Valley
+7442,2012Q3,S08000019,Lymphoma,11,11,NHS Forth Valley
+7452,2012Q4,S08000019,Lymphoma,12,12,NHS Forth Valley
+7462,2013Q1,S08000019,Lymphoma,9,9,NHS Forth Valley
+7471,2013Q2,S08000019,Lymphoma,19,19,NHS Forth Valley
+7482,2013Q3,S08000019,Lymphoma,15,15,NHS Forth Valley
+7493,2013Q4,S08000019,Lymphoma,10,10,NHS Forth Valley
+7505,2014Q1,S08000019,Lymphoma,14,14,NHS Forth Valley
+7517,2014Q2,S08000019,Lymphoma,16,16,NHS Forth Valley
+7528,2014Q3,S08000019,Lymphoma,9,9,NHS Forth Valley
+7539,2014Q4,S08000019,Lymphoma,16,16,NHS Forth Valley
+7551,2015Q1,S08000019,Lymphoma,13,13,NHS Forth Valley
+7563,2015Q2,S08000019,Lymphoma,16,16,NHS Forth Valley
+7573,2015Q3,S08000019,Lymphoma,15,15,NHS Forth Valley
+7583,2015Q4,S08000019,Lymphoma,9,9,NHS Forth Valley
+7594,2016Q1,S08000019,Lymphoma,7,7,NHS Forth Valley
+7604,2016Q2,S08000019,Lymphoma,10,10,NHS Forth Valley
+7614,2016Q3,S08000019,Lymphoma,12,12,NHS Forth Valley
+7625,2016Q4,S08000019,Lymphoma,10,10,NHS Forth Valley
+7637,2017Q1,S08000019,Lymphoma,15,15,NHS Forth Valley
+7651,2017Q2,S08000019,Lymphoma,9,9,NHS Forth Valley
+7662,2017Q3,S08000019,Lymphoma,14,14,NHS Forth Valley
+7672,2017Q4,S08000019,Lymphoma,11,11,NHS Forth Valley
+7683,2018Q1,S08000019,Lymphoma,16,16,NHS Forth Valley
+7694,2018Q2,S08000019,Lymphoma,18,18,NHS Forth Valley
+7705,2018Q3,S08000019,Lymphoma,14,14,NHS Forth Valley
+7716,2018Q4,S08000019,Lymphoma,19,19,NHS Forth Valley
+7727,2019Q1,S08000019,Lymphoma,17,17,NHS Forth Valley
+7739,2019Q2,S08000019,Lymphoma,12,12,NHS Forth Valley
+7749,2019Q3,S08000019,Lymphoma,15,15,NHS Forth Valley
+7761,2019Q4,S08000019,Lymphoma,14,14,NHS Forth Valley
+7773,2020Q1,S08000019,Lymphoma,21,21,NHS Forth Valley
+7785,2020Q2,S08000019,Lymphoma,17,17,NHS Forth Valley
+7796,2020Q3,S08000019,Lymphoma,10,10,NHS Forth Valley
+7888,2020Q4,S08000019,Lymphoma,9,9,NHS Forth Valley
+7902,2021Q1,S08000019,Lymphoma,14,14,NHS Forth Valley
+7916,2021Q2,S08000019,Lymphoma,21,21,NHS Forth Valley
+7929,2021Q3,S08000019,Lymphoma,13,13,NHS Forth Valley
+7940,2021Q4,S08000019,Lymphoma,8,8,NHS Forth Valley
+7953,2022Q1,S08000019,Lymphoma,13,12,NHS Forth Valley
+7965,2022Q2,S08000019,Lymphoma,14,14,NHS Forth Valley
+7979,2022Q3,S08000019,Lymphoma,19,19,NHS Forth Valley
+7994,2022Q4,S08000019,Lymphoma,17,17,NHS Forth Valley
+8008,2023Q1,S08000019,Lymphoma,19,19,NHS Forth Valley
+8023,2012Q1,S08000022,Lymphoma,15,15,NHS Highland
+8039,2012Q2,S08000022,Lymphoma,17,17,NHS Highland
+8054,2012Q3,S08000022,Lymphoma,15,14,NHS Highland
+8067,2012Q4,S08000022,Lymphoma,17,16,NHS Highland
+8075,2012Q4,S08000022,Lymphoma,2,2,NHS Highland
+8085,2013Q1,S08000022,Lymphoma,15,15,NHS Highland
+8101,2013Q2,S08000022,Lymphoma,15,14,NHS Highland
+8107,2013Q2,S08000022,Lymphoma,1,1,NHS Highland
+8110,2013Q3,S08000022,Lymphoma,1,1,NHS Highland
+8116,2013Q3,S08000022,Lymphoma,15,15,NHS Highland
+8124,2013Q3,S08000022,Lymphoma,2,2,NHS Highland
+8135,2013Q4,S08000022,Lymphoma,12,12,NHS Highland
+8151,2014Q1,S08000022,Lymphoma,9,8,NHS Highland
+8162,2014Q2,S08000022,Lymphoma,1,1,NHS Highland
+8168,2014Q2,S08000022,Lymphoma,20,20,NHS Highland
+8176,2014Q2,S08000022,Lymphoma,1,1,NHS Highland
+8182,2014Q2,S08000022,Lymphoma,1,1,NHS Highland
+8187,2014Q3,S08000022,Lymphoma,17,17,NHS Highland
+8202,2014Q4,S08000022,Lymphoma,19,19,NHS Highland
+8212,2014Q4,S08000022,Lymphoma,1,1,NHS Highland
+8214,2015Q1,S08000022,Lymphoma,1,1,NHS Highland
+8220,2015Q1,S08000022,Lymphoma,11,11,NHS Highland
+8236,2015Q2,S08000022,Lymphoma,9,9,NHS Highland
+8250,2015Q3,S08000022,Lymphoma,17,17,NHS Highland
+8258,2015Q3,S08000022,Lymphoma,1,1,NHS Highland
+8265,2015Q4,S08000022,Lymphoma,1,1,NHS Highland
+8271,2015Q4,S08000022,Lymphoma,11,11,NHS Highland
+8277,2015Q4,S08000022,Lymphoma,2,2,NHS Highland
+8284,2016Q1,S08000022,Lymphoma,12,12,NHS Highland
+8297,2016Q2,S08000022,Lymphoma,15,15,NHS Highland
+8312,2016Q3,S08000022,Lymphoma,1,1,NHS Highland
+8318,2016Q3,S08000022,Lymphoma,13,13,NHS Highland
+8332,2016Q4,S08000022,Lymphoma,15,15,NHS Highland
+8340,2016Q4,S08000022,Lymphoma,2,2,NHS Highland
+8348,2017Q1,S08000022,Lymphoma,16,16,NHS Highland
+8357,2017Q1,S08000022,Lymphoma,2,2,NHS Highland
+8360,2017Q2,S08000022,Lymphoma,1,1,NHS Highland
+8366,2017Q2,S08000022,Lymphoma,13,13,NHS Highland
+8374,2017Q2,S08000022,Lymphoma,1,1,NHS Highland
+8376,2017Q3,S08000022,Lymphoma,1,1,NHS Highland
+8382,2017Q3,S08000022,Lymphoma,20,20,NHS Highland
+8399,2017Q4,S08000022,Lymphoma,14,14,NHS Highland
+8406,2017Q4,S08000022,Lymphoma,1,1,NHS Highland
+8417,2018Q1,S08000022,Lymphoma,16,15,NHS Highland
+8425,2018Q1,S08000022,Lymphoma,1,1,NHS Highland
+8434,2018Q2,S08000022,Lymphoma,10,10,NHS Highland
+8440,2018Q2,S08000022,Lymphoma,1,1,NHS Highland
+8449,2018Q3,S08000022,Lymphoma,14,14,NHS Highland
+8467,2018Q4,S08000022,Lymphoma,21,21,NHS Highland
+8475,2018Q4,S08000022,Lymphoma,1,1,NHS Highland
+8483,2019Q1,S08000022,Lymphoma,17,17,NHS Highland
+8490,2019Q1,S08000022,Lymphoma,2,2,NHS Highland
+8501,2019Q2,S08000022,Lymphoma,17,17,NHS Highland
+8519,2019Q3,S08000022,Lymphoma,18,17,NHS Highland
+8527,2019Q3,S08000022,Lymphoma,1,1,NHS Highland
+8537,2019Q4,S08000022,Lymphoma,8,8,NHS Highland
+8554,2020Q1,S08000022,Lymphoma,13,13,NHS Highland
+8561,2020Q1,S08000022,Lymphoma,1,1,NHS Highland
+8571,2020Q2,S08000022,Lymphoma,15,15,NHS Highland
+8579,2020Q2,S08000022,Lymphoma,1,1,NHS Highland
+8588,2020Q3,S08000022,Lymphoma,4,4,NHS Highland
+8594,2020Q3,S08000022,Lymphoma,1,1,NHS Highland
+8723,2020Q4,S08000022,Lymphoma,12,11,NHS Highland
+8730,2020Q4,S08000022,Lymphoma,2,2,NHS Highland
+8741,2021Q1,S08000022,Lymphoma,15,15,NHS Highland
+8762,2021Q2,S08000022,Lymphoma,11,11,NHS Highland
+8769,2021Q2,S08000022,Lymphoma,4,4,NHS Highland
+8772,2021Q2,S08000022,Lymphoma,1,1,NHS Highland
+8782,2021Q3,S08000022,Lymphoma,16,16,NHS Highland
+8789,2021Q3,S08000022,Lymphoma,1,1,NHS Highland
+8800,2021Q4,S08000022,Lymphoma,8,8,NHS Highland
+8816,2022Q1,S08000022,Lymphoma,16,16,NHS Highland
+8832,2022Q2,S08000022,Lymphoma,14,14,NHS Highland
+8851,2022Q3,S08000022,Lymphoma,17,17,NHS Highland
+8870,2022Q4,S08000022,Lymphoma,14,14,NHS Highland
+8880,2022Q4,S08000022,Lymphoma,1,1,NHS Highland
+8890,2023Q1,S08000022,Lymphoma,16,16,NHS Highland
+8897,2023Q1,S08000022,Lymphoma,5,5,NHS Highland
+8899,2023Q1,S08000022,Lymphoma,1,1,NHS Highland
+8910,2012Q1,S08000029,Lymphoma,10,10,NHS Fife
+8920,2012Q2,S08000029,Lymphoma,16,16,NHS Fife
+8930,2012Q3,S08000029,Lymphoma,10,10,NHS Fife
+8942,2012Q4,S08000029,Lymphoma,13,13,NHS Fife
+8953,2013Q1,S08000029,Lymphoma,20,20,NHS Fife
+8964,2013Q2,S08000029,Lymphoma,16,16,NHS Fife
+8974,2013Q3,S08000029,Lymphoma,14,14,NHS Fife
+8985,2013Q4,S08000029,Lymphoma,16,16,NHS Fife
+8996,2014Q1,S08000029,Lymphoma,18,18,NHS Fife
+9006,2014Q2,S08000029,Lymphoma,12,12,NHS Fife
+9017,2014Q3,S08000029,Lymphoma,18,18,NHS Fife
+9029,2014Q4,S08000029,Lymphoma,25,25,NHS Fife
+9039,2015Q1,S08000029,Lymphoma,19,19,NHS Fife
+9050,2015Q2,S08000029,Lymphoma,16,16,NHS Fife
+9061,2015Q3,S08000029,Lymphoma,16,16,NHS Fife
+9073,2015Q4,S08000029,Lymphoma,14,14,NHS Fife
+9084,2016Q1,S08000029,Lymphoma,14,14,NHS Fife
+9096,2016Q2,S08000029,Lymphoma,17,17,NHS Fife
+9106,2016Q3,S08000029,Lymphoma,15,15,NHS Fife
+9117,2016Q4,S08000029,Lymphoma,16,16,NHS Fife
+9128,2017Q1,S08000029,Lymphoma,12,12,NHS Fife
+9139,2017Q2,S08000029,Lymphoma,23,23,NHS Fife
+9150,2017Q3,S08000029,Lymphoma,16,16,NHS Fife
+9160,2017Q4,S08000029,Lymphoma,20,20,NHS Fife
+9171,2018Q1,S08000029,Lymphoma,14,14,NHS Fife
+9182,2018Q2,S08000029,Lymphoma,11,11,NHS Fife
+9194,2018Q3,S08000029,Lymphoma,19,19,NHS Fife
+9205,2018Q4,S08000029,Lymphoma,19,19,NHS Fife
+9215,2019Q1,S08000029,Lymphoma,16,16,NHS Fife
+9226,2019Q2,S08000029,Lymphoma,20,20,NHS Fife
+9237,2019Q3,S08000029,Lymphoma,14,14,NHS Fife
+9243,2019Q4,S08000029,Lymphoma,1,1,NHS Fife
+9248,2019Q4,S08000029,Lymphoma,16,16,NHS Fife
+9259,2020Q1,S08000029,Lymphoma,15,14,NHS Fife
+9270,2020Q2,S08000029,Lymphoma,16,16,NHS Fife
+9280,2020Q3,S08000029,Lymphoma,10,10,NHS Fife
+9361,2020Q4,S08000029,Lymphoma,17,17,NHS Fife
+9374,2021Q1,S08000029,Lymphoma,18,18,NHS Fife
+9387,2021Q2,S08000029,Lymphoma,22,22,NHS Fife
+9400,2021Q3,S08000029,Lymphoma,26,26,NHS Fife
+9412,2021Q4,S08000029,Lymphoma,23,23,NHS Fife
+9425,2022Q1,S08000029,Lymphoma,20,20,NHS Fife
+9439,2022Q2,S08000029,Lymphoma,25,25,NHS Fife
+9450,2022Q3,S08000029,Lymphoma,20,20,NHS Fife
+9463,2022Q4,S08000029,Lymphoma,20,20,NHS Fife
+9477,2023Q1,S08000029,Lymphoma,21,21,NHS Fife
+9492,2012Q1,S08000030,Lymphoma,26,26,NHS Tayside
+9504,2012Q2,S08000030,Lymphoma,17,17,NHS Tayside
+9518,2012Q3,S08000030,Lymphoma,21,21,NHS Tayside
+9530,2012Q4,S08000030,Lymphoma,18,18,NHS Tayside
+9537,2013Q1,S08000030,Lymphoma,2,2,NHS Tayside
+9545,2013Q1,S08000030,Lymphoma,18,18,NHS Tayside
+9558,2013Q2,S08000030,Lymphoma,23,23,NHS Tayside
+9572,2013Q3,S08000030,Lymphoma,28,26,NHS Tayside
+9587,2013Q4,S08000030,Lymphoma,7,7,NHS Tayside
+9640,2015Q1,S08000030,Lymphoma,1,1,NHS Tayside
+9648,2015Q1,S08000030,Lymphoma,17,17,NHS Tayside
+9653,2015Q1,S08000030,Lymphoma,1,1,NHS Tayside
+9662,2015Q2,S08000030,Lymphoma,19,19,NHS Tayside
+9674,2015Q3,S08000030,Lymphoma,8,8,NHS Tayside
+9688,2015Q4,S08000030,Lymphoma,22,22,NHS Tayside
+9695,2016Q1,S08000030,Lymphoma,1,1,NHS Tayside
+9697,2016Q1,S08000030,Lymphoma,1,1,NHS Tayside
+9704,2016Q1,S08000030,Lymphoma,15,15,NHS Tayside
+9719,2016Q2,S08000030,Lymphoma,21,21,NHS Tayside
+9735,2016Q3,S08000030,Lymphoma,16,16,NHS Tayside
+9750,2016Q4,S08000030,Lymphoma,12,11,NHS Tayside
+9763,2017Q1,S08000030,Lymphoma,20,20,NHS Tayside
+9777,2017Q2,S08000030,Lymphoma,20,20,NHS Tayside
+9793,2017Q3,S08000030,Lymphoma,20,20,NHS Tayside
+9808,2017Q4,S08000030,Lymphoma,17,17,NHS Tayside
+9816,2018Q1,S08000030,Lymphoma,1,1,NHS Tayside
+9823,2018Q1,S08000030,Lymphoma,32,32,NHS Tayside
+9838,2018Q2,S08000030,Lymphoma,21,21,NHS Tayside
+9853,2018Q3,S08000030,Lymphoma,13,13,NHS Tayside
+9858,2018Q4,S08000030,Lymphoma,1,1,NHS Tayside
+9868,2018Q4,S08000030,Lymphoma,18,18,NHS Tayside
+9882,2019Q1,S08000030,Lymphoma,19,19,NHS Tayside
+9896,2019Q2,S08000030,Lymphoma,29,28,NHS Tayside
+9912,2019Q3,S08000030,Lymphoma,23,23,NHS Tayside
+9926,2019Q4,S08000030,Lymphoma,19,19,NHS Tayside
+9940,2020Q1,S08000030,Lymphoma,21,21,NHS Tayside
+9955,2020Q2,S08000030,Lymphoma,20,20,NHS Tayside
+9969,2020Q3,S08000030,Lymphoma,10,10,NHS Tayside
+10091,2020Q4,S08000030,Lymphoma,17,17,NHS Tayside
+10106,2021Q1,S08000030,Lymphoma,17,17,NHS Tayside
+10121,2021Q2,S08000030,Lymphoma,35,35,NHS Tayside
+10139,2021Q3,S08000030,Lymphoma,23,23,NHS Tayside
+10156,2021Q4,S08000030,Lymphoma,24,24,NHS Tayside
+10173,2022Q1,S08000030,Lymphoma,18,18,NHS Tayside
+10190,2022Q2,S08000030,Lymphoma,16,16,NHS Tayside
+10206,2022Q3,S08000030,Lymphoma,14,14,NHS Tayside
+10223,2022Q4,S08000030,Lymphoma,14,14,NHS Tayside
+10233,2023Q1,S08000030,Lymphoma,1,1,NHS Tayside
+10241,2023Q1,S08000030,Lymphoma,26,26,NHS Tayside
+10253,2012Q3,S08000025,Lymphoma,1,1,NHS Orkney
+10288,2015Q2,S08000025,Lymphoma,1,1,NHS Orkney
+10300,2016Q2,S08000025,Lymphoma,1,1,NHS Orkney
+10361,2020Q1,S08000025,Lymphoma,1,1,NHS Orkney
+10437,2021Q2,S08000025,Lymphoma,1,1,NHS Orkney
+10446,2021Q4,S08000025,Lymphoma,1,1,NHS Orkney
+10474,2022Q4,S08000025,Lymphoma,1,1,NHS Orkney
+10490,2012Q1,S08000026,Lymphoma,1,1,NHS Shetland
+10496,2012Q2,S08000026,Lymphoma,1,1,NHS Shetland
+10598,2017Q1,S08000026,Lymphoma,1,1,NHS Shetland
+10603,2017Q2,S08000026,Lymphoma,1,1,NHS Shetland
+10753,2021Q1,S08000026,Lymphoma,1,1,NHS Shetland
+10770,2021Q4,S08000026,Lymphoma,1,1,NHS Shetland
+10778,2022Q1,S08000026,Lymphoma,1,1,NHS Shetland
+10854,2013Q4,S08000028,Lymphoma,1,1,NHS Western Isles
+10881,2015Q1,S08000028,Lymphoma,1,1,NHS Western Isles
+10950,2018Q1,S08000028,Lymphoma,1,1,NHS Western Isles
+11004,2020Q2,S08000028,Lymphoma,1,1,NHS Western Isles
+11143,2023Q1,S08000028,Lymphoma,1,1,NHS Western Isles
+11154,2012Q1,S08000032,Lymphoma,26,26,NHS Lanarkshire
+11165,2012Q2,S08000032,Lymphoma,27,27,NHS Lanarkshire
+11177,2012Q3,S08000032,Lymphoma,24,24,NHS Lanarkshire
+11188,2012Q4,S08000032,Lymphoma,23,23,NHS Lanarkshire
+11200,2013Q1,S08000032,Lymphoma,26,26,NHS Lanarkshire
+11212,2013Q2,S08000032,Lymphoma,24,24,NHS Lanarkshire
+11223,2013Q3,S08000032,Lymphoma,25,25,NHS Lanarkshire
+11235,2013Q4,S08000032,Lymphoma,22,22,NHS Lanarkshire
+11247,2014Q1,S08000032,Lymphoma,19,19,NHS Lanarkshire
+11258,2014Q2,S08000032,Lymphoma,23,23,NHS Lanarkshire
+11270,2014Q3,S08000032,Lymphoma,25,25,NHS Lanarkshire
+11281,2014Q4,S08000032,Lymphoma,18,18,NHS Lanarkshire
+11293,2015Q1,S08000032,Lymphoma,28,28,NHS Lanarkshire
+11305,2015Q2,S08000032,Lymphoma,15,15,NHS Lanarkshire
+11317,2015Q3,S08000032,Lymphoma,29,29,NHS Lanarkshire
+11329,2015Q4,S08000032,Lymphoma,22,22,NHS Lanarkshire
+11342,2016Q1,S08000032,Lymphoma,24,24,NHS Lanarkshire
+11353,2016Q2,S08000032,Lymphoma,24,24,NHS Lanarkshire
+11365,2016Q3,S08000032,Lymphoma,17,17,NHS Lanarkshire
+11378,2016Q4,S08000032,Lymphoma,19,19,NHS Lanarkshire
+11390,2017Q1,S08000032,Lymphoma,29,29,NHS Lanarkshire
+11402,2017Q2,S08000032,Lymphoma,19,19,NHS Lanarkshire
+11414,2017Q3,S08000032,Lymphoma,26,26,NHS Lanarkshire
+11427,2017Q4,S08000032,Lymphoma,27,27,NHS Lanarkshire
+11439,2018Q1,S08000032,Lymphoma,34,34,NHS Lanarkshire
+11451,2018Q2,S08000032,Lymphoma,27,27,NHS Lanarkshire
+11462,2018Q3,S08000032,Lymphoma,18,18,NHS Lanarkshire
+11475,2018Q4,S08000032,Lymphoma,30,30,NHS Lanarkshire
+11487,2019Q1,S08000032,Lymphoma,28,28,NHS Lanarkshire
+11500,2019Q2,S08000032,Lymphoma,21,21,NHS Lanarkshire
+11512,2019Q3,S08000032,Lymphoma,27,27,NHS Lanarkshire
+11524,2019Q4,S08000032,Lymphoma,26,26,NHS Lanarkshire
+11537,2020Q1,S08000032,Lymphoma,21,21,NHS Lanarkshire
+11549,2020Q2,S08000032,Lymphoma,21,21,NHS Lanarkshire
+11561,2020Q3,S08000032,Lymphoma,29,29,NHS Lanarkshire
+11670,2020Q4,S08000032,Lymphoma,19,19,NHS Lanarkshire
+11684,2021Q1,S08000032,Lymphoma,20,20,NHS Lanarkshire
+11697,2021Q2,S08000032,Lymphoma,26,26,NHS Lanarkshire
+11711,2021Q3,S08000032,Lymphoma,24,24,NHS Lanarkshire
+11727,2021Q4,S08000032,Lymphoma,19,19,NHS Lanarkshire
+11743,2022Q1,S08000032,Lymphoma,16,16,NHS Lanarkshire
+11758,2022Q2,S08000032,Lymphoma,15,15,NHS Lanarkshire
+11773,2022Q3,S08000032,Lymphoma,13,13,NHS Lanarkshire
+11789,2022Q4,S08000032,Lymphoma,20,20,NHS Lanarkshire
+11804,2023Q1,S08000032,Lymphoma,24,24,NHS Lanarkshire
