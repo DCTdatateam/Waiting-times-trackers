@@ -29,7 +29,7 @@ Musculoskeletal_Physiotherapy= Musculoskeletal[Musculoskeletal['Specialty']=='Ph
 
 #writing to csv
 Musculoskeletal.to_csv(r'data/Musculoskeletal.csv')
-Musculoskeletal2.to_csv(r'data/Musculoskeletalseen.csv')
+#Musculoskeletal2.to_csv(r'data/Musculoskeletalseen.csv')
 
 Musculoskeletal_chiro_podia.to_csv(r'data/Musculoskeletal_chiropody_podiatry.csv')
 Musculoskeletal_occupationaltherapy.to_csv(r'data/Musculoskeletal_occupationaltherapy.csv')
