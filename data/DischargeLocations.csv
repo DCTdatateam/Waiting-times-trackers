@@ -1,4 +1,4 @@
-,Month,Country_x,HBT,TreatmentLocation,DepartmentType,Age,AgeQF,DischargeQF,Number of people discharged to same hospital,HB,HBName,HBDateEnacted,HBDateArchived,Country_y,Number of people discharged to home or usual place of residence,Number of people transferred to Other hospital/service,Number of people transferred to other location
+,Month,Country_x,HBT,TreatmentLocation,DepartmentType,Age,AgeQF,DischargeQF,Same hospital,HB,HBName,HBDateEnacted,HBDateArchived,Country_y,Home or usual place of residence,Other hospital/service,Other location
 0,01/01/18,S92000003,S08000015,A111H,Emergency Department,18-24,,,85.0,S08000015,NHS Ayrshire and Arran,20140401,,S92000003,386.0,5.0,
 1,01/01/18,S92000003,S08000015,A111H,Emergency Department,25-39,,,206.0,S08000015,NHS Ayrshire and Arran,20140401,,S92000003,682.0,18.0,
 2,01/01/18,S92000003,S08000015,A111H,Emergency Department,40-64,,,488.0,S08000015,NHS Ayrshire and Arran,20140401,,S92000003,823.0,13.0,2.0
