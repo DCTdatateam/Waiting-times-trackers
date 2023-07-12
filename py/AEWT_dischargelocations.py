@@ -15,28 +15,28 @@ DDmerge['Month'] = pd.to_datetime(DDmerge['Month'], format='%Y%m').dt.strftime('
 ##Replacing the blank columns in discharge column with a value
 DDmerge2= DDmerge.mask(DDmerge == '')
 
-Hospital = DDmerge2.rename(columns={'NumberOfAttendances': 'Number of people discharged to same hospital'})
-Hospital2= Hospital[Hospital['Discharge']=='Admission to same Hospital']
+##Hospital = DDmerge2.rename(columns={'NumberOfAttendances': 'Number of people discharged to same hospital'})
+##Hospital2= Hospital[Hospital['Discharge']=='Admission to same Hospital']
 
 
 ##Hospital discharges
-Hospital = DDmerge2.rename(columns={'NumberOfAttendances': 'Number of people discharged to same hospital'})
+Hospital = DDmerge2.rename(columns={'NumberOfAttendances': 'Same hospital'})
 Hospital2= Hospital[Hospital['Discharge']=='Admission to same Hospital']
 
 ##Home discharges
-Home = DDmerge2.rename(columns={'NumberOfAttendances': 'Number of people discharged to home or usual place of residence'})
+Home = DDmerge2.rename(columns={'NumberOfAttendances': 'Home or usual place of residence'})
 Home2= Home[Home['Discharge']=='Discharged Home or to usual Place of Residence']
 
 ##Hospital transfer
-HospitalTransfer = DDmerge2.rename(columns={'NumberOfAttendances': 'Number of people transferred to Other hospital/service'})
+HospitalTransfer = DDmerge2.rename(columns={'NumberOfAttendances': 'Other hospital/service'})
 HospitalTransfer2 = HospitalTransfer[HospitalTransfer['Discharge']=='Transferred to Other Hospital/Service']
 
 ##Other
-Other = DDmerge2.rename(columns={'NumberOfAttendances': 'Number of people transferred to other location'})
+Other = DDmerge2.rename(columns={'NumberOfAttendances': 'Other location'})
 Other2 = Other[Other['Discharge']=='Other']
 
 ##Unknown
-Unknown = DDmerge2.rename(columns={'NumberOfAttendances': 'Number of people transferred to unknown location'})
+Unknown = DDmerge2.rename(columns={'NumberOfAttendances': 'Unknown location'})
 Unknown2 = Other[Other['Discharge']=='NaN']
 
 ##dropping the discharge column because I really need it to stop merging
