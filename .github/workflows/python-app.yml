@@ -77,7 +77,14 @@ jobs:
         python 'py/AEWT_dischargelocations.py'
       env:
         key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
-        
+    
+    - name: Run A&E waiting times when is busiest script
+      run: |
+        python 'py/WhenIsBusiestA&E.py'
+      env:
+        key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
+    
+    
     - name: commit files
       #continue-on-error: true
       run: |
