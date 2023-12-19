@@ -36,657 +36,674 @@
 475,2022Q3,S08000015,Cervical,3,3,NHS Ayrshire and Arran
 486,2022Q4,S08000015,Cervical,3,3,NHS Ayrshire and Arran
 511,2023Q2,S08000015,Cervical,7,7,NHS Ayrshire and Arran
-541,2012Q3,S08000017,Cervical,3,3,NHS Dumfries and Galloway
-552,2012Q4,S08000017,Cervical,2,2,NHS Dumfries and Galloway
-562,2013Q1,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-602,2014Q1,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-623,2014Q3,S08000017,Cervical,2,2,NHS Dumfries and Galloway
-633,2014Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-654,2015Q2,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-665,2015Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-676,2015Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-706,2016Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-726,2017Q1,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-737,2017Q2,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-757,2017Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-778,2018Q2,S08000017,Cervical,2,2,NHS Dumfries and Galloway
-789,2018Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-820,2019Q2,S08000017,Cervical,4,4,NHS Dumfries and Galloway
-831,2019Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-860,2020Q2,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-870,2020Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-958,2021Q1,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-982,2021Q3,S08000017,Cervical,3,3,NHS Dumfries and Galloway
-995,2021Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-1032,2022Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-1047,2022Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-1077,2012Q1,S08000020,Cervical,4,4,NHS Grampian
-1102,2012Q2,S08000020,Cervical,7,7,NHS Grampian
-1121,2012Q3,S08000020,Cervical,5,5,NHS Grampian
-1141,2012Q4,S08000020,Cervical,5,5,NHS Grampian
-1150,2012Q4,S08000020,Cervical,1,1,NHS Grampian
-1165,2013Q1,S08000020,Cervical,6,6,NHS Grampian
-1185,2013Q2,S08000020,Cervical,4,4,NHS Grampian
-1199,2013Q2,S08000020,Cervical,1,0,NHS Grampian
-1204,2013Q3,S08000020,Cervical,5,5,NHS Grampian
-1226,2013Q4,S08000020,Cervical,2,2,NHS Grampian
-1245,2014Q1,S08000020,Cervical,7,7,NHS Grampian
-1259,2014Q1,S08000020,Cervical,1,1,NHS Grampian
-1267,2014Q2,S08000020,Cervical,12,12,NHS Grampian
-1279,2014Q2,S08000020,Cervical,1,1,NHS Grampian
-1287,2014Q2,S08000020,Cervical,1,1,NHS Grampian
-1290,2014Q3,S08000020,Cervical,5,5,NHS Grampian
-1317,2014Q4,S08000020,Cervical,10,10,NHS Grampian
-1336,2015Q1,S08000020,Cervical,5,5,NHS Grampian
-1352,2015Q2,S08000020,Cervical,13,12,NHS Grampian
-1372,2015Q3,S08000020,Cervical,11,10,NHS Grampian
-1384,2015Q3,S08000020,Cervical,1,1,NHS Grampian
-1395,2015Q4,S08000020,Cervical,8,8,NHS Grampian
-1409,2015Q4,S08000020,Cervical,1,1,NHS Grampian
-1420,2016Q1,S08000020,Cervical,10,10,NHS Grampian
-1444,2016Q2,S08000020,Cervical,3,2,NHS Grampian
-1461,2016Q3,S08000020,Cervical,4,4,NHS Grampian
-1482,2016Q3,S08000020,Cervical,1,1,NHS Grampian
-1484,2016Q4,S08000020,Cervical,6,6,NHS Grampian
-1508,2017Q1,S08000020,Cervical,13,13,NHS Grampian
-1533,2017Q1,S08000020,Cervical,1,1,NHS Grampian
-1535,2017Q2,S08000020,Cervical,9,9,NHS Grampian
-1556,2017Q2,S08000020,Cervical,2,2,NHS Grampian
-1559,2017Q3,S08000020,Cervical,8,8,NHS Grampian
-1575,2017Q3,S08000020,Cervical,1,1,NHS Grampian
-1578,2017Q4,S08000020,Cervical,8,7,NHS Grampian
-1598,2017Q4,S08000020,Cervical,1,1,NHS Grampian
-1602,2018Q1,S08000020,Cervical,8,7,NHS Grampian
-1621,2018Q1,S08000020,Cervical,1,1,NHS Grampian
-1624,2018Q2,S08000020,Cervical,4,4,NHS Grampian
-1648,2018Q2,S08000020,Cervical,3,3,NHS Grampian
-1652,2018Q3,S08000020,Cervical,5,5,NHS Grampian
-1665,2018Q3,S08000020,Cervical,2,2,NHS Grampian
-1671,2018Q4,S08000020,Cervical,9,9,NHS Grampian
-1693,2018Q4,S08000020,Cervical,1,0,NHS Grampian
-1696,2019Q1,S08000020,Cervical,11,8,NHS Grampian
-1705,2019Q1,S08000020,Cervical,1,1,NHS Grampian
-1721,2019Q2,S08000020,Cervical,6,5,NHS Grampian
-1743,2019Q2,S08000020,Cervical,1,1,NHS Grampian
-1746,2019Q3,S08000020,Cervical,7,7,NHS Grampian
-1770,2019Q4,S08000020,Cervical,7,7,NHS Grampian
-1791,2019Q4,S08000020,Cervical,1,1,NHS Grampian
-1796,2020Q1,S08000020,Cervical,5,5,NHS Grampian
-1819,2020Q1,S08000020,Cervical,1,1,NHS Grampian
-1821,2020Q2,S08000020,Cervical,7,7,NHS Grampian
-1840,2020Q3,S08000020,Cervical,3,3,NHS Grampian
-1849,2020Q3,S08000020,Cervical,1,1,NHS Grampian
-2044,2020Q4,S08000020,Cervical,4,4,NHS Grampian
-2069,2021Q1,S08000020,Cervical,7,7,NHS Grampian
-2088,2021Q1,S08000020,Cervical,1,1,NHS Grampian
-2097,2021Q2,S08000020,Cervical,7,6,NHS Grampian
-2113,2021Q2,S08000020,Cervical,1,1,NHS Grampian
-2129,2021Q3,S08000020,Cervical,7,7,NHS Grampian
-2162,2021Q4,S08000020,Cervical,7,7,NHS Grampian
-2187,2022Q1,S08000020,Cervical,5,4,NHS Grampian
-2219,2022Q2,S08000020,Cervical,7,7,NHS Grampian
-2246,2022Q3,S08000020,Cervical,6,6,NHS Grampian
-2260,2022Q3,S08000020,Cervical,1,1,NHS Grampian
-2273,2022Q4,S08000020,Cervical,13,13,NHS Grampian
-2301,2023Q1,S08000020,Cervical,9,7,NHS Grampian
-2324,2023Q1,S08000020,Cervical,2,2,NHS Grampian
-2329,2023Q2,S08000020,Cervical,6,4,NHS Grampian
-2356,2012Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2367,2012Q1,S08000031,Cervical,1,0,NHS Greater Glasgow and Clyde
-2378,2012Q1,S08000031,Cervical,11,11,NHS Greater Glasgow and Clyde
-2388,2012Q1,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-2398,2012Q2,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-2409,2012Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2426,2012Q2,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-2436,2012Q2,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-2454,2012Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-2468,2012Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2471,2012Q3,S08000031,Cervical,8,7,NHS Greater Glasgow and Clyde
-2480,2012Q3,S08000031,Cervical,4,3,NHS Greater Glasgow and Clyde
-2498,2012Q4,S08000031,Cervical,3,2,NHS Greater Glasgow and Clyde
-2513,2012Q4,S08000031,Cervical,8,8,NHS Greater Glasgow and Clyde
-2523,2012Q4,S08000031,Cervical,7,5,NHS Greater Glasgow and Clyde
-2540,2013Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-2558,2013Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-2568,2013Q1,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-2577,2013Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2589,2013Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2607,2013Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-2617,2013Q2,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-2627,2013Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2638,2013Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-2653,2013Q3,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
-2663,2013Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2672,2013Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2681,2013Q4,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-2696,2013Q4,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
-2705,2013Q4,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-2714,2014Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2726,2014Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-2741,2014Q1,S08000031,Cervical,13,13,NHS Greater Glasgow and Clyde
-2751,2014Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-2760,2014Q2,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-2771,2014Q2,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-2787,2014Q2,S08000031,Cervical,16,16,NHS Greater Glasgow and Clyde
-2797,2014Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-2807,2014Q3,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-2818,2014Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2826,2014Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2834,2014Q3,S08000031,Cervical,8,8,NHS Greater Glasgow and Clyde
-2844,2014Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-2854,2014Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2864,2014Q4,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-2878,2014Q4,S08000031,Cervical,18,18,NHS Greater Glasgow and Clyde
-2888,2014Q4,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-2897,2015Q1,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-2908,2015Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-2919,2015Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-2923,2015Q1,S08000031,Cervical,11,11,NHS Greater Glasgow and Clyde
-2932,2015Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-2942,2015Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-2955,2015Q2,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-2973,2015Q2,S08000031,Cervical,13,13,NHS Greater Glasgow and Clyde
-2983,2015Q2,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-2992,2015Q3,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3004,2015Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3016,2015Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-3026,2015Q3,S08000031,Cervical,8,8,NHS Greater Glasgow and Clyde
-3034,2015Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3046,2015Q4,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3059,2015Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3062,2015Q4,S08000031,Cervical,17,17,NHS Greater Glasgow and Clyde
-3072,2015Q4,S08000031,Cervical,7,7,NHS Greater Glasgow and Clyde
-3082,2016Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3092,2016Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-3104,2016Q1,S08000031,Cervical,17,17,NHS Greater Glasgow and Clyde
-3114,2016Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3124,2016Q2,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3133,2016Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-3146,2016Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3152,2016Q2,S08000031,Cervical,14,13,NHS Greater Glasgow and Clyde
-3162,2016Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3171,2016Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-3181,2016Q3,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3199,2016Q3,S08000031,Cervical,11,11,NHS Greater Glasgow and Clyde
-3209,2016Q3,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3219,2016Q4,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-3229,2016Q4,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3246,2016Q4,S08000031,Cervical,17,17,NHS Greater Glasgow and Clyde
-3256,2016Q4,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3264,2017Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3275,2017Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3295,2017Q1,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
-3305,2017Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3314,2017Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-3325,2017Q2,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3340,2017Q2,S08000031,Cervical,18,18,NHS Greater Glasgow and Clyde
-3350,2017Q2,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-3359,2017Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3368,2017Q3,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-3383,2017Q3,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
-3393,2017Q3,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-3401,2017Q4,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-3413,2017Q4,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3427,2017Q4,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-3437,2017Q4,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-3447,2018Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3456,2018Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-3471,2018Q1,S08000031,Cervical,11,11,NHS Greater Glasgow and Clyde
-3481,2018Q1,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-3490,2018Q2,S08000031,Cervical,7,7,NHS Greater Glasgow and Clyde
-3498,2018Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-3511,2018Q2,S08000031,Cervical,9,9,NHS Greater Glasgow and Clyde
-3530,2018Q3,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3538,2018Q3,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3553,2018Q3,S08000031,Cervical,9,9,NHS Greater Glasgow and Clyde
-3563,2018Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-3572,2018Q4,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-3582,2018Q4,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3596,2018Q4,S08000031,Cervical,15,15,NHS Greater Glasgow and Clyde
-3606,2018Q4,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
-3616,2019Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3625,2019Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3635,2019Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3641,2019Q1,S08000031,Cervical,17,17,NHS Greater Glasgow and Clyde
-3651,2019Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3661,2019Q2,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3673,2019Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3686,2019Q2,S08000031,Cervical,15,15,NHS Greater Glasgow and Clyde
-3696,2019Q2,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-3706,2019Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-3717,2019Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-3730,2019Q3,S08000031,Cervical,22,22,NHS Greater Glasgow and Clyde
-3740,2019Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-3749,2019Q4,S08000031,Cervical,5,3,NHS Greater Glasgow and Clyde
-3776,2019Q4,S08000031,Cervical,19,19,NHS Greater Glasgow and Clyde
-3786,2019Q4,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-3795,2020Q1,S08000031,Cervical,6,4,NHS Greater Glasgow and Clyde
-3805,2020Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-3820,2020Q1,S08000031,Cervical,14,14,NHS Greater Glasgow and Clyde
-3830,2020Q1,S08000031,Cervical,6,4,NHS Greater Glasgow and Clyde
-3839,2020Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3850,2020Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3867,2020Q2,S08000031,Cervical,12,11,NHS Greater Glasgow and Clyde
-3877,2020Q2,S08000031,Cervical,12,11,NHS Greater Glasgow and Clyde
-3885,2020Q3,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-3893,2020Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-3905,2020Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-3908,2020Q3,S08000031,Cervical,8,8,NHS Greater Glasgow and Clyde
-3918,2020Q3,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-4180,2020Q4,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-4207,2020Q4,S08000031,Cervical,15,15,NHS Greater Glasgow and Clyde
-4216,2020Q4,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
-4231,2021Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-4242,2021Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-4256,2021Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-4259,2021Q1,S08000031,Cervical,12,11,NHS Greater Glasgow and Clyde
-4269,2021Q1,S08000031,Cervical,7,6,NHS Greater Glasgow and Clyde
-4287,2021Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-4296,2021Q2,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
-4306,2021Q2,S08000031,Cervical,14,14,NHS Greater Glasgow and Clyde
-4316,2021Q2,S08000031,Cervical,17,16,NHS Greater Glasgow and Clyde
-4331,2021Q3,S08000031,Cervical,4,3,NHS Greater Glasgow and Clyde
-4342,2021Q3,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-4352,2021Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-4357,2021Q3,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
-4367,2021Q3,S08000031,Cervical,7,7,NHS Greater Glasgow and Clyde
-4384,2021Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-4394,2021Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-4413,2021Q4,S08000031,Cervical,7,7,NHS Greater Glasgow and Clyde
-4422,2021Q4,S08000031,Cervical,7,6,NHS Greater Glasgow and Clyde
-4439,2022Q1,S08000031,Cervical,4,2,NHS Greater Glasgow and Clyde
-4463,2022Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-4468,2022Q1,S08000031,Cervical,5,4,NHS Greater Glasgow and Clyde
-4477,2022Q1,S08000031,Cervical,10,9,NHS Greater Glasgow and Clyde
-4498,2022Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-4528,2022Q2,S08000031,Cervical,17,15,NHS Greater Glasgow and Clyde
-4539,2022Q2,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-4549,2022Q3,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-4565,2022Q3,S08000031,Cervical,2,0,NHS Greater Glasgow and Clyde
-4588,2022Q3,S08000031,Cervical,13,13,NHS Greater Glasgow and Clyde
-4598,2022Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
-4608,2022Q4,S08000031,Cervical,6,5,NHS Greater Glasgow and Clyde
-4633,2022Q4,S08000031,Cervical,11,10,NHS Greater Glasgow and Clyde
-4644,2022Q4,S08000031,Cervical,13,12,NHS Greater Glasgow and Clyde
-4655,2023Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-4667,2023Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-4681,2023Q1,S08000031,Cervical,1,0,NHS Greater Glasgow and Clyde
-4685,2023Q1,S08000031,Cervical,20,20,NHS Greater Glasgow and Clyde
-4696,2023Q1,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-4706,2023Q2,S08000031,Cervical,2,1,NHS Greater Glasgow and Clyde
-4716,2023Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-4728,2023Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-4735,2023Q2,S08000031,Cervical,17,13,NHS Greater Glasgow and Clyde
-4746,2023Q2,S08000031,Cervical,6,3,NHS Greater Glasgow and Clyde
-4755,2012Q1,S08000016,Cervical,1,1,NHS Borders
-4766,2012Q2,S08000016,Cervical,1,1,NHS Borders
-4777,2012Q3,S08000016,Cervical,1,1,NHS Borders
-4787,2012Q4,S08000016,Cervical,1,1,NHS Borders
-4824,2013Q4,S08000016,Cervical,3,3,NHS Borders
-4843,2014Q2,S08000016,Cervical,1,1,NHS Borders
-4862,2014Q4,S08000016,Cervical,1,1,NHS Borders
-4901,2015Q4,S08000016,Cervical,3,3,NHS Borders
-4920,2016Q2,S08000016,Cervical,1,1,NHS Borders
-4939,2016Q4,S08000016,Cervical,1,1,NHS Borders
-4950,2017Q1,S08000016,Cervical,2,1,NHS Borders
-4991,2018Q1,S08000016,Cervical,1,1,NHS Borders
-5001,2018Q2,S08000016,Cervical,1,1,NHS Borders
-5010,2018Q3,S08000016,Cervical,1,1,NHS Borders
-5028,2019Q1,S08000016,Cervical,1,1,NHS Borders
-5038,2019Q2,S08000016,Cervical,3,3,NHS Borders
-5066,2020Q1,S08000016,Cervical,1,1,NHS Borders
-5157,2021Q1,S08000016,Cervical,1,1,NHS Borders
-5190,2021Q4,S08000016,Cervical,1,1,NHS Borders
-5214,2022Q2,S08000016,Cervical,1,1,NHS Borders
-5224,2022Q3,S08000016,Cervical,3,3,NHS Borders
-5237,2022Q4,S08000016,Cervical,2,2,NHS Borders
-5250,2023Q1,S08000016,Cervical,1,1,NHS Borders
-5282,2012Q1,S08000024,Cervical,1,1,NHS Lothian
-5295,2012Q1,S08000024,Cervical,6,6,NHS Lothian
-5305,2012Q1,S08000024,Cervical,2,2,NHS Lothian
-5322,2012Q2,S08000024,Cervical,1,0,NHS Lothian
-5333,2012Q2,S08000024,Cervical,5,3,NHS Lothian
-5342,2012Q2,S08000024,Cervical,3,3,NHS Lothian
-5356,2012Q3,S08000024,Cervical,1,1,NHS Lothian
-5364,2012Q3,S08000024,Cervical,1,1,NHS Lothian
-5375,2012Q3,S08000024,Cervical,11,11,NHS Lothian
-5385,2012Q3,S08000024,Cervical,3,3,NHS Lothian
-5415,2012Q4,S08000024,Cervical,7,7,NHS Lothian
-5425,2012Q4,S08000024,Cervical,1,1,NHS Lothian
-5440,2013Q1,S08000024,Cervical,1,1,NHS Lothian
-5448,2013Q1,S08000024,Cervical,2,2,NHS Lothian
-5459,2013Q1,S08000024,Cervical,9,9,NHS Lothian
-5469,2013Q1,S08000024,Cervical,3,3,NHS Lothian
-5480,2013Q2,S08000024,Cervical,1,1,NHS Lothian
-5489,2013Q2,S08000024,Cervical,2,2,NHS Lothian
-5500,2013Q2,S08000024,Cervical,8,7,NHS Lothian
-5511,2013Q2,S08000024,Cervical,4,3,NHS Lothian
-5531,2013Q3,S08000024,Cervical,3,3,NHS Lothian
-5544,2013Q3,S08000024,Cervical,11,11,NHS Lothian
-5553,2013Q3,S08000024,Cervical,1,1,NHS Lothian
-5564,2013Q4,S08000024,Cervical,2,2,NHS Lothian
-5572,2013Q4,S08000024,Cervical,2,2,NHS Lothian
-5584,2013Q4,S08000024,Cervical,16,16,NHS Lothian
-5594,2013Q4,S08000024,Cervical,4,4,NHS Lothian
-5614,2014Q1,S08000024,Cervical,1,1,NHS Lothian
-5624,2014Q1,S08000024,Cervical,16,16,NHS Lothian
-5633,2014Q1,S08000024,Cervical,3,3,NHS Lothian
-5652,2014Q2,S08000024,Cervical,3,3,NHS Lothian
-5665,2014Q2,S08000024,Cervical,23,22,NHS Lothian
-5674,2014Q2,S08000024,Cervical,2,2,NHS Lothian
-5688,2014Q3,S08000024,Cervical,1,1,NHS Lothian
-5697,2014Q3,S08000024,Cervical,1,1,NHS Lothian
-5709,2014Q3,S08000024,Cervical,26,25,NHS Lothian
-5718,2014Q3,S08000024,Cervical,1,1,NHS Lothian
-5747,2014Q4,S08000024,Cervical,18,17,NHS Lothian
-5757,2014Q4,S08000024,Cervical,3,3,NHS Lothian
-5777,2015Q1,S08000024,Cervical,1,1,NHS Lothian
-5787,2015Q1,S08000024,Cervical,28,28,NHS Lothian
-5797,2015Q1,S08000024,Cervical,4,3,NHS Lothian
-5819,2015Q2,S08000024,Cervical,2,2,NHS Lothian
-5829,2015Q2,S08000024,Cervical,14,14,NHS Lothian
-5838,2015Q2,S08000024,Cervical,1,1,NHS Lothian
-5867,2015Q3,S08000024,Cervical,9,9,NHS Lothian
-5895,2015Q4,S08000024,Cervical,1,1,NHS Lothian
-5906,2015Q4,S08000024,Cervical,21,20,NHS Lothian
-5916,2015Q4,S08000024,Cervical,2,2,NHS Lothian
-5942,2016Q1,S08000024,Cervical,13,12,NHS Lothian
-5951,2016Q1,S08000024,Cervical,4,4,NHS Lothian
-5969,2016Q2,S08000024,Cervical,2,2,NHS Lothian
-5981,2016Q2,S08000024,Cervical,12,12,NHS Lothian
-5990,2016Q2,S08000024,Cervical,4,4,NHS Lothian
-6008,2016Q3,S08000024,Cervical,2,2,NHS Lothian
-6021,2016Q3,S08000024,Cervical,14,14,NHS Lothian
-6030,2016Q3,S08000024,Cervical,3,3,NHS Lothian
-6061,2016Q4,S08000024,Cervical,3,3,NHS Lothian
-6071,2016Q4,S08000024,Cervical,4,4,NHS Lothian
-6101,2017Q1,S08000024,Cervical,6,5,NHS Lothian
-6111,2017Q1,S08000024,Cervical,2,2,NHS Lothian
-6130,2017Q2,S08000024,Cervical,1,1,NHS Lothian
-6142,2017Q2,S08000024,Cervical,7,5,NHS Lothian
-6152,2017Q2,S08000024,Cervical,1,1,NHS Lothian
-6163,2017Q3,S08000024,Cervical,2,2,NHS Lothian
-6171,2017Q3,S08000024,Cervical,1,1,NHS Lothian
-6181,2017Q3,S08000024,Cervical,3,3,NHS Lothian
-6191,2017Q3,S08000024,Cervical,3,3,NHS Lothian
-6204,2017Q4,S08000024,Cervical,1,1,NHS Lothian
-6223,2017Q4,S08000024,Cervical,7,7,NHS Lothian
-6233,2017Q4,S08000024,Cervical,1,1,NHS Lothian
-6265,2018Q1,S08000024,Cervical,15,14,NHS Lothian
-6274,2018Q1,S08000024,Cervical,2,2,NHS Lothian
-6301,2018Q2,S08000024,Cervical,7,6,NHS Lothian
-6310,2018Q2,S08000024,Cervical,3,3,NHS Lothian
-6321,2018Q3,S08000024,Cervical,1,1,NHS Lothian
-6329,2018Q3,S08000024,Cervical,2,2,NHS Lothian
-6341,2018Q3,S08000024,Cervical,16,16,NHS Lothian
-6351,2018Q3,S08000024,Cervical,4,4,NHS Lothian
-6382,2018Q4,S08000024,Cervical,16,16,NHS Lothian
-6409,2019Q1,S08000024,Cervical,1,1,NHS Lothian
-6422,2019Q1,S08000024,Cervical,13,12,NHS Lothian
-6432,2019Q1,S08000024,Cervical,1,0,NHS Lothian
-6450,2019Q2,S08000024,Cervical,1,1,NHS Lothian
-6461,2019Q2,S08000024,Cervical,10,9,NHS Lothian
-6471,2019Q2,S08000024,Cervical,1,1,NHS Lothian
-6481,2019Q3,S08000024,Cervical,1,1,NHS Lothian
-6490,2019Q3,S08000024,Cervical,2,2,NHS Lothian
-6504,2019Q3,S08000024,Cervical,14,14,NHS Lothian
-6514,2019Q3,S08000024,Cervical,2,2,NHS Lothian
-6548,2019Q4,S08000024,Cervical,12,12,NHS Lothian
-6558,2019Q4,S08000024,Cervical,3,3,NHS Lothian
-6587,2020Q1,S08000024,Cervical,6,6,NHS Lothian
-6607,2020Q2,S08000024,Cervical,1,1,NHS Lothian
-6613,2020Q2,S08000024,Cervical,2,2,NHS Lothian
-6625,2020Q2,S08000024,Cervical,7,7,NHS Lothian
-6635,2020Q2,S08000024,Cervical,2,2,NHS Lothian
-6645,2020Q3,S08000024,Cervical,1,1,NHS Lothian
-6653,2020Q3,S08000024,Cervical,1,1,NHS Lothian
-6665,2020Q3,S08000024,Cervical,9,9,NHS Lothian
-6674,2020Q3,S08000024,Cervical,2,1,NHS Lothian
-7030,2020Q4,S08000024,Cervical,1,1,NHS Lothian
-7041,2020Q4,S08000024,Cervical,4,4,NHS Lothian
-7052,2020Q4,S08000024,Cervical,3,3,NHS Lothian
-7077,2021Q1,S08000024,Cervical,1,1,NHS Lothian
-7092,2021Q1,S08000024,Cervical,10,9,NHS Lothian
-7101,2021Q1,S08000024,Cervical,2,2,NHS Lothian
-7125,2021Q2,S08000024,Cervical,1,1,NHS Lothian
-7138,2021Q2,S08000024,Cervical,9,9,NHS Lothian
-7148,2021Q2,S08000024,Cervical,1,1,NHS Lothian
-7177,2021Q3,S08000024,Cervical,1,1,NHS Lothian
-7190,2021Q3,S08000024,Cervical,14,14,NHS Lothian
-7199,2021Q3,S08000024,Cervical,3,3,NHS Lothian
-7230,2021Q4,S08000024,Cervical,1,1,NHS Lothian
-7242,2021Q4,S08000024,Cervical,7,7,NHS Lothian
-7252,2021Q4,S08000024,Cervical,2,1,NHS Lothian
-7278,2022Q1,S08000024,Cervical,2,2,NHS Lothian
-7289,2022Q1,S08000024,Cervical,12,7,NHS Lothian
-7300,2022Q1,S08000024,Cervical,4,3,NHS Lothian
-7327,2022Q2,S08000024,Cervical,1,0,NHS Lothian
-7334,2022Q2,S08000024,Cervical,4,3,NHS Lothian
-7351,2022Q2,S08000024,Cervical,8,8,NHS Lothian
-7364,2022Q2,S08000024,Cervical,2,2,NHS Lothian
-7386,2022Q3,S08000024,Cervical,2,2,NHS Lothian
-7399,2022Q3,S08000024,Cervical,10,10,NHS Lothian
-7410,2022Q3,S08000024,Cervical,4,4,NHS Lothian
-7433,2022Q4,S08000024,Cervical,2,2,NHS Lothian
-7449,2022Q4,S08000024,Cervical,13,13,NHS Lothian
-7460,2022Q4,S08000024,Cervical,2,2,NHS Lothian
-7500,2023Q1,S08000024,Cervical,10,9,NHS Lothian
-7511,2023Q1,S08000024,Cervical,3,3,NHS Lothian
-7535,2023Q2,S08000024,Cervical,4,4,NHS Lothian
-7548,2023Q2,S08000024,Cervical,9,9,NHS Lothian
-7558,2023Q2,S08000024,Cervical,1,1,NHS Lothian
-7576,2012Q1,S08000019,Cervical,1,1,NHS Forth Valley
-7587,2012Q2,S08000019,Cervical,1,1,NHS Forth Valley
-7600,2012Q3,S08000019,Cervical,1,1,NHS Forth Valley
-7640,2013Q3,S08000019,Cervical,1,1,NHS Forth Valley
-7651,2013Q4,S08000019,Cervical,2,2,NHS Forth Valley
-7663,2014Q1,S08000019,Cervical,1,1,NHS Forth Valley
-7675,2014Q2,S08000019,Cervical,2,2,NHS Forth Valley
-7686,2014Q3,S08000019,Cervical,2,2,NHS Forth Valley
-7697,2014Q4,S08000019,Cervical,3,2,NHS Forth Valley
-7709,2015Q1,S08000019,Cervical,5,5,NHS Forth Valley
-7721,2015Q2,S08000019,Cervical,1,1,NHS Forth Valley
-7741,2015Q4,S08000019,Cervical,1,1,NHS Forth Valley
-7752,2016Q1,S08000019,Cervical,2,2,NHS Forth Valley
-7762,2016Q2,S08000019,Cervical,1,1,NHS Forth Valley
-7773,2016Q3,S08000019,Cervical,2,2,NHS Forth Valley
-7783,2016Q4,S08000019,Cervical,1,1,NHS Forth Valley
-7795,2017Q1,S08000019,Cervical,2,2,NHS Forth Valley
-7809,2017Q2,S08000019,Cervical,1,1,NHS Forth Valley
-7820,2017Q3,S08000019,Cervical,4,4,NHS Forth Valley
-7841,2018Q1,S08000019,Cervical,1,1,NHS Forth Valley
-7852,2018Q2,S08000019,Cervical,1,1,NHS Forth Valley
-7863,2018Q3,S08000019,Cervical,2,2,NHS Forth Valley
-7874,2018Q4,S08000019,Cervical,1,1,NHS Forth Valley
-7885,2019Q1,S08000019,Cervical,1,1,NHS Forth Valley
-7897,2019Q2,S08000019,Cervical,3,3,NHS Forth Valley
-7919,2019Q4,S08000019,Cervical,3,3,NHS Forth Valley
-7931,2020Q1,S08000019,Cervical,1,1,NHS Forth Valley
-7943,2020Q2,S08000019,Cervical,2,2,NHS Forth Valley
-8046,2020Q4,S08000019,Cervical,2,2,NHS Forth Valley
-8074,2021Q2,S08000019,Cervical,3,3,NHS Forth Valley
-8087,2021Q3,S08000019,Cervical,1,1,NHS Forth Valley
-8098,2021Q4,S08000019,Cervical,2,2,NHS Forth Valley
-8111,2022Q1,S08000019,Cervical,1,1,NHS Forth Valley
-8153,2022Q4,S08000019,Cervical,2,1,NHS Forth Valley
-8195,2012Q1,S08000022,Cervical,3,3,NHS Highland
-8211,2012Q2,S08000022,Cervical,4,4,NHS Highland
-8257,2013Q1,S08000022,Cervical,3,3,NHS Highland
-8273,2013Q2,S08000022,Cervical,3,3,NHS Highland
-8288,2013Q3,S08000022,Cervical,1,1,NHS Highland
-8307,2013Q4,S08000022,Cervical,4,4,NHS Highland
-8323,2014Q1,S08000022,Cervical,4,3,NHS Highland
-8340,2014Q2,S08000022,Cervical,4,4,NHS Highland
-8355,2014Q2,S08000022,Cervical,1,1,NHS Highland
-8374,2014Q4,S08000022,Cervical,1,1,NHS Highland
-8392,2015Q1,S08000022,Cervical,1,1,NHS Highland
-8408,2015Q2,S08000022,Cervical,2,2,NHS Highland
-8422,2015Q3,S08000022,Cervical,2,2,NHS Highland
-8443,2015Q4,S08000022,Cervical,3,3,NHS Highland
-8456,2016Q1,S08000022,Cervical,3,3,NHS Highland
-8490,2016Q3,S08000022,Cervical,2,2,NHS Highland
-8504,2016Q4,S08000022,Cervical,2,2,NHS Highland
-8520,2017Q1,S08000022,Cervical,1,1,NHS Highland
-8538,2017Q2,S08000022,Cervical,5,5,NHS Highland
-8554,2017Q3,S08000022,Cervical,2,2,NHS Highland
-8571,2017Q4,S08000022,Cervical,3,3,NHS Highland
-8589,2018Q1,S08000022,Cervical,6,6,NHS Highland
-8606,2018Q2,S08000022,Cervical,5,5,NHS Highland
-8621,2018Q3,S08000022,Cervical,1,1,NHS Highland
-8639,2018Q4,S08000022,Cervical,4,4,NHS Highland
-8655,2019Q1,S08000022,Cervical,4,4,NHS Highland
-8673,2019Q2,S08000022,Cervical,5,5,NHS Highland
-8691,2019Q3,S08000022,Cervical,3,3,NHS Highland
-8709,2019Q4,S08000022,Cervical,3,3,NHS Highland
-8726,2020Q1,S08000022,Cervical,4,4,NHS Highland
-8743,2020Q2,S08000022,Cervical,2,2,NHS Highland
-8760,2020Q3,S08000022,Cervical,3,3,NHS Highland
-8895,2020Q4,S08000022,Cervical,1,1,NHS Highland
-8934,2021Q2,S08000022,Cervical,2,2,NHS Highland
-8954,2021Q3,S08000022,Cervical,3,3,NHS Highland
-8988,2022Q1,S08000022,Cervical,4,4,NHS Highland
-9005,2022Q2,S08000022,Cervical,1,1,NHS Highland
-9024,2022Q3,S08000022,Cervical,2,2,NHS Highland
-9043,2022Q4,S08000022,Cervical,1,1,NHS Highland
-9064,2023Q1,S08000022,Cervical,5,4,NHS Highland
-9082,2023Q2,S08000022,Cervical,7,6,NHS Highland
-9100,2012Q1,S08000029,Cervical,1,1,NHS Fife
-9120,2012Q3,S08000029,Cervical,1,1,NHS Fife
-9132,2012Q4,S08000029,Cervical,3,3,NHS Fife
-9143,2013Q1,S08000029,Cervical,2,2,NHS Fife
-9154,2013Q2,S08000029,Cervical,5,5,NHS Fife
-9165,2013Q3,S08000029,Cervical,4,3,NHS Fife
-9175,2013Q4,S08000029,Cervical,2,2,NHS Fife
-9186,2014Q1,S08000029,Cervical,3,3,NHS Fife
-9196,2014Q2,S08000029,Cervical,2,2,NHS Fife
-9207,2014Q3,S08000029,Cervical,2,2,NHS Fife
-9217,2014Q4,S08000029,Cervical,1,1,NHS Fife
-9219,2014Q4,S08000029,Cervical,4,4,NHS Fife
-9240,2015Q2,S08000029,Cervical,3,3,NHS Fife
-9251,2015Q3,S08000029,Cervical,1,1,NHS Fife
-9263,2015Q4,S08000029,Cervical,2,2,NHS Fife
-9274,2016Q1,S08000029,Cervical,5,5,NHS Fife
-9286,2016Q2,S08000029,Cervical,1,1,NHS Fife
-9307,2016Q4,S08000029,Cervical,4,4,NHS Fife
-9318,2017Q1,S08000029,Cervical,5,5,NHS Fife
-9329,2017Q2,S08000029,Cervical,4,3,NHS Fife
-9340,2017Q3,S08000029,Cervical,1,1,NHS Fife
-9350,2017Q4,S08000029,Cervical,1,1,NHS Fife
-9361,2018Q1,S08000029,Cervical,1,1,NHS Fife
-9372,2018Q2,S08000029,Cervical,1,1,NHS Fife
-9384,2018Q3,S08000029,Cervical,4,4,NHS Fife
-9395,2018Q4,S08000029,Cervical,1,1,NHS Fife
-9405,2019Q1,S08000029,Cervical,2,2,NHS Fife
-9416,2019Q2,S08000029,Cervical,5,5,NHS Fife
-9427,2019Q3,S08000029,Cervical,1,1,NHS Fife
-9449,2020Q1,S08000029,Cervical,3,3,NHS Fife
-9460,2020Q2,S08000029,Cervical,2,2,NHS Fife
-9470,2020Q3,S08000029,Cervical,1,1,NHS Fife
-9551,2020Q4,S08000029,Cervical,1,1,NHS Fife
-9564,2021Q1,S08000029,Cervical,1,1,NHS Fife
-9577,2021Q2,S08000029,Cervical,1,1,NHS Fife
-9590,2021Q3,S08000029,Cervical,4,4,NHS Fife
-9615,2022Q1,S08000029,Cervical,1,1,NHS Fife
-9630,2022Q2,S08000029,Cervical,4,4,NHS Fife
-9643,2022Q3,S08000029,Cervical,2,2,NHS Fife
-9655,2022Q4,S08000029,Cervical,1,1,NHS Fife
-9668,2023Q1,S08000029,Cervical,1,1,NHS Fife
-9681,2023Q2,S08000029,Cervical,3,3,NHS Fife
-9697,2012Q1,S08000030,Cervical,4,4,NHS Tayside
-9709,2012Q2,S08000030,Cervical,5,5,NHS Tayside
-9723,2012Q3,S08000030,Cervical,2,2,NHS Tayside
-9735,2012Q4,S08000030,Cervical,4,4,NHS Tayside
-9750,2013Q1,S08000030,Cervical,4,4,NHS Tayside
-9763,2013Q2,S08000030,Cervical,5,5,NHS Tayside
-9777,2013Q3,S08000030,Cervical,17,17,NHS Tayside
-9792,2013Q4,S08000030,Cervical,10,10,NHS Tayside
-9803,2014Q1,S08000030,Cervical,8,7,NHS Tayside
-9812,2014Q2,S08000030,Cervical,1,1,NHS Tayside
-9817,2014Q2,S08000030,Cervical,12,11,NHS Tayside
-9829,2014Q3,S08000030,Cervical,9,9,NHS Tayside
-9839,2014Q4,S08000030,Cervical,11,9,NHS Tayside
-9853,2015Q1,S08000030,Cervical,10,8,NHS Tayside
-9867,2015Q2,S08000030,Cervical,7,7,NHS Tayside
-9879,2015Q3,S08000030,Cervical,7,7,NHS Tayside
-9893,2015Q4,S08000030,Cervical,8,8,NHS Tayside
-9909,2016Q1,S08000030,Cervical,7,7,NHS Tayside
-9924,2016Q2,S08000030,Cervical,4,4,NHS Tayside
-9940,2016Q3,S08000030,Cervical,2,2,NHS Tayside
-9955,2016Q4,S08000030,Cervical,3,3,NHS Tayside
-9968,2017Q1,S08000030,Cervical,4,4,NHS Tayside
-9982,2017Q2,S08000030,Cervical,6,5,NHS Tayside
-9998,2017Q3,S08000030,Cervical,6,6,NHS Tayside
-10013,2017Q4,S08000030,Cervical,3,1,NHS Tayside
-10028,2018Q1,S08000030,Cervical,5,5,NHS Tayside
-10043,2018Q2,S08000030,Cervical,7,7,NHS Tayside
-10058,2018Q3,S08000030,Cervical,11,11,NHS Tayside
-10069,2018Q4,S08000030,Cervical,1,1,NHS Tayside
-10073,2018Q4,S08000030,Cervical,10,9,NHS Tayside
-10087,2019Q1,S08000030,Cervical,2,2,NHS Tayside
-10101,2019Q2,S08000030,Cervical,6,5,NHS Tayside
-10117,2019Q3,S08000030,Cervical,10,10,NHS Tayside
-10131,2019Q4,S08000030,Cervical,4,4,NHS Tayside
-10145,2020Q1,S08000030,Cervical,8,7,NHS Tayside
-10160,2020Q2,S08000030,Cervical,9,9,NHS Tayside
-10174,2020Q3,S08000030,Cervical,1,1,NHS Tayside
-10296,2020Q4,S08000030,Cervical,1,1,NHS Tayside
-10311,2021Q1,S08000030,Cervical,3,3,NHS Tayside
-10326,2021Q2,S08000030,Cervical,10,10,NHS Tayside
-10340,2021Q3,S08000030,Cervical,1,1,NHS Tayside
-10344,2021Q3,S08000030,Cervical,2,1,NHS Tayside
-10361,2021Q4,S08000030,Cervical,6,6,NHS Tayside
-10378,2022Q1,S08000030,Cervical,6,5,NHS Tayside
-10398,2022Q2,S08000030,Cervical,4,3,NHS Tayside
-10414,2022Q3,S08000030,Cervical,2,2,NHS Tayside
-10431,2022Q4,S08000030,Cervical,2,2,NHS Tayside
-10448,2023Q1,S08000030,Cervical,5,5,NHS Tayside
-10464,2023Q2,S08000030,Cervical,5,5,NHS Tayside
-10869,2018Q4,S08000026,Cervical,1,1,NHS Shetland
-10876,2019Q1,S08000026,Cervical,1,1,NHS Shetland
-10975,2020Q4,S08000026,Cervical,1,1,NHS Shetland
-11145,2016Q2,S08000028,Cervical,1,1,NHS Western Isles
-11327,2021Q3,S08000028,Cervical,1,1,NHS Western Isles
-11395,2012Q1,S08000032,Cervical,5,5,NHS Lanarkshire
-11406,2012Q2,S08000032,Cervical,1,1,NHS Lanarkshire
-11418,2012Q3,S08000032,Cervical,5,5,NHS Lanarkshire
-11429,2012Q4,S08000032,Cervical,5,5,NHS Lanarkshire
-11441,2013Q1,S08000032,Cervical,2,2,NHS Lanarkshire
-11453,2013Q2,S08000032,Cervical,3,3,NHS Lanarkshire
-11464,2013Q3,S08000032,Cervical,1,1,NHS Lanarkshire
-11476,2013Q4,S08000032,Cervical,2,2,NHS Lanarkshire
-11488,2014Q1,S08000032,Cervical,4,4,NHS Lanarkshire
-11499,2014Q2,S08000032,Cervical,4,4,NHS Lanarkshire
-11511,2014Q3,S08000032,Cervical,1,1,NHS Lanarkshire
-11522,2014Q4,S08000032,Cervical,6,6,NHS Lanarkshire
-11534,2015Q1,S08000032,Cervical,2,2,NHS Lanarkshire
-11546,2015Q2,S08000032,Cervical,4,4,NHS Lanarkshire
-11558,2015Q3,S08000032,Cervical,6,6,NHS Lanarkshire
-11570,2015Q4,S08000032,Cervical,2,2,NHS Lanarkshire
-11583,2016Q1,S08000032,Cervical,2,2,NHS Lanarkshire
-11594,2016Q2,S08000032,Cervical,6,6,NHS Lanarkshire
-11606,2016Q3,S08000032,Cervical,2,2,NHS Lanarkshire
-11619,2016Q4,S08000032,Cervical,5,5,NHS Lanarkshire
-11631,2017Q1,S08000032,Cervical,9,9,NHS Lanarkshire
-11643,2017Q2,S08000032,Cervical,2,2,NHS Lanarkshire
-11655,2017Q3,S08000032,Cervical,3,3,NHS Lanarkshire
-11668,2017Q4,S08000032,Cervical,2,2,NHS Lanarkshire
-11680,2018Q1,S08000032,Cervical,2,2,NHS Lanarkshire
-11692,2018Q2,S08000032,Cervical,2,2,NHS Lanarkshire
-11703,2018Q3,S08000032,Cervical,1,1,NHS Lanarkshire
-11716,2018Q4,S08000032,Cervical,2,2,NHS Lanarkshire
-11741,2019Q2,S08000032,Cervical,3,3,NHS Lanarkshire
-11753,2019Q3,S08000032,Cervical,1,1,NHS Lanarkshire
-11765,2019Q4,S08000032,Cervical,1,1,NHS Lanarkshire
-11778,2020Q1,S08000032,Cervical,3,3,NHS Lanarkshire
-11790,2020Q2,S08000032,Cervical,3,3,NHS Lanarkshire
-11802,2020Q3,S08000032,Cervical,1,1,NHS Lanarkshire
-11911,2020Q4,S08000032,Cervical,8,8,NHS Lanarkshire
-11925,2021Q1,S08000032,Cervical,2,2,NHS Lanarkshire
-11938,2021Q2,S08000032,Cervical,2,2,NHS Lanarkshire
-11952,2021Q3,S08000032,Cervical,6,6,NHS Lanarkshire
-11968,2021Q4,S08000032,Cervical,3,3,NHS Lanarkshire
-11984,2022Q1,S08000032,Cervical,4,4,NHS Lanarkshire
-12002,2022Q2,S08000032,Cervical,1,1,NHS Lanarkshire
-12017,2022Q3,S08000032,Cervical,4,4,NHS Lanarkshire
-12048,2023Q1,S08000032,Cervical,3,3,NHS Lanarkshire
-12063,2023Q2,S08000032,Cervical,2,2,NHS Lanarkshire
+522,2023Q3,S08000015,Cervical,2,2,NHS Ayrshire and Arran
+552,2012Q3,S08000017,Cervical,3,3,NHS Dumfries and Galloway
+563,2012Q4,S08000017,Cervical,2,2,NHS Dumfries and Galloway
+573,2013Q1,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+613,2014Q1,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+634,2014Q3,S08000017,Cervical,2,2,NHS Dumfries and Galloway
+644,2014Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+665,2015Q2,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+676,2015Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+687,2015Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+717,2016Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+737,2017Q1,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+748,2017Q2,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+768,2017Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+789,2018Q2,S08000017,Cervical,2,2,NHS Dumfries and Galloway
+800,2018Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+831,2019Q2,S08000017,Cervical,4,4,NHS Dumfries and Galloway
+842,2019Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+871,2020Q2,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+881,2020Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+969,2021Q1,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+993,2021Q3,S08000017,Cervical,3,3,NHS Dumfries and Galloway
+1006,2021Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+1043,2022Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+1058,2022Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+1090,2023Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+1101,2012Q1,S08000020,Cervical,4,4,NHS Grampian
+1126,2012Q2,S08000020,Cervical,7,7,NHS Grampian
+1145,2012Q3,S08000020,Cervical,5,5,NHS Grampian
+1165,2012Q4,S08000020,Cervical,5,5,NHS Grampian
+1174,2012Q4,S08000020,Cervical,1,1,NHS Grampian
+1189,2013Q1,S08000020,Cervical,6,6,NHS Grampian
+1209,2013Q2,S08000020,Cervical,4,4,NHS Grampian
+1223,2013Q2,S08000020,Cervical,1,0,NHS Grampian
+1228,2013Q3,S08000020,Cervical,5,5,NHS Grampian
+1250,2013Q4,S08000020,Cervical,2,2,NHS Grampian
+1269,2014Q1,S08000020,Cervical,7,7,NHS Grampian
+1283,2014Q1,S08000020,Cervical,1,1,NHS Grampian
+1291,2014Q2,S08000020,Cervical,12,12,NHS Grampian
+1303,2014Q2,S08000020,Cervical,1,1,NHS Grampian
+1311,2014Q2,S08000020,Cervical,1,1,NHS Grampian
+1314,2014Q3,S08000020,Cervical,5,5,NHS Grampian
+1341,2014Q4,S08000020,Cervical,10,10,NHS Grampian
+1360,2015Q1,S08000020,Cervical,5,5,NHS Grampian
+1376,2015Q2,S08000020,Cervical,13,12,NHS Grampian
+1396,2015Q3,S08000020,Cervical,11,10,NHS Grampian
+1408,2015Q3,S08000020,Cervical,1,1,NHS Grampian
+1419,2015Q4,S08000020,Cervical,8,8,NHS Grampian
+1433,2015Q4,S08000020,Cervical,1,1,NHS Grampian
+1444,2016Q1,S08000020,Cervical,10,10,NHS Grampian
+1468,2016Q2,S08000020,Cervical,3,2,NHS Grampian
+1485,2016Q3,S08000020,Cervical,4,4,NHS Grampian
+1506,2016Q3,S08000020,Cervical,1,1,NHS Grampian
+1508,2016Q4,S08000020,Cervical,6,6,NHS Grampian
+1532,2017Q1,S08000020,Cervical,13,13,NHS Grampian
+1557,2017Q1,S08000020,Cervical,1,1,NHS Grampian
+1559,2017Q2,S08000020,Cervical,9,9,NHS Grampian
+1580,2017Q2,S08000020,Cervical,2,2,NHS Grampian
+1583,2017Q3,S08000020,Cervical,8,8,NHS Grampian
+1599,2017Q3,S08000020,Cervical,1,1,NHS Grampian
+1602,2017Q4,S08000020,Cervical,8,7,NHS Grampian
+1622,2017Q4,S08000020,Cervical,1,1,NHS Grampian
+1626,2018Q1,S08000020,Cervical,8,7,NHS Grampian
+1645,2018Q1,S08000020,Cervical,1,1,NHS Grampian
+1648,2018Q2,S08000020,Cervical,4,4,NHS Grampian
+1672,2018Q2,S08000020,Cervical,3,3,NHS Grampian
+1676,2018Q3,S08000020,Cervical,5,5,NHS Grampian
+1689,2018Q3,S08000020,Cervical,2,2,NHS Grampian
+1695,2018Q4,S08000020,Cervical,9,9,NHS Grampian
+1717,2018Q4,S08000020,Cervical,1,0,NHS Grampian
+1720,2019Q1,S08000020,Cervical,11,8,NHS Grampian
+1729,2019Q1,S08000020,Cervical,1,1,NHS Grampian
+1745,2019Q2,S08000020,Cervical,6,5,NHS Grampian
+1767,2019Q2,S08000020,Cervical,1,1,NHS Grampian
+1770,2019Q3,S08000020,Cervical,7,7,NHS Grampian
+1794,2019Q4,S08000020,Cervical,7,7,NHS Grampian
+1815,2019Q4,S08000020,Cervical,1,1,NHS Grampian
+1820,2020Q1,S08000020,Cervical,5,5,NHS Grampian
+1843,2020Q1,S08000020,Cervical,1,1,NHS Grampian
+1845,2020Q2,S08000020,Cervical,7,7,NHS Grampian
+1864,2020Q3,S08000020,Cervical,3,3,NHS Grampian
+1873,2020Q3,S08000020,Cervical,1,1,NHS Grampian
+2068,2020Q4,S08000020,Cervical,4,4,NHS Grampian
+2093,2021Q1,S08000020,Cervical,7,7,NHS Grampian
+2112,2021Q1,S08000020,Cervical,1,1,NHS Grampian
+2121,2021Q2,S08000020,Cervical,7,6,NHS Grampian
+2137,2021Q2,S08000020,Cervical,1,1,NHS Grampian
+2153,2021Q3,S08000020,Cervical,7,7,NHS Grampian
+2186,2021Q4,S08000020,Cervical,7,7,NHS Grampian
+2211,2022Q1,S08000020,Cervical,5,4,NHS Grampian
+2243,2022Q2,S08000020,Cervical,7,7,NHS Grampian
+2270,2022Q3,S08000020,Cervical,6,6,NHS Grampian
+2284,2022Q3,S08000020,Cervical,1,1,NHS Grampian
+2297,2022Q4,S08000020,Cervical,13,13,NHS Grampian
+2325,2023Q1,S08000020,Cervical,9,7,NHS Grampian
+2348,2023Q1,S08000020,Cervical,2,2,NHS Grampian
+2353,2023Q2,S08000020,Cervical,6,4,NHS Grampian
+2381,2023Q3,S08000020,Cervical,5,4,NHS Grampian
+2407,2023Q3,S08000020,Cervical,1,1,NHS Grampian
+2411,2012Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2422,2012Q1,S08000031,Cervical,1,0,NHS Greater Glasgow and Clyde
+2433,2012Q1,S08000031,Cervical,11,11,NHS Greater Glasgow and Clyde
+2443,2012Q1,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+2453,2012Q2,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+2464,2012Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2481,2012Q2,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+2491,2012Q2,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+2509,2012Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+2523,2012Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2526,2012Q3,S08000031,Cervical,8,7,NHS Greater Glasgow and Clyde
+2535,2012Q3,S08000031,Cervical,4,3,NHS Greater Glasgow and Clyde
+2553,2012Q4,S08000031,Cervical,3,2,NHS Greater Glasgow and Clyde
+2568,2012Q4,S08000031,Cervical,8,8,NHS Greater Glasgow and Clyde
+2578,2012Q4,S08000031,Cervical,7,5,NHS Greater Glasgow and Clyde
+2595,2013Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+2613,2013Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+2623,2013Q1,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+2632,2013Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2644,2013Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2662,2013Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+2672,2013Q2,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+2682,2013Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2693,2013Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+2708,2013Q3,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
+2718,2013Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2727,2013Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2736,2013Q4,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+2751,2013Q4,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
+2760,2013Q4,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+2769,2014Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2781,2014Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+2796,2014Q1,S08000031,Cervical,13,13,NHS Greater Glasgow and Clyde
+2806,2014Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+2815,2014Q2,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+2826,2014Q2,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+2842,2014Q2,S08000031,Cervical,16,16,NHS Greater Glasgow and Clyde
+2852,2014Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+2862,2014Q3,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+2873,2014Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2881,2014Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2889,2014Q3,S08000031,Cervical,8,8,NHS Greater Glasgow and Clyde
+2899,2014Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+2909,2014Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2919,2014Q4,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+2933,2014Q4,S08000031,Cervical,18,18,NHS Greater Glasgow and Clyde
+2943,2014Q4,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+2952,2015Q1,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+2963,2015Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+2974,2015Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+2978,2015Q1,S08000031,Cervical,11,11,NHS Greater Glasgow and Clyde
+2987,2015Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+2997,2015Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3010,2015Q2,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3028,2015Q2,S08000031,Cervical,13,13,NHS Greater Glasgow and Clyde
+3038,2015Q2,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+3047,2015Q3,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3059,2015Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3071,2015Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+3081,2015Q3,S08000031,Cervical,8,8,NHS Greater Glasgow and Clyde
+3089,2015Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3101,2015Q4,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3114,2015Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3117,2015Q4,S08000031,Cervical,17,17,NHS Greater Glasgow and Clyde
+3127,2015Q4,S08000031,Cervical,7,7,NHS Greater Glasgow and Clyde
+3137,2016Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3147,2016Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+3159,2016Q1,S08000031,Cervical,17,17,NHS Greater Glasgow and Clyde
+3169,2016Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3179,2016Q2,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3188,2016Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3201,2016Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3207,2016Q2,S08000031,Cervical,14,13,NHS Greater Glasgow and Clyde
+3217,2016Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3226,2016Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+3236,2016Q3,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3254,2016Q3,S08000031,Cervical,11,11,NHS Greater Glasgow and Clyde
+3264,2016Q3,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3274,2016Q4,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3284,2016Q4,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3301,2016Q4,S08000031,Cervical,17,17,NHS Greater Glasgow and Clyde
+3311,2016Q4,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3319,2017Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3330,2017Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3350,2017Q1,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
+3360,2017Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3369,2017Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3380,2017Q2,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3395,2017Q2,S08000031,Cervical,18,18,NHS Greater Glasgow and Clyde
+3405,2017Q2,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+3414,2017Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3423,2017Q3,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3438,2017Q3,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
+3448,2017Q3,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3456,2017Q4,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+3468,2017Q4,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3482,2017Q4,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3492,2017Q4,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+3502,2018Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3511,2018Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+3526,2018Q1,S08000031,Cervical,11,11,NHS Greater Glasgow and Clyde
+3536,2018Q1,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3545,2018Q2,S08000031,Cervical,7,7,NHS Greater Glasgow and Clyde
+3553,2018Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3566,2018Q2,S08000031,Cervical,9,9,NHS Greater Glasgow and Clyde
+3585,2018Q3,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3593,2018Q3,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3608,2018Q3,S08000031,Cervical,9,9,NHS Greater Glasgow and Clyde
+3618,2018Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+3627,2018Q4,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3637,2018Q4,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3651,2018Q4,S08000031,Cervical,15,15,NHS Greater Glasgow and Clyde
+3661,2018Q4,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
+3671,2019Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3680,2019Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3690,2019Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3696,2019Q1,S08000031,Cervical,17,17,NHS Greater Glasgow and Clyde
+3706,2019Q1,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3716,2019Q2,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3728,2019Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3741,2019Q2,S08000031,Cervical,15,15,NHS Greater Glasgow and Clyde
+3751,2019Q2,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+3761,2019Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+3772,2019Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+3785,2019Q3,S08000031,Cervical,22,22,NHS Greater Glasgow and Clyde
+3795,2019Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+3804,2019Q4,S08000031,Cervical,5,3,NHS Greater Glasgow and Clyde
+3831,2019Q4,S08000031,Cervical,19,19,NHS Greater Glasgow and Clyde
+3841,2019Q4,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+3850,2020Q1,S08000031,Cervical,6,4,NHS Greater Glasgow and Clyde
+3860,2020Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+3875,2020Q1,S08000031,Cervical,14,14,NHS Greater Glasgow and Clyde
+3885,2020Q1,S08000031,Cervical,6,4,NHS Greater Glasgow and Clyde
+3894,2020Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3905,2020Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3922,2020Q2,S08000031,Cervical,12,11,NHS Greater Glasgow and Clyde
+3932,2020Q2,S08000031,Cervical,12,11,NHS Greater Glasgow and Clyde
+3940,2020Q3,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+3948,2020Q3,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+3960,2020Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+3963,2020Q3,S08000031,Cervical,8,8,NHS Greater Glasgow and Clyde
+3973,2020Q3,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+4235,2020Q4,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+4262,2020Q4,S08000031,Cervical,15,15,NHS Greater Glasgow and Clyde
+4271,2020Q4,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
+4286,2021Q1,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+4297,2021Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+4311,2021Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+4314,2021Q1,S08000031,Cervical,12,11,NHS Greater Glasgow and Clyde
+4324,2021Q1,S08000031,Cervical,7,6,NHS Greater Glasgow and Clyde
+4342,2021Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+4351,2021Q2,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+4361,2021Q2,S08000031,Cervical,14,14,NHS Greater Glasgow and Clyde
+4371,2021Q2,S08000031,Cervical,17,16,NHS Greater Glasgow and Clyde
+4386,2021Q3,S08000031,Cervical,4,3,NHS Greater Glasgow and Clyde
+4397,2021Q3,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+4407,2021Q3,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+4412,2021Q3,S08000031,Cervical,10,10,NHS Greater Glasgow and Clyde
+4422,2021Q3,S08000031,Cervical,7,7,NHS Greater Glasgow and Clyde
+4439,2021Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+4449,2021Q4,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+4468,2021Q4,S08000031,Cervical,7,7,NHS Greater Glasgow and Clyde
+4477,2021Q4,S08000031,Cervical,7,6,NHS Greater Glasgow and Clyde
+4494,2022Q1,S08000031,Cervical,4,2,NHS Greater Glasgow and Clyde
+4518,2022Q1,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+4523,2022Q1,S08000031,Cervical,5,4,NHS Greater Glasgow and Clyde
+4532,2022Q1,S08000031,Cervical,10,9,NHS Greater Glasgow and Clyde
+4553,2022Q2,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+4583,2022Q2,S08000031,Cervical,17,15,NHS Greater Glasgow and Clyde
+4594,2022Q2,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+4604,2022Q3,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+4620,2022Q3,S08000031,Cervical,2,0,NHS Greater Glasgow and Clyde
+4643,2022Q3,S08000031,Cervical,13,13,NHS Greater Glasgow and Clyde
+4653,2022Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
+4663,2022Q4,S08000031,Cervical,6,5,NHS Greater Glasgow and Clyde
+4688,2022Q4,S08000031,Cervical,11,10,NHS Greater Glasgow and Clyde
+4699,2022Q4,S08000031,Cervical,13,12,NHS Greater Glasgow and Clyde
+4710,2023Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+4722,2023Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+4736,2023Q1,S08000031,Cervical,1,0,NHS Greater Glasgow and Clyde
+4740,2023Q1,S08000031,Cervical,20,20,NHS Greater Glasgow and Clyde
+4751,2023Q1,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+4761,2023Q2,S08000031,Cervical,2,1,NHS Greater Glasgow and Clyde
+4771,2023Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+4783,2023Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+4790,2023Q2,S08000031,Cervical,17,13,NHS Greater Glasgow and Clyde
+4801,2023Q2,S08000031,Cervical,6,3,NHS Greater Glasgow and Clyde
+4811,2023Q3,S08000031,Cervical,2,1,NHS Greater Glasgow and Clyde
+4825,2023Q3,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+4846,2023Q3,S08000031,Cervical,17,14,NHS Greater Glasgow and Clyde
+4857,2023Q3,S08000031,Cervical,10,9,NHS Greater Glasgow and Clyde
+4867,2012Q1,S08000016,Cervical,1,1,NHS Borders
+4878,2012Q2,S08000016,Cervical,1,1,NHS Borders
+4889,2012Q3,S08000016,Cervical,1,1,NHS Borders
+4899,2012Q4,S08000016,Cervical,1,1,NHS Borders
+4936,2013Q4,S08000016,Cervical,3,3,NHS Borders
+4955,2014Q2,S08000016,Cervical,1,1,NHS Borders
+4974,2014Q4,S08000016,Cervical,1,1,NHS Borders
+5013,2015Q4,S08000016,Cervical,3,3,NHS Borders
+5032,2016Q2,S08000016,Cervical,1,1,NHS Borders
+5051,2016Q4,S08000016,Cervical,1,1,NHS Borders
+5062,2017Q1,S08000016,Cervical,2,1,NHS Borders
+5103,2018Q1,S08000016,Cervical,1,1,NHS Borders
+5113,2018Q2,S08000016,Cervical,1,1,NHS Borders
+5122,2018Q3,S08000016,Cervical,1,1,NHS Borders
+5140,2019Q1,S08000016,Cervical,1,1,NHS Borders
+5150,2019Q2,S08000016,Cervical,3,3,NHS Borders
+5178,2020Q1,S08000016,Cervical,1,1,NHS Borders
+5269,2021Q1,S08000016,Cervical,1,1,NHS Borders
+5302,2021Q4,S08000016,Cervical,1,1,NHS Borders
+5326,2022Q2,S08000016,Cervical,1,1,NHS Borders
+5336,2022Q3,S08000016,Cervical,3,3,NHS Borders
+5349,2022Q4,S08000016,Cervical,2,2,NHS Borders
+5362,2023Q1,S08000016,Cervical,1,1,NHS Borders
+5387,2023Q3,S08000016,Cervical,1,1,NHS Borders
+5406,2012Q1,S08000024,Cervical,1,1,NHS Lothian
+5419,2012Q1,S08000024,Cervical,6,6,NHS Lothian
+5429,2012Q1,S08000024,Cervical,2,2,NHS Lothian
+5446,2012Q2,S08000024,Cervical,1,0,NHS Lothian
+5457,2012Q2,S08000024,Cervical,5,3,NHS Lothian
+5466,2012Q2,S08000024,Cervical,3,3,NHS Lothian
+5480,2012Q3,S08000024,Cervical,1,1,NHS Lothian
+5488,2012Q3,S08000024,Cervical,1,1,NHS Lothian
+5499,2012Q3,S08000024,Cervical,11,11,NHS Lothian
+5509,2012Q3,S08000024,Cervical,3,3,NHS Lothian
+5539,2012Q4,S08000024,Cervical,7,7,NHS Lothian
+5549,2012Q4,S08000024,Cervical,1,1,NHS Lothian
+5564,2013Q1,S08000024,Cervical,1,1,NHS Lothian
+5572,2013Q1,S08000024,Cervical,2,2,NHS Lothian
+5583,2013Q1,S08000024,Cervical,9,9,NHS Lothian
+5593,2013Q1,S08000024,Cervical,3,3,NHS Lothian
+5604,2013Q2,S08000024,Cervical,1,1,NHS Lothian
+5613,2013Q2,S08000024,Cervical,2,2,NHS Lothian
+5624,2013Q2,S08000024,Cervical,8,7,NHS Lothian
+5635,2013Q2,S08000024,Cervical,4,3,NHS Lothian
+5655,2013Q3,S08000024,Cervical,3,3,NHS Lothian
+5668,2013Q3,S08000024,Cervical,11,11,NHS Lothian
+5677,2013Q3,S08000024,Cervical,1,1,NHS Lothian
+5688,2013Q4,S08000024,Cervical,2,2,NHS Lothian
+5696,2013Q4,S08000024,Cervical,2,2,NHS Lothian
+5708,2013Q4,S08000024,Cervical,16,16,NHS Lothian
+5718,2013Q4,S08000024,Cervical,4,4,NHS Lothian
+5738,2014Q1,S08000024,Cervical,1,1,NHS Lothian
+5748,2014Q1,S08000024,Cervical,16,16,NHS Lothian
+5757,2014Q1,S08000024,Cervical,3,3,NHS Lothian
+5776,2014Q2,S08000024,Cervical,3,3,NHS Lothian
+5789,2014Q2,S08000024,Cervical,23,22,NHS Lothian
+5798,2014Q2,S08000024,Cervical,2,2,NHS Lothian
+5812,2014Q3,S08000024,Cervical,1,1,NHS Lothian
+5821,2014Q3,S08000024,Cervical,1,1,NHS Lothian
+5833,2014Q3,S08000024,Cervical,26,25,NHS Lothian
+5842,2014Q3,S08000024,Cervical,1,1,NHS Lothian
+5871,2014Q4,S08000024,Cervical,18,17,NHS Lothian
+5881,2014Q4,S08000024,Cervical,3,3,NHS Lothian
+5901,2015Q1,S08000024,Cervical,1,1,NHS Lothian
+5911,2015Q1,S08000024,Cervical,28,28,NHS Lothian
+5921,2015Q1,S08000024,Cervical,4,3,NHS Lothian
+5943,2015Q2,S08000024,Cervical,2,2,NHS Lothian
+5953,2015Q2,S08000024,Cervical,14,14,NHS Lothian
+5962,2015Q2,S08000024,Cervical,1,1,NHS Lothian
+5991,2015Q3,S08000024,Cervical,9,9,NHS Lothian
+6019,2015Q4,S08000024,Cervical,1,1,NHS Lothian
+6030,2015Q4,S08000024,Cervical,21,20,NHS Lothian
+6040,2015Q4,S08000024,Cervical,2,2,NHS Lothian
+6066,2016Q1,S08000024,Cervical,13,12,NHS Lothian
+6075,2016Q1,S08000024,Cervical,4,4,NHS Lothian
+6093,2016Q2,S08000024,Cervical,2,2,NHS Lothian
+6105,2016Q2,S08000024,Cervical,12,12,NHS Lothian
+6114,2016Q2,S08000024,Cervical,4,4,NHS Lothian
+6132,2016Q3,S08000024,Cervical,2,2,NHS Lothian
+6145,2016Q3,S08000024,Cervical,14,14,NHS Lothian
+6154,2016Q3,S08000024,Cervical,3,3,NHS Lothian
+6185,2016Q4,S08000024,Cervical,3,3,NHS Lothian
+6195,2016Q4,S08000024,Cervical,4,4,NHS Lothian
+6225,2017Q1,S08000024,Cervical,6,5,NHS Lothian
+6235,2017Q1,S08000024,Cervical,2,2,NHS Lothian
+6254,2017Q2,S08000024,Cervical,1,1,NHS Lothian
+6266,2017Q2,S08000024,Cervical,7,5,NHS Lothian
+6276,2017Q2,S08000024,Cervical,1,1,NHS Lothian
+6287,2017Q3,S08000024,Cervical,2,2,NHS Lothian
+6295,2017Q3,S08000024,Cervical,1,1,NHS Lothian
+6305,2017Q3,S08000024,Cervical,3,3,NHS Lothian
+6315,2017Q3,S08000024,Cervical,3,3,NHS Lothian
+6328,2017Q4,S08000024,Cervical,1,1,NHS Lothian
+6347,2017Q4,S08000024,Cervical,7,7,NHS Lothian
+6357,2017Q4,S08000024,Cervical,1,1,NHS Lothian
+6389,2018Q1,S08000024,Cervical,15,14,NHS Lothian
+6398,2018Q1,S08000024,Cervical,2,2,NHS Lothian
+6425,2018Q2,S08000024,Cervical,7,6,NHS Lothian
+6434,2018Q2,S08000024,Cervical,3,3,NHS Lothian
+6445,2018Q3,S08000024,Cervical,1,1,NHS Lothian
+6453,2018Q3,S08000024,Cervical,2,2,NHS Lothian
+6465,2018Q3,S08000024,Cervical,16,16,NHS Lothian
+6475,2018Q3,S08000024,Cervical,4,4,NHS Lothian
+6506,2018Q4,S08000024,Cervical,16,16,NHS Lothian
+6533,2019Q1,S08000024,Cervical,1,1,NHS Lothian
+6546,2019Q1,S08000024,Cervical,13,12,NHS Lothian
+6556,2019Q1,S08000024,Cervical,1,0,NHS Lothian
+6574,2019Q2,S08000024,Cervical,1,1,NHS Lothian
+6585,2019Q2,S08000024,Cervical,10,9,NHS Lothian
+6595,2019Q2,S08000024,Cervical,1,1,NHS Lothian
+6605,2019Q3,S08000024,Cervical,1,1,NHS Lothian
+6614,2019Q3,S08000024,Cervical,2,2,NHS Lothian
+6628,2019Q3,S08000024,Cervical,14,14,NHS Lothian
+6638,2019Q3,S08000024,Cervical,2,2,NHS Lothian
+6672,2019Q4,S08000024,Cervical,12,12,NHS Lothian
+6682,2019Q4,S08000024,Cervical,3,3,NHS Lothian
+6711,2020Q1,S08000024,Cervical,6,6,NHS Lothian
+6731,2020Q2,S08000024,Cervical,1,1,NHS Lothian
+6737,2020Q2,S08000024,Cervical,2,2,NHS Lothian
+6749,2020Q2,S08000024,Cervical,7,7,NHS Lothian
+6759,2020Q2,S08000024,Cervical,2,2,NHS Lothian
+6769,2020Q3,S08000024,Cervical,1,1,NHS Lothian
+6777,2020Q3,S08000024,Cervical,1,1,NHS Lothian
+6789,2020Q3,S08000024,Cervical,9,9,NHS Lothian
+6798,2020Q3,S08000024,Cervical,2,1,NHS Lothian
+7154,2020Q4,S08000024,Cervical,1,1,NHS Lothian
+7165,2020Q4,S08000024,Cervical,4,4,NHS Lothian
+7176,2020Q4,S08000024,Cervical,3,3,NHS Lothian
+7201,2021Q1,S08000024,Cervical,1,1,NHS Lothian
+7216,2021Q1,S08000024,Cervical,10,9,NHS Lothian
+7225,2021Q1,S08000024,Cervical,2,2,NHS Lothian
+7249,2021Q2,S08000024,Cervical,1,1,NHS Lothian
+7262,2021Q2,S08000024,Cervical,9,9,NHS Lothian
+7272,2021Q2,S08000024,Cervical,1,1,NHS Lothian
+7301,2021Q3,S08000024,Cervical,1,1,NHS Lothian
+7314,2021Q3,S08000024,Cervical,14,14,NHS Lothian
+7323,2021Q3,S08000024,Cervical,3,3,NHS Lothian
+7354,2021Q4,S08000024,Cervical,1,1,NHS Lothian
+7366,2021Q4,S08000024,Cervical,7,7,NHS Lothian
+7376,2021Q4,S08000024,Cervical,2,1,NHS Lothian
+7402,2022Q1,S08000024,Cervical,2,2,NHS Lothian
+7413,2022Q1,S08000024,Cervical,12,7,NHS Lothian
+7424,2022Q1,S08000024,Cervical,4,3,NHS Lothian
+7451,2022Q2,S08000024,Cervical,1,0,NHS Lothian
+7458,2022Q2,S08000024,Cervical,4,3,NHS Lothian
+7475,2022Q2,S08000024,Cervical,8,8,NHS Lothian
+7488,2022Q2,S08000024,Cervical,2,2,NHS Lothian
+7510,2022Q3,S08000024,Cervical,2,2,NHS Lothian
+7523,2022Q3,S08000024,Cervical,10,10,NHS Lothian
+7534,2022Q3,S08000024,Cervical,4,4,NHS Lothian
+7557,2022Q4,S08000024,Cervical,2,2,NHS Lothian
+7573,2022Q4,S08000024,Cervical,13,13,NHS Lothian
+7584,2022Q4,S08000024,Cervical,2,2,NHS Lothian
+7624,2023Q1,S08000024,Cervical,10,9,NHS Lothian
+7635,2023Q1,S08000024,Cervical,3,3,NHS Lothian
+7659,2023Q2,S08000024,Cervical,4,4,NHS Lothian
+7672,2023Q2,S08000024,Cervical,9,9,NHS Lothian
+7682,2023Q2,S08000024,Cervical,1,1,NHS Lothian
+7708,2023Q3,S08000024,Cervical,2,1,NHS Lothian
+7724,2023Q3,S08000024,Cervical,6,5,NHS Lothian
+7735,2023Q3,S08000024,Cervical,5,5,NHS Lothian
+7750,2012Q1,S08000019,Cervical,1,1,NHS Forth Valley
+7761,2012Q2,S08000019,Cervical,1,1,NHS Forth Valley
+7774,2012Q3,S08000019,Cervical,1,1,NHS Forth Valley
+7814,2013Q3,S08000019,Cervical,1,1,NHS Forth Valley
+7825,2013Q4,S08000019,Cervical,2,2,NHS Forth Valley
+7837,2014Q1,S08000019,Cervical,1,1,NHS Forth Valley
+7849,2014Q2,S08000019,Cervical,2,2,NHS Forth Valley
+7860,2014Q3,S08000019,Cervical,2,2,NHS Forth Valley
+7871,2014Q4,S08000019,Cervical,3,2,NHS Forth Valley
+7883,2015Q1,S08000019,Cervical,5,5,NHS Forth Valley
+7895,2015Q2,S08000019,Cervical,1,1,NHS Forth Valley
+7915,2015Q4,S08000019,Cervical,1,1,NHS Forth Valley
+7926,2016Q1,S08000019,Cervical,2,2,NHS Forth Valley
+7936,2016Q2,S08000019,Cervical,1,1,NHS Forth Valley
+7947,2016Q3,S08000019,Cervical,2,2,NHS Forth Valley
+7957,2016Q4,S08000019,Cervical,1,1,NHS Forth Valley
+7969,2017Q1,S08000019,Cervical,2,2,NHS Forth Valley
+7983,2017Q2,S08000019,Cervical,1,1,NHS Forth Valley
+7994,2017Q3,S08000019,Cervical,4,4,NHS Forth Valley
+8015,2018Q1,S08000019,Cervical,1,1,NHS Forth Valley
+8026,2018Q2,S08000019,Cervical,1,1,NHS Forth Valley
+8037,2018Q3,S08000019,Cervical,2,2,NHS Forth Valley
+8048,2018Q4,S08000019,Cervical,1,1,NHS Forth Valley
+8059,2019Q1,S08000019,Cervical,1,1,NHS Forth Valley
+8071,2019Q2,S08000019,Cervical,3,3,NHS Forth Valley
+8093,2019Q4,S08000019,Cervical,3,3,NHS Forth Valley
+8105,2020Q1,S08000019,Cervical,1,1,NHS Forth Valley
+8117,2020Q2,S08000019,Cervical,2,2,NHS Forth Valley
+8220,2020Q4,S08000019,Cervical,2,2,NHS Forth Valley
+8248,2021Q2,S08000019,Cervical,3,3,NHS Forth Valley
+8261,2021Q3,S08000019,Cervical,1,1,NHS Forth Valley
+8272,2021Q4,S08000019,Cervical,2,2,NHS Forth Valley
+8285,2022Q1,S08000019,Cervical,1,1,NHS Forth Valley
+8327,2022Q4,S08000019,Cervical,2,1,NHS Forth Valley
+8370,2023Q3,S08000019,Cervical,1,1,NHS Forth Valley
+8387,2012Q1,S08000022,Cervical,3,3,NHS Highland
+8403,2012Q2,S08000022,Cervical,4,4,NHS Highland
+8449,2013Q1,S08000022,Cervical,3,3,NHS Highland
+8465,2013Q2,S08000022,Cervical,3,3,NHS Highland
+8480,2013Q3,S08000022,Cervical,1,1,NHS Highland
+8499,2013Q4,S08000022,Cervical,4,4,NHS Highland
+8515,2014Q1,S08000022,Cervical,4,3,NHS Highland
+8532,2014Q2,S08000022,Cervical,4,4,NHS Highland
+8547,2014Q2,S08000022,Cervical,1,1,NHS Highland
+8566,2014Q4,S08000022,Cervical,1,1,NHS Highland
+8584,2015Q1,S08000022,Cervical,1,1,NHS Highland
+8600,2015Q2,S08000022,Cervical,2,2,NHS Highland
+8614,2015Q3,S08000022,Cervical,2,2,NHS Highland
+8635,2015Q4,S08000022,Cervical,3,3,NHS Highland
+8648,2016Q1,S08000022,Cervical,3,3,NHS Highland
+8682,2016Q3,S08000022,Cervical,2,2,NHS Highland
+8696,2016Q4,S08000022,Cervical,2,2,NHS Highland
+8712,2017Q1,S08000022,Cervical,1,1,NHS Highland
+8730,2017Q2,S08000022,Cervical,5,5,NHS Highland
+8746,2017Q3,S08000022,Cervical,2,2,NHS Highland
+8763,2017Q4,S08000022,Cervical,3,3,NHS Highland
+8781,2018Q1,S08000022,Cervical,6,6,NHS Highland
+8798,2018Q2,S08000022,Cervical,5,5,NHS Highland
+8813,2018Q3,S08000022,Cervical,1,1,NHS Highland
+8831,2018Q4,S08000022,Cervical,4,4,NHS Highland
+8847,2019Q1,S08000022,Cervical,4,4,NHS Highland
+8865,2019Q2,S08000022,Cervical,5,5,NHS Highland
+8883,2019Q3,S08000022,Cervical,3,3,NHS Highland
+8901,2019Q4,S08000022,Cervical,3,3,NHS Highland
+8918,2020Q1,S08000022,Cervical,4,4,NHS Highland
+8935,2020Q2,S08000022,Cervical,2,2,NHS Highland
+8952,2020Q3,S08000022,Cervical,3,3,NHS Highland
+9087,2020Q4,S08000022,Cervical,1,1,NHS Highland
+9126,2021Q2,S08000022,Cervical,2,2,NHS Highland
+9146,2021Q3,S08000022,Cervical,3,3,NHS Highland
+9180,2022Q1,S08000022,Cervical,4,4,NHS Highland
+9197,2022Q2,S08000022,Cervical,1,1,NHS Highland
+9216,2022Q3,S08000022,Cervical,2,2,NHS Highland
+9235,2022Q4,S08000022,Cervical,1,1,NHS Highland
+9256,2023Q1,S08000022,Cervical,5,4,NHS Highland
+9274,2023Q2,S08000022,Cervical,7,6,NHS Highland
+9292,2023Q3,S08000022,Cervical,2,2,NHS Highland
+9307,2012Q1,S08000029,Cervical,1,1,NHS Fife
+9327,2012Q3,S08000029,Cervical,1,1,NHS Fife
+9339,2012Q4,S08000029,Cervical,3,3,NHS Fife
+9350,2013Q1,S08000029,Cervical,2,2,NHS Fife
+9361,2013Q2,S08000029,Cervical,5,5,NHS Fife
+9372,2013Q3,S08000029,Cervical,4,3,NHS Fife
+9382,2013Q4,S08000029,Cervical,2,2,NHS Fife
+9393,2014Q1,S08000029,Cervical,3,3,NHS Fife
+9403,2014Q2,S08000029,Cervical,2,2,NHS Fife
+9414,2014Q3,S08000029,Cervical,2,2,NHS Fife
+9424,2014Q4,S08000029,Cervical,1,1,NHS Fife
+9426,2014Q4,S08000029,Cervical,4,4,NHS Fife
+9447,2015Q2,S08000029,Cervical,3,3,NHS Fife
+9458,2015Q3,S08000029,Cervical,1,1,NHS Fife
+9470,2015Q4,S08000029,Cervical,2,2,NHS Fife
+9481,2016Q1,S08000029,Cervical,5,5,NHS Fife
+9493,2016Q2,S08000029,Cervical,1,1,NHS Fife
+9514,2016Q4,S08000029,Cervical,4,4,NHS Fife
+9525,2017Q1,S08000029,Cervical,5,5,NHS Fife
+9536,2017Q2,S08000029,Cervical,4,3,NHS Fife
+9547,2017Q3,S08000029,Cervical,1,1,NHS Fife
+9557,2017Q4,S08000029,Cervical,1,1,NHS Fife
+9568,2018Q1,S08000029,Cervical,1,1,NHS Fife
+9579,2018Q2,S08000029,Cervical,1,1,NHS Fife
+9591,2018Q3,S08000029,Cervical,4,4,NHS Fife
+9602,2018Q4,S08000029,Cervical,1,1,NHS Fife
+9612,2019Q1,S08000029,Cervical,2,2,NHS Fife
+9623,2019Q2,S08000029,Cervical,5,5,NHS Fife
+9634,2019Q3,S08000029,Cervical,1,1,NHS Fife
+9656,2020Q1,S08000029,Cervical,3,3,NHS Fife
+9667,2020Q2,S08000029,Cervical,2,2,NHS Fife
+9677,2020Q3,S08000029,Cervical,1,1,NHS Fife
+9758,2020Q4,S08000029,Cervical,1,1,NHS Fife
+9771,2021Q1,S08000029,Cervical,1,1,NHS Fife
+9784,2021Q2,S08000029,Cervical,1,1,NHS Fife
+9797,2021Q3,S08000029,Cervical,4,4,NHS Fife
+9822,2022Q1,S08000029,Cervical,1,1,NHS Fife
+9837,2022Q2,S08000029,Cervical,4,4,NHS Fife
+9850,2022Q3,S08000029,Cervical,2,2,NHS Fife
+9862,2022Q4,S08000029,Cervical,1,1,NHS Fife
+9875,2023Q1,S08000029,Cervical,1,1,NHS Fife
+9888,2023Q2,S08000029,Cervical,3,3,NHS Fife
+9903,2023Q3,S08000029,Cervical,2,2,NHS Fife
+9917,2012Q1,S08000030,Cervical,4,4,NHS Tayside
+9929,2012Q2,S08000030,Cervical,5,5,NHS Tayside
+9943,2012Q3,S08000030,Cervical,2,2,NHS Tayside
+9955,2012Q4,S08000030,Cervical,4,4,NHS Tayside
+9970,2013Q1,S08000030,Cervical,4,4,NHS Tayside
+9983,2013Q2,S08000030,Cervical,5,5,NHS Tayside
+9997,2013Q3,S08000030,Cervical,17,17,NHS Tayside
+10012,2013Q4,S08000030,Cervical,10,10,NHS Tayside
+10023,2014Q1,S08000030,Cervical,8,7,NHS Tayside
+10032,2014Q2,S08000030,Cervical,1,1,NHS Tayside
+10037,2014Q2,S08000030,Cervical,12,11,NHS Tayside
+10049,2014Q3,S08000030,Cervical,9,9,NHS Tayside
+10059,2014Q4,S08000030,Cervical,11,9,NHS Tayside
+10073,2015Q1,S08000030,Cervical,10,8,NHS Tayside
+10087,2015Q2,S08000030,Cervical,7,7,NHS Tayside
+10099,2015Q3,S08000030,Cervical,7,7,NHS Tayside
+10113,2015Q4,S08000030,Cervical,8,8,NHS Tayside
+10129,2016Q1,S08000030,Cervical,7,7,NHS Tayside
+10144,2016Q2,S08000030,Cervical,4,4,NHS Tayside
+10160,2016Q3,S08000030,Cervical,2,2,NHS Tayside
+10175,2016Q4,S08000030,Cervical,3,3,NHS Tayside
+10188,2017Q1,S08000030,Cervical,4,4,NHS Tayside
+10202,2017Q2,S08000030,Cervical,6,5,NHS Tayside
+10218,2017Q3,S08000030,Cervical,6,6,NHS Tayside
+10233,2017Q4,S08000030,Cervical,3,1,NHS Tayside
+10248,2018Q1,S08000030,Cervical,5,5,NHS Tayside
+10263,2018Q2,S08000030,Cervical,7,7,NHS Tayside
+10278,2018Q3,S08000030,Cervical,11,11,NHS Tayside
+10289,2018Q4,S08000030,Cervical,1,1,NHS Tayside
+10293,2018Q4,S08000030,Cervical,10,9,NHS Tayside
+10307,2019Q1,S08000030,Cervical,2,2,NHS Tayside
+10321,2019Q2,S08000030,Cervical,6,5,NHS Tayside
+10337,2019Q3,S08000030,Cervical,10,10,NHS Tayside
+10351,2019Q4,S08000030,Cervical,4,4,NHS Tayside
+10365,2020Q1,S08000030,Cervical,8,7,NHS Tayside
+10380,2020Q2,S08000030,Cervical,9,9,NHS Tayside
+10394,2020Q3,S08000030,Cervical,1,1,NHS Tayside
+10516,2020Q4,S08000030,Cervical,1,1,NHS Tayside
+10531,2021Q1,S08000030,Cervical,3,3,NHS Tayside
+10546,2021Q2,S08000030,Cervical,10,10,NHS Tayside
+10560,2021Q3,S08000030,Cervical,1,1,NHS Tayside
+10564,2021Q3,S08000030,Cervical,2,1,NHS Tayside
+10581,2021Q4,S08000030,Cervical,6,6,NHS Tayside
+10598,2022Q1,S08000030,Cervical,6,5,NHS Tayside
+10618,2022Q2,S08000030,Cervical,4,3,NHS Tayside
+10634,2022Q3,S08000030,Cervical,2,2,NHS Tayside
+10651,2022Q4,S08000030,Cervical,2,2,NHS Tayside
+10668,2023Q1,S08000030,Cervical,5,5,NHS Tayside
+10684,2023Q2,S08000030,Cervical,5,5,NHS Tayside
+10702,2023Q3,S08000030,Cervical,6,6,NHS Tayside
+11116,2018Q4,S08000026,Cervical,1,1,NHS Shetland
+11123,2019Q1,S08000026,Cervical,1,1,NHS Shetland
+11222,2020Q4,S08000026,Cervical,1,1,NHS Shetland
+11398,2016Q2,S08000028,Cervical,1,1,NHS Western Isles
+11580,2021Q3,S08000028,Cervical,1,1,NHS Western Isles
+11658,2012Q1,S08000032,Cervical,5,5,NHS Lanarkshire
+11669,2012Q2,S08000032,Cervical,1,1,NHS Lanarkshire
+11681,2012Q3,S08000032,Cervical,5,5,NHS Lanarkshire
+11692,2012Q4,S08000032,Cervical,5,5,NHS Lanarkshire
+11704,2013Q1,S08000032,Cervical,2,2,NHS Lanarkshire
+11716,2013Q2,S08000032,Cervical,3,3,NHS Lanarkshire
+11727,2013Q3,S08000032,Cervical,1,1,NHS Lanarkshire
+11739,2013Q4,S08000032,Cervical,2,2,NHS Lanarkshire
+11751,2014Q1,S08000032,Cervical,4,4,NHS Lanarkshire
+11762,2014Q2,S08000032,Cervical,4,4,NHS Lanarkshire
+11774,2014Q3,S08000032,Cervical,1,1,NHS Lanarkshire
+11785,2014Q4,S08000032,Cervical,6,6,NHS Lanarkshire
+11797,2015Q1,S08000032,Cervical,2,2,NHS Lanarkshire
+11809,2015Q2,S08000032,Cervical,4,4,NHS Lanarkshire
+11821,2015Q3,S08000032,Cervical,6,6,NHS Lanarkshire
+11833,2015Q4,S08000032,Cervical,2,2,NHS Lanarkshire
+11846,2016Q1,S08000032,Cervical,2,2,NHS Lanarkshire
+11857,2016Q2,S08000032,Cervical,6,6,NHS Lanarkshire
+11869,2016Q3,S08000032,Cervical,2,2,NHS Lanarkshire
+11882,2016Q4,S08000032,Cervical,5,5,NHS Lanarkshire
+11894,2017Q1,S08000032,Cervical,9,9,NHS Lanarkshire
+11906,2017Q2,S08000032,Cervical,2,2,NHS Lanarkshire
+11918,2017Q3,S08000032,Cervical,3,3,NHS Lanarkshire
+11931,2017Q4,S08000032,Cervical,2,2,NHS Lanarkshire
+11943,2018Q1,S08000032,Cervical,2,2,NHS Lanarkshire
+11955,2018Q2,S08000032,Cervical,2,2,NHS Lanarkshire
+11966,2018Q3,S08000032,Cervical,1,1,NHS Lanarkshire
+11979,2018Q4,S08000032,Cervical,2,2,NHS Lanarkshire
+12004,2019Q2,S08000032,Cervical,3,3,NHS Lanarkshire
+12016,2019Q3,S08000032,Cervical,1,1,NHS Lanarkshire
+12028,2019Q4,S08000032,Cervical,1,1,NHS Lanarkshire
+12041,2020Q1,S08000032,Cervical,3,3,NHS Lanarkshire
+12053,2020Q2,S08000032,Cervical,3,3,NHS Lanarkshire
+12065,2020Q3,S08000032,Cervical,1,1,NHS Lanarkshire
+12174,2020Q4,S08000032,Cervical,8,8,NHS Lanarkshire
+12188,2021Q1,S08000032,Cervical,2,2,NHS Lanarkshire
+12201,2021Q2,S08000032,Cervical,2,2,NHS Lanarkshire
+12215,2021Q3,S08000032,Cervical,6,6,NHS Lanarkshire
+12231,2021Q4,S08000032,Cervical,3,3,NHS Lanarkshire
+12247,2022Q1,S08000032,Cervical,4,4,NHS Lanarkshire
+12265,2022Q2,S08000032,Cervical,1,1,NHS Lanarkshire
+12280,2022Q3,S08000032,Cervical,4,4,NHS Lanarkshire
+12311,2023Q1,S08000032,Cervical,3,3,NHS Lanarkshire
+12326,2023Q2,S08000032,Cervical,2,2,NHS Lanarkshire
+12342,2023Q3,S08000032,Cervical,5,5,NHS Lanarkshire
