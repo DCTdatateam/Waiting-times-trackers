@@ -1,1094 +1,1094 @@
 ,Quarter,HBT,Cancer type,Number of eligible referrals,Number of eligible referrals treated within 31 days,Health board
-0,2012Q1,S08000015,Breast,78,78,NHS Ayrshire and Arran
-10,2012Q2,S08000015,Breast,97,97,NHS Ayrshire and Arran
-20,2012Q3,S08000015,Breast,100,100,NHS Ayrshire and Arran
-30,2012Q4,S08000015,Breast,84,84,NHS Ayrshire and Arran
-40,2013Q1,S08000015,Breast,88,88,NHS Ayrshire and Arran
-50,2013Q2,S08000015,Breast,93,93,NHS Ayrshire and Arran
-60,2013Q3,S08000015,Breast,86,86,NHS Ayrshire and Arran
-70,2013Q4,S08000015,Breast,92,92,NHS Ayrshire and Arran
-79,2014Q1,S08000015,Breast,95,94,NHS Ayrshire and Arran
-90,2014Q2,S08000015,Breast,96,96,NHS Ayrshire and Arran
-100,2014Q3,S08000015,Breast,94,94,NHS Ayrshire and Arran
-110,2014Q4,S08000015,Breast,85,85,NHS Ayrshire and Arran
-120,2015Q1,S08000015,Breast,102,102,NHS Ayrshire and Arran
-130,2015Q2,S08000015,Breast,94,92,NHS Ayrshire and Arran
-140,2015Q3,S08000015,Breast,81,81,NHS Ayrshire and Arran
-150,2015Q4,S08000015,Breast,98,98,NHS Ayrshire and Arran
-160,2016Q1,S08000015,Breast,92,91,NHS Ayrshire and Arran
-169,2016Q2,S08000015,Breast,78,78,NHS Ayrshire and Arran
-179,2016Q3,S08000015,Breast,100,100,NHS Ayrshire and Arran
-188,2016Q4,S08000015,Breast,126,126,NHS Ayrshire and Arran
-198,2017Q1,S08000015,Breast,104,104,NHS Ayrshire and Arran
-208,2017Q2,S08000015,Breast,120,119,NHS Ayrshire and Arran
-218,2017Q3,S08000015,Breast,108,108,NHS Ayrshire and Arran
-228,2017Q4,S08000015,Breast,108,106,NHS Ayrshire and Arran
-237,2018Q1,S08000015,Breast,86,83,NHS Ayrshire and Arran
-247,2018Q2,S08000015,Breast,84,84,NHS Ayrshire and Arran
-256,2018Q3,S08000015,Breast,100,99,NHS Ayrshire and Arran
-267,2018Q4,S08000015,Breast,107,107,NHS Ayrshire and Arran
-277,2019Q1,S08000015,Breast,93,91,NHS Ayrshire and Arran
-287,2019Q2,S08000015,Breast,101,92,NHS Ayrshire and Arran
-297,2019Q3,S08000015,Breast,113,107,NHS Ayrshire and Arran
-308,2019Q4,S08000015,Breast,93,87,NHS Ayrshire and Arran
-318,2020Q1,S08000015,Breast,120,120,NHS Ayrshire and Arran
-328,2020Q1,S08000015,Breast,1,1,NHS Ayrshire and Arran
-329,2020Q2,S08000015,Breast,46,45,NHS Ayrshire and Arran
-339,2020Q3,S08000015,Breast,49,48,NHS Ayrshire and Arran
-387,2020Q4,S08000015,Breast,91,91,NHS Ayrshire and Arran
-398,2021Q1,S08000015,Breast,109,105,NHS Ayrshire and Arran
-408,2021Q1,S08000015,Breast,1,1,NHS Ayrshire and Arran
-411,2021Q2,S08000015,Breast,109,105,NHS Ayrshire and Arran
-420,2021Q2,S08000015,Breast,1,1,NHS Ayrshire and Arran
-423,2021Q3,S08000015,Breast,96,87,NHS Ayrshire and Arran
-434,2021Q4,S08000015,Breast,117,116,NHS Ayrshire and Arran
-443,2021Q4,S08000015,Breast,1,1,NHS Ayrshire and Arran
-449,2022Q1,S08000015,Breast,99,94,NHS Ayrshire and Arran
+1,2012Q1,S08000015,Breast,78,78,NHS Ayrshire and Arran
+12,2012Q2,S08000015,Breast,97,97,NHS Ayrshire and Arran
+23,2012Q3,S08000015,Breast,100,100,NHS Ayrshire and Arran
+34,2012Q4,S08000015,Breast,84,84,NHS Ayrshire and Arran
+45,2013Q1,S08000015,Breast,88,88,NHS Ayrshire and Arran
+56,2013Q2,S08000015,Breast,93,93,NHS Ayrshire and Arran
+67,2013Q3,S08000015,Breast,86,86,NHS Ayrshire and Arran
+78,2013Q4,S08000015,Breast,92,92,NHS Ayrshire and Arran
+89,2014Q1,S08000015,Breast,95,94,NHS Ayrshire and Arran
+101,2014Q2,S08000015,Breast,96,96,NHS Ayrshire and Arran
+112,2014Q3,S08000015,Breast,94,94,NHS Ayrshire and Arran
+123,2014Q4,S08000015,Breast,85,85,NHS Ayrshire and Arran
+134,2015Q1,S08000015,Breast,102,102,NHS Ayrshire and Arran
+145,2015Q2,S08000015,Breast,94,92,NHS Ayrshire and Arran
+156,2015Q3,S08000015,Breast,81,81,NHS Ayrshire and Arran
+167,2015Q4,S08000015,Breast,98,98,NHS Ayrshire and Arran
+178,2016Q1,S08000015,Breast,92,91,NHS Ayrshire and Arran
+188,2016Q2,S08000015,Breast,78,78,NHS Ayrshire and Arran
+199,2016Q3,S08000015,Breast,100,100,NHS Ayrshire and Arran
+209,2016Q4,S08000015,Breast,126,126,NHS Ayrshire and Arran
+220,2017Q1,S08000015,Breast,104,104,NHS Ayrshire and Arran
+231,2017Q2,S08000015,Breast,120,119,NHS Ayrshire and Arran
+242,2017Q3,S08000015,Breast,108,108,NHS Ayrshire and Arran
+253,2017Q4,S08000015,Breast,108,106,NHS Ayrshire and Arran
+263,2018Q1,S08000015,Breast,86,83,NHS Ayrshire and Arran
+274,2018Q2,S08000015,Breast,84,84,NHS Ayrshire and Arran
+285,2018Q3,S08000015,Breast,100,99,NHS Ayrshire and Arran
+297,2018Q4,S08000015,Breast,107,107,NHS Ayrshire and Arran
+308,2019Q1,S08000015,Breast,93,91,NHS Ayrshire and Arran
+319,2019Q2,S08000015,Breast,101,92,NHS Ayrshire and Arran
+331,2019Q3,S08000015,Breast,113,107,NHS Ayrshire and Arran
+343,2019Q4,S08000015,Breast,93,87,NHS Ayrshire and Arran
+355,2020Q1,S08000015,Breast,120,120,NHS Ayrshire and Arran
+356,2020Q1,S08000015,Breast,1,1,NHS Ayrshire and Arran
+367,2020Q2,S08000015,Breast,46,45,NHS Ayrshire and Arran
+378,2020Q3,S08000015,Breast,49,48,NHS Ayrshire and Arran
+388,2020Q4,S08000015,Breast,91,91,NHS Ayrshire and Arran
+400,2021Q1,S08000015,Breast,109,105,NHS Ayrshire and Arran
+401,2021Q1,S08000015,Breast,1,1,NHS Ayrshire and Arran
+413,2021Q2,S08000015,Breast,109,105,NHS Ayrshire and Arran
+414,2021Q2,S08000015,Breast,1,1,NHS Ayrshire and Arran
+424,2021Q3,S08000015,Breast,96,87,NHS Ayrshire and Arran
+437,2021Q4,S08000015,Breast,117,116,NHS Ayrshire and Arran
+438,2021Q4,S08000015,Breast,1,1,NHS Ayrshire and Arran
+451,2022Q1,S08000015,Breast,99,94,NHS Ayrshire and Arran
 463,2022Q2,S08000015,Breast,100,97,NHS Ayrshire and Arran
 474,2022Q3,S08000015,Breast,101,100,NHS Ayrshire and Arran
-485,2022Q4,S08000015,Breast,109,105,NHS Ayrshire and Arran
+487,2022Q4,S08000015,Breast,109,105,NHS Ayrshire and Arran
 500,2023Q1,S08000015,Breast,114,106,NHS Ayrshire and Arran
 510,2023Q2,S08000015,Breast,97,96,NHS Ayrshire and Arran
 521,2023Q3,S08000015,Breast,107,106,NHS Ayrshire and Arran
-531,2012Q1,S08000017,Breast,2,2,NHS Dumfries and Galloway
-532,2012Q1,S08000017,Breast,20,20,NHS Dumfries and Galloway
-541,2012Q2,S08000017,Breast,20,20,NHS Dumfries and Galloway
-550,2012Q3,S08000017,Breast,2,2,NHS Dumfries and Galloway
-551,2012Q3,S08000017,Breast,31,31,NHS Dumfries and Galloway
-561,2012Q4,S08000017,Breast,4,4,NHS Dumfries and Galloway
-562,2012Q4,S08000017,Breast,21,21,NHS Dumfries and Galloway
-572,2013Q1,S08000017,Breast,27,27,NHS Dumfries and Galloway
-582,2013Q2,S08000017,Breast,31,31,NHS Dumfries and Galloway
-591,2013Q3,S08000017,Breast,1,1,NHS Dumfries and Galloway
-592,2013Q3,S08000017,Breast,20,20,NHS Dumfries and Galloway
-601,2013Q4,S08000017,Breast,3,3,NHS Dumfries and Galloway
-602,2013Q4,S08000017,Breast,16,16,NHS Dumfries and Galloway
-611,2014Q1,S08000017,Breast,2,2,NHS Dumfries and Galloway
-612,2014Q1,S08000017,Breast,26,26,NHS Dumfries and Galloway
-622,2014Q2,S08000017,Breast,4,4,NHS Dumfries and Galloway
-623,2014Q2,S08000017,Breast,22,22,NHS Dumfries and Galloway
-632,2014Q3,S08000017,Breast,5,5,NHS Dumfries and Galloway
-633,2014Q3,S08000017,Breast,24,24,NHS Dumfries and Galloway
-642,2014Q4,S08000017,Breast,15,15,NHS Dumfries and Galloway
-643,2014Q4,S08000017,Breast,18,18,NHS Dumfries and Galloway
-653,2015Q1,S08000017,Breast,2,2,NHS Dumfries and Galloway
-654,2015Q1,S08000017,Breast,23,23,NHS Dumfries and Galloway
-663,2015Q2,S08000017,Breast,3,3,NHS Dumfries and Galloway
-664,2015Q2,S08000017,Breast,17,17,NHS Dumfries and Galloway
-674,2015Q3,S08000017,Breast,2,2,NHS Dumfries and Galloway
-675,2015Q3,S08000017,Breast,26,26,NHS Dumfries and Galloway
-685,2015Q4,S08000017,Breast,4,4,NHS Dumfries and Galloway
-686,2015Q4,S08000017,Breast,24,24,NHS Dumfries and Galloway
-696,2016Q1,S08000017,Breast,7,7,NHS Dumfries and Galloway
-697,2016Q1,S08000017,Breast,22,22,NHS Dumfries and Galloway
-705,2016Q2,S08000017,Breast,7,7,NHS Dumfries and Galloway
-706,2016Q2,S08000017,Breast,18,18,NHS Dumfries and Galloway
-715,2016Q3,S08000017,Breast,1,1,NHS Dumfries and Galloway
-716,2016Q3,S08000017,Breast,11,11,NHS Dumfries and Galloway
-726,2016Q4,S08000017,Breast,19,19,NHS Dumfries and Galloway
-735,2017Q1,S08000017,Breast,8,8,NHS Dumfries and Galloway
-736,2017Q1,S08000017,Breast,27,27,NHS Dumfries and Galloway
-746,2017Q2,S08000017,Breast,3,3,NHS Dumfries and Galloway
-747,2017Q2,S08000017,Breast,18,18,NHS Dumfries and Galloway
-757,2017Q3,S08000017,Breast,6,6,NHS Dumfries and Galloway
-758,2017Q3,S08000017,Breast,26,26,NHS Dumfries and Galloway
-766,2017Q4,S08000017,Breast,4,4,NHS Dumfries and Galloway
-767,2017Q4,S08000017,Breast,16,16,NHS Dumfries and Galloway
-777,2018Q1,S08000017,Breast,5,5,NHS Dumfries and Galloway
-778,2018Q1,S08000017,Breast,21,21,NHS Dumfries and Galloway
-787,2018Q2,S08000017,Breast,10,10,NHS Dumfries and Galloway
-788,2018Q2,S08000017,Breast,25,25,NHS Dumfries and Galloway
-798,2018Q3,S08000017,Breast,1,1,NHS Dumfries and Galloway
-799,2018Q3,S08000017,Breast,25,24,NHS Dumfries and Galloway
-809,2018Q4,S08000017,Breast,1,1,NHS Dumfries and Galloway
-810,2018Q4,S08000017,Breast,35,35,NHS Dumfries and Galloway
-819,2019Q1,S08000017,Breast,1,1,NHS Dumfries and Galloway
-820,2019Q1,S08000017,Breast,21,21,NHS Dumfries and Galloway
-829,2019Q2,S08000017,Breast,5,5,NHS Dumfries and Galloway
-830,2019Q2,S08000017,Breast,24,24,NHS Dumfries and Galloway
-840,2019Q3,S08000017,Breast,2,2,NHS Dumfries and Galloway
-841,2019Q3,S08000017,Breast,27,27,NHS Dumfries and Galloway
-851,2019Q4,S08000017,Breast,27,27,NHS Dumfries and Galloway
-860,2020Q1,S08000017,Breast,6,6,NHS Dumfries and Galloway
-861,2020Q1,S08000017,Breast,21,21,NHS Dumfries and Galloway
-870,2020Q2,S08000017,Breast,22,22,NHS Dumfries and Galloway
-880,2020Q3,S08000017,Breast,20,20,NHS Dumfries and Galloway
-953,2020Q4,S08000017,Breast,1,0,NHS Dumfries and Galloway
-954,2020Q4,S08000017,Breast,23,23,NHS Dumfries and Galloway
-963,2020Q4,S08000017,Breast,1,1,NHS Dumfries and Galloway
-967,2021Q1,S08000017,Breast,3,3,NHS Dumfries and Galloway
-968,2021Q1,S08000017,Breast,24,24,NHS Dumfries and Galloway
-980,2021Q2,S08000017,Breast,4,4,NHS Dumfries and Galloway
-981,2021Q2,S08000017,Breast,28,28,NHS Dumfries and Galloway
-991,2021Q3,S08000017,Breast,7,7,NHS Dumfries and Galloway
-992,2021Q3,S08000017,Breast,22,22,NHS Dumfries and Galloway
-1004,2021Q4,S08000017,Breast,3,3,NHS Dumfries and Galloway
-1005,2021Q4,S08000017,Breast,20,20,NHS Dumfries and Galloway
-1016,2022Q1,S08000017,Breast,3,3,NHS Dumfries and Galloway
-1017,2022Q1,S08000017,Breast,28,28,NHS Dumfries and Galloway
-1028,2022Q2,S08000017,Breast,2,2,NHS Dumfries and Galloway
+533,2012Q1,S08000017,Breast,2,2,NHS Dumfries and Galloway
+534,2012Q1,S08000017,Breast,20,20,NHS Dumfries and Galloway
+544,2012Q2,S08000017,Breast,20,20,NHS Dumfries and Galloway
+555,2012Q3,S08000017,Breast,2,2,NHS Dumfries and Galloway
+556,2012Q3,S08000017,Breast,31,31,NHS Dumfries and Galloway
+568,2012Q4,S08000017,Breast,4,4,NHS Dumfries and Galloway
+569,2012Q4,S08000017,Breast,21,21,NHS Dumfries and Galloway
+580,2013Q1,S08000017,Breast,27,27,NHS Dumfries and Galloway
+591,2013Q2,S08000017,Breast,31,31,NHS Dumfries and Galloway
+602,2013Q3,S08000017,Breast,1,1,NHS Dumfries and Galloway
+603,2013Q3,S08000017,Breast,20,20,NHS Dumfries and Galloway
+614,2013Q4,S08000017,Breast,3,3,NHS Dumfries and Galloway
+615,2013Q4,S08000017,Breast,16,16,NHS Dumfries and Galloway
+626,2014Q1,S08000017,Breast,2,2,NHS Dumfries and Galloway
+627,2014Q1,S08000017,Breast,26,26,NHS Dumfries and Galloway
+639,2014Q2,S08000017,Breast,4,4,NHS Dumfries and Galloway
+640,2014Q2,S08000017,Breast,22,22,NHS Dumfries and Galloway
+651,2014Q3,S08000017,Breast,5,5,NHS Dumfries and Galloway
+652,2014Q3,S08000017,Breast,24,24,NHS Dumfries and Galloway
+663,2014Q4,S08000017,Breast,15,15,NHS Dumfries and Galloway
+664,2014Q4,S08000017,Breast,18,18,NHS Dumfries and Galloway
+676,2015Q1,S08000017,Breast,2,2,NHS Dumfries and Galloway
+677,2015Q1,S08000017,Breast,23,23,NHS Dumfries and Galloway
+688,2015Q2,S08000017,Breast,3,3,NHS Dumfries and Galloway
+689,2015Q2,S08000017,Breast,17,17,NHS Dumfries and Galloway
+701,2015Q3,S08000017,Breast,2,2,NHS Dumfries and Galloway
+702,2015Q3,S08000017,Breast,26,26,NHS Dumfries and Galloway
+714,2015Q4,S08000017,Breast,4,4,NHS Dumfries and Galloway
+715,2015Q4,S08000017,Breast,24,24,NHS Dumfries and Galloway
+727,2016Q1,S08000017,Breast,7,7,NHS Dumfries and Galloway
+728,2016Q1,S08000017,Breast,22,22,NHS Dumfries and Galloway
+738,2016Q2,S08000017,Breast,7,7,NHS Dumfries and Galloway
+739,2016Q2,S08000017,Breast,18,18,NHS Dumfries and Galloway
+750,2016Q3,S08000017,Breast,1,1,NHS Dumfries and Galloway
+751,2016Q3,S08000017,Breast,11,11,NHS Dumfries and Galloway
+762,2016Q4,S08000017,Breast,19,19,NHS Dumfries and Galloway
+773,2017Q1,S08000017,Breast,8,8,NHS Dumfries and Galloway
+774,2017Q1,S08000017,Breast,27,27,NHS Dumfries and Galloway
+786,2017Q2,S08000017,Breast,3,3,NHS Dumfries and Galloway
+787,2017Q2,S08000017,Breast,18,18,NHS Dumfries and Galloway
+799,2017Q3,S08000017,Breast,6,6,NHS Dumfries and Galloway
+800,2017Q3,S08000017,Breast,26,26,NHS Dumfries and Galloway
+810,2017Q4,S08000017,Breast,4,4,NHS Dumfries and Galloway
+811,2017Q4,S08000017,Breast,16,16,NHS Dumfries and Galloway
+823,2018Q1,S08000017,Breast,5,5,NHS Dumfries and Galloway
+824,2018Q1,S08000017,Breast,21,21,NHS Dumfries and Galloway
+835,2018Q2,S08000017,Breast,10,10,NHS Dumfries and Galloway
+836,2018Q2,S08000017,Breast,25,25,NHS Dumfries and Galloway
+848,2018Q3,S08000017,Breast,1,1,NHS Dumfries and Galloway
+849,2018Q3,S08000017,Breast,25,24,NHS Dumfries and Galloway
+861,2018Q4,S08000017,Breast,1,1,NHS Dumfries and Galloway
+862,2018Q4,S08000017,Breast,35,35,NHS Dumfries and Galloway
+873,2019Q1,S08000017,Breast,1,1,NHS Dumfries and Galloway
+874,2019Q1,S08000017,Breast,21,21,NHS Dumfries and Galloway
+885,2019Q2,S08000017,Breast,5,5,NHS Dumfries and Galloway
+886,2019Q2,S08000017,Breast,24,24,NHS Dumfries and Galloway
+898,2019Q3,S08000017,Breast,2,2,NHS Dumfries and Galloway
+899,2019Q3,S08000017,Breast,27,27,NHS Dumfries and Galloway
+910,2019Q4,S08000017,Breast,27,27,NHS Dumfries and Galloway
+921,2020Q1,S08000017,Breast,6,6,NHS Dumfries and Galloway
+922,2020Q1,S08000017,Breast,21,21,NHS Dumfries and Galloway
+932,2020Q2,S08000017,Breast,22,22,NHS Dumfries and Galloway
+943,2020Q3,S08000017,Breast,20,20,NHS Dumfries and Galloway
+956,2020Q4,S08000017,Breast,1,0,NHS Dumfries and Galloway
+957,2020Q4,S08000017,Breast,23,23,NHS Dumfries and Galloway
+958,2020Q4,S08000017,Breast,1,1,NHS Dumfries and Galloway
+969,2021Q1,S08000017,Breast,3,3,NHS Dumfries and Galloway
+970,2021Q1,S08000017,Breast,24,24,NHS Dumfries and Galloway
+982,2021Q2,S08000017,Breast,4,4,NHS Dumfries and Galloway
+983,2021Q2,S08000017,Breast,28,28,NHS Dumfries and Galloway
+993,2021Q3,S08000017,Breast,7,7,NHS Dumfries and Galloway
+994,2021Q3,S08000017,Breast,22,22,NHS Dumfries and Galloway
+1006,2021Q4,S08000017,Breast,3,3,NHS Dumfries and Galloway
+1007,2021Q4,S08000017,Breast,20,20,NHS Dumfries and Galloway
+1018,2022Q1,S08000017,Breast,3,3,NHS Dumfries and Galloway
+1019,2022Q1,S08000017,Breast,28,28,NHS Dumfries and Galloway
+1029,2022Q2,S08000017,Breast,2,2,NHS Dumfries and Galloway
 1030,2022Q2,S08000017,Breast,26,26,NHS Dumfries and Galloway
-1040,2022Q3,S08000017,Breast,6,6,NHS Dumfries and Galloway
-1042,2022Q3,S08000017,Breast,21,21,NHS Dumfries and Galloway
-1055,2022Q4,S08000017,Breast,1,1,NHS Dumfries and Galloway
+1042,2022Q3,S08000017,Breast,6,6,NHS Dumfries and Galloway
+1043,2022Q3,S08000017,Breast,21,21,NHS Dumfries and Galloway
+1056,2022Q4,S08000017,Breast,1,1,NHS Dumfries and Galloway
 1057,2022Q4,S08000017,Breast,23,23,NHS Dumfries and Galloway
 1067,2023Q1,S08000017,Breast,24,24,NHS Dumfries and Galloway
 1077,2023Q2,S08000017,Breast,26,26,NHS Dumfries and Galloway
-1087,2023Q3,S08000017,Breast,4,4,NHS Dumfries and Galloway
+1088,2023Q3,S08000017,Breast,4,4,NHS Dumfries and Galloway
 1089,2023Q3,S08000017,Breast,34,34,NHS Dumfries and Galloway
-1100,2012Q1,S08000020,Breast,122,118,NHS Grampian
-1112,2012Q1,S08000020,Breast,1,1,NHS Grampian
-1117,2012Q1,S08000020,Breast,1,1,NHS Grampian
-1125,2012Q2,S08000020,Breast,99,99,NHS Grampian
-1137,2012Q2,S08000020,Breast,2,2,NHS Grampian
-1144,2012Q3,S08000020,Breast,119,119,NHS Grampian
-1164,2012Q4,S08000020,Breast,123,123,NHS Grampian
-1188,2013Q1,S08000020,Breast,102,102,NHS Grampian
-1198,2013Q1,S08000020,Breast,1,1,NHS Grampian
-1208,2013Q2,S08000020,Breast,107,107,NHS Grampian
-1227,2013Q3,S08000020,Breast,117,117,NHS Grampian
-1237,2013Q3,S08000020,Breast,1,1,NHS Grampian
-1240,2013Q3,S08000020,Breast,1,1,NHS Grampian
-1243,2013Q3,S08000020,Breast,2,2,NHS Grampian
-1249,2013Q4,S08000020,Breast,128,127,NHS Grampian
-1268,2014Q1,S08000020,Breast,113,110,NHS Grampian
-1280,2014Q1,S08000020,Breast,2,2,NHS Grampian
-1290,2014Q2,S08000020,Breast,117,107,NHS Grampian
-1313,2014Q3,S08000020,Breast,92,91,NHS Grampian
-1328,2014Q3,S08000020,Breast,1,1,NHS Grampian
-1340,2014Q4,S08000020,Breast,102,101,NHS Grampian
-1352,2014Q4,S08000020,Breast,1,1,NHS Grampian
-1355,2014Q4,S08000020,Breast,2,2,NHS Grampian
-1359,2015Q1,S08000020,Breast,88,88,NHS Grampian
-1371,2015Q1,S08000020,Breast,1,1,NHS Grampian
-1375,2015Q2,S08000020,Breast,118,114,NHS Grampian
-1388,2015Q2,S08000020,Breast,1,1,NHS Grampian
-1395,2015Q3,S08000020,Breast,130,121,NHS Grampian
-1418,2015Q4,S08000020,Breast,131,127,NHS Grampian
-1432,2015Q4,S08000020,Breast,1,1,NHS Grampian
-1437,2015Q4,S08000020,Breast,1,0,NHS Grampian
-1443,2016Q1,S08000020,Breast,113,113,NHS Grampian
-1457,2016Q1,S08000020,Breast,1,0,NHS Grampian
-1460,2016Q1,S08000020,Breast,1,1,NHS Grampian
-1467,2016Q2,S08000020,Breast,110,107,NHS Grampian
-1482,2016Q2,S08000020,Breast,3,3,NHS Grampian
-1484,2016Q3,S08000020,Breast,128,109,NHS Grampian
-1507,2016Q4,S08000020,Breast,131,120,NHS Grampian
-1517,2016Q4,S08000020,Breast,1,1,NHS Grampian
-1525,2016Q4,S08000020,Breast,1,1,NHS Grampian
-1531,2017Q1,S08000020,Breast,122,111,NHS Grampian
-1541,2017Q1,S08000020,Breast,1,1,NHS Grampian
-1558,2017Q2,S08000020,Breast,126,120,NHS Grampian
-1572,2017Q2,S08000020,Breast,1,1,NHS Grampian
-1582,2017Q3,S08000020,Breast,116,104,NHS Grampian
-1601,2017Q4,S08000020,Breast,127,114,NHS Grampian
-1625,2018Q1,S08000020,Breast,107,95,NHS Grampian
-1642,2018Q1,S08000020,Breast,3,3,NHS Grampian
-1647,2018Q2,S08000020,Breast,112,104,NHS Grampian
-1665,2018Q2,S08000020,Breast,1,1,NHS Grampian
-1675,2018Q3,S08000020,Breast,118,108,NHS Grampian
-1694,2018Q4,S08000020,Breast,113,108,NHS Grampian
-1704,2018Q4,S08000020,Breast,1,1,NHS Grampian
-1712,2018Q4,S08000020,Breast,1,1,NHS Grampian
-1719,2019Q1,S08000020,Breast,104,103,NHS Grampian
-1736,2019Q1,S08000020,Breast,1,1,NHS Grampian
-1744,2019Q2,S08000020,Breast,138,136,NHS Grampian
-1769,2019Q3,S08000020,Breast,119,116,NHS Grampian
-1793,2019Q4,S08000020,Breast,127,124,NHS Grampian
-1819,2020Q1,S08000020,Breast,125,121,NHS Grampian
-1829,2020Q1,S08000020,Breast,1,1,NHS Grampian
-1836,2020Q1,S08000020,Breast,1,1,NHS Grampian
-1844,2020Q2,S08000020,Breast,113,105,NHS Grampian
-1863,2020Q3,S08000020,Breast,77,75,NHS Grampian
-2067,2020Q4,S08000020,Breast,112,111,NHS Grampian
-2092,2021Q1,S08000020,Breast,104,96,NHS Grampian
-2120,2021Q2,S08000020,Breast,121,117,NHS Grampian
-2136,2021Q2,S08000020,Breast,1,1,NHS Grampian
-2152,2021Q3,S08000020,Breast,103,86,NHS Grampian
-2185,2021Q4,S08000020,Breast,156,119,NHS Grampian
-2210,2022Q1,S08000020,Breast,131,102,NHS Grampian
-2225,2022Q1,S08000020,Breast,1,1,NHS Grampian
-2232,2022Q1,S08000020,Breast,1,1,NHS Grampian
-2242,2022Q2,S08000020,Breast,130,119,NHS Grampian
-2269,2022Q3,S08000020,Breast,124,120,NHS Grampian
-2296,2022Q4,S08000020,Breast,131,130,NHS Grampian
-2314,2022Q4,S08000020,Breast,1,1,NHS Grampian
-2324,2023Q1,S08000020,Breast,109,103,NHS Grampian
-2352,2023Q2,S08000020,Breast,122,111,NHS Grampian
-2380,2023Q3,S08000020,Breast,134,116,NHS Grampian
-2410,2012Q1,S08000031,Breast,8,8,NHS Greater Glasgow and Clyde
-2421,2012Q1,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
-2432,2012Q1,S08000031,Breast,281,280,NHS Greater Glasgow and Clyde
-2442,2012Q1,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-2452,2012Q2,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
-2463,2012Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-2480,2012Q2,S08000031,Breast,317,316,NHS Greater Glasgow and Clyde
-2490,2012Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-2499,2012Q3,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-2508,2012Q3,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-2517,2012Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-2525,2012Q3,S08000031,Breast,290,288,NHS Greater Glasgow and Clyde
-2544,2012Q4,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
-2567,2012Q4,S08000031,Breast,369,367,NHS Greater Glasgow and Clyde
-2577,2012Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-2587,2013Q1,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
-2594,2013Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-2612,2013Q1,S08000031,Breast,313,305,NHS Greater Glasgow and Clyde
-2622,2013Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-2631,2013Q2,S08000031,Breast,5,5,NHS Greater Glasgow and Clyde
-2643,2013Q2,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
-2661,2013Q2,S08000031,Breast,298,294,NHS Greater Glasgow and Clyde
-2671,2013Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-2681,2013Q3,S08000031,Breast,4,2,NHS Greater Glasgow and Clyde
-2692,2013Q3,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-2707,2013Q3,S08000031,Breast,306,299,NHS Greater Glasgow and Clyde
-2717,2013Q3,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
-2726,2013Q4,S08000031,Breast,6,5,NHS Greater Glasgow and Clyde
-2735,2013Q4,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-2750,2013Q4,S08000031,Breast,359,356,NHS Greater Glasgow and Clyde
-2768,2014Q1,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-2780,2014Q1,S08000031,Breast,3,1,NHS Greater Glasgow and Clyde
-2795,2014Q1,S08000031,Breast,290,255,NHS Greater Glasgow and Clyde
-2805,2014Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-2814,2014Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-2825,2014Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-2841,2014Q2,S08000031,Breast,324,296,NHS Greater Glasgow and Clyde
-2851,2014Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-2861,2014Q3,S08000031,Breast,5,5,NHS Greater Glasgow and Clyde
-2872,2014Q3,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
-2888,2014Q3,S08000031,Breast,347,312,NHS Greater Glasgow and Clyde
-2898,2014Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-2908,2014Q4,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-2932,2014Q4,S08000031,Breast,340,333,NHS Greater Glasgow and Clyde
-2942,2014Q4,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-2951,2015Q1,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
-2962,2015Q1,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
-2977,2015Q1,S08000031,Breast,344,329,NHS Greater Glasgow and Clyde
-2996,2015Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3009,2015Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3027,2015Q2,S08000031,Breast,291,268,NHS Greater Glasgow and Clyde
-3037,2015Q2,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
-3066,2015Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3070,2015Q3,S08000031,Breast,327,298,NHS Greater Glasgow and Clyde
-3080,2015Q3,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
-3100,2015Q4,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-3116,2015Q4,S08000031,Breast,357,314,NHS Greater Glasgow and Clyde
-3126,2015Q4,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-3136,2016Q1,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
-3146,2016Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3158,2016Q1,S08000031,Breast,341,305,NHS Greater Glasgow and Clyde
-3168,2016Q1,S08000031,Breast,9,8,NHS Greater Glasgow and Clyde
-3178,2016Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-3206,2016Q2,S08000031,Breast,310,287,NHS Greater Glasgow and Clyde
-3216,2016Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-3253,2016Q3,S08000031,Breast,318,289,NHS Greater Glasgow and Clyde
-3263,2016Q3,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
-3273,2016Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3297,2016Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3300,2016Q4,S08000031,Breast,301,280,NHS Greater Glasgow and Clyde
-3310,2016Q4,S08000031,Breast,5,4,NHS Greater Glasgow and Clyde
-3318,2017Q1,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
-3327,2017Q1,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
-3329,2017Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3349,2017Q1,S08000031,Breast,311,290,NHS Greater Glasgow and Clyde
-3359,2017Q1,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-3368,2017Q2,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
-3394,2017Q2,S08000031,Breast,274,262,NHS Greater Glasgow and Clyde
-3404,2017Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-3413,2017Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3437,2017Q3,S08000031,Breast,296,275,NHS Greater Glasgow and Clyde
-3447,2017Q3,S08000031,Breast,8,7,NHS Greater Glasgow and Clyde
-3467,2017Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3481,2017Q4,S08000031,Breast,326,296,NHS Greater Glasgow and Clyde
-3491,2017Q4,S08000031,Breast,6,5,NHS Greater Glasgow and Clyde
-3501,2018Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3525,2018Q1,S08000031,Breast,297,259,NHS Greater Glasgow and Clyde
-3535,2018Q1,S08000031,Breast,8,8,NHS Greater Glasgow and Clyde
-3565,2018Q2,S08000031,Breast,343,304,NHS Greater Glasgow and Clyde
-3575,2018Q2,S08000031,Breast,8,8,NHS Greater Glasgow and Clyde
-3584,2018Q3,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
-3607,2018Q3,S08000031,Breast,350,316,NHS Greater Glasgow and Clyde
-3617,2018Q3,S08000031,Breast,9,7,NHS Greater Glasgow and Clyde
-3650,2018Q4,S08000031,Breast,346,310,NHS Greater Glasgow and Clyde
-3660,2018Q4,S08000031,Breast,3,2,NHS Greater Glasgow and Clyde
-3670,2019Q1,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
-3695,2019Q1,S08000031,Breast,379,322,NHS Greater Glasgow and Clyde
-3705,2019Q1,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
-3715,2019Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3727,2019Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-3740,2019Q2,S08000031,Breast,376,327,NHS Greater Glasgow and Clyde
-3750,2019Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-3760,2019Q3,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-3771,2019Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3784,2019Q3,S08000031,Breast,307,276,NHS Greater Glasgow and Clyde
-3794,2019Q3,S08000031,Breast,3,2,NHS Greater Glasgow and Clyde
-3803,2019Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3830,2019Q4,S08000031,Breast,341,317,NHS Greater Glasgow and Clyde
-3840,2019Q4,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-3849,2020Q1,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
-3874,2020Q1,S08000031,Breast,335,325,NHS Greater Glasgow and Clyde
-3884,2020Q1,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-3893,2020Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-3921,2020Q2,S08000031,Breast,172,170,NHS Greater Glasgow and Clyde
-3931,2020Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-3962,2020Q3,S08000031,Breast,226,225,NHS Greater Glasgow and Clyde
-3972,2020Q3,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-4261,2020Q4,S08000031,Breast,308,308,NHS Greater Glasgow and Clyde
-4296,2021Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-4313,2021Q1,S08000031,Breast,333,326,NHS Greater Glasgow and Clyde
-4323,2021Q1,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
-4341,2021Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-4360,2021Q2,S08000031,Breast,313,308,NHS Greater Glasgow and Clyde
-4370,2021Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-4385,2021Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-4405,2021Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-4411,2021Q3,S08000031,Breast,343,330,NHS Greater Glasgow and Clyde
-4421,2021Q3,S08000031,Breast,5,5,NHS Greater Glasgow and Clyde
-4458,2021Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-4467,2021Q4,S08000031,Breast,320,307,NHS Greater Glasgow and Clyde
-4513,2022Q1,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
-4522,2022Q1,S08000031,Breast,360,350,NHS Greater Glasgow and Clyde
-4552,2022Q2,S08000031,Breast,6,6,NHS Greater Glasgow and Clyde
-4580,2022Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-4582,2022Q2,S08000031,Breast,346,334,NHS Greater Glasgow and Clyde
-4593,2022Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-4603,2022Q3,S08000031,Breast,6,5,NHS Greater Glasgow and Clyde
-4619,2022Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-4642,2022Q3,S08000031,Breast,334,319,NHS Greater Glasgow and Clyde
-4662,2022Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-4687,2022Q4,S08000031,Breast,318,310,NHS Greater Glasgow and Clyde
-4698,2022Q4,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-4709,2023Q1,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-4739,2023Q1,S08000031,Breast,316,303,NHS Greater Glasgow and Clyde
-4750,2023Q1,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
-4760,2023Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-4789,2023Q2,S08000031,Breast,339,316,NHS Greater Glasgow and Clyde
-4800,2023Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
-4810,2023Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
-4845,2023Q3,S08000031,Breast,316,308,NHS Greater Glasgow and Clyde
-4856,2023Q3,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
-4866,2012Q1,S08000016,Breast,16,16,NHS Borders
-4876,2012Q1,S08000016,Breast,4,4,NHS Borders
-4877,2012Q2,S08000016,Breast,12,12,NHS Borders
-4887,2012Q2,S08000016,Breast,1,1,NHS Borders
-4888,2012Q3,S08000016,Breast,16,16,NHS Borders
-4898,2012Q4,S08000016,Breast,23,23,NHS Borders
-4907,2013Q1,S08000016,Breast,23,23,NHS Borders
-4916,2013Q2,S08000016,Breast,12,12,NHS Borders
-4926,2013Q3,S08000016,Breast,21,21,NHS Borders
-4935,2013Q4,S08000016,Breast,23,23,NHS Borders
-4945,2014Q1,S08000016,Breast,12,12,NHS Borders
-4954,2014Q2,S08000016,Breast,19,19,NHS Borders
-4964,2014Q3,S08000016,Breast,10,10,NHS Borders
-4972,2014Q3,S08000016,Breast,4,4,NHS Borders
-4973,2014Q4,S08000016,Breast,20,20,NHS Borders
-4982,2014Q4,S08000016,Breast,4,4,NHS Borders
-4983,2015Q1,S08000016,Breast,14,14,NHS Borders
-4992,2015Q1,S08000016,Breast,4,4,NHS Borders
-4993,2015Q2,S08000016,Breast,6,6,NHS Borders
-5002,2015Q2,S08000016,Breast,1,1,NHS Borders
-5003,2015Q3,S08000016,Breast,16,16,NHS Borders
-5012,2015Q4,S08000016,Breast,18,18,NHS Borders
-5022,2016Q1,S08000016,Breast,18,18,NHS Borders
-5030,2016Q1,S08000016,Breast,1,1,NHS Borders
-5031,2016Q2,S08000016,Breast,21,21,NHS Borders
-5040,2016Q3,S08000016,Breast,16,16,NHS Borders
-5049,2016Q3,S08000016,Breast,1,1,NHS Borders
-5050,2016Q4,S08000016,Breast,12,12,NHS Borders
-5060,2016Q4,S08000016,Breast,2,2,NHS Borders
-5061,2017Q1,S08000016,Breast,13,13,NHS Borders
-5071,2017Q1,S08000016,Breast,4,4,NHS Borders
-5072,2017Q2,S08000016,Breast,19,19,NHS Borders
-5081,2017Q2,S08000016,Breast,2,2,NHS Borders
-5082,2017Q3,S08000016,Breast,17,17,NHS Borders
-5091,2017Q4,S08000016,Breast,17,17,NHS Borders
-5100,2017Q4,S08000016,Breast,1,1,NHS Borders
-5102,2018Q1,S08000016,Breast,13,13,NHS Borders
-5112,2018Q2,S08000016,Breast,17,17,NHS Borders
-5121,2018Q3,S08000016,Breast,19,19,NHS Borders
-5131,2018Q4,S08000016,Breast,22,22,NHS Borders
-5139,2019Q1,S08000016,Breast,15,15,NHS Borders
-5149,2019Q2,S08000016,Breast,14,14,NHS Borders
-5159,2019Q3,S08000016,Breast,16,16,NHS Borders
-5167,2019Q4,S08000016,Breast,17,17,NHS Borders
-5176,2019Q4,S08000016,Breast,3,3,NHS Borders
-5177,2020Q1,S08000016,Breast,17,17,NHS Borders
-5187,2020Q1,S08000016,Breast,2,2,NHS Borders
-5188,2020Q2,S08000016,Breast,21,21,NHS Borders
-5197,2020Q3,S08000016,Breast,18,18,NHS Borders
-5256,2020Q4,S08000016,Breast,13,13,NHS Borders
-5265,2020Q4,S08000016,Breast,2,2,NHS Borders
-5268,2021Q1,S08000016,Breast,18,18,NHS Borders
-5277,2021Q2,S08000016,Breast,12,12,NHS Borders
-5286,2021Q2,S08000016,Breast,5,5,NHS Borders
-5289,2021Q3,S08000016,Breast,22,22,NHS Borders
-5298,2021Q3,S08000016,Breast,4,4,NHS Borders
-5301,2021Q4,S08000016,Breast,19,19,NHS Borders
-5311,2021Q4,S08000016,Breast,1,1,NHS Borders
-5314,2022Q1,S08000016,Breast,21,21,NHS Borders
+1105,2012Q1,S08000020,Breast,122,118,NHS Grampian
+1106,2012Q1,S08000020,Breast,1,1,NHS Grampian
+1107,2012Q1,S08000020,Breast,1,1,NHS Grampian
+1135,2012Q2,S08000020,Breast,99,99,NHS Grampian
+1136,2012Q2,S08000020,Breast,2,2,NHS Grampian
+1158,2012Q3,S08000020,Breast,119,119,NHS Grampian
+1183,2012Q4,S08000020,Breast,123,123,NHS Grampian
+1211,2013Q1,S08000020,Breast,102,102,NHS Grampian
+1212,2013Q1,S08000020,Breast,1,1,NHS Grampian
+1235,2013Q2,S08000020,Breast,107,107,NHS Grampian
+1258,2013Q3,S08000020,Breast,117,117,NHS Grampian
+1259,2013Q3,S08000020,Breast,1,1,NHS Grampian
+1260,2013Q3,S08000020,Breast,1,1,NHS Grampian
+1261,2013Q3,S08000020,Breast,2,2,NHS Grampian
+1284,2013Q4,S08000020,Breast,128,127,NHS Grampian
+1308,2014Q1,S08000020,Breast,113,110,NHS Grampian
+1309,2014Q1,S08000020,Breast,2,2,NHS Grampian
+1335,2014Q2,S08000020,Breast,117,107,NHS Grampian
+1365,2014Q3,S08000020,Breast,92,91,NHS Grampian
+1366,2014Q3,S08000020,Breast,1,1,NHS Grampian
+1396,2014Q4,S08000020,Breast,102,101,NHS Grampian
+1397,2014Q4,S08000020,Breast,1,1,NHS Grampian
+1398,2014Q4,S08000020,Breast,2,2,NHS Grampian
+1419,2015Q1,S08000020,Breast,88,88,NHS Grampian
+1420,2015Q1,S08000020,Breast,1,1,NHS Grampian
+1440,2015Q2,S08000020,Breast,118,114,NHS Grampian
+1441,2015Q2,S08000020,Breast,1,1,NHS Grampian
+1465,2015Q3,S08000020,Breast,130,121,NHS Grampian
+1492,2015Q4,S08000020,Breast,131,127,NHS Grampian
+1493,2015Q4,S08000020,Breast,1,1,NHS Grampian
+1494,2015Q4,S08000020,Breast,1,0,NHS Grampian
+1522,2016Q1,S08000020,Breast,113,113,NHS Grampian
+1523,2016Q1,S08000020,Breast,1,0,NHS Grampian
+1524,2016Q1,S08000020,Breast,1,1,NHS Grampian
+1550,2016Q2,S08000020,Breast,110,107,NHS Grampian
+1551,2016Q2,S08000020,Breast,3,3,NHS Grampian
+1572,2016Q3,S08000020,Breast,128,109,NHS Grampian
+1601,2016Q4,S08000020,Breast,131,120,NHS Grampian
+1602,2016Q4,S08000020,Breast,1,1,NHS Grampian
+1603,2016Q4,S08000020,Breast,1,1,NHS Grampian
+1631,2017Q1,S08000020,Breast,122,111,NHS Grampian
+1632,2017Q1,S08000020,Breast,1,1,NHS Grampian
+1664,2017Q2,S08000020,Breast,126,120,NHS Grampian
+1665,2017Q2,S08000020,Breast,1,1,NHS Grampian
+1693,2017Q3,S08000020,Breast,116,104,NHS Grampian
+1718,2017Q4,S08000020,Breast,127,114,NHS Grampian
+1748,2018Q1,S08000020,Breast,107,95,NHS Grampian
+1749,2018Q1,S08000020,Breast,3,3,NHS Grampian
+1775,2018Q2,S08000020,Breast,112,104,NHS Grampian
+1776,2018Q2,S08000020,Breast,1,1,NHS Grampian
+1807,2018Q3,S08000020,Breast,118,108,NHS Grampian
+1831,2018Q4,S08000020,Breast,113,108,NHS Grampian
+1832,2018Q4,S08000020,Breast,1,1,NHS Grampian
+1833,2018Q4,S08000020,Breast,1,1,NHS Grampian
+1862,2019Q1,S08000020,Breast,104,103,NHS Grampian
+1863,2019Q1,S08000020,Breast,1,1,NHS Grampian
+1893,2019Q2,S08000020,Breast,138,136,NHS Grampian
+1924,2019Q3,S08000020,Breast,119,116,NHS Grampian
+1955,2019Q4,S08000020,Breast,127,124,NHS Grampian
+1987,2020Q1,S08000020,Breast,125,121,NHS Grampian
+1988,2020Q1,S08000020,Breast,1,1,NHS Grampian
+1989,2020Q1,S08000020,Breast,1,1,NHS Grampian
+2016,2020Q2,S08000020,Breast,113,105,NHS Grampian
+2040,2020Q3,S08000020,Breast,77,75,NHS Grampian
+2072,2020Q4,S08000020,Breast,112,111,NHS Grampian
+2097,2021Q1,S08000020,Breast,104,96,NHS Grampian
+2125,2021Q2,S08000020,Breast,121,117,NHS Grampian
+2126,2021Q2,S08000020,Breast,1,1,NHS Grampian
+2158,2021Q3,S08000020,Breast,103,86,NHS Grampian
+2190,2021Q4,S08000020,Breast,156,119,NHS Grampian
+2216,2022Q1,S08000020,Breast,131,102,NHS Grampian
+2217,2022Q1,S08000020,Breast,1,1,NHS Grampian
+2218,2022Q1,S08000020,Breast,1,1,NHS Grampian
+2246,2022Q2,S08000020,Breast,130,119,NHS Grampian
+2274,2022Q3,S08000020,Breast,124,120,NHS Grampian
+2300,2022Q4,S08000020,Breast,131,130,NHS Grampian
+2301,2022Q4,S08000020,Breast,1,1,NHS Grampian
+2329,2023Q1,S08000020,Breast,109,103,NHS Grampian
+2357,2023Q2,S08000020,Breast,122,111,NHS Grampian
+2385,2023Q3,S08000020,Breast,134,116,NHS Grampian
+2416,2012Q1,S08000031,Breast,8,8,NHS Greater Glasgow and Clyde
+2417,2012Q1,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
+2418,2012Q1,S08000031,Breast,281,280,NHS Greater Glasgow and Clyde
+2419,2012Q1,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+2466,2012Q2,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
+2467,2012Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+2468,2012Q2,S08000031,Breast,317,316,NHS Greater Glasgow and Clyde
+2469,2012Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+2520,2012Q3,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+2521,2012Q3,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+2522,2012Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+2523,2012Q3,S08000031,Breast,290,288,NHS Greater Glasgow and Clyde
+2572,2012Q4,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
+2573,2012Q4,S08000031,Breast,369,367,NHS Greater Glasgow and Clyde
+2574,2012Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+2623,2013Q1,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
+2624,2013Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+2625,2013Q1,S08000031,Breast,313,305,NHS Greater Glasgow and Clyde
+2626,2013Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+2674,2013Q2,S08000031,Breast,5,5,NHS Greater Glasgow and Clyde
+2675,2013Q2,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
+2676,2013Q2,S08000031,Breast,298,294,NHS Greater Glasgow and Clyde
+2677,2013Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+2731,2013Q3,S08000031,Breast,4,2,NHS Greater Glasgow and Clyde
+2732,2013Q3,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+2733,2013Q3,S08000031,Breast,306,299,NHS Greater Glasgow and Clyde
+2734,2013Q3,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
+2782,2013Q4,S08000031,Breast,6,5,NHS Greater Glasgow and Clyde
+2783,2013Q4,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+2784,2013Q4,S08000031,Breast,359,356,NHS Greater Glasgow and Clyde
+2832,2014Q1,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+2833,2014Q1,S08000031,Breast,3,1,NHS Greater Glasgow and Clyde
+2834,2014Q1,S08000031,Breast,290,255,NHS Greater Glasgow and Clyde
+2835,2014Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+2886,2014Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+2887,2014Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+2888,2014Q2,S08000031,Breast,324,296,NHS Greater Glasgow and Clyde
+2889,2014Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+2940,2014Q3,S08000031,Breast,5,5,NHS Greater Glasgow and Clyde
+2941,2014Q3,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
+2942,2014Q3,S08000031,Breast,347,312,NHS Greater Glasgow and Clyde
+2943,2014Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+2994,2014Q4,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+2995,2014Q4,S08000031,Breast,340,333,NHS Greater Glasgow and Clyde
+2996,2014Q4,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+3045,2015Q1,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
+3046,2015Q1,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
+3047,2015Q1,S08000031,Breast,344,329,NHS Greater Glasgow and Clyde
+3097,2015Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3098,2015Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3099,2015Q2,S08000031,Breast,291,268,NHS Greater Glasgow and Clyde
+3100,2015Q2,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
+3155,2015Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3156,2015Q3,S08000031,Breast,327,298,NHS Greater Glasgow and Clyde
+3157,2015Q3,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
+3204,2015Q4,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+3205,2015Q4,S08000031,Breast,357,314,NHS Greater Glasgow and Clyde
+3206,2015Q4,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+3257,2016Q1,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
+3258,2016Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3259,2016Q1,S08000031,Breast,341,305,NHS Greater Glasgow and Clyde
+3260,2016Q1,S08000031,Breast,9,8,NHS Greater Glasgow and Clyde
+3307,2016Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+3308,2016Q2,S08000031,Breast,310,287,NHS Greater Glasgow and Clyde
+3309,2016Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+3362,2016Q3,S08000031,Breast,318,289,NHS Greater Glasgow and Clyde
+3363,2016Q3,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
+3417,2016Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3418,2016Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3419,2016Q4,S08000031,Breast,301,280,NHS Greater Glasgow and Clyde
+3420,2016Q4,S08000031,Breast,5,4,NHS Greater Glasgow and Clyde
+3471,2017Q1,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
+3472,2017Q1,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
+3473,2017Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3474,2017Q1,S08000031,Breast,311,290,NHS Greater Glasgow and Clyde
+3475,2017Q1,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+3528,2017Q2,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
+3529,2017Q2,S08000031,Breast,274,262,NHS Greater Glasgow and Clyde
+3530,2017Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+3580,2017Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3581,2017Q3,S08000031,Breast,296,275,NHS Greater Glasgow and Clyde
+3582,2017Q3,S08000031,Breast,8,7,NHS Greater Glasgow and Clyde
+3630,2017Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3631,2017Q4,S08000031,Breast,326,296,NHS Greater Glasgow and Clyde
+3632,2017Q4,S08000031,Breast,6,5,NHS Greater Glasgow and Clyde
+3683,2018Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3684,2018Q1,S08000031,Breast,297,259,NHS Greater Glasgow and Clyde
+3685,2018Q1,S08000031,Breast,8,8,NHS Greater Glasgow and Clyde
+3734,2018Q2,S08000031,Breast,343,304,NHS Greater Glasgow and Clyde
+3735,2018Q2,S08000031,Breast,8,8,NHS Greater Glasgow and Clyde
+3780,2018Q3,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
+3781,2018Q3,S08000031,Breast,350,316,NHS Greater Glasgow and Clyde
+3782,2018Q3,S08000031,Breast,9,7,NHS Greater Glasgow and Clyde
+3830,2018Q4,S08000031,Breast,346,310,NHS Greater Glasgow and Clyde
+3831,2018Q4,S08000031,Breast,3,2,NHS Greater Glasgow and Clyde
+3881,2019Q1,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
+3882,2019Q1,S08000031,Breast,379,322,NHS Greater Glasgow and Clyde
+3883,2019Q1,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
+3933,2019Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3934,2019Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+3935,2019Q2,S08000031,Breast,376,327,NHS Greater Glasgow and Clyde
+3936,2019Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+3984,2019Q3,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+3985,2019Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+3986,2019Q3,S08000031,Breast,307,276,NHS Greater Glasgow and Clyde
+3987,2019Q3,S08000031,Breast,3,2,NHS Greater Glasgow and Clyde
+4035,2019Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4036,2019Q4,S08000031,Breast,341,317,NHS Greater Glasgow and Clyde
+4037,2019Q4,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+4088,2020Q1,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
+4089,2020Q1,S08000031,Breast,335,325,NHS Greater Glasgow and Clyde
+4090,2020Q1,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+4139,2020Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+4140,2020Q2,S08000031,Breast,172,170,NHS Greater Glasgow and Clyde
+4141,2020Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4193,2020Q3,S08000031,Breast,226,225,NHS Greater Glasgow and Clyde
+4194,2020Q3,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+4242,2020Q4,S08000031,Breast,308,308,NHS Greater Glasgow and Clyde
+4294,2021Q1,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4295,2021Q1,S08000031,Breast,333,326,NHS Greater Glasgow and Clyde
+4296,2021Q1,S08000031,Breast,4,4,NHS Greater Glasgow and Clyde
+4347,2021Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4348,2021Q2,S08000031,Breast,313,308,NHS Greater Glasgow and Clyde
+4349,2021Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+4393,2021Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4394,2021Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4395,2021Q3,S08000031,Breast,343,330,NHS Greater Glasgow and Clyde
+4396,2021Q3,S08000031,Breast,5,5,NHS Greater Glasgow and Clyde
+4447,2021Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4448,2021Q4,S08000031,Breast,320,307,NHS Greater Glasgow and Clyde
+4504,2022Q1,S08000031,Breast,1,0,NHS Greater Glasgow and Clyde
+4505,2022Q1,S08000031,Breast,360,350,NHS Greater Glasgow and Clyde
+4559,2022Q2,S08000031,Breast,6,6,NHS Greater Glasgow and Clyde
+4560,2022Q2,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4561,2022Q2,S08000031,Breast,346,334,NHS Greater Glasgow and Clyde
+4562,2022Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+4611,2022Q3,S08000031,Breast,6,5,NHS Greater Glasgow and Clyde
+4612,2022Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4613,2022Q3,S08000031,Breast,334,319,NHS Greater Glasgow and Clyde
+4669,2022Q4,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4670,2022Q4,S08000031,Breast,318,310,NHS Greater Glasgow and Clyde
+4671,2022Q4,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+4715,2023Q1,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+4716,2023Q1,S08000031,Breast,316,303,NHS Greater Glasgow and Clyde
+4717,2023Q1,S08000031,Breast,2,1,NHS Greater Glasgow and Clyde
+4767,2023Q2,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+4768,2023Q2,S08000031,Breast,339,316,NHS Greater Glasgow and Clyde
+4769,2023Q2,S08000031,Breast,3,3,NHS Greater Glasgow and Clyde
+4817,2023Q3,S08000031,Breast,1,1,NHS Greater Glasgow and Clyde
+4818,2023Q3,S08000031,Breast,316,308,NHS Greater Glasgow and Clyde
+4819,2023Q3,S08000031,Breast,2,2,NHS Greater Glasgow and Clyde
+4868,2012Q1,S08000016,Breast,16,16,NHS Borders
+4869,2012Q1,S08000016,Breast,4,4,NHS Borders
+4881,2012Q2,S08000016,Breast,12,12,NHS Borders
+4882,2012Q2,S08000016,Breast,1,1,NHS Borders
+4893,2012Q3,S08000016,Breast,16,16,NHS Borders
+4904,2012Q4,S08000016,Breast,23,23,NHS Borders
+4914,2013Q1,S08000016,Breast,23,23,NHS Borders
+4925,2013Q2,S08000016,Breast,12,12,NHS Borders
+4936,2013Q3,S08000016,Breast,21,21,NHS Borders
+4946,2013Q4,S08000016,Breast,23,23,NHS Borders
+4957,2014Q1,S08000016,Breast,12,12,NHS Borders
+4967,2014Q2,S08000016,Breast,19,19,NHS Borders
+4979,2014Q3,S08000016,Breast,10,10,NHS Borders
+4980,2014Q3,S08000016,Breast,4,4,NHS Borders
+4990,2014Q4,S08000016,Breast,20,20,NHS Borders
+4991,2014Q4,S08000016,Breast,4,4,NHS Borders
+5002,2015Q1,S08000016,Breast,14,14,NHS Borders
+5003,2015Q1,S08000016,Breast,4,4,NHS Borders
+5014,2015Q2,S08000016,Breast,6,6,NHS Borders
+5015,2015Q2,S08000016,Breast,1,1,NHS Borders
+5025,2015Q3,S08000016,Breast,16,16,NHS Borders
+5035,2015Q4,S08000016,Breast,18,18,NHS Borders
+5047,2016Q1,S08000016,Breast,18,18,NHS Borders
+5048,2016Q1,S08000016,Breast,1,1,NHS Borders
+5057,2016Q2,S08000016,Breast,21,21,NHS Borders
+5068,2016Q3,S08000016,Breast,16,16,NHS Borders
+5069,2016Q3,S08000016,Breast,1,1,NHS Borders
+5080,2016Q4,S08000016,Breast,12,12,NHS Borders
+5081,2016Q4,S08000016,Breast,2,2,NHS Borders
+5093,2017Q1,S08000016,Breast,13,13,NHS Borders
+5094,2017Q1,S08000016,Breast,4,4,NHS Borders
+5106,2017Q2,S08000016,Breast,19,19,NHS Borders
+5107,2017Q2,S08000016,Breast,2,2,NHS Borders
+5117,2017Q3,S08000016,Breast,17,17,NHS Borders
+5128,2017Q4,S08000016,Breast,17,17,NHS Borders
+5129,2017Q4,S08000016,Breast,1,1,NHS Borders
+5140,2018Q1,S08000016,Breast,13,13,NHS Borders
+5151,2018Q2,S08000016,Breast,17,17,NHS Borders
+5161,2018Q3,S08000016,Breast,19,19,NHS Borders
+5172,2018Q4,S08000016,Breast,22,22,NHS Borders
+5181,2019Q1,S08000016,Breast,15,15,NHS Borders
+5192,2019Q2,S08000016,Breast,14,14,NHS Borders
+5203,2019Q3,S08000016,Breast,16,16,NHS Borders
+5213,2019Q4,S08000016,Breast,17,17,NHS Borders
+5214,2019Q4,S08000016,Breast,3,3,NHS Borders
+5225,2020Q1,S08000016,Breast,17,17,NHS Borders
+5226,2020Q1,S08000016,Breast,2,2,NHS Borders
+5237,2020Q2,S08000016,Breast,21,21,NHS Borders
+5247,2020Q3,S08000016,Breast,18,18,NHS Borders
+5258,2020Q4,S08000016,Breast,13,13,NHS Borders
+5259,2020Q4,S08000016,Breast,2,2,NHS Borders
+5269,2021Q1,S08000016,Breast,18,18,NHS Borders
+5279,2021Q2,S08000016,Breast,12,12,NHS Borders
+5280,2021Q2,S08000016,Breast,5,5,NHS Borders
+5291,2021Q3,S08000016,Breast,22,22,NHS Borders
+5292,2021Q3,S08000016,Breast,4,4,NHS Borders
+5303,2021Q4,S08000016,Breast,19,19,NHS Borders
+5304,2021Q4,S08000016,Breast,1,1,NHS Borders
+5315,2022Q1,S08000016,Breast,21,21,NHS Borders
 5325,2022Q2,S08000016,Breast,22,22,NHS Borders
-5335,2022Q3,S08000016,Breast,21,21,NHS Borders
-5346,2022Q3,S08000016,Breast,1,1,NHS Borders
-5348,2022Q4,S08000016,Breast,21,20,NHS Borders
-5359,2022Q4,S08000016,Breast,7,6,NHS Borders
-5361,2023Q1,S08000016,Breast,19,19,NHS Borders
-5372,2023Q1,S08000016,Breast,7,6,NHS Borders
-5374,2023Q2,S08000016,Breast,17,17,NHS Borders
-5384,2023Q2,S08000016,Breast,9,5,NHS Borders
-5386,2023Q3,S08000016,Breast,27,27,NHS Borders
-5396,2023Q3,S08000016,Breast,1,0,NHS Borders
-5397,2012Q1,S08000024,Breast,1,1,NHS Lothian
-5405,2012Q1,S08000024,Breast,3,3,NHS Lothian
-5415,2012Q1,S08000024,Breast,1,1,NHS Lothian
-5418,2012Q1,S08000024,Breast,210,210,NHS Lothian
-5428,2012Q1,S08000024,Breast,2,2,NHS Lothian
-5456,2012Q2,S08000024,Breast,201,201,NHS Lothian
-5479,2012Q3,S08000024,Breast,1,1,NHS Lothian
-5498,2012Q3,S08000024,Breast,174,174,NHS Lothian
-5508,2012Q3,S08000024,Breast,3,3,NHS Lothian
-5520,2012Q4,S08000024,Breast,1,1,NHS Lothian
-5528,2012Q4,S08000024,Breast,2,2,NHS Lothian
-5536,2012Q4,S08000024,Breast,1,1,NHS Lothian
-5538,2012Q4,S08000024,Breast,206,206,NHS Lothian
-5571,2013Q1,S08000024,Breast,1,1,NHS Lothian
-5580,2013Q1,S08000024,Breast,1,1,NHS Lothian
-5582,2013Q1,S08000024,Breast,172,172,NHS Lothian
-5592,2013Q1,S08000024,Breast,1,1,NHS Lothian
-5603,2013Q2,S08000024,Breast,1,1,NHS Lothian
-5612,2013Q2,S08000024,Breast,1,1,NHS Lothian
-5623,2013Q2,S08000024,Breast,217,217,NHS Lothian
-5634,2013Q2,S08000024,Breast,1,1,NHS Lothian
-5648,2013Q3,S08000024,Breast,2,2,NHS Lothian
-5654,2013Q3,S08000024,Breast,1,1,NHS Lothian
-5667,2013Q3,S08000024,Breast,238,238,NHS Lothian
-5695,2013Q4,S08000024,Breast,1,1,NHS Lothian
-5707,2013Q4,S08000024,Breast,223,223,NHS Lothian
-5717,2013Q4,S08000024,Breast,1,1,NHS Lothian
-5730,2014Q1,S08000024,Breast,1,1,NHS Lothian
-5737,2014Q1,S08000024,Breast,1,1,NHS Lothian
-5747,2014Q1,S08000024,Breast,182,182,NHS Lothian
-5771,2014Q2,S08000024,Breast,1,1,NHS Lothian
-5788,2014Q2,S08000024,Breast,229,229,NHS Lothian
-5832,2014Q3,S08000024,Breast,218,218,NHS Lothian
-5851,2014Q3,S08000024,Breast,2,2,NHS Lothian
-5854,2014Q4,S08000024,Breast,2,2,NHS Lothian
-5856,2014Q4,S08000024,Breast,2,2,NHS Lothian
-5863,2014Q4,S08000024,Breast,1,1,NHS Lothian
-5870,2014Q4,S08000024,Breast,224,224,NHS Lothian
-5880,2014Q4,S08000024,Breast,2,2,NHS Lothian
-5893,2015Q1,S08000024,Breast,1,1,NHS Lothian
-5900,2015Q1,S08000024,Breast,1,1,NHS Lothian
-5910,2015Q1,S08000024,Breast,225,225,NHS Lothian
-5920,2015Q1,S08000024,Breast,2,2,NHS Lothian
-5933,2015Q2,S08000024,Breast,1,1,NHS Lothian
-5935,2015Q2,S08000024,Breast,1,1,NHS Lothian
-5942,2015Q2,S08000024,Breast,2,2,NHS Lothian
-5952,2015Q2,S08000024,Breast,240,240,NHS Lothian
-5976,2015Q3,S08000024,Breast,2,2,NHS Lothian
-5990,2015Q3,S08000024,Breast,236,236,NHS Lothian
-6000,2015Q3,S08000024,Breast,1,1,NHS Lothian
-6018,2015Q4,S08000024,Breast,2,2,NHS Lothian
-6027,2015Q4,S08000024,Breast,1,1,NHS Lothian
-6029,2015Q4,S08000024,Breast,204,204,NHS Lothian
-6039,2015Q4,S08000024,Breast,1,1,NHS Lothian
-6060,2016Q1,S08000024,Breast,1,1,NHS Lothian
-6062,2016Q1,S08000024,Breast,1,1,NHS Lothian
-6065,2016Q1,S08000024,Breast,184,184,NHS Lothian
-6085,2016Q2,S08000024,Breast,1,1,NHS Lothian
-6092,2016Q2,S08000024,Breast,2,2,NHS Lothian
-6100,2016Q2,S08000024,Breast,1,1,NHS Lothian
-6104,2016Q2,S08000024,Breast,213,213,NHS Lothian
-6141,2016Q3,S08000024,Breast,1,1,NHS Lothian
-6144,2016Q3,S08000024,Breast,207,207,NHS Lothian
-6167,2016Q4,S08000024,Breast,1,1,NHS Lothian
-6174,2016Q4,S08000024,Breast,1,1,NHS Lothian
-6181,2016Q4,S08000024,Breast,1,1,NHS Lothian
-6184,2016Q4,S08000024,Breast,215,215,NHS Lothian
-6194,2016Q4,S08000024,Breast,2,2,NHS Lothian
-6206,2016Q4,S08000024,Breast,1,1,NHS Lothian
-6224,2017Q1,S08000024,Breast,195,194,NHS Lothian
-6234,2017Q1,S08000024,Breast,3,3,NHS Lothian
-6246,2017Q2,S08000024,Breast,1,1,NHS Lothian
-6265,2017Q2,S08000024,Breast,240,239,NHS Lothian
-6285,2017Q2,S08000024,Breast,1,1,NHS Lothian
-6294,2017Q3,S08000024,Breast,1,1,NHS Lothian
-6304,2017Q3,S08000024,Breast,203,203,NHS Lothian
-6314,2017Q3,S08000024,Breast,1,1,NHS Lothian
-6346,2017Q4,S08000024,Breast,232,231,NHS Lothian
-6356,2017Q4,S08000024,Breast,1,1,NHS Lothian
-6369,2018Q1,S08000024,Breast,1,1,NHS Lothian
-6370,2018Q1,S08000024,Breast,1,1,NHS Lothian
-6388,2018Q1,S08000024,Breast,175,174,NHS Lothian
-6407,2018Q2,S08000024,Breast,2,2,NHS Lothian
-6424,2018Q2,S08000024,Breast,218,217,NHS Lothian
-6462,2018Q3,S08000024,Breast,1,1,NHS Lothian
-6464,2018Q3,S08000024,Breast,255,252,NHS Lothian
-6474,2018Q3,S08000024,Breast,1,1,NHS Lothian
-6486,2018Q4,S08000024,Breast,1,1,NHS Lothian
-6494,2018Q4,S08000024,Breast,3,3,NHS Lothian
-6505,2018Q4,S08000024,Breast,240,239,NHS Lothian
-6515,2018Q4,S08000024,Breast,1,1,NHS Lothian
-6525,2019Q1,S08000024,Breast,1,1,NHS Lothian
-6532,2019Q1,S08000024,Breast,1,1,NHS Lothian
-6545,2019Q1,S08000024,Breast,216,215,NHS Lothian
-6555,2019Q1,S08000024,Breast,4,3,NHS Lothian
-6584,2019Q2,S08000024,Breast,232,216,NHS Lothian
-6594,2019Q2,S08000024,Breast,1,1,NHS Lothian
-6624,2019Q3,S08000024,Breast,1,1,NHS Lothian
-6627,2019Q3,S08000024,Breast,212,211,NHS Lothian
-6637,2019Q3,S08000024,Breast,1,1,NHS Lothian
-6648,2019Q3,S08000024,Breast,1,1,NHS Lothian
-6652,2019Q4,S08000024,Breast,1,0,NHS Lothian
-6659,2019Q4,S08000024,Breast,1,1,NHS Lothian
-6669,2019Q4,S08000024,Breast,1,1,NHS Lothian
-6671,2019Q4,S08000024,Breast,236,232,NHS Lothian
-6681,2019Q4,S08000024,Breast,3,3,NHS Lothian
-6709,2020Q1,S08000024,Breast,1,1,NHS Lothian
-6710,2020Q1,S08000024,Breast,232,217,NHS Lothian
-6748,2020Q2,S08000024,Breast,170,170,NHS Lothian
-6776,2020Q3,S08000024,Breast,1,1,NHS Lothian
-6788,2020Q3,S08000024,Breast,148,148,NHS Lothian
-7145,2020Q4,S08000024,Breast,1,1,NHS Lothian
-7153,2020Q4,S08000024,Breast,1,1,NHS Lothian
-7163,2020Q4,S08000024,Breast,1,0,NHS Lothian
-7164,2020Q4,S08000024,Breast,199,199,NHS Lothian
-7175,2020Q4,S08000024,Breast,1,1,NHS Lothian
-7215,2021Q1,S08000024,Breast,220,220,NHS Lothian
-7244,2021Q2,S08000024,Breast,1,1,NHS Lothian
-7261,2021Q2,S08000024,Breast,234,234,NHS Lothian
-7300,2021Q3,S08000024,Breast,2,2,NHS Lothian
-7310,2021Q3,S08000024,Breast,1,1,NHS Lothian
-7313,2021Q3,S08000024,Breast,249,249,NHS Lothian
-7345,2021Q4,S08000024,Breast,1,1,NHS Lothian
-7353,2021Q4,S08000024,Breast,1,1,NHS Lothian
-7365,2021Q4,S08000024,Breast,285,285,NHS Lothian
-7375,2021Q4,S08000024,Breast,3,3,NHS Lothian
-7397,2022Q1,S08000024,Breast,1,1,NHS Lothian
-7412,2022Q1,S08000024,Breast,206,205,NHS Lothian
-7423,2022Q1,S08000024,Breast,1,1,NHS Lothian
-7448,2022Q2,S08000024,Breast,1,1,NHS Lothian
-7470,2022Q2,S08000024,Breast,2,1,NHS Lothian
-7474,2022Q2,S08000024,Breast,207,206,NHS Lothian
-7487,2022Q2,S08000024,Breast,2,2,NHS Lothian
-7500,2022Q3,S08000024,Breast,2,2,NHS Lothian
+5336,2022Q3,S08000016,Breast,21,21,NHS Borders
+5337,2022Q3,S08000016,Breast,1,1,NHS Borders
+5349,2022Q4,S08000016,Breast,21,20,NHS Borders
+5350,2022Q4,S08000016,Breast,7,6,NHS Borders
+5362,2023Q1,S08000016,Breast,19,19,NHS Borders
+5363,2023Q1,S08000016,Breast,7,6,NHS Borders
+5375,2023Q2,S08000016,Breast,17,17,NHS Borders
+5376,2023Q2,S08000016,Breast,9,5,NHS Borders
+5387,2023Q3,S08000016,Breast,27,27,NHS Borders
+5388,2023Q3,S08000016,Breast,1,0,NHS Borders
+5406,2012Q1,S08000024,Breast,1,1,NHS Lothian
+5407,2012Q1,S08000024,Breast,3,3,NHS Lothian
+5408,2012Q1,S08000024,Breast,1,1,NHS Lothian
+5409,2012Q1,S08000024,Breast,210,210,NHS Lothian
+5410,2012Q1,S08000024,Breast,2,2,NHS Lothian
+5460,2012Q2,S08000024,Breast,201,201,NHS Lothian
+5507,2012Q3,S08000024,Breast,1,1,NHS Lothian
+5508,2012Q3,S08000024,Breast,174,174,NHS Lothian
+5509,2012Q3,S08000024,Breast,3,3,NHS Lothian
+5560,2012Q4,S08000024,Breast,1,1,NHS Lothian
+5561,2012Q4,S08000024,Breast,2,2,NHS Lothian
+5562,2012Q4,S08000024,Breast,1,1,NHS Lothian
+5563,2012Q4,S08000024,Breast,206,206,NHS Lothian
+5611,2013Q1,S08000024,Breast,1,1,NHS Lothian
+5612,2013Q1,S08000024,Breast,1,1,NHS Lothian
+5613,2013Q1,S08000024,Breast,172,172,NHS Lothian
+5614,2013Q1,S08000024,Breast,1,1,NHS Lothian
+5661,2013Q2,S08000024,Breast,1,1,NHS Lothian
+5662,2013Q2,S08000024,Breast,1,1,NHS Lothian
+5663,2013Q2,S08000024,Breast,217,217,NHS Lothian
+5664,2013Q2,S08000024,Breast,1,1,NHS Lothian
+5716,2013Q3,S08000024,Breast,2,2,NHS Lothian
+5717,2013Q3,S08000024,Breast,1,1,NHS Lothian
+5718,2013Q3,S08000024,Breast,238,238,NHS Lothian
+5766,2013Q4,S08000024,Breast,1,1,NHS Lothian
+5767,2013Q4,S08000024,Breast,223,223,NHS Lothian
+5768,2013Q4,S08000024,Breast,1,1,NHS Lothian
+5818,2014Q1,S08000024,Breast,1,1,NHS Lothian
+5819,2014Q1,S08000024,Breast,1,1,NHS Lothian
+5820,2014Q1,S08000024,Breast,182,182,NHS Lothian
+5870,2014Q2,S08000024,Breast,1,1,NHS Lothian
+5871,2014Q2,S08000024,Breast,229,229,NHS Lothian
+5920,2014Q3,S08000024,Breast,218,218,NHS Lothian
+5921,2014Q3,S08000024,Breast,2,2,NHS Lothian
+5972,2014Q4,S08000024,Breast,2,2,NHS Lothian
+5973,2014Q4,S08000024,Breast,2,2,NHS Lothian
+5974,2014Q4,S08000024,Breast,1,1,NHS Lothian
+5975,2014Q4,S08000024,Breast,224,224,NHS Lothian
+5976,2014Q4,S08000024,Breast,2,2,NHS Lothian
+6020,2015Q1,S08000024,Breast,1,1,NHS Lothian
+6021,2015Q1,S08000024,Breast,1,1,NHS Lothian
+6022,2015Q1,S08000024,Breast,225,225,NHS Lothian
+6023,2015Q1,S08000024,Breast,2,2,NHS Lothian
+6071,2015Q2,S08000024,Breast,1,1,NHS Lothian
+6072,2015Q2,S08000024,Breast,1,1,NHS Lothian
+6073,2015Q2,S08000024,Breast,2,2,NHS Lothian
+6074,2015Q2,S08000024,Breast,240,240,NHS Lothian
+6124,2015Q3,S08000024,Breast,2,2,NHS Lothian
+6125,2015Q3,S08000024,Breast,236,236,NHS Lothian
+6126,2015Q3,S08000024,Breast,1,1,NHS Lothian
+6168,2015Q4,S08000024,Breast,2,2,NHS Lothian
+6169,2015Q4,S08000024,Breast,1,1,NHS Lothian
+6170,2015Q4,S08000024,Breast,204,204,NHS Lothian
+6171,2015Q4,S08000024,Breast,1,1,NHS Lothian
+6217,2016Q1,S08000024,Breast,1,1,NHS Lothian
+6218,2016Q1,S08000024,Breast,1,1,NHS Lothian
+6219,2016Q1,S08000024,Breast,184,184,NHS Lothian
+6262,2016Q2,S08000024,Breast,1,1,NHS Lothian
+6263,2016Q2,S08000024,Breast,2,2,NHS Lothian
+6264,2016Q2,S08000024,Breast,1,1,NHS Lothian
+6265,2016Q2,S08000024,Breast,213,213,NHS Lothian
+6310,2016Q3,S08000024,Breast,1,1,NHS Lothian
+6311,2016Q3,S08000024,Breast,207,207,NHS Lothian
+6362,2016Q4,S08000024,Breast,1,1,NHS Lothian
+6363,2016Q4,S08000024,Breast,1,1,NHS Lothian
+6364,2016Q4,S08000024,Breast,1,1,NHS Lothian
+6365,2016Q4,S08000024,Breast,215,215,NHS Lothian
+6366,2016Q4,S08000024,Breast,2,2,NHS Lothian
+6367,2016Q4,S08000024,Breast,1,1,NHS Lothian
+6413,2017Q1,S08000024,Breast,195,194,NHS Lothian
+6414,2017Q1,S08000024,Breast,3,3,NHS Lothian
+6462,2017Q2,S08000024,Breast,1,1,NHS Lothian
+6463,2017Q2,S08000024,Breast,240,239,NHS Lothian
+6464,2017Q2,S08000024,Breast,1,1,NHS Lothian
+6513,2017Q3,S08000024,Breast,1,1,NHS Lothian
+6514,2017Q3,S08000024,Breast,203,203,NHS Lothian
+6515,2017Q3,S08000024,Breast,1,1,NHS Lothian
+6563,2017Q4,S08000024,Breast,232,231,NHS Lothian
+6564,2017Q4,S08000024,Breast,1,1,NHS Lothian
+6611,2018Q1,S08000024,Breast,1,1,NHS Lothian
+6612,2018Q1,S08000024,Breast,1,1,NHS Lothian
+6613,2018Q1,S08000024,Breast,175,174,NHS Lothian
+6657,2018Q2,S08000024,Breast,2,2,NHS Lothian
+6658,2018Q2,S08000024,Breast,218,217,NHS Lothian
+6703,2018Q3,S08000024,Breast,1,1,NHS Lothian
+6704,2018Q3,S08000024,Breast,255,252,NHS Lothian
+6705,2018Q3,S08000024,Breast,1,1,NHS Lothian
+6755,2018Q4,S08000024,Breast,1,1,NHS Lothian
+6756,2018Q4,S08000024,Breast,3,3,NHS Lothian
+6757,2018Q4,S08000024,Breast,240,239,NHS Lothian
+6758,2018Q4,S08000024,Breast,1,1,NHS Lothian
+6804,2019Q1,S08000024,Breast,1,1,NHS Lothian
+6805,2019Q1,S08000024,Breast,1,1,NHS Lothian
+6806,2019Q1,S08000024,Breast,216,215,NHS Lothian
+6807,2019Q1,S08000024,Breast,4,3,NHS Lothian
+6855,2019Q2,S08000024,Breast,232,216,NHS Lothian
+6856,2019Q2,S08000024,Breast,1,1,NHS Lothian
+6901,2019Q3,S08000024,Breast,1,1,NHS Lothian
+6902,2019Q3,S08000024,Breast,212,211,NHS Lothian
+6903,2019Q3,S08000024,Breast,1,1,NHS Lothian
+6904,2019Q3,S08000024,Breast,1,1,NHS Lothian
+6958,2019Q4,S08000024,Breast,1,0,NHS Lothian
+6959,2019Q4,S08000024,Breast,1,1,NHS Lothian
+6960,2019Q4,S08000024,Breast,1,1,NHS Lothian
+6961,2019Q4,S08000024,Breast,236,232,NHS Lothian
+6962,2019Q4,S08000024,Breast,3,3,NHS Lothian
+7009,2020Q1,S08000024,Breast,1,1,NHS Lothian
+7010,2020Q1,S08000024,Breast,232,217,NHS Lothian
+7056,2020Q2,S08000024,Breast,170,170,NHS Lothian
+7103,2020Q3,S08000024,Breast,1,1,NHS Lothian
+7104,2020Q3,S08000024,Breast,148,148,NHS Lothian
+7154,2020Q4,S08000024,Breast,1,1,NHS Lothian
+7155,2020Q4,S08000024,Breast,1,1,NHS Lothian
+7156,2020Q4,S08000024,Breast,1,0,NHS Lothian
+7157,2020Q4,S08000024,Breast,199,199,NHS Lothian
+7158,2020Q4,S08000024,Breast,1,1,NHS Lothian
+7204,2021Q1,S08000024,Breast,220,220,NHS Lothian
+7255,2021Q2,S08000024,Breast,1,1,NHS Lothian
+7256,2021Q2,S08000024,Breast,234,234,NHS Lothian
+7304,2021Q3,S08000024,Breast,2,2,NHS Lothian
+7305,2021Q3,S08000024,Breast,1,1,NHS Lothian
+7306,2021Q3,S08000024,Breast,249,249,NHS Lothian
+7354,2021Q4,S08000024,Breast,1,1,NHS Lothian
+7355,2021Q4,S08000024,Breast,1,1,NHS Lothian
+7356,2021Q4,S08000024,Breast,285,285,NHS Lothian
+7357,2021Q4,S08000024,Breast,3,3,NHS Lothian
+7408,2022Q1,S08000024,Breast,1,1,NHS Lothian
+7409,2022Q1,S08000024,Breast,206,205,NHS Lothian
+7410,2022Q1,S08000024,Breast,1,1,NHS Lothian
+7458,2022Q2,S08000024,Breast,1,1,NHS Lothian
+7459,2022Q2,S08000024,Breast,2,1,NHS Lothian
+7460,2022Q2,S08000024,Breast,207,206,NHS Lothian
+7461,2022Q2,S08000024,Breast,2,2,NHS Lothian
+7508,2022Q3,S08000024,Breast,2,2,NHS Lothian
 7509,2022Q3,S08000024,Breast,3,2,NHS Lothian
-7522,2022Q3,S08000024,Breast,200,193,NHS Lothian
-7533,2022Q3,S08000024,Breast,1,1,NHS Lothian
-7549,2022Q4,S08000024,Breast,1,1,NHS Lothian
-7572,2022Q4,S08000024,Breast,222,175,NHS Lothian
-7583,2022Q4,S08000024,Breast,1,1,NHS Lothian
-7599,2023Q1,S08000024,Breast,1,1,NHS Lothian
-7606,2023Q1,S08000024,Breast,3,2,NHS Lothian
-7618,2023Q1,S08000024,Breast,1,0,NHS Lothian
-7623,2023Q1,S08000024,Breast,229,217,NHS Lothian
-7634,2023Q1,S08000024,Breast,2,1,NHS Lothian
+7510,2022Q3,S08000024,Breast,200,193,NHS Lothian
+7511,2022Q3,S08000024,Breast,1,1,NHS Lothian
+7558,2022Q4,S08000024,Breast,1,1,NHS Lothian
+7559,2022Q4,S08000024,Breast,222,175,NHS Lothian
+7560,2022Q4,S08000024,Breast,1,1,NHS Lothian
+7608,2023Q1,S08000024,Breast,1,1,NHS Lothian
+7609,2023Q1,S08000024,Breast,3,2,NHS Lothian
+7610,2023Q1,S08000024,Breast,1,0,NHS Lothian
+7611,2023Q1,S08000024,Breast,229,217,NHS Lothian
+7612,2023Q1,S08000024,Breast,2,1,NHS Lothian
 7658,2023Q2,S08000024,Breast,2,1,NHS Lothian
-7671,2023Q2,S08000024,Breast,268,260,NHS Lothian
-7691,2023Q2,S08000024,Breast,1,1,NHS Lothian
-7723,2023Q3,S08000024,Breast,266,241,NHS Lothian
-7734,2023Q3,S08000024,Breast,1,1,NHS Lothian
-7749,2012Q1,S08000019,Breast,41,40,NHS Forth Valley
-7759,2012Q1,S08000019,Breast,1,1,NHS Forth Valley
-7760,2012Q2,S08000019,Breast,54,54,NHS Forth Valley
-7770,2012Q2,S08000019,Breast,4,4,NHS Forth Valley
-7773,2012Q3,S08000019,Breast,44,44,NHS Forth Valley
-7783,2012Q3,S08000019,Breast,1,1,NHS Forth Valley
-7784,2012Q4,S08000019,Breast,42,42,NHS Forth Valley
-7793,2012Q4,S08000019,Breast,1,1,NHS Forth Valley
-7794,2013Q1,S08000019,Breast,36,34,NHS Forth Valley
-7803,2013Q2,S08000019,Breast,54,53,NHS Forth Valley
-7812,2013Q2,S08000019,Breast,1,1,NHS Forth Valley
-7813,2013Q3,S08000019,Breast,59,58,NHS Forth Valley
-7823,2013Q3,S08000019,Breast,1,1,NHS Forth Valley
-7824,2013Q4,S08000019,Breast,49,49,NHS Forth Valley
-7834,2013Q4,S08000019,Breast,2,2,NHS Forth Valley
-7835,2013Q4,S08000019,Breast,9,9,NHS Forth Valley
-7836,2014Q1,S08000019,Breast,36,36,NHS Forth Valley
-7846,2014Q1,S08000019,Breast,1,1,NHS Forth Valley
-7847,2014Q1,S08000019,Breast,9,9,NHS Forth Valley
-7848,2014Q2,S08000019,Breast,40,40,NHS Forth Valley
-7858,2014Q2,S08000019,Breast,6,6,NHS Forth Valley
-7859,2014Q3,S08000019,Breast,38,37,NHS Forth Valley
-7869,2014Q3,S08000019,Breast,8,8,NHS Forth Valley
-7870,2014Q4,S08000019,Breast,47,45,NHS Forth Valley
-7880,2014Q4,S08000019,Breast,1,1,NHS Forth Valley
-7881,2014Q4,S08000019,Breast,4,4,NHS Forth Valley
-7882,2015Q1,S08000019,Breast,37,33,NHS Forth Valley
-7892,2015Q1,S08000019,Breast,3,3,NHS Forth Valley
-7893,2015Q1,S08000019,Breast,1,1,NHS Forth Valley
-7894,2015Q2,S08000019,Breast,45,45,NHS Forth Valley
-7904,2015Q2,S08000019,Breast,2,2,NHS Forth Valley
-7905,2015Q3,S08000019,Breast,32,31,NHS Forth Valley
-7913,2015Q3,S08000019,Breast,2,2,NHS Forth Valley
-7914,2015Q4,S08000019,Breast,50,50,NHS Forth Valley
-7924,2015Q4,S08000019,Breast,4,4,NHS Forth Valley
-7925,2016Q1,S08000019,Breast,41,40,NHS Forth Valley
-7935,2016Q2,S08000019,Breast,44,41,NHS Forth Valley
-7945,2016Q2,S08000019,Breast,2,2,NHS Forth Valley
-7946,2016Q3,S08000019,Breast,39,39,NHS Forth Valley
-7954,2016Q3,S08000019,Breast,2,2,NHS Forth Valley
-7956,2016Q4,S08000019,Breast,29,29,NHS Forth Valley
-7966,2016Q4,S08000019,Breast,1,1,NHS Forth Valley
-7968,2017Q1,S08000019,Breast,31,27,NHS Forth Valley
-7978,2017Q1,S08000019,Breast,5,4,NHS Forth Valley
-7979,2017Q1,S08000019,Breast,1,1,NHS Forth Valley
-7981,2017Q1,S08000019,Breast,5,2,NHS Forth Valley
-7982,2017Q2,S08000019,Breast,45,38,NHS Forth Valley
-7992,2017Q2,S08000019,Breast,3,3,NHS Forth Valley
-7993,2017Q3,S08000019,Breast,40,36,NHS Forth Valley
-8003,2017Q3,S08000019,Breast,2,2,NHS Forth Valley
-8004,2017Q4,S08000019,Breast,39,38,NHS Forth Valley
-8013,2017Q4,S08000019,Breast,7,6,NHS Forth Valley
-8014,2018Q1,S08000019,Breast,32,31,NHS Forth Valley
-8024,2018Q1,S08000019,Breast,6,6,NHS Forth Valley
-8025,2018Q2,S08000019,Breast,43,43,NHS Forth Valley
-8035,2018Q2,S08000019,Breast,2,2,NHS Forth Valley
-8036,2018Q3,S08000019,Breast,49,47,NHS Forth Valley
-8046,2018Q3,S08000019,Breast,1,1,NHS Forth Valley
-8047,2018Q4,S08000019,Breast,47,36,NHS Forth Valley
-8057,2018Q4,S08000019,Breast,1,1,NHS Forth Valley
-8058,2019Q1,S08000019,Breast,33,31,NHS Forth Valley
-8068,2019Q1,S08000019,Breast,2,2,NHS Forth Valley
-8070,2019Q2,S08000019,Breast,52,52,NHS Forth Valley
-8080,2019Q2,S08000019,Breast,1,1,NHS Forth Valley
-8081,2019Q3,S08000019,Breast,51,51,NHS Forth Valley
-8090,2019Q3,S08000019,Breast,3,3,NHS Forth Valley
-8091,2019Q3,S08000019,Breast,1,1,NHS Forth Valley
-8092,2019Q4,S08000019,Breast,43,43,NHS Forth Valley
-8102,2019Q4,S08000019,Breast,2,2,NHS Forth Valley
-8103,2019Q4,S08000019,Breast,5,5,NHS Forth Valley
-8104,2020Q1,S08000019,Breast,57,57,NHS Forth Valley
-8114,2020Q1,S08000019,Breast,2,2,NHS Forth Valley
-8115,2020Q1,S08000019,Breast,2,2,NHS Forth Valley
-8116,2020Q2,S08000019,Breast,46,46,NHS Forth Valley
-8126,2020Q2,S08000019,Breast,1,1,NHS Forth Valley
-8127,2020Q2,S08000019,Breast,2,2,NHS Forth Valley
-8128,2020Q3,S08000019,Breast,43,42,NHS Forth Valley
-8219,2020Q4,S08000019,Breast,55,55,NHS Forth Valley
-8229,2020Q4,S08000019,Breast,1,1,NHS Forth Valley
-8230,2020Q4,S08000019,Breast,4,4,NHS Forth Valley
-8234,2021Q1,S08000019,Breast,39,39,NHS Forth Valley
-8243,2021Q1,S08000019,Breast,1,1,NHS Forth Valley
-8247,2021Q2,S08000019,Breast,53,52,NHS Forth Valley
-8257,2021Q2,S08000019,Breast,1,1,NHS Forth Valley
-8260,2021Q3,S08000019,Breast,50,48,NHS Forth Valley
-8271,2021Q4,S08000019,Breast,52,52,NHS Forth Valley
-8281,2021Q4,S08000019,Breast,4,4,NHS Forth Valley
-8284,2022Q1,S08000019,Breast,49,49,NHS Forth Valley
-8294,2022Q1,S08000019,Breast,5,5,NHS Forth Valley
-8298,2022Q2,S08000019,Breast,54,53,NHS Forth Valley
-8308,2022Q2,S08000019,Breast,1,1,NHS Forth Valley
-8310,2022Q2,S08000019,Breast,1,1,NHS Forth Valley
-8312,2022Q3,S08000019,Breast,53,53,NHS Forth Valley
-8322,2022Q3,S08000019,Breast,6,6,NHS Forth Valley
-8324,2022Q3,S08000019,Breast,3,3,NHS Forth Valley
-8326,2022Q4,S08000019,Breast,53,53,NHS Forth Valley
-8337,2022Q4,S08000019,Breast,17,17,NHS Forth Valley
-8339,2022Q4,S08000019,Breast,16,15,NHS Forth Valley
-8341,2023Q1,S08000019,Breast,51,51,NHS Forth Valley
-8351,2023Q1,S08000019,Breast,6,6,NHS Forth Valley
-8353,2023Q1,S08000019,Breast,13,13,NHS Forth Valley
-8355,2023Q2,S08000019,Breast,53,52,NHS Forth Valley
-8365,2023Q2,S08000019,Breast,2,2,NHS Forth Valley
-8367,2023Q2,S08000019,Breast,18,16,NHS Forth Valley
-8369,2023Q3,S08000019,Breast,53,53,NHS Forth Valley
-8380,2023Q3,S08000019,Breast,20,20,NHS Forth Valley
-8382,2023Q3,S08000019,Breast,16,16,NHS Forth Valley
-8384,2023Q3,S08000019,Breast,1,1,NHS Forth Valley
-8386,2012Q1,S08000022,Breast,58,58,NHS Highland
-8402,2012Q2,S08000022,Breast,60,60,NHS Highland
-8418,2012Q3,S08000022,Breast,75,71,NHS Highland
-8431,2012Q4,S08000022,Breast,69,67,NHS Highland
-8448,2013Q1,S08000022,Breast,58,53,NHS Highland
-8464,2013Q2,S08000022,Breast,63,60,NHS Highland
-8479,2013Q3,S08000022,Breast,69,68,NHS Highland
-8498,2013Q4,S08000022,Breast,68,63,NHS Highland
-8514,2014Q1,S08000022,Breast,84,74,NHS Highland
-8531,2014Q2,S08000022,Breast,61,60,NHS Highland
-8546,2014Q2,S08000022,Breast,1,1,NHS Highland
-8551,2014Q3,S08000022,Breast,68,66,NHS Highland
-8560,2014Q3,S08000022,Breast,1,1,NHS Highland
-8565,2014Q4,S08000022,Breast,58,57,NHS Highland
-8583,2015Q1,S08000022,Breast,68,64,NHS Highland
-8599,2015Q2,S08000022,Breast,62,59,NHS Highland
-8613,2015Q3,S08000022,Breast,79,79,NHS Highland
-8634,2015Q4,S08000022,Breast,81,81,NHS Highland
-8647,2016Q1,S08000022,Breast,80,80,NHS Highland
-8661,2016Q2,S08000022,Breast,54,53,NHS Highland
-8677,2016Q3,S08000022,Breast,1,1,NHS Highland
-8681,2016Q3,S08000022,Breast,63,62,NHS Highland
-8695,2016Q4,S08000022,Breast,56,56,NHS Highland
-8711,2017Q1,S08000022,Breast,58,57,NHS Highland
-8721,2017Q1,S08000022,Breast,1,1,NHS Highland
-8729,2017Q2,S08000022,Breast,66,65,NHS Highland
-8745,2017Q3,S08000022,Breast,68,68,NHS Highland
-8762,2017Q4,S08000022,Breast,77,77,NHS Highland
-8780,2018Q1,S08000022,Breast,68,62,NHS Highland
-8797,2018Q2,S08000022,Breast,83,77,NHS Highland
-8812,2018Q3,S08000022,Breast,75,74,NHS Highland
-8827,2018Q3,S08000022,Breast,1,1,NHS Highland
-8830,2018Q4,S08000022,Breast,75,75,NHS Highland
-8840,2018Q4,S08000022,Breast,1,1,NHS Highland
-8846,2019Q1,S08000022,Breast,73,69,NHS Highland
-8861,2019Q2,S08000022,Breast,1,1,NHS Highland
-8864,2019Q2,S08000022,Breast,78,76,NHS Highland
-8882,2019Q3,S08000022,Breast,79,78,NHS Highland
-8898,2019Q3,S08000022,Breast,1,1,NHS Highland
-8900,2019Q4,S08000022,Breast,64,58,NHS Highland
-8917,2020Q1,S08000022,Breast,72,64,NHS Highland
-8934,2020Q2,S08000022,Breast,51,45,NHS Highland
-8950,2020Q2,S08000022,Breast,1,1,NHS Highland
-8951,2020Q3,S08000022,Breast,54,52,NHS Highland
-9086,2020Q4,S08000022,Breast,53,48,NHS Highland
-9105,2021Q1,S08000022,Breast,59,54,NHS Highland
-9119,2021Q1,S08000022,Breast,1,1,NHS Highland
-9125,2021Q2,S08000022,Breast,66,64,NHS Highland
-9145,2021Q3,S08000022,Breast,65,59,NHS Highland
-9160,2021Q3,S08000022,Breast,2,2,NHS Highland
-9164,2021Q4,S08000022,Breast,71,61,NHS Highland
-9179,2022Q1,S08000022,Breast,70,53,NHS Highland
-9196,2022Q2,S08000022,Breast,69,33,NHS Highland
-9215,2022Q3,S08000022,Breast,85,45,NHS Highland
-9234,2022Q4,S08000022,Breast,62,58,NHS Highland
-9255,2023Q1,S08000022,Breast,66,54,NHS Highland
-9273,2023Q2,S08000022,Breast,76,67,NHS Highland
-9291,2023Q3,S08000022,Breast,67,62,NHS Highland
-9305,2012Q1,S08000029,Breast,3,3,NHS Fife
-9306,2012Q1,S08000029,Breast,43,43,NHS Fife
-9316,2012Q2,S08000029,Breast,1,1,NHS Fife
-9317,2012Q2,S08000029,Breast,36,36,NHS Fife
-9326,2012Q3,S08000029,Breast,44,44,NHS Fife
-9337,2012Q4,S08000029,Breast,5,5,NHS Fife
-9338,2012Q4,S08000029,Breast,40,40,NHS Fife
-9348,2013Q1,S08000029,Breast,8,8,NHS Fife
-9349,2013Q1,S08000029,Breast,44,44,NHS Fife
-9359,2013Q2,S08000029,Breast,5,5,NHS Fife
-9360,2013Q2,S08000029,Breast,38,38,NHS Fife
-9370,2013Q3,S08000029,Breast,3,3,NHS Fife
-9371,2013Q3,S08000029,Breast,49,49,NHS Fife
-9380,2013Q4,S08000029,Breast,1,1,NHS Fife
-9381,2013Q4,S08000029,Breast,37,36,NHS Fife
-9391,2014Q1,S08000029,Breast,3,3,NHS Fife
-9392,2014Q1,S08000029,Breast,33,33,NHS Fife
-9402,2014Q2,S08000029,Breast,50,50,NHS Fife
-9412,2014Q3,S08000029,Breast,7,7,NHS Fife
-9413,2014Q3,S08000029,Breast,43,43,NHS Fife
-9423,2014Q4,S08000029,Breast,3,3,NHS Fife
-9425,2014Q4,S08000029,Breast,40,40,NHS Fife
-9435,2015Q1,S08000029,Breast,1,1,NHS Fife
-9436,2015Q1,S08000029,Breast,48,47,NHS Fife
-9445,2015Q2,S08000029,Breast,3,3,NHS Fife
-9446,2015Q2,S08000029,Breast,31,31,NHS Fife
-9456,2015Q3,S08000029,Breast,5,5,NHS Fife
-9457,2015Q3,S08000029,Breast,29,28,NHS Fife
-9468,2015Q4,S08000029,Breast,2,2,NHS Fife
-9469,2015Q4,S08000029,Breast,55,54,NHS Fife
-9479,2016Q1,S08000029,Breast,3,3,NHS Fife
-9480,2016Q1,S08000029,Breast,34,34,NHS Fife
-9491,2016Q2,S08000029,Breast,3,3,NHS Fife
-9492,2016Q2,S08000029,Breast,42,42,NHS Fife
-9502,2016Q3,S08000029,Breast,4,4,NHS Fife
-9503,2016Q3,S08000029,Breast,35,35,NHS Fife
-9512,2016Q4,S08000029,Breast,4,4,NHS Fife
-9513,2016Q4,S08000029,Breast,38,38,NHS Fife
-9523,2017Q1,S08000029,Breast,2,2,NHS Fife
-9524,2017Q1,S08000029,Breast,34,34,NHS Fife
-9534,2017Q2,S08000029,Breast,6,6,NHS Fife
-9535,2017Q2,S08000029,Breast,54,54,NHS Fife
-9546,2017Q3,S08000029,Breast,36,35,NHS Fife
-9556,2017Q4,S08000029,Breast,48,48,NHS Fife
-9566,2018Q1,S08000029,Breast,1,1,NHS Fife
-9567,2018Q1,S08000029,Breast,34,34,NHS Fife
-9577,2018Q2,S08000029,Breast,3,3,NHS Fife
-9578,2018Q2,S08000029,Breast,50,50,NHS Fife
-9588,2018Q2,S08000029,Breast,1,1,NHS Fife
-9589,2018Q3,S08000029,Breast,1,1,NHS Fife
-9590,2018Q3,S08000029,Breast,48,45,NHS Fife
-9600,2018Q4,S08000029,Breast,1,1,NHS Fife
-9601,2018Q4,S08000029,Breast,51,45,NHS Fife
-9611,2019Q1,S08000029,Breast,55,53,NHS Fife
-9621,2019Q2,S08000029,Breast,4,4,NHS Fife
-9622,2019Q2,S08000029,Breast,50,45,NHS Fife
-9632,2019Q3,S08000029,Breast,11,10,NHS Fife
-9633,2019Q3,S08000029,Breast,36,32,NHS Fife
-9643,2019Q4,S08000029,Breast,7,6,NHS Fife
-9645,2019Q4,S08000029,Breast,46,44,NHS Fife
-9654,2020Q1,S08000029,Breast,3,3,NHS Fife
-9655,2020Q1,S08000029,Breast,61,61,NHS Fife
-9665,2020Q2,S08000029,Breast,1,1,NHS Fife
-9666,2020Q2,S08000029,Breast,45,42,NHS Fife
-9676,2020Q3,S08000029,Breast,51,51,NHS Fife
-9756,2020Q4,S08000029,Breast,1,1,NHS Fife
-9757,2020Q4,S08000029,Breast,50,50,NHS Fife
-9769,2021Q1,S08000029,Breast,1,1,NHS Fife
-9770,2021Q1,S08000029,Breast,62,60,NHS Fife
-9782,2021Q2,S08000029,Breast,2,2,NHS Fife
-9783,2021Q2,S08000029,Breast,46,46,NHS Fife
-9795,2021Q3,S08000029,Breast,1,1,NHS Fife
-9796,2021Q3,S08000029,Breast,52,51,NHS Fife
-9808,2021Q4,S08000029,Breast,2,2,NHS Fife
-9809,2021Q4,S08000029,Breast,49,49,NHS Fife
-9820,2022Q1,S08000029,Breast,1,1,NHS Fife
-9821,2022Q1,S08000029,Breast,50,50,NHS Fife
+7659,2023Q2,S08000024,Breast,268,260,NHS Lothian
+7660,2023Q2,S08000024,Breast,1,1,NHS Lothian
+7709,2023Q3,S08000024,Breast,266,241,NHS Lothian
+7710,2023Q3,S08000024,Breast,1,1,NHS Lothian
+7751,2012Q1,S08000019,Breast,41,40,NHS Forth Valley
+7752,2012Q1,S08000019,Breast,1,1,NHS Forth Valley
+7765,2012Q2,S08000019,Breast,54,54,NHS Forth Valley
+7766,2012Q2,S08000019,Breast,4,4,NHS Forth Valley
+7780,2012Q3,S08000019,Breast,44,44,NHS Forth Valley
+7781,2012Q3,S08000019,Breast,1,1,NHS Forth Valley
+7794,2012Q4,S08000019,Breast,42,42,NHS Forth Valley
+7795,2012Q4,S08000019,Breast,1,1,NHS Forth Valley
+7805,2013Q1,S08000019,Breast,36,34,NHS Forth Valley
+7816,2013Q2,S08000019,Breast,54,53,NHS Forth Valley
+7817,2013Q2,S08000019,Breast,1,1,NHS Forth Valley
+7828,2013Q3,S08000019,Breast,59,58,NHS Forth Valley
+7829,2013Q3,S08000019,Breast,1,1,NHS Forth Valley
+7842,2013Q4,S08000019,Breast,49,49,NHS Forth Valley
+7843,2013Q4,S08000019,Breast,2,2,NHS Forth Valley
+7844,2013Q4,S08000019,Breast,9,9,NHS Forth Valley
+7857,2014Q1,S08000019,Breast,36,36,NHS Forth Valley
+7858,2014Q1,S08000019,Breast,1,1,NHS Forth Valley
+7859,2014Q1,S08000019,Breast,9,9,NHS Forth Valley
+7871,2014Q2,S08000019,Breast,40,40,NHS Forth Valley
+7872,2014Q2,S08000019,Breast,6,6,NHS Forth Valley
+7884,2014Q3,S08000019,Breast,38,37,NHS Forth Valley
+7885,2014Q3,S08000019,Breast,8,8,NHS Forth Valley
+7898,2014Q4,S08000019,Breast,47,45,NHS Forth Valley
+7899,2014Q4,S08000019,Breast,1,1,NHS Forth Valley
+7900,2014Q4,S08000019,Breast,4,4,NHS Forth Valley
+7913,2015Q1,S08000019,Breast,37,33,NHS Forth Valley
+7914,2015Q1,S08000019,Breast,3,3,NHS Forth Valley
+7915,2015Q1,S08000019,Breast,1,1,NHS Forth Valley
+7927,2015Q2,S08000019,Breast,45,45,NHS Forth Valley
+7928,2015Q2,S08000019,Breast,2,2,NHS Forth Valley
+7940,2015Q3,S08000019,Breast,32,31,NHS Forth Valley
+7941,2015Q3,S08000019,Breast,2,2,NHS Forth Valley
+7951,2015Q4,S08000019,Breast,50,50,NHS Forth Valley
+7952,2015Q4,S08000019,Breast,4,4,NHS Forth Valley
+7964,2016Q1,S08000019,Breast,41,40,NHS Forth Valley
+7976,2016Q2,S08000019,Breast,44,41,NHS Forth Valley
+7977,2016Q2,S08000019,Breast,2,2,NHS Forth Valley
+7990,2016Q3,S08000019,Breast,39,39,NHS Forth Valley
+7991,2016Q3,S08000019,Breast,2,2,NHS Forth Valley
+8002,2016Q4,S08000019,Breast,29,29,NHS Forth Valley
+8003,2016Q4,S08000019,Breast,1,1,NHS Forth Valley
+8018,2017Q1,S08000019,Breast,31,27,NHS Forth Valley
+8019,2017Q1,S08000019,Breast,5,4,NHS Forth Valley
+8020,2017Q1,S08000019,Breast,1,1,NHS Forth Valley
+8021,2017Q1,S08000019,Breast,5,2,NHS Forth Valley
+8034,2017Q2,S08000019,Breast,45,38,NHS Forth Valley
+8035,2017Q2,S08000019,Breast,3,3,NHS Forth Valley
+8047,2017Q3,S08000019,Breast,40,36,NHS Forth Valley
+8048,2017Q3,S08000019,Breast,2,2,NHS Forth Valley
+8060,2017Q4,S08000019,Breast,39,38,NHS Forth Valley
+8061,2017Q4,S08000019,Breast,7,6,NHS Forth Valley
+8072,2018Q1,S08000019,Breast,32,31,NHS Forth Valley
+8073,2018Q1,S08000019,Breast,6,6,NHS Forth Valley
+8085,2018Q2,S08000019,Breast,43,43,NHS Forth Valley
+8086,2018Q2,S08000019,Breast,2,2,NHS Forth Valley
+8098,2018Q3,S08000019,Breast,49,47,NHS Forth Valley
+8099,2018Q3,S08000019,Breast,1,1,NHS Forth Valley
+8111,2018Q4,S08000019,Breast,47,36,NHS Forth Valley
+8112,2018Q4,S08000019,Breast,1,1,NHS Forth Valley
+8125,2019Q1,S08000019,Breast,33,31,NHS Forth Valley
+8126,2019Q1,S08000019,Breast,2,2,NHS Forth Valley
+8139,2019Q2,S08000019,Breast,52,52,NHS Forth Valley
+8140,2019Q2,S08000019,Breast,1,1,NHS Forth Valley
+8153,2019Q3,S08000019,Breast,51,51,NHS Forth Valley
+8154,2019Q3,S08000019,Breast,3,3,NHS Forth Valley
+8155,2019Q3,S08000019,Breast,1,1,NHS Forth Valley
+8167,2019Q4,S08000019,Breast,43,43,NHS Forth Valley
+8168,2019Q4,S08000019,Breast,2,2,NHS Forth Valley
+8169,2019Q4,S08000019,Breast,5,5,NHS Forth Valley
+8182,2020Q1,S08000019,Breast,57,57,NHS Forth Valley
+8183,2020Q1,S08000019,Breast,2,2,NHS Forth Valley
+8184,2020Q1,S08000019,Breast,2,2,NHS Forth Valley
+8197,2020Q2,S08000019,Breast,46,46,NHS Forth Valley
+8198,2020Q2,S08000019,Breast,1,1,NHS Forth Valley
+8199,2020Q2,S08000019,Breast,2,2,NHS Forth Valley
+8210,2020Q3,S08000019,Breast,43,42,NHS Forth Valley
+8222,2020Q4,S08000019,Breast,55,55,NHS Forth Valley
+8223,2020Q4,S08000019,Breast,1,1,NHS Forth Valley
+8224,2020Q4,S08000019,Breast,4,4,NHS Forth Valley
+8236,2021Q1,S08000019,Breast,39,39,NHS Forth Valley
+8237,2021Q1,S08000019,Breast,1,1,NHS Forth Valley
+8249,2021Q2,S08000019,Breast,53,52,NHS Forth Valley
+8250,2021Q2,S08000019,Breast,1,1,NHS Forth Valley
+8261,2021Q3,S08000019,Breast,50,48,NHS Forth Valley
+8273,2021Q4,S08000019,Breast,52,52,NHS Forth Valley
+8274,2021Q4,S08000019,Breast,4,4,NHS Forth Valley
+8286,2022Q1,S08000019,Breast,49,49,NHS Forth Valley
+8287,2022Q1,S08000019,Breast,5,5,NHS Forth Valley
+8300,2022Q2,S08000019,Breast,54,53,NHS Forth Valley
+8301,2022Q2,S08000019,Breast,1,1,NHS Forth Valley
+8302,2022Q2,S08000019,Breast,1,1,NHS Forth Valley
+8314,2022Q3,S08000019,Breast,53,53,NHS Forth Valley
+8315,2022Q3,S08000019,Breast,6,6,NHS Forth Valley
+8316,2022Q3,S08000019,Breast,3,3,NHS Forth Valley
+8328,2022Q4,S08000019,Breast,53,53,NHS Forth Valley
+8329,2022Q4,S08000019,Breast,17,17,NHS Forth Valley
+8330,2022Q4,S08000019,Breast,16,15,NHS Forth Valley
+8343,2023Q1,S08000019,Breast,51,51,NHS Forth Valley
+8344,2023Q1,S08000019,Breast,6,6,NHS Forth Valley
+8345,2023Q1,S08000019,Breast,13,13,NHS Forth Valley
+8357,2023Q2,S08000019,Breast,53,52,NHS Forth Valley
+8358,2023Q2,S08000019,Breast,2,2,NHS Forth Valley
+8359,2023Q2,S08000019,Breast,18,16,NHS Forth Valley
+8372,2023Q3,S08000019,Breast,53,53,NHS Forth Valley
+8373,2023Q3,S08000019,Breast,20,20,NHS Forth Valley
+8374,2023Q3,S08000019,Breast,16,16,NHS Forth Valley
+8375,2023Q3,S08000019,Breast,1,1,NHS Forth Valley
+8389,2012Q1,S08000022,Breast,58,58,NHS Highland
+8408,2012Q2,S08000022,Breast,60,60,NHS Highland
+8427,2012Q3,S08000022,Breast,75,71,NHS Highland
+8444,2012Q4,S08000022,Breast,69,67,NHS Highland
+8464,2013Q1,S08000022,Breast,58,53,NHS Highland
+8483,2013Q2,S08000022,Breast,63,60,NHS Highland
+8501,2013Q3,S08000022,Breast,69,68,NHS Highland
+8523,2013Q4,S08000022,Breast,68,63,NHS Highland
+8543,2014Q1,S08000022,Breast,84,74,NHS Highland
+8563,2014Q2,S08000022,Breast,61,60,NHS Highland
+8564,2014Q2,S08000022,Breast,1,1,NHS Highland
+8588,2014Q3,S08000022,Breast,68,66,NHS Highland
+8589,2014Q3,S08000022,Breast,1,1,NHS Highland
+8605,2014Q4,S08000022,Breast,58,57,NHS Highland
+8625,2015Q1,S08000022,Breast,68,64,NHS Highland
+8645,2015Q2,S08000022,Breast,62,59,NHS Highland
+8663,2015Q3,S08000022,Breast,79,79,NHS Highland
+8684,2015Q4,S08000022,Breast,81,81,NHS Highland
+8702,2016Q1,S08000022,Breast,80,80,NHS Highland
+8719,2016Q2,S08000022,Breast,54,53,NHS Highland
+8740,2016Q3,S08000022,Breast,1,1,NHS Highland
+8741,2016Q3,S08000022,Breast,63,62,NHS Highland
+8760,2016Q4,S08000022,Breast,56,56,NHS Highland
+8778,2017Q1,S08000022,Breast,58,57,NHS Highland
+8779,2017Q1,S08000022,Breast,1,1,NHS Highland
+8799,2017Q2,S08000022,Breast,66,65,NHS Highland
+8818,2017Q3,S08000022,Breast,68,68,NHS Highland
+8840,2017Q4,S08000022,Breast,77,77,NHS Highland
+8862,2018Q1,S08000022,Breast,68,62,NHS Highland
+8883,2018Q2,S08000022,Breast,83,77,NHS Highland
+8903,2018Q3,S08000022,Breast,75,74,NHS Highland
+8904,2018Q3,S08000022,Breast,1,1,NHS Highland
+8924,2018Q4,S08000022,Breast,75,75,NHS Highland
+8925,2018Q4,S08000022,Breast,1,1,NHS Highland
+8944,2019Q1,S08000022,Breast,73,69,NHS Highland
+8963,2019Q2,S08000022,Breast,1,1,NHS Highland
+8964,2019Q2,S08000022,Breast,78,76,NHS Highland
+8986,2019Q3,S08000022,Breast,79,78,NHS Highland
+8987,2019Q3,S08000022,Breast,1,1,NHS Highland
+9009,2019Q4,S08000022,Breast,64,58,NHS Highland
+9028,2020Q1,S08000022,Breast,72,64,NHS Highland
+9050,2020Q2,S08000022,Breast,51,45,NHS Highland
+9051,2020Q2,S08000022,Breast,1,1,NHS Highland
+9071,2020Q3,S08000022,Breast,54,52,NHS Highland
+9088,2020Q4,S08000022,Breast,53,48,NHS Highland
+9107,2021Q1,S08000022,Breast,59,54,NHS Highland
+9108,2021Q1,S08000022,Breast,1,1,NHS Highland
+9128,2021Q2,S08000022,Breast,66,64,NHS Highland
+9148,2021Q3,S08000022,Breast,65,59,NHS Highland
+9149,2021Q3,S08000022,Breast,2,2,NHS Highland
+9166,2021Q4,S08000022,Breast,71,61,NHS Highland
+9181,2022Q1,S08000022,Breast,70,53,NHS Highland
+9198,2022Q2,S08000022,Breast,69,33,NHS Highland
+9217,2022Q3,S08000022,Breast,85,45,NHS Highland
+9236,2022Q4,S08000022,Breast,62,58,NHS Highland
+9256,2023Q1,S08000022,Breast,66,54,NHS Highland
+9274,2023Q2,S08000022,Breast,76,67,NHS Highland
+9292,2023Q3,S08000022,Breast,67,62,NHS Highland
+9307,2012Q1,S08000029,Breast,3,3,NHS Fife
+9308,2012Q1,S08000029,Breast,43,43,NHS Fife
+9320,2012Q2,S08000029,Breast,1,1,NHS Fife
+9321,2012Q2,S08000029,Breast,36,36,NHS Fife
+9332,2012Q3,S08000029,Breast,44,44,NHS Fife
+9345,2012Q4,S08000029,Breast,5,5,NHS Fife
+9346,2012Q4,S08000029,Breast,40,40,NHS Fife
+9358,2013Q1,S08000029,Breast,8,8,NHS Fife
+9359,2013Q1,S08000029,Breast,44,44,NHS Fife
+9371,2013Q2,S08000029,Breast,5,5,NHS Fife
+9372,2013Q2,S08000029,Breast,38,38,NHS Fife
+9384,2013Q3,S08000029,Breast,3,3,NHS Fife
+9385,2013Q3,S08000029,Breast,49,49,NHS Fife
+9396,2013Q4,S08000029,Breast,1,1,NHS Fife
+9397,2013Q4,S08000029,Breast,37,36,NHS Fife
+9409,2014Q1,S08000029,Breast,3,3,NHS Fife
+9410,2014Q1,S08000029,Breast,33,33,NHS Fife
+9421,2014Q2,S08000029,Breast,50,50,NHS Fife
+9433,2014Q3,S08000029,Breast,7,7,NHS Fife
+9434,2014Q3,S08000029,Breast,43,43,NHS Fife
+9446,2014Q4,S08000029,Breast,3,3,NHS Fife
+9447,2014Q4,S08000029,Breast,40,40,NHS Fife
+9460,2015Q1,S08000029,Breast,1,1,NHS Fife
+9461,2015Q1,S08000029,Breast,48,47,NHS Fife
+9472,2015Q2,S08000029,Breast,3,3,NHS Fife
+9473,2015Q2,S08000029,Breast,31,31,NHS Fife
+9486,2015Q3,S08000029,Breast,5,5,NHS Fife
+9487,2015Q3,S08000029,Breast,29,28,NHS Fife
+9500,2015Q4,S08000029,Breast,2,2,NHS Fife
+9501,2015Q4,S08000029,Breast,55,54,NHS Fife
+9514,2016Q1,S08000029,Breast,3,3,NHS Fife
+9515,2016Q1,S08000029,Breast,34,34,NHS Fife
+9528,2016Q2,S08000029,Breast,3,3,NHS Fife
+9529,2016Q2,S08000029,Breast,42,42,NHS Fife
+9541,2016Q3,S08000029,Breast,4,4,NHS Fife
+9542,2016Q3,S08000029,Breast,35,35,NHS Fife
+9553,2016Q4,S08000029,Breast,4,4,NHS Fife
+9554,2016Q4,S08000029,Breast,38,38,NHS Fife
+9566,2017Q1,S08000029,Breast,2,2,NHS Fife
+9567,2017Q1,S08000029,Breast,34,34,NHS Fife
+9580,2017Q2,S08000029,Breast,6,6,NHS Fife
+9581,2017Q2,S08000029,Breast,54,54,NHS Fife
+9593,2017Q3,S08000029,Breast,36,35,NHS Fife
+9604,2017Q4,S08000029,Breast,48,48,NHS Fife
+9616,2018Q1,S08000029,Breast,1,1,NHS Fife
+9617,2018Q1,S08000029,Breast,34,34,NHS Fife
+9630,2018Q2,S08000029,Breast,3,3,NHS Fife
+9631,2018Q2,S08000029,Breast,50,50,NHS Fife
+9632,2018Q2,S08000029,Breast,1,1,NHS Fife
+9644,2018Q3,S08000029,Breast,1,1,NHS Fife
+9645,2018Q3,S08000029,Breast,48,45,NHS Fife
+9657,2018Q4,S08000029,Breast,1,1,NHS Fife
+9658,2018Q4,S08000029,Breast,51,45,NHS Fife
+9669,2019Q1,S08000029,Breast,55,53,NHS Fife
+9681,2019Q2,S08000029,Breast,4,4,NHS Fife
+9682,2019Q2,S08000029,Breast,50,45,NHS Fife
+9694,2019Q3,S08000029,Breast,11,10,NHS Fife
+9695,2019Q3,S08000029,Breast,36,32,NHS Fife
+9708,2019Q4,S08000029,Breast,7,6,NHS Fife
+9709,2019Q4,S08000029,Breast,46,44,NHS Fife
+9721,2020Q1,S08000029,Breast,3,3,NHS Fife
+9722,2020Q1,S08000029,Breast,61,61,NHS Fife
+9734,2020Q2,S08000029,Breast,1,1,NHS Fife
+9735,2020Q2,S08000029,Breast,45,42,NHS Fife
+9746,2020Q3,S08000029,Breast,51,51,NHS Fife
+9758,2020Q4,S08000029,Breast,1,1,NHS Fife
+9759,2020Q4,S08000029,Breast,50,50,NHS Fife
+9771,2021Q1,S08000029,Breast,1,1,NHS Fife
+9772,2021Q1,S08000029,Breast,62,60,NHS Fife
+9784,2021Q2,S08000029,Breast,2,2,NHS Fife
+9785,2021Q2,S08000029,Breast,46,46,NHS Fife
+9797,2021Q3,S08000029,Breast,1,1,NHS Fife
+9798,2021Q3,S08000029,Breast,52,51,NHS Fife
+9810,2021Q4,S08000029,Breast,2,2,NHS Fife
+9811,2021Q4,S08000029,Breast,49,49,NHS Fife
+9823,2022Q1,S08000029,Breast,1,1,NHS Fife
+9824,2022Q1,S08000029,Breast,50,50,NHS Fife
 9836,2022Q2,S08000029,Breast,54,54,NHS Fife
-9847,2022Q3,S08000029,Breast,1,1,NHS Fife
+9848,2022Q3,S08000029,Breast,1,1,NHS Fife
 9849,2022Q3,S08000029,Breast,52,52,NHS Fife
-9859,2022Q4,S08000029,Breast,1,1,NHS Fife
-9861,2022Q4,S08000029,Breast,52,52,NHS Fife
+9861,2022Q4,S08000029,Breast,1,1,NHS Fife
+9862,2022Q4,S08000029,Breast,52,52,NHS Fife
 9874,2023Q1,S08000029,Breast,42,41,NHS Fife
-9885,2023Q2,S08000029,Breast,5,5,NHS Fife
-9887,2023Q2,S08000029,Breast,60,60,NHS Fife
-9900,2023Q3,S08000029,Breast,7,5,NHS Fife
+9887,2023Q2,S08000029,Breast,5,5,NHS Fife
+9888,2023Q2,S08000029,Breast,60,60,NHS Fife
+9901,2023Q3,S08000029,Breast,7,5,NHS Fife
 9902,2023Q3,S08000029,Breast,52,45,NHS Fife
-9916,2012Q1,S08000030,Breast,106,106,NHS Tayside
-9928,2012Q2,S08000030,Breast,106,106,NHS Tayside
-9942,2012Q3,S08000030,Breast,103,102,NHS Tayside
-9954,2012Q4,S08000030,Breast,105,105,NHS Tayside
-9964,2013Q1,S08000030,Breast,1,1,NHS Tayside
-9969,2013Q1,S08000030,Breast,105,102,NHS Tayside
-9982,2013Q2,S08000030,Breast,117,115,NHS Tayside
-9996,2013Q3,S08000030,Breast,145,139,NHS Tayside
-10011,2013Q4,S08000030,Breast,95,94,NHS Tayside
-10022,2014Q1,S08000030,Breast,101,99,NHS Tayside
-10031,2014Q2,S08000030,Breast,1,1,NHS Tayside
-10036,2014Q2,S08000030,Breast,91,91,NHS Tayside
-10048,2014Q3,S08000030,Breast,96,96,NHS Tayside
-10058,2014Q4,S08000030,Breast,115,114,NHS Tayside
-10072,2015Q1,S08000030,Breast,91,90,NHS Tayside
-10086,2015Q2,S08000030,Breast,100,99,NHS Tayside
-10098,2015Q3,S08000030,Breast,124,122,NHS Tayside
-10112,2015Q4,S08000030,Breast,109,105,NHS Tayside
-10128,2016Q1,S08000030,Breast,129,115,NHS Tayside
-10139,2016Q2,S08000030,Breast,1,1,NHS Tayside
-10143,2016Q2,S08000030,Breast,112,107,NHS Tayside
-10159,2016Q3,S08000030,Breast,155,125,NHS Tayside
-10174,2016Q4,S08000030,Breast,148,116,NHS Tayside
-10187,2017Q1,S08000030,Breast,127,122,NHS Tayside
-10201,2017Q2,S08000030,Breast,116,111,NHS Tayside
-10217,2017Q3,S08000030,Breast,133,119,NHS Tayside
-10228,2017Q4,S08000030,Breast,1,1,NHS Tayside
-10232,2017Q4,S08000030,Breast,114,110,NHS Tayside
-10247,2018Q1,S08000030,Breast,107,96,NHS Tayside
-10262,2018Q2,S08000030,Breast,99,97,NHS Tayside
-10277,2018Q3,S08000030,Breast,112,101,NHS Tayside
-10288,2018Q4,S08000030,Breast,1,1,NHS Tayside
-10292,2018Q4,S08000030,Breast,110,101,NHS Tayside
-10306,2019Q1,S08000030,Breast,111,96,NHS Tayside
-10320,2019Q2,S08000030,Breast,101,93,NHS Tayside
-10336,2019Q3,S08000030,Breast,110,106,NHS Tayside
-10350,2019Q4,S08000030,Breast,108,107,NHS Tayside
-10364,2020Q1,S08000030,Breast,106,96,NHS Tayside
-10379,2020Q2,S08000030,Breast,82,82,NHS Tayside
-10393,2020Q3,S08000030,Breast,74,74,NHS Tayside
-10515,2020Q4,S08000030,Breast,90,88,NHS Tayside
+9915,2012Q1,S08000030,Breast,106,106,NHS Tayside
+9931,2012Q2,S08000030,Breast,106,106,NHS Tayside
+9946,2012Q3,S08000030,Breast,103,102,NHS Tayside
+9963,2012Q4,S08000030,Breast,105,105,NHS Tayside
+9978,2013Q1,S08000030,Breast,1,1,NHS Tayside
+9979,2013Q1,S08000030,Breast,105,102,NHS Tayside
+9997,2013Q2,S08000030,Breast,117,115,NHS Tayside
+10014,2013Q3,S08000030,Breast,145,139,NHS Tayside
+10031,2013Q4,S08000030,Breast,95,94,NHS Tayside
+10048,2014Q1,S08000030,Breast,101,99,NHS Tayside
+10061,2014Q2,S08000030,Breast,1,1,NHS Tayside
+10062,2014Q2,S08000030,Breast,91,91,NHS Tayside
+10077,2014Q3,S08000030,Breast,96,96,NHS Tayside
+10091,2014Q4,S08000030,Breast,115,114,NHS Tayside
+10105,2015Q1,S08000030,Breast,91,90,NHS Tayside
+10123,2015Q2,S08000030,Breast,100,99,NHS Tayside
+10138,2015Q3,S08000030,Breast,124,122,NHS Tayside
+10153,2015Q4,S08000030,Breast,109,105,NHS Tayside
+10171,2016Q1,S08000030,Breast,129,115,NHS Tayside
+10192,2016Q2,S08000030,Breast,1,1,NHS Tayside
+10193,2016Q2,S08000030,Breast,112,107,NHS Tayside
+10211,2016Q3,S08000030,Breast,155,125,NHS Tayside
+10230,2016Q4,S08000030,Breast,148,116,NHS Tayside
+10247,2017Q1,S08000030,Breast,127,122,NHS Tayside
+10264,2017Q2,S08000030,Breast,116,111,NHS Tayside
+10281,2017Q3,S08000030,Breast,133,119,NHS Tayside
+10300,2017Q4,S08000030,Breast,1,1,NHS Tayside
+10301,2017Q4,S08000030,Breast,114,110,NHS Tayside
+10318,2018Q1,S08000030,Breast,107,96,NHS Tayside
+10336,2018Q2,S08000030,Breast,99,97,NHS Tayside
+10354,2018Q3,S08000030,Breast,112,101,NHS Tayside
+10373,2018Q4,S08000030,Breast,1,1,NHS Tayside
+10374,2018Q4,S08000030,Breast,110,101,NHS Tayside
+10392,2019Q1,S08000030,Breast,111,96,NHS Tayside
+10409,2019Q2,S08000030,Breast,101,93,NHS Tayside
+10427,2019Q3,S08000030,Breast,110,106,NHS Tayside
+10446,2019Q4,S08000030,Breast,108,107,NHS Tayside
+10463,2020Q1,S08000030,Breast,106,96,NHS Tayside
+10480,2020Q2,S08000030,Breast,82,82,NHS Tayside
+10498,2020Q3,S08000030,Breast,74,74,NHS Tayside
+10514,2020Q4,S08000030,Breast,90,88,NHS Tayside
 10530,2021Q1,S08000030,Breast,91,90,NHS Tayside
-10545,2021Q2,S08000030,Breast,101,100,NHS Tayside
-10563,2021Q3,S08000030,Breast,109,109,NHS Tayside
-10580,2021Q4,S08000030,Breast,120,118,NHS Tayside
+10546,2021Q2,S08000030,Breast,101,100,NHS Tayside
+10561,2021Q3,S08000030,Breast,109,109,NHS Tayside
+10579,2021Q4,S08000030,Breast,120,118,NHS Tayside
 10597,2022Q1,S08000030,Breast,123,119,NHS Tayside
-10617,2022Q2,S08000030,Breast,118,117,NHS Tayside
-10633,2022Q3,S08000030,Breast,124,124,NHS Tayside
-10650,2022Q4,S08000030,Breast,126,126,NHS Tayside
-10667,2023Q1,S08000030,Breast,134,132,NHS Tayside
-10683,2023Q2,S08000030,Breast,139,136,NHS Tayside
-10701,2023Q3,S08000030,Breast,144,142,NHS Tayside
-10715,2012Q2,S08000025,Breast,1,1,NHS Orkney
-10717,2012Q3,S08000025,Breast,2,2,NHS Orkney
-10719,2012Q3,S08000025,Breast,1,1,NHS Orkney
-10721,2012Q4,S08000025,Breast,2,2,NHS Orkney
-10724,2013Q1,S08000025,Breast,1,1,NHS Orkney
-10726,2013Q2,S08000025,Breast,2,2,NHS Orkney
-10740,2014Q3,S08000025,Breast,2,2,NHS Orkney
-10743,2014Q4,S08000025,Breast,1,1,NHS Orkney
-10750,2015Q1,S08000025,Breast,1,1,NHS Orkney
-10756,2015Q3,S08000025,Breast,1,1,NHS Orkney
-10763,2016Q2,S08000025,Breast,1,1,NHS Orkney
-10768,2016Q3,S08000025,Breast,1,1,NHS Orkney
-10771,2016Q4,S08000025,Breast,1,1,NHS Orkney
-10778,2017Q2,S08000025,Breast,1,1,NHS Orkney
-10785,2017Q3,S08000025,Breast,1,1,NHS Orkney
-10794,2018Q2,S08000025,Breast,1,1,NHS Orkney
-10801,2018Q4,S08000025,Breast,2,2,NHS Orkney
-10815,2019Q3,S08000025,Breast,1,1,NHS Orkney
-10886,2020Q4,S08000025,Breast,1,1,NHS Orkney
-10887,2020Q4,S08000025,Breast,1,1,NHS Orkney
-10947,2023Q1,S08000025,Breast,1,1,NHS Orkney
-10960,2023Q3,S08000025,Breast,1,1,NHS Orkney
-10966,2012Q1,S08000026,Breast,1,1,NHS Shetland
-10973,2012Q2,S08000026,Breast,1,1,NHS Shetland
-10979,2012Q3,S08000026,Breast,6,6,NHS Shetland
-10987,2013Q1,S08000026,Breast,3,3,NHS Shetland
-10991,2013Q2,S08000026,Breast,2,2,NHS Shetland
-10992,2013Q2,S08000026,Breast,4,4,NHS Shetland
-10996,2013Q3,S08000026,Breast,5,5,NHS Shetland
-10997,2013Q3,S08000026,Breast,1,1,NHS Shetland
-11002,2013Q4,S08000026,Breast,1,1,NHS Shetland
-11003,2013Q4,S08000026,Breast,1,1,NHS Shetland
-11013,2014Q2,S08000026,Breast,1,1,NHS Shetland
-11014,2014Q2,S08000026,Breast,3,3,NHS Shetland
-11018,2014Q3,S08000026,Breast,1,1,NHS Shetland
-11023,2014Q4,S08000026,Breast,4,4,NHS Shetland
-11028,2015Q1,S08000026,Breast,3,3,NHS Shetland
-11035,2015Q2,S08000026,Breast,4,4,NHS Shetland
-11041,2015Q3,S08000026,Breast,1,1,NHS Shetland
-11049,2016Q1,S08000026,Breast,2,2,NHS Shetland
-11056,2016Q2,S08000026,Breast,1,1,NHS Shetland
-11057,2016Q2,S08000026,Breast,3,3,NHS Shetland
-11061,2016Q3,S08000026,Breast,8,8,NHS Shetland
-11062,2016Q3,S08000026,Breast,1,1,NHS Shetland
-11067,2016Q4,S08000026,Breast,4,4,NHS Shetland
-11068,2016Q4,S08000026,Breast,4,4,NHS Shetland
-11074,2017Q1,S08000026,Breast,3,3,NHS Shetland
-11080,2017Q2,S08000026,Breast,2,2,NHS Shetland
-11084,2017Q3,S08000026,Breast,1,1,NHS Shetland
-11090,2017Q4,S08000026,Breast,2,2,NHS Shetland
-11093,2018Q1,S08000026,Breast,3,3,NHS Shetland
-11099,2018Q2,S08000026,Breast,1,1,NHS Shetland
-11108,2018Q3,S08000026,Breast,1,1,NHS Shetland
-11115,2018Q4,S08000026,Breast,2,2,NHS Shetland
-11122,2019Q1,S08000026,Breast,1,1,NHS Shetland
-11129,2019Q2,S08000026,Breast,2,2,NHS Shetland
-11134,2019Q3,S08000026,Breast,6,6,NHS Shetland
-11137,2019Q3,S08000026,Breast,1,1,NHS Shetland
-11142,2019Q4,S08000026,Breast,1,1,NHS Shetland
-11144,2019Q4,S08000026,Breast,3,3,NHS Shetland
-11155,2020Q2,S08000026,Breast,1,1,NHS Shetland
-11161,2020Q3,S08000026,Breast,4,4,NHS Shetland
-11220,2020Q4,S08000026,Breast,1,1,NHS Shetland
-11221,2020Q4,S08000026,Breast,3,3,NHS Shetland
-11230,2021Q1,S08000026,Breast,3,3,NHS Shetland
-11236,2021Q2,S08000026,Breast,4,4,NHS Shetland
-11241,2021Q3,S08000026,Breast,2,2,NHS Shetland
-11246,2021Q4,S08000026,Breast,7,7,NHS Shetland
-11254,2022Q1,S08000026,Breast,2,2,NHS Shetland
-11263,2022Q2,S08000026,Breast,1,1,NHS Shetland
+10614,2022Q2,S08000030,Breast,118,117,NHS Tayside
+10630,2022Q3,S08000030,Breast,124,124,NHS Tayside
+10646,2022Q4,S08000030,Breast,126,126,NHS Tayside
+10662,2023Q1,S08000030,Breast,134,132,NHS Tayside
+10680,2023Q2,S08000030,Breast,139,136,NHS Tayside
+10697,2023Q3,S08000030,Breast,144,142,NHS Tayside
+10718,2012Q2,S08000025,Breast,1,1,NHS Orkney
+10722,2012Q3,S08000025,Breast,2,2,NHS Orkney
+10723,2012Q3,S08000025,Breast,1,1,NHS Orkney
+10727,2012Q4,S08000025,Breast,2,2,NHS Orkney
+10731,2013Q1,S08000025,Breast,1,1,NHS Orkney
+10734,2013Q2,S08000025,Breast,2,2,NHS Orkney
+10754,2014Q3,S08000025,Breast,2,2,NHS Orkney
+10758,2014Q4,S08000025,Breast,1,1,NHS Orkney
+10765,2015Q1,S08000025,Breast,1,1,NHS Orkney
+10775,2015Q3,S08000025,Breast,1,1,NHS Orkney
+10788,2016Q2,S08000025,Breast,1,1,NHS Orkney
+10794,2016Q3,S08000025,Breast,1,1,NHS Orkney
+10800,2016Q4,S08000025,Breast,1,1,NHS Orkney
+10810,2017Q2,S08000025,Breast,1,1,NHS Orkney
+10819,2017Q3,S08000025,Breast,1,1,NHS Orkney
+10832,2018Q2,S08000025,Breast,1,1,NHS Orkney
+10841,2018Q4,S08000025,Breast,2,2,NHS Orkney
+10860,2019Q3,S08000025,Breast,1,1,NHS Orkney
+10888,2020Q4,S08000025,Breast,1,1,NHS Orkney
+10889,2020Q4,S08000025,Breast,1,1,NHS Orkney
+10946,2023Q1,S08000025,Breast,1,1,NHS Orkney
+10961,2023Q3,S08000025,Breast,1,1,NHS Orkney
+10967,2012Q1,S08000026,Breast,1,1,NHS Shetland
+10975,2012Q2,S08000026,Breast,1,1,NHS Shetland
+10982,2012Q3,S08000026,Breast,6,6,NHS Shetland
+10992,2013Q1,S08000026,Breast,3,3,NHS Shetland
+10998,2013Q2,S08000026,Breast,2,2,NHS Shetland
+10999,2013Q2,S08000026,Breast,4,4,NHS Shetland
+11005,2013Q3,S08000026,Breast,5,5,NHS Shetland
+11006,2013Q3,S08000026,Breast,1,1,NHS Shetland
+11013,2013Q4,S08000026,Breast,1,1,NHS Shetland
+11014,2013Q4,S08000026,Breast,1,1,NHS Shetland
+11028,2014Q2,S08000026,Breast,1,1,NHS Shetland
+11029,2014Q2,S08000026,Breast,3,3,NHS Shetland
+11034,2014Q3,S08000026,Breast,1,1,NHS Shetland
+11041,2014Q4,S08000026,Breast,4,4,NHS Shetland
+11047,2015Q1,S08000026,Breast,3,3,NHS Shetland
+11055,2015Q2,S08000026,Breast,4,4,NHS Shetland
+11063,2015Q3,S08000026,Breast,1,1,NHS Shetland
+11073,2016Q1,S08000026,Breast,2,2,NHS Shetland
+11082,2016Q2,S08000026,Breast,1,1,NHS Shetland
+11083,2016Q2,S08000026,Breast,3,3,NHS Shetland
+11089,2016Q3,S08000026,Breast,8,8,NHS Shetland
+11090,2016Q3,S08000026,Breast,1,1,NHS Shetland
+11097,2016Q4,S08000026,Breast,4,4,NHS Shetland
+11098,2016Q4,S08000026,Breast,4,4,NHS Shetland
+11105,2017Q1,S08000026,Breast,3,3,NHS Shetland
+11112,2017Q2,S08000026,Breast,2,2,NHS Shetland
+11117,2017Q3,S08000026,Breast,1,1,NHS Shetland
+11124,2017Q4,S08000026,Breast,2,2,NHS Shetland
+11129,2018Q1,S08000026,Breast,3,3,NHS Shetland
+11136,2018Q2,S08000026,Breast,1,1,NHS Shetland
+11145,2018Q3,S08000026,Breast,1,1,NHS Shetland
+11156,2018Q4,S08000026,Breast,2,2,NHS Shetland
+11165,2019Q1,S08000026,Breast,1,1,NHS Shetland
+11173,2019Q2,S08000026,Breast,2,2,NHS Shetland
+11181,2019Q3,S08000026,Breast,6,6,NHS Shetland
+11182,2019Q3,S08000026,Breast,1,1,NHS Shetland
+11191,2019Q4,S08000026,Breast,1,1,NHS Shetland
+11192,2019Q4,S08000026,Breast,3,3,NHS Shetland
+11207,2020Q2,S08000026,Breast,1,1,NHS Shetland
+11214,2020Q3,S08000026,Breast,4,4,NHS Shetland
+11222,2020Q4,S08000026,Breast,1,1,NHS Shetland
+11223,2020Q4,S08000026,Breast,3,3,NHS Shetland
+11231,2021Q1,S08000026,Breast,3,3,NHS Shetland
+11237,2021Q2,S08000026,Breast,4,4,NHS Shetland
+11242,2021Q3,S08000026,Breast,2,2,NHS Shetland
+11247,2021Q4,S08000026,Breast,7,7,NHS Shetland
+11255,2022Q1,S08000026,Breast,2,2,NHS Shetland
+11264,2022Q2,S08000026,Breast,1,1,NHS Shetland
 11265,2022Q2,S08000026,Breast,6,6,NHS Shetland
-11271,2022Q3,S08000026,Breast,3,3,NHS Shetland
-11274,2022Q3,S08000026,Breast,3,3,NHS Shetland
-11281,2022Q4,S08000026,Breast,12,12,NHS Shetland
+11272,2022Q3,S08000026,Breast,3,3,NHS Shetland
+11273,2022Q3,S08000026,Breast,3,3,NHS Shetland
+11282,2022Q4,S08000026,Breast,12,12,NHS Shetland
 11283,2022Q4,S08000026,Breast,3,3,NHS Shetland
-11289,2023Q1,S08000026,Breast,1,1,NHS Shetland
+11290,2023Q1,S08000026,Breast,1,1,NHS Shetland
 11298,2023Q2,S08000026,Breast,3,3,NHS Shetland
 11304,2023Q3,S08000026,Breast,4,4,NHS Shetland
-11327,2013Q1,S08000028,Breast,1,1,NHS Western Isles
-11328,2013Q1,S08000028,Breast,1,1,NHS Western Isles
-11337,2013Q3,S08000028,Breast,1,1,NHS Western Isles
-11368,2015Q1,S08000028,Breast,1,1,NHS Western Isles
-11369,2015Q1,S08000028,Breast,1,1,NHS Western Isles
-11373,2015Q2,S08000028,Breast,2,2,NHS Western Isles
-11381,2015Q3,S08000028,Breast,1,1,NHS Western Isles
-11386,2015Q4,S08000028,Breast,1,1,NHS Western Isles
-11404,2016Q3,S08000028,Breast,1,1,NHS Western Isles
-11416,2017Q1,S08000028,Breast,2,2,NHS Western Isles
-11417,2017Q1,S08000028,Breast,1,1,NHS Western Isles
-11421,2017Q2,S08000028,Breast,1,1,NHS Western Isles
-11428,2017Q3,S08000028,Breast,1,1,NHS Western Isles
-11437,2018Q1,S08000028,Breast,2,2,NHS Western Isles
-11444,2018Q2,S08000028,Breast,2,2,NHS Western Isles
-11450,2018Q3,S08000028,Breast,1,1,NHS Western Isles
-11452,2018Q3,S08000028,Breast,2,2,NHS Western Isles
-11481,2019Q4,S08000028,Breast,1,1,NHS Western Isles
-11487,2020Q1,S08000028,Breast,5,5,NHS Western Isles
-11572,2021Q2,S08000028,Breast,1,1,NHS Western Isles
-11611,2022Q3,S08000028,Breast,2,2,NHS Western Isles
-11614,2022Q3,S08000028,Breast,1,1,NHS Western Isles
-11623,2022Q3,S08000028,Breast,1,1,NHS Western Isles
-11625,2022Q4,S08000028,Breast,3,3,NHS Western Isles
+11333,2013Q1,S08000028,Breast,1,1,NHS Western Isles
+11334,2013Q1,S08000028,Breast,1,1,NHS Western Isles
+11347,2013Q3,S08000028,Breast,1,1,NHS Western Isles
+11389,2015Q1,S08000028,Breast,1,1,NHS Western Isles
+11390,2015Q1,S08000028,Breast,1,1,NHS Western Isles
+11396,2015Q2,S08000028,Breast,2,2,NHS Western Isles
+11406,2015Q3,S08000028,Breast,1,1,NHS Western Isles
+11413,2015Q4,S08000028,Breast,1,1,NHS Western Isles
+11437,2016Q3,S08000028,Breast,1,1,NHS Western Isles
+11453,2017Q1,S08000028,Breast,2,2,NHS Western Isles
+11454,2017Q1,S08000028,Breast,1,1,NHS Western Isles
+11460,2017Q2,S08000028,Breast,1,1,NHS Western Isles
+11469,2017Q3,S08000028,Breast,1,1,NHS Western Isles
+11481,2018Q1,S08000028,Breast,2,2,NHS Western Isles
+11490,2018Q2,S08000028,Breast,2,2,NHS Western Isles
+11498,2018Q3,S08000028,Breast,1,1,NHS Western Isles
+11499,2018Q3,S08000028,Breast,2,2,NHS Western Isles
+11535,2019Q4,S08000028,Breast,1,1,NHS Western Isles
+11543,2020Q1,S08000028,Breast,5,5,NHS Western Isles
+11573,2021Q2,S08000028,Breast,1,1,NHS Western Isles
+11614,2022Q3,S08000028,Breast,2,2,NHS Western Isles
+11615,2022Q3,S08000028,Breast,1,1,NHS Western Isles
+11616,2022Q3,S08000028,Breast,1,1,NHS Western Isles
+11626,2022Q4,S08000028,Breast,3,3,NHS Western Isles
 11633,2023Q1,S08000028,Breast,2,2,NHS Western Isles
-11647,2023Q3,S08000028,Breast,1,1,NHS Western Isles
-11656,2012Q1,S08000032,Breast,4,4,NHS Lanarkshire
-11657,2012Q1,S08000032,Breast,69,69,NHS Lanarkshire
-11667,2012Q2,S08000032,Breast,8,8,NHS Lanarkshire
-11668,2012Q2,S08000032,Breast,83,83,NHS Lanarkshire
-11678,2012Q3,S08000032,Breast,3,3,NHS Lanarkshire
-11680,2012Q3,S08000032,Breast,73,73,NHS Lanarkshire
-11690,2012Q4,S08000032,Breast,14,14,NHS Lanarkshire
-11691,2012Q4,S08000032,Breast,71,71,NHS Lanarkshire
-11702,2013Q1,S08000032,Breast,6,6,NHS Lanarkshire
-11703,2013Q1,S08000032,Breast,49,49,NHS Lanarkshire
-11714,2013Q2,S08000032,Breast,4,4,NHS Lanarkshire
-11715,2013Q2,S08000032,Breast,69,69,NHS Lanarkshire
-11725,2013Q3,S08000032,Breast,11,11,NHS Lanarkshire
-11726,2013Q3,S08000032,Breast,59,59,NHS Lanarkshire
-11736,2013Q4,S08000032,Breast,1,1,NHS Lanarkshire
-11737,2013Q4,S08000032,Breast,8,8,NHS Lanarkshire
-11738,2013Q4,S08000032,Breast,66,65,NHS Lanarkshire
-11749,2014Q1,S08000032,Breast,10,9,NHS Lanarkshire
-11750,2014Q1,S08000032,Breast,64,64,NHS Lanarkshire
-11760,2014Q2,S08000032,Breast,18,18,NHS Lanarkshire
-11761,2014Q2,S08000032,Breast,90,89,NHS Lanarkshire
-11772,2014Q3,S08000032,Breast,9,9,NHS Lanarkshire
-11773,2014Q3,S08000032,Breast,76,75,NHS Lanarkshire
-11783,2014Q4,S08000032,Breast,14,13,NHS Lanarkshire
-11784,2014Q4,S08000032,Breast,85,85,NHS Lanarkshire
-11795,2015Q1,S08000032,Breast,12,12,NHS Lanarkshire
-11796,2015Q1,S08000032,Breast,77,70,NHS Lanarkshire
-11807,2015Q2,S08000032,Breast,8,8,NHS Lanarkshire
-11808,2015Q2,S08000032,Breast,69,68,NHS Lanarkshire
-11819,2015Q3,S08000032,Breast,11,11,NHS Lanarkshire
-11820,2015Q3,S08000032,Breast,83,83,NHS Lanarkshire
-11831,2015Q4,S08000032,Breast,10,10,NHS Lanarkshire
-11832,2015Q4,S08000032,Breast,100,100,NHS Lanarkshire
-11842,2016Q1,S08000032,Breast,14,14,NHS Lanarkshire
-11845,2016Q1,S08000032,Breast,86,85,NHS Lanarkshire
-11855,2016Q2,S08000032,Breast,8,8,NHS Lanarkshire
-11856,2016Q2,S08000032,Breast,93,93,NHS Lanarkshire
-11866,2016Q3,S08000032,Breast,4,4,NHS Lanarkshire
-11868,2016Q3,S08000032,Breast,90,89,NHS Lanarkshire
-11879,2016Q4,S08000032,Breast,9,9,NHS Lanarkshire
-11881,2016Q4,S08000032,Breast,89,89,NHS Lanarkshire
-11892,2017Q1,S08000032,Breast,24,21,NHS Lanarkshire
-11893,2017Q1,S08000032,Breast,71,70,NHS Lanarkshire
-11904,2017Q2,S08000032,Breast,41,33,NHS Lanarkshire
-11905,2017Q2,S08000032,Breast,62,62,NHS Lanarkshire
-11916,2017Q3,S08000032,Breast,27,27,NHS Lanarkshire
-11917,2017Q3,S08000032,Breast,97,96,NHS Lanarkshire
-11928,2017Q4,S08000032,Breast,7,7,NHS Lanarkshire
-11930,2017Q4,S08000032,Breast,67,67,NHS Lanarkshire
-11941,2018Q1,S08000032,Breast,13,12,NHS Lanarkshire
-11942,2018Q1,S08000032,Breast,87,87,NHS Lanarkshire
-11953,2018Q2,S08000032,Breast,29,29,NHS Lanarkshire
-11954,2018Q2,S08000032,Breast,93,93,NHS Lanarkshire
-11964,2018Q3,S08000032,Breast,27,27,NHS Lanarkshire
-11965,2018Q3,S08000032,Breast,94,94,NHS Lanarkshire
-11976,2018Q4,S08000032,Breast,46,43,NHS Lanarkshire
-11978,2018Q4,S08000032,Breast,77,77,NHS Lanarkshire
-11988,2019Q1,S08000032,Breast,1,1,NHS Lanarkshire
-11990,2019Q1,S08000032,Breast,38,31,NHS Lanarkshire
-11991,2019Q1,S08000032,Breast,81,77,NHS Lanarkshire
-12002,2019Q2,S08000032,Breast,44,44,NHS Lanarkshire
-12003,2019Q2,S08000032,Breast,86,86,NHS Lanarkshire
-12014,2019Q3,S08000032,Breast,44,40,NHS Lanarkshire
-12015,2019Q3,S08000032,Breast,80,79,NHS Lanarkshire
-12026,2019Q4,S08000032,Breast,28,28,NHS Lanarkshire
-12027,2019Q4,S08000032,Breast,83,82,NHS Lanarkshire
-12039,2020Q1,S08000032,Breast,49,49,NHS Lanarkshire
-12040,2020Q1,S08000032,Breast,91,91,NHS Lanarkshire
-12051,2020Q2,S08000032,Breast,37,35,NHS Lanarkshire
-12052,2020Q2,S08000032,Breast,49,49,NHS Lanarkshire
-12063,2020Q3,S08000032,Breast,7,7,NHS Lanarkshire
-12064,2020Q3,S08000032,Breast,78,78,NHS Lanarkshire
-12171,2020Q4,S08000032,Breast,37,32,NHS Lanarkshire
-12173,2020Q4,S08000032,Breast,97,94,NHS Lanarkshire
-12185,2021Q1,S08000032,Breast,54,54,NHS Lanarkshire
-12187,2021Q1,S08000032,Breast,79,79,NHS Lanarkshire
-12199,2021Q2,S08000032,Breast,43,42,NHS Lanarkshire
-12200,2021Q2,S08000032,Breast,86,85,NHS Lanarkshire
-12213,2021Q3,S08000032,Breast,25,25,NHS Lanarkshire
-12214,2021Q3,S08000032,Breast,94,93,NHS Lanarkshire
-12229,2021Q4,S08000032,Breast,29,24,NHS Lanarkshire
-12230,2021Q4,S08000032,Breast,84,83,NHS Lanarkshire
-12245,2022Q1,S08000032,Breast,45,34,NHS Lanarkshire
-12246,2022Q1,S08000032,Breast,92,83,NHS Lanarkshire
+11648,2023Q3,S08000028,Breast,1,1,NHS Western Isles
+11658,2012Q1,S08000032,Breast,4,4,NHS Lanarkshire
+11659,2012Q1,S08000032,Breast,69,69,NHS Lanarkshire
+11671,2012Q2,S08000032,Breast,8,8,NHS Lanarkshire
+11672,2012Q2,S08000032,Breast,83,83,NHS Lanarkshire
+11684,2012Q3,S08000032,Breast,3,3,NHS Lanarkshire
+11685,2012Q3,S08000032,Breast,73,73,NHS Lanarkshire
+11698,2012Q4,S08000032,Breast,14,14,NHS Lanarkshire
+11699,2012Q4,S08000032,Breast,71,71,NHS Lanarkshire
+11712,2013Q1,S08000032,Breast,6,6,NHS Lanarkshire
+11713,2013Q1,S08000032,Breast,49,49,NHS Lanarkshire
+11727,2013Q2,S08000032,Breast,4,4,NHS Lanarkshire
+11728,2013Q2,S08000032,Breast,69,69,NHS Lanarkshire
+11741,2013Q3,S08000032,Breast,11,11,NHS Lanarkshire
+11742,2013Q3,S08000032,Breast,59,59,NHS Lanarkshire
+11755,2013Q4,S08000032,Breast,1,1,NHS Lanarkshire
+11756,2013Q4,S08000032,Breast,8,8,NHS Lanarkshire
+11757,2013Q4,S08000032,Breast,66,65,NHS Lanarkshire
+11770,2014Q1,S08000032,Breast,10,9,NHS Lanarkshire
+11771,2014Q1,S08000032,Breast,64,64,NHS Lanarkshire
+11784,2014Q2,S08000032,Breast,18,18,NHS Lanarkshire
+11785,2014Q2,S08000032,Breast,90,89,NHS Lanarkshire
+11798,2014Q3,S08000032,Breast,9,9,NHS Lanarkshire
+11799,2014Q3,S08000032,Breast,76,75,NHS Lanarkshire
+11812,2014Q4,S08000032,Breast,14,13,NHS Lanarkshire
+11813,2014Q4,S08000032,Breast,85,85,NHS Lanarkshire
+11826,2015Q1,S08000032,Breast,12,12,NHS Lanarkshire
+11827,2015Q1,S08000032,Breast,77,70,NHS Lanarkshire
+11841,2015Q2,S08000032,Breast,8,8,NHS Lanarkshire
+11842,2015Q2,S08000032,Breast,69,68,NHS Lanarkshire
+11856,2015Q3,S08000032,Breast,11,11,NHS Lanarkshire
+11857,2015Q3,S08000032,Breast,83,83,NHS Lanarkshire
+11871,2015Q4,S08000032,Breast,10,10,NHS Lanarkshire
+11872,2015Q4,S08000032,Breast,100,100,NHS Lanarkshire
+11885,2016Q1,S08000032,Breast,14,14,NHS Lanarkshire
+11886,2016Q1,S08000032,Breast,86,85,NHS Lanarkshire
+11900,2016Q2,S08000032,Breast,8,8,NHS Lanarkshire
+11901,2016Q2,S08000032,Breast,93,93,NHS Lanarkshire
+11913,2016Q3,S08000032,Breast,4,4,NHS Lanarkshire
+11914,2016Q3,S08000032,Breast,90,89,NHS Lanarkshire
+11928,2016Q4,S08000032,Breast,9,9,NHS Lanarkshire
+11929,2016Q4,S08000032,Breast,89,89,NHS Lanarkshire
+11944,2017Q1,S08000032,Breast,24,21,NHS Lanarkshire
+11945,2017Q1,S08000032,Breast,71,70,NHS Lanarkshire
+11959,2017Q2,S08000032,Breast,41,33,NHS Lanarkshire
+11960,2017Q2,S08000032,Breast,62,62,NHS Lanarkshire
+11974,2017Q3,S08000032,Breast,27,27,NHS Lanarkshire
+11975,2017Q3,S08000032,Breast,97,96,NHS Lanarkshire
+11989,2017Q4,S08000032,Breast,7,7,NHS Lanarkshire
+11990,2017Q4,S08000032,Breast,67,67,NHS Lanarkshire
+12005,2018Q1,S08000032,Breast,13,12,NHS Lanarkshire
+12006,2018Q1,S08000032,Breast,87,87,NHS Lanarkshire
+12020,2018Q2,S08000032,Breast,29,29,NHS Lanarkshire
+12021,2018Q2,S08000032,Breast,93,93,NHS Lanarkshire
+12034,2018Q3,S08000032,Breast,27,27,NHS Lanarkshire
+12035,2018Q3,S08000032,Breast,94,94,NHS Lanarkshire
+12049,2018Q4,S08000032,Breast,46,43,NHS Lanarkshire
+12050,2018Q4,S08000032,Breast,77,77,NHS Lanarkshire
+12065,2019Q1,S08000032,Breast,1,1,NHS Lanarkshire
+12066,2019Q1,S08000032,Breast,38,31,NHS Lanarkshire
+12067,2019Q1,S08000032,Breast,81,77,NHS Lanarkshire
+12081,2019Q2,S08000032,Breast,44,44,NHS Lanarkshire
+12082,2019Q2,S08000032,Breast,86,86,NHS Lanarkshire
+12097,2019Q3,S08000032,Breast,44,40,NHS Lanarkshire
+12098,2019Q3,S08000032,Breast,80,79,NHS Lanarkshire
+12112,2019Q4,S08000032,Breast,28,28,NHS Lanarkshire
+12113,2019Q4,S08000032,Breast,83,82,NHS Lanarkshire
+12128,2020Q1,S08000032,Breast,49,49,NHS Lanarkshire
+12129,2020Q1,S08000032,Breast,91,91,NHS Lanarkshire
+12144,2020Q2,S08000032,Breast,37,35,NHS Lanarkshire
+12145,2020Q2,S08000032,Breast,49,49,NHS Lanarkshire
+12159,2020Q3,S08000032,Breast,7,7,NHS Lanarkshire
+12160,2020Q3,S08000032,Breast,78,78,NHS Lanarkshire
+12173,2020Q4,S08000032,Breast,37,32,NHS Lanarkshire
+12174,2020Q4,S08000032,Breast,97,94,NHS Lanarkshire
+12187,2021Q1,S08000032,Breast,54,54,NHS Lanarkshire
+12188,2021Q1,S08000032,Breast,79,79,NHS Lanarkshire
+12201,2021Q2,S08000032,Breast,43,42,NHS Lanarkshire
+12202,2021Q2,S08000032,Breast,86,85,NHS Lanarkshire
+12215,2021Q3,S08000032,Breast,25,25,NHS Lanarkshire
+12216,2021Q3,S08000032,Breast,94,93,NHS Lanarkshire
+12231,2021Q4,S08000032,Breast,29,24,NHS Lanarkshire
+12232,2021Q4,S08000032,Breast,84,83,NHS Lanarkshire
+12247,2022Q1,S08000032,Breast,45,34,NHS Lanarkshire
+12248,2022Q1,S08000032,Breast,92,83,NHS Lanarkshire
 12262,2022Q2,S08000032,Breast,50,43,NHS Lanarkshire
-12264,2022Q2,S08000032,Breast,73,68,NHS Lanarkshire
+12263,2022Q2,S08000032,Breast,73,68,NHS Lanarkshire
 12277,2022Q3,S08000032,Breast,66,39,NHS Lanarkshire
-12279,2022Q3,S08000032,Breast,79,70,NHS Lanarkshire
+12278,2022Q3,S08000032,Breast,79,70,NHS Lanarkshire
 12292,2022Q4,S08000032,Breast,49,28,NHS Lanarkshire
-12296,2022Q4,S08000032,Breast,108,93,NHS Lanarkshire
+12293,2022Q4,S08000032,Breast,108,93,NHS Lanarkshire
 12308,2023Q1,S08000032,Breast,41,29,NHS Lanarkshire
-12310,2023Q1,S08000032,Breast,88,83,NHS Lanarkshire
+12309,2023Q1,S08000032,Breast,88,83,NHS Lanarkshire
 12323,2023Q2,S08000032,Breast,29,27,NHS Lanarkshire
-12325,2023Q2,S08000032,Breast,103,101,NHS Lanarkshire
+12324,2023Q2,S08000032,Breast,103,101,NHS Lanarkshire
 12338,2023Q3,S08000032,Breast,60,56,NHS Lanarkshire
-12341,2023Q3,S08000032,Breast,103,101,NHS Lanarkshire
+12339,2023Q3,S08000032,Breast,103,101,NHS Lanarkshire

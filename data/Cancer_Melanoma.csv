@@ -1,813 +1,813 @@
 ,Quarter,HBT,Cancer type,Number of eligible referrals,Number of eligible referrals treated within 31 days,Health board
-6,2012Q1,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
-16,2012Q2,S08000015,Melanoma,9,9,NHS Ayrshire and Arran
-26,2012Q3,S08000015,Melanoma,26,26,NHS Ayrshire and Arran
-36,2012Q4,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
-46,2013Q1,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
-56,2013Q2,S08000015,Melanoma,13,13,NHS Ayrshire and Arran
-66,2013Q3,S08000015,Melanoma,24,24,NHS Ayrshire and Arran
-75,2013Q4,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
-85,2014Q1,S08000015,Melanoma,11,10,NHS Ayrshire and Arran
-96,2014Q2,S08000015,Melanoma,16,16,NHS Ayrshire and Arran
-106,2014Q3,S08000015,Melanoma,24,24,NHS Ayrshire and Arran
-116,2014Q4,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
-126,2015Q1,S08000015,Melanoma,24,24,NHS Ayrshire and Arran
-136,2015Q2,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
-146,2015Q3,S08000015,Melanoma,22,22,NHS Ayrshire and Arran
-156,2015Q4,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
-165,2016Q1,S08000015,Melanoma,12,12,NHS Ayrshire and Arran
-175,2016Q2,S08000015,Melanoma,19,19,NHS Ayrshire and Arran
-184,2016Q3,S08000015,Melanoma,26,26,NHS Ayrshire and Arran
-194,2016Q4,S08000015,Melanoma,7,7,NHS Ayrshire and Arran
-204,2017Q1,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
-214,2017Q2,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
-224,2017Q3,S08000015,Melanoma,19,19,NHS Ayrshire and Arran
-233,2017Q4,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
-243,2018Q1,S08000015,Melanoma,28,28,NHS Ayrshire and Arran
-252,2018Q2,S08000015,Melanoma,13,13,NHS Ayrshire and Arran
-262,2018Q3,S08000015,Melanoma,20,20,NHS Ayrshire and Arran
-273,2018Q4,S08000015,Melanoma,19,19,NHS Ayrshire and Arran
-283,2019Q1,S08000015,Melanoma,20,20,NHS Ayrshire and Arran
-293,2019Q2,S08000015,Melanoma,25,24,NHS Ayrshire and Arran
-303,2019Q3,S08000015,Melanoma,14,14,NHS Ayrshire and Arran
-314,2019Q4,S08000015,Melanoma,25,25,NHS Ayrshire and Arran
-324,2020Q1,S08000015,Melanoma,23,23,NHS Ayrshire and Arran
-335,2020Q2,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
-344,2020Q3,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
-393,2020Q4,S08000015,Melanoma,20,20,NHS Ayrshire and Arran
-404,2021Q1,S08000015,Melanoma,16,16,NHS Ayrshire and Arran
-416,2021Q2,S08000015,Melanoma,14,14,NHS Ayrshire and Arran
-429,2021Q3,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
-439,2021Q4,S08000015,Melanoma,13,13,NHS Ayrshire and Arran
-455,2022Q1,S08000015,Melanoma,19,19,NHS Ayrshire and Arran
+7,2012Q1,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
+18,2012Q2,S08000015,Melanoma,9,9,NHS Ayrshire and Arran
+29,2012Q3,S08000015,Melanoma,26,26,NHS Ayrshire and Arran
+40,2012Q4,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
+51,2013Q1,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
+62,2013Q2,S08000015,Melanoma,13,13,NHS Ayrshire and Arran
+73,2013Q3,S08000015,Melanoma,24,24,NHS Ayrshire and Arran
+83,2013Q4,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
+96,2014Q1,S08000015,Melanoma,11,10,NHS Ayrshire and Arran
+107,2014Q2,S08000015,Melanoma,16,16,NHS Ayrshire and Arran
+118,2014Q3,S08000015,Melanoma,24,24,NHS Ayrshire and Arran
+129,2014Q4,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
+140,2015Q1,S08000015,Melanoma,24,24,NHS Ayrshire and Arran
+151,2015Q2,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
+162,2015Q3,S08000015,Melanoma,22,22,NHS Ayrshire and Arran
+173,2015Q4,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
+183,2016Q1,S08000015,Melanoma,12,12,NHS Ayrshire and Arran
+194,2016Q2,S08000015,Melanoma,19,19,NHS Ayrshire and Arran
+204,2016Q3,S08000015,Melanoma,26,26,NHS Ayrshire and Arran
+215,2016Q4,S08000015,Melanoma,7,7,NHS Ayrshire and Arran
+226,2017Q1,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
+237,2017Q2,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
+248,2017Q3,S08000015,Melanoma,19,19,NHS Ayrshire and Arran
+258,2017Q4,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
+269,2018Q1,S08000015,Melanoma,28,28,NHS Ayrshire and Arran
+279,2018Q2,S08000015,Melanoma,13,13,NHS Ayrshire and Arran
+291,2018Q3,S08000015,Melanoma,20,20,NHS Ayrshire and Arran
+303,2018Q4,S08000015,Melanoma,19,19,NHS Ayrshire and Arran
+314,2019Q1,S08000015,Melanoma,20,20,NHS Ayrshire and Arran
+325,2019Q2,S08000015,Melanoma,25,24,NHS Ayrshire and Arran
+337,2019Q3,S08000015,Melanoma,14,14,NHS Ayrshire and Arran
+349,2019Q4,S08000015,Melanoma,25,25,NHS Ayrshire and Arran
+362,2020Q1,S08000015,Melanoma,23,23,NHS Ayrshire and Arran
+373,2020Q2,S08000015,Melanoma,17,17,NHS Ayrshire and Arran
+383,2020Q3,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
+394,2020Q4,S08000015,Melanoma,20,20,NHS Ayrshire and Arran
+407,2021Q1,S08000015,Melanoma,16,16,NHS Ayrshire and Arran
+419,2021Q2,S08000015,Melanoma,14,14,NHS Ayrshire and Arran
+430,2021Q3,S08000015,Melanoma,15,15,NHS Ayrshire and Arran
+444,2021Q4,S08000015,Melanoma,13,13,NHS Ayrshire and Arran
+457,2022Q1,S08000015,Melanoma,19,19,NHS Ayrshire and Arran
 469,2022Q2,S08000015,Melanoma,22,22,NHS Ayrshire and Arran
 480,2022Q3,S08000015,Melanoma,28,28,NHS Ayrshire and Arran
-491,2022Q4,S08000015,Melanoma,11,11,NHS Ayrshire and Arran
+495,2022Q4,S08000015,Melanoma,11,11,NHS Ayrshire and Arran
 505,2023Q1,S08000015,Melanoma,25,24,NHS Ayrshire and Arran
 516,2023Q2,S08000015,Melanoma,13,13,NHS Ayrshire and Arran
 527,2023Q3,S08000015,Melanoma,21,21,NHS Ayrshire and Arran
-537,2012Q1,S08000017,Melanoma,4,4,NHS Dumfries and Galloway
-546,2012Q2,S08000017,Melanoma,4,4,NHS Dumfries and Galloway
-557,2012Q3,S08000017,Melanoma,13,12,NHS Dumfries and Galloway
-568,2012Q4,S08000017,Melanoma,6,6,NHS Dumfries and Galloway
-578,2013Q1,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
-587,2013Q2,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
-597,2013Q3,S08000017,Melanoma,7,7,NHS Dumfries and Galloway
-607,2013Q4,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
-618,2014Q1,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
-628,2014Q2,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
-638,2014Q3,S08000017,Melanoma,16,16,NHS Dumfries and Galloway
-649,2014Q4,S08000017,Melanoma,9,9,NHS Dumfries and Galloway
-659,2015Q1,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
-670,2015Q2,S08000017,Melanoma,13,13,NHS Dumfries and Galloway
-681,2015Q3,S08000017,Melanoma,6,6,NHS Dumfries and Galloway
-692,2015Q4,S08000017,Melanoma,3,3,NHS Dumfries and Galloway
-701,2016Q1,S08000017,Melanoma,4,4,NHS Dumfries and Galloway
-711,2016Q2,S08000017,Melanoma,11,11,NHS Dumfries and Galloway
-722,2016Q3,S08000017,Melanoma,6,6,NHS Dumfries and Galloway
-731,2016Q4,S08000017,Melanoma,11,11,NHS Dumfries and Galloway
-742,2017Q1,S08000017,Melanoma,5,5,NHS Dumfries and Galloway
-753,2017Q2,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
-762,2017Q3,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
-773,2017Q4,S08000017,Melanoma,5,5,NHS Dumfries and Galloway
-783,2018Q1,S08000017,Melanoma,7,7,NHS Dumfries and Galloway
-794,2018Q2,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
-805,2018Q3,S08000017,Melanoma,4,4,NHS Dumfries and Galloway
-815,2018Q4,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
-825,2019Q1,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
-836,2019Q2,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
-847,2019Q3,S08000017,Melanoma,5,5,NHS Dumfries and Galloway
-856,2019Q4,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
-866,2020Q1,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
-876,2020Q2,S08000017,Melanoma,4,4,NHS Dumfries and Galloway
-886,2020Q3,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
-959,2020Q4,S08000017,Melanoma,9,9,NHS Dumfries and Galloway
-974,2021Q1,S08000017,Melanoma,5,5,NHS Dumfries and Galloway
-986,2021Q2,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
-998,2021Q3,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
-1010,2021Q4,S08000017,Melanoma,11,11,NHS Dumfries and Galloway
-1022,2022Q1,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
+539,2012Q1,S08000017,Melanoma,4,4,NHS Dumfries and Galloway
+549,2012Q2,S08000017,Melanoma,4,4,NHS Dumfries and Galloway
+562,2012Q3,S08000017,Melanoma,13,12,NHS Dumfries and Galloway
+575,2012Q4,S08000017,Melanoma,6,6,NHS Dumfries and Galloway
+586,2013Q1,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
+596,2013Q2,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
+608,2013Q3,S08000017,Melanoma,7,7,NHS Dumfries and Galloway
+620,2013Q4,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
+633,2014Q1,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
+645,2014Q2,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
+657,2014Q3,S08000017,Melanoma,16,16,NHS Dumfries and Galloway
+670,2014Q4,S08000017,Melanoma,9,9,NHS Dumfries and Galloway
+682,2015Q1,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
+695,2015Q2,S08000017,Melanoma,13,13,NHS Dumfries and Galloway
+708,2015Q3,S08000017,Melanoma,6,6,NHS Dumfries and Galloway
+721,2015Q4,S08000017,Melanoma,3,3,NHS Dumfries and Galloway
+732,2016Q1,S08000017,Melanoma,4,4,NHS Dumfries and Galloway
+744,2016Q2,S08000017,Melanoma,11,11,NHS Dumfries and Galloway
+757,2016Q3,S08000017,Melanoma,6,6,NHS Dumfries and Galloway
+767,2016Q4,S08000017,Melanoma,11,11,NHS Dumfries and Galloway
+780,2017Q1,S08000017,Melanoma,5,5,NHS Dumfries and Galloway
+793,2017Q2,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
+804,2017Q3,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
+817,2017Q4,S08000017,Melanoma,5,5,NHS Dumfries and Galloway
+829,2018Q1,S08000017,Melanoma,7,7,NHS Dumfries and Galloway
+842,2018Q2,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
+855,2018Q3,S08000017,Melanoma,4,4,NHS Dumfries and Galloway
+867,2018Q4,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
+879,2019Q1,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
+892,2019Q2,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
+905,2019Q3,S08000017,Melanoma,5,5,NHS Dumfries and Galloway
+915,2019Q4,S08000017,Melanoma,10,10,NHS Dumfries and Galloway
+927,2020Q1,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
+938,2020Q2,S08000017,Melanoma,4,4,NHS Dumfries and Galloway
+949,2020Q3,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
+963,2020Q4,S08000017,Melanoma,9,9,NHS Dumfries and Galloway
+976,2021Q1,S08000017,Melanoma,5,5,NHS Dumfries and Galloway
+988,2021Q2,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
+1000,2021Q3,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
+1012,2021Q4,S08000017,Melanoma,11,11,NHS Dumfries and Galloway
+1024,2022Q1,S08000017,Melanoma,8,8,NHS Dumfries and Galloway
 1035,2022Q2,S08000017,Melanoma,11,11,NHS Dumfries and Galloway
-1048,2022Q3,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
+1049,2022Q3,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
 1062,2022Q4,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
 1072,2023Q1,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
 1082,2023Q2,S08000017,Melanoma,12,12,NHS Dumfries and Galloway
 1095,2023Q3,S08000017,Melanoma,13,13,NHS Dumfries and Galloway
-1106,2012Q1,S08000020,Melanoma,26,26,NHS Grampian
-1131,2012Q2,S08000020,Melanoma,24,24,NHS Grampian
-1150,2012Q3,S08000020,Melanoma,27,27,NHS Grampian
-1170,2012Q4,S08000020,Melanoma,28,27,NHS Grampian
-1178,2012Q4,S08000020,Melanoma,1,1,NHS Grampian
-1194,2013Q1,S08000020,Melanoma,22,22,NHS Grampian
-1214,2013Q2,S08000020,Melanoma,36,36,NHS Grampian
-1233,2013Q3,S08000020,Melanoma,27,27,NHS Grampian
-1255,2013Q4,S08000020,Melanoma,35,35,NHS Grampian
-1274,2014Q1,S08000020,Melanoma,35,35,NHS Grampian
-1296,2014Q2,S08000020,Melanoma,34,34,NHS Grampian
-1301,2014Q2,S08000020,Melanoma,1,1,NHS Grampian
-1319,2014Q3,S08000020,Melanoma,36,36,NHS Grampian
-1346,2014Q4,S08000020,Melanoma,29,29,NHS Grampian
-1365,2015Q1,S08000020,Melanoma,27,27,NHS Grampian
-1381,2015Q2,S08000020,Melanoma,42,41,NHS Grampian
-1392,2015Q2,S08000020,Melanoma,1,1,NHS Grampian
-1401,2015Q3,S08000020,Melanoma,28,27,NHS Grampian
-1424,2015Q4,S08000020,Melanoma,25,25,NHS Grampian
-1429,2015Q4,S08000020,Melanoma,1,1,NHS Grampian
-1435,2015Q4,S08000020,Melanoma,1,1,NHS Grampian
-1449,2016Q1,S08000020,Melanoma,37,37,NHS Grampian
-1473,2016Q2,S08000020,Melanoma,43,43,NHS Grampian
-1490,2016Q3,S08000020,Melanoma,39,38,NHS Grampian
-1513,2016Q4,S08000020,Melanoma,28,28,NHS Grampian
-1537,2017Q1,S08000020,Melanoma,32,32,NHS Grampian
-1543,2017Q1,S08000020,Melanoma,1,1,NHS Grampian
-1547,2017Q1,S08000020,Melanoma,1,1,NHS Grampian
-1552,2017Q1,S08000020,Melanoma,1,0,NHS Grampian
-1564,2017Q2,S08000020,Melanoma,23,22,NHS Grampian
-1588,2017Q3,S08000020,Melanoma,30,27,NHS Grampian
-1607,2017Q4,S08000020,Melanoma,40,35,NHS Grampian
-1613,2017Q4,S08000020,Melanoma,1,1,NHS Grampian
-1631,2018Q1,S08000020,Melanoma,46,45,NHS Grampian
-1653,2018Q2,S08000020,Melanoma,46,46,NHS Grampian
-1681,2018Q3,S08000020,Melanoma,22,22,NHS Grampian
-1700,2018Q4,S08000020,Melanoma,40,38,NHS Grampian
-1725,2019Q1,S08000020,Melanoma,31,31,NHS Grampian
-1750,2019Q2,S08000020,Melanoma,38,37,NHS Grampian
-1775,2019Q3,S08000020,Melanoma,39,38,NHS Grampian
-1799,2019Q4,S08000020,Melanoma,49,47,NHS Grampian
-1825,2020Q1,S08000020,Melanoma,33,31,NHS Grampian
-1850,2020Q2,S08000020,Melanoma,26,26,NHS Grampian
-1869,2020Q3,S08000020,Melanoma,34,34,NHS Grampian
-1884,2020Q3,S08000020,Melanoma,1,1,NHS Grampian
-2073,2020Q4,S08000020,Melanoma,34,34,NHS Grampian
-2098,2021Q1,S08000020,Melanoma,24,24,NHS Grampian
-2126,2021Q2,S08000020,Melanoma,29,29,NHS Grampian
-2158,2021Q3,S08000020,Melanoma,42,42,NHS Grampian
-2191,2021Q4,S08000020,Melanoma,41,40,NHS Grampian
-2216,2022Q1,S08000020,Melanoma,28,28,NHS Grampian
-2223,2022Q1,S08000020,Melanoma,1,1,NHS Grampian
-2229,2022Q1,S08000020,Melanoma,1,1,NHS Grampian
-2248,2022Q2,S08000020,Melanoma,43,41,NHS Grampian
-2275,2022Q3,S08000020,Melanoma,28,27,NHS Grampian
-2302,2022Q4,S08000020,Melanoma,57,55,NHS Grampian
-2307,2022Q4,S08000020,Melanoma,1,1,NHS Grampian
-2330,2023Q1,S08000020,Melanoma,40,38,NHS Grampian
-2358,2023Q2,S08000020,Melanoma,41,39,NHS Grampian
-2368,2023Q2,S08000020,Melanoma,1,1,NHS Grampian
-2386,2023Q3,S08000020,Melanoma,40,40,NHS Grampian
-2415,2012Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-2438,2012Q1,S08000031,Melanoma,75,75,NHS Greater Glasgow and Clyde
-2448,2012Q1,S08000031,Melanoma,5,5,NHS Greater Glasgow and Clyde
-2458,2012Q2,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-2486,2012Q2,S08000031,Melanoma,86,86,NHS Greater Glasgow and Clyde
-2495,2012Q2,S08000031,Melanoma,6,6,NHS Greater Glasgow and Clyde
-2503,2012Q3,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-2513,2012Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-2531,2012Q3,S08000031,Melanoma,54,53,NHS Greater Glasgow and Clyde
-2540,2012Q3,S08000031,Melanoma,7,6,NHS Greater Glasgow and Clyde
-2548,2012Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-2573,2012Q4,S08000031,Melanoma,50,50,NHS Greater Glasgow and Clyde
-2583,2012Q4,S08000031,Melanoma,6,5,NHS Greater Glasgow and Clyde
-2599,2013Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-2606,2013Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-2610,2013Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-2618,2013Q1,S08000031,Melanoma,61,61,NHS Greater Glasgow and Clyde
-2627,2013Q1,S08000031,Melanoma,5,5,NHS Greater Glasgow and Clyde
-2636,2013Q2,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-2667,2013Q2,S08000031,Melanoma,76,76,NHS Greater Glasgow and Clyde
-2677,2013Q2,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
-2686,2013Q3,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-2697,2013Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-2713,2013Q3,S08000031,Melanoma,81,80,NHS Greater Glasgow and Clyde
-2723,2013Q3,S08000031,Melanoma,8,8,NHS Greater Glasgow and Clyde
-2731,2013Q4,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-2756,2013Q4,S08000031,Melanoma,63,63,NHS Greater Glasgow and Clyde
-2764,2013Q4,S08000031,Melanoma,5,4,NHS Greater Glasgow and Clyde
-2773,2014Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-2801,2014Q1,S08000031,Melanoma,54,54,NHS Greater Glasgow and Clyde
-2810,2014Q1,S08000031,Melanoma,6,6,NHS Greater Glasgow and Clyde
-2819,2014Q2,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-2847,2014Q2,S08000031,Melanoma,67,67,NHS Greater Glasgow and Clyde
-2857,2014Q2,S08000031,Melanoma,6,5,NHS Greater Glasgow and Clyde
-2866,2014Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-2894,2014Q3,S08000031,Melanoma,76,76,NHS Greater Glasgow and Clyde
-2904,2014Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-2913,2014Q4,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-2938,2014Q4,S08000031,Melanoma,77,77,NHS Greater Glasgow and Clyde
-2947,2014Q4,S08000031,Melanoma,5,5,NHS Greater Glasgow and Clyde
-2957,2015Q1,S08000031,Melanoma,6,6,NHS Greater Glasgow and Clyde
-2983,2015Q1,S08000031,Melanoma,57,57,NHS Greater Glasgow and Clyde
-2992,2015Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3001,2015Q2,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
-3015,2015Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3022,2015Q2,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3033,2015Q2,S08000031,Melanoma,86,86,NHS Greater Glasgow and Clyde
-3043,2015Q2,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-3052,2015Q3,S08000031,Melanoma,5,5,NHS Greater Glasgow and Clyde
-3076,2015Q3,S08000031,Melanoma,96,96,NHS Greater Glasgow and Clyde
-3085,2015Q3,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-3093,2015Q4,S08000031,Melanoma,6,6,NHS Greater Glasgow and Clyde
-3106,2015Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3122,2015Q4,S08000031,Melanoma,99,99,NHS Greater Glasgow and Clyde
-3132,2015Q4,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
-3141,2016Q1,S08000031,Melanoma,5,4,NHS Greater Glasgow and Clyde
-3164,2016Q1,S08000031,Melanoma,91,89,NHS Greater Glasgow and Clyde
-3174,2016Q1,S08000031,Melanoma,8,6,NHS Greater Glasgow and Clyde
-3183,2016Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3197,2016Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3212,2016Q2,S08000031,Melanoma,104,103,NHS Greater Glasgow and Clyde
-3222,2016Q2,S08000031,Melanoma,7,6,NHS Greater Glasgow and Clyde
-3231,2016Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3241,2016Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3248,2016Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3259,2016Q3,S08000031,Melanoma,102,101,NHS Greater Glasgow and Clyde
-3269,2016Q3,S08000031,Melanoma,6,5,NHS Greater Glasgow and Clyde
-3279,2016Q4,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3289,2016Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3306,2016Q4,S08000031,Melanoma,88,84,NHS Greater Glasgow and Clyde
-3314,2016Q4,S08000031,Melanoma,4,3,NHS Greater Glasgow and Clyde
-3323,2017Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3335,2017Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3355,2017Q1,S08000031,Melanoma,76,75,NHS Greater Glasgow and Clyde
-3364,2017Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3373,2017Q2,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-3392,2017Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3400,2017Q2,S08000031,Melanoma,79,75,NHS Greater Glasgow and Clyde
-3409,2017Q2,S08000031,Melanoma,4,3,NHS Greater Glasgow and Clyde
-3418,2017Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3426,2017Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3433,2017Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3443,2017Q3,S08000031,Melanoma,78,77,NHS Greater Glasgow and Clyde
-3452,2017Q3,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
-3461,2017Q4,S08000031,Melanoma,1,0,NHS Greater Glasgow and Clyde
-3487,2017Q4,S08000031,Melanoma,61,61,NHS Greater Glasgow and Clyde
-3497,2017Q4,S08000031,Melanoma,5,4,NHS Greater Glasgow and Clyde
-3531,2018Q1,S08000031,Melanoma,56,56,NHS Greater Glasgow and Clyde
-3541,2018Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3571,2018Q2,S08000031,Melanoma,90,89,NHS Greater Glasgow and Clyde
-3580,2018Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3602,2018Q3,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-3604,2018Q3,S08000031,Melanoma,1,0,NHS Greater Glasgow and Clyde
-3613,2018Q3,S08000031,Melanoma,84,83,NHS Greater Glasgow and Clyde
-3623,2018Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3656,2018Q4,S08000031,Melanoma,71,70,NHS Greater Glasgow and Clyde
-3666,2018Q4,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3687,2019Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3701,2019Q1,S08000031,Melanoma,100,100,NHS Greater Glasgow and Clyde
-3711,2019Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3721,2019Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3746,2019Q2,S08000031,Melanoma,87,86,NHS Greater Glasgow and Clyde
-3756,2019Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3765,2019Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3777,2019Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3790,2019Q3,S08000031,Melanoma,110,109,NHS Greater Glasgow and Clyde
-3808,2019Q4,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
-3822,2019Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3836,2019Q4,S08000031,Melanoma,103,101,NHS Greater Glasgow and Clyde
-3869,2020Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3880,2020Q1,S08000031,Melanoma,88,88,NHS Greater Glasgow and Clyde
-3899,2020Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-3914,2020Q2,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-3927,2020Q2,S08000031,Melanoma,59,56,NHS Greater Glasgow and Clyde
-3958,2020Q3,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-3968,2020Q3,S08000031,Melanoma,75,74,NHS Greater Glasgow and Clyde
-3978,2020Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4239,2020Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4249,2020Q4,S08000031,Melanoma,3,2,NHS Greater Glasgow and Clyde
-4256,2020Q4,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-4267,2020Q4,S08000031,Melanoma,70,70,NHS Greater Glasgow and Clyde
-4290,2021Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4302,2021Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4309,2021Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-4319,2021Q1,S08000031,Melanoma,78,76,NHS Greater Glasgow and Clyde
-4329,2021Q1,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-4366,2021Q2,S08000031,Melanoma,102,102,NHS Greater Glasgow and Clyde
-4401,2021Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4406,2021Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4417,2021Q3,S08000031,Melanoma,89,88,NHS Greater Glasgow and Clyde
-4427,2021Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4443,2021Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4453,2021Q4,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-4461,2021Q4,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
-4473,2021Q4,S08000031,Melanoma,107,106,NHS Greater Glasgow and Clyde
-4482,2021Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4509,2022Q1,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
-4516,2022Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-4528,2022Q1,S08000031,Melanoma,77,77,NHS Greater Glasgow and Clyde
-4537,2022Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4576,2022Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4588,2022Q2,S08000031,Melanoma,76,72,NHS Greater Glasgow and Clyde
-4624,2022Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4631,2022Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4648,2022Q3,S08000031,Melanoma,110,105,NHS Greater Glasgow and Clyde
-4693,2022Q4,S08000031,Melanoma,87,81,NHS Greater Glasgow and Clyde
-4704,2022Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4727,2023Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4732,2023Q1,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
-4745,2023Q1,S08000031,Melanoma,106,104,NHS Greater Glasgow and Clyde
-4784,2023Q2,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-4795,2023Q2,S08000031,Melanoma,86,86,NHS Greater Glasgow and Clyde
-4816,2023Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
-4830,2023Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4839,2023Q3,S08000031,Melanoma,1,0,NHS Greater Glasgow and Clyde
-4851,2023Q3,S08000031,Melanoma,126,125,NHS Greater Glasgow and Clyde
-4862,2023Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
-4872,2012Q1,S08000016,Melanoma,3,3,NHS Borders
-4883,2012Q2,S08000016,Melanoma,14,14,NHS Borders
-4894,2012Q3,S08000016,Melanoma,2,2,NHS Borders
-4903,2012Q4,S08000016,Melanoma,5,5,NHS Borders
-4912,2013Q1,S08000016,Melanoma,7,7,NHS Borders
-4921,2013Q2,S08000016,Melanoma,2,2,NHS Borders
-4931,2013Q3,S08000016,Melanoma,8,8,NHS Borders
-4941,2013Q4,S08000016,Melanoma,3,3,NHS Borders
-4950,2014Q1,S08000016,Melanoma,5,5,NHS Borders
-4960,2014Q2,S08000016,Melanoma,15,15,NHS Borders
-4968,2014Q3,S08000016,Melanoma,4,4,NHS Borders
-4978,2014Q4,S08000016,Melanoma,10,10,NHS Borders
-4988,2015Q1,S08000016,Melanoma,5,4,NHS Borders
-4998,2015Q2,S08000016,Melanoma,12,12,NHS Borders
-5008,2015Q3,S08000016,Melanoma,5,5,NHS Borders
-5018,2015Q4,S08000016,Melanoma,11,11,NHS Borders
-5026,2016Q1,S08000016,Melanoma,6,6,NHS Borders
-5036,2016Q2,S08000016,Melanoma,13,13,NHS Borders
-5045,2016Q3,S08000016,Melanoma,8,8,NHS Borders
-5056,2016Q4,S08000016,Melanoma,3,3,NHS Borders
-5067,2017Q1,S08000016,Melanoma,7,7,NHS Borders
-5077,2017Q2,S08000016,Melanoma,7,7,NHS Borders
-5087,2017Q3,S08000016,Melanoma,11,11,NHS Borders
-5096,2017Q4,S08000016,Melanoma,4,4,NHS Borders
-5108,2018Q1,S08000016,Melanoma,4,4,NHS Borders
-5117,2018Q2,S08000016,Melanoma,10,10,NHS Borders
-5127,2018Q3,S08000016,Melanoma,4,4,NHS Borders
-5135,2018Q4,S08000016,Melanoma,5,5,NHS Borders
-5145,2019Q1,S08000016,Melanoma,7,7,NHS Borders
-5155,2019Q2,S08000016,Melanoma,4,4,NHS Borders
-5163,2019Q3,S08000016,Melanoma,6,6,NHS Borders
-5172,2019Q4,S08000016,Melanoma,5,5,NHS Borders
-5183,2020Q1,S08000016,Melanoma,3,3,NHS Borders
-5193,2020Q2,S08000016,Melanoma,3,3,NHS Borders
-5202,2020Q3,S08000016,Melanoma,3,3,NHS Borders
-5261,2020Q4,S08000016,Melanoma,1,1,NHS Borders
-5273,2021Q1,S08000016,Melanoma,7,7,NHS Borders
-5282,2021Q2,S08000016,Melanoma,15,15,NHS Borders
-5294,2021Q3,S08000016,Melanoma,9,9,NHS Borders
-5307,2021Q4,S08000016,Melanoma,5,5,NHS Borders
-5319,2022Q1,S08000016,Melanoma,4,4,NHS Borders
+1122,2012Q1,S08000020,Melanoma,26,26,NHS Grampian
+1146,2012Q2,S08000020,Melanoma,24,24,NHS Grampian
+1169,2012Q3,S08000020,Melanoma,27,27,NHS Grampian
+1198,2012Q4,S08000020,Melanoma,28,27,NHS Grampian
+1199,2012Q4,S08000020,Melanoma,1,1,NHS Grampian
+1223,2013Q1,S08000020,Melanoma,22,22,NHS Grampian
+1247,2013Q2,S08000020,Melanoma,36,36,NHS Grampian
+1271,2013Q3,S08000020,Melanoma,27,27,NHS Grampian
+1294,2013Q4,S08000020,Melanoma,35,35,NHS Grampian
+1323,2014Q1,S08000020,Melanoma,35,35,NHS Grampian
+1348,2014Q2,S08000020,Melanoma,34,34,NHS Grampian
+1349,2014Q2,S08000020,Melanoma,1,1,NHS Grampian
+1381,2014Q3,S08000020,Melanoma,36,36,NHS Grampian
+1409,2014Q4,S08000020,Melanoma,29,29,NHS Grampian
+1428,2015Q1,S08000020,Melanoma,27,27,NHS Grampian
+1452,2015Q2,S08000020,Melanoma,42,41,NHS Grampian
+1453,2015Q2,S08000020,Melanoma,1,1,NHS Grampian
+1480,2015Q3,S08000020,Melanoma,28,27,NHS Grampian
+1506,2015Q4,S08000020,Melanoma,25,25,NHS Grampian
+1507,2015Q4,S08000020,Melanoma,1,1,NHS Grampian
+1508,2015Q4,S08000020,Melanoma,1,1,NHS Grampian
+1537,2016Q1,S08000020,Melanoma,37,37,NHS Grampian
+1559,2016Q2,S08000020,Melanoma,43,43,NHS Grampian
+1586,2016Q3,S08000020,Melanoma,39,38,NHS Grampian
+1616,2016Q4,S08000020,Melanoma,28,28,NHS Grampian
+1644,2017Q1,S08000020,Melanoma,32,32,NHS Grampian
+1645,2017Q1,S08000020,Melanoma,1,1,NHS Grampian
+1646,2017Q1,S08000020,Melanoma,1,1,NHS Grampian
+1647,2017Q1,S08000020,Melanoma,1,0,NHS Grampian
+1678,2017Q2,S08000020,Melanoma,23,22,NHS Grampian
+1703,2017Q3,S08000020,Melanoma,30,27,NHS Grampian
+1731,2017Q4,S08000020,Melanoma,40,35,NHS Grampian
+1732,2017Q4,S08000020,Melanoma,1,1,NHS Grampian
+1760,2018Q1,S08000020,Melanoma,46,45,NHS Grampian
+1792,2018Q2,S08000020,Melanoma,46,46,NHS Grampian
+1817,2018Q3,S08000020,Melanoma,22,22,NHS Grampian
+1846,2018Q4,S08000020,Melanoma,40,38,NHS Grampian
+1875,2019Q1,S08000020,Melanoma,31,31,NHS Grampian
+1907,2019Q2,S08000020,Melanoma,38,37,NHS Grampian
+1936,2019Q3,S08000020,Melanoma,39,38,NHS Grampian
+1970,2019Q4,S08000020,Melanoma,49,47,NHS Grampian
+2003,2020Q1,S08000020,Melanoma,33,31,NHS Grampian
+2024,2020Q2,S08000020,Melanoma,26,26,NHS Grampian
+2053,2020Q3,S08000020,Melanoma,34,34,NHS Grampian
+2054,2020Q3,S08000020,Melanoma,1,1,NHS Grampian
+2081,2020Q4,S08000020,Melanoma,34,34,NHS Grampian
+2108,2021Q1,S08000020,Melanoma,24,24,NHS Grampian
+2140,2021Q2,S08000020,Melanoma,29,29,NHS Grampian
+2171,2021Q3,S08000020,Melanoma,42,42,NHS Grampian
+2200,2021Q4,S08000020,Melanoma,41,40,NHS Grampian
+2229,2022Q1,S08000020,Melanoma,28,28,NHS Grampian
+2230,2022Q1,S08000020,Melanoma,1,1,NHS Grampian
+2231,2022Q1,S08000020,Melanoma,1,1,NHS Grampian
+2257,2022Q2,S08000020,Melanoma,43,41,NHS Grampian
+2286,2022Q3,S08000020,Melanoma,28,27,NHS Grampian
+2312,2022Q4,S08000020,Melanoma,57,55,NHS Grampian
+2313,2022Q4,S08000020,Melanoma,1,1,NHS Grampian
+2341,2023Q1,S08000020,Melanoma,40,38,NHS Grampian
+2366,2023Q2,S08000020,Melanoma,41,39,NHS Grampian
+2367,2023Q2,S08000020,Melanoma,1,1,NHS Grampian
+2399,2023Q3,S08000020,Melanoma,40,40,NHS Grampian
+2441,2012Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+2442,2012Q1,S08000031,Melanoma,75,75,NHS Greater Glasgow and Clyde
+2443,2012Q1,S08000031,Melanoma,5,5,NHS Greater Glasgow and Clyde
+2494,2012Q2,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+2495,2012Q2,S08000031,Melanoma,86,86,NHS Greater Glasgow and Clyde
+2496,2012Q2,S08000031,Melanoma,6,6,NHS Greater Glasgow and Clyde
+2547,2012Q3,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+2548,2012Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+2549,2012Q3,S08000031,Melanoma,54,53,NHS Greater Glasgow and Clyde
+2550,2012Q3,S08000031,Melanoma,7,6,NHS Greater Glasgow and Clyde
+2597,2012Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+2598,2012Q4,S08000031,Melanoma,50,50,NHS Greater Glasgow and Clyde
+2599,2012Q4,S08000031,Melanoma,6,5,NHS Greater Glasgow and Clyde
+2646,2013Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+2647,2013Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+2648,2013Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+2649,2013Q1,S08000031,Melanoma,61,61,NHS Greater Glasgow and Clyde
+2650,2013Q1,S08000031,Melanoma,5,5,NHS Greater Glasgow and Clyde
+2705,2013Q2,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+2706,2013Q2,S08000031,Melanoma,76,76,NHS Greater Glasgow and Clyde
+2707,2013Q2,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
+2759,2013Q3,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+2760,2013Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+2761,2013Q3,S08000031,Melanoma,81,80,NHS Greater Glasgow and Clyde
+2762,2013Q3,S08000031,Melanoma,8,8,NHS Greater Glasgow and Clyde
+2807,2013Q4,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+2808,2013Q4,S08000031,Melanoma,63,63,NHS Greater Glasgow and Clyde
+2809,2013Q4,S08000031,Melanoma,5,4,NHS Greater Glasgow and Clyde
+2861,2014Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+2862,2014Q1,S08000031,Melanoma,54,54,NHS Greater Glasgow and Clyde
+2863,2014Q1,S08000031,Melanoma,6,6,NHS Greater Glasgow and Clyde
+2916,2014Q2,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+2917,2014Q2,S08000031,Melanoma,67,67,NHS Greater Glasgow and Clyde
+2918,2014Q2,S08000031,Melanoma,6,5,NHS Greater Glasgow and Clyde
+2969,2014Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+2970,2014Q3,S08000031,Melanoma,76,76,NHS Greater Glasgow and Clyde
+2971,2014Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3019,2014Q4,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+3020,2014Q4,S08000031,Melanoma,77,77,NHS Greater Glasgow and Clyde
+3021,2014Q4,S08000031,Melanoma,5,5,NHS Greater Glasgow and Clyde
+3072,2015Q1,S08000031,Melanoma,6,6,NHS Greater Glasgow and Clyde
+3073,2015Q1,S08000031,Melanoma,57,57,NHS Greater Glasgow and Clyde
+3074,2015Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3126,2015Q2,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
+3127,2015Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3128,2015Q2,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3129,2015Q2,S08000031,Melanoma,86,86,NHS Greater Glasgow and Clyde
+3130,2015Q2,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+3181,2015Q3,S08000031,Melanoma,5,5,NHS Greater Glasgow and Clyde
+3182,2015Q3,S08000031,Melanoma,96,96,NHS Greater Glasgow and Clyde
+3183,2015Q3,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+3231,2015Q4,S08000031,Melanoma,6,6,NHS Greater Glasgow and Clyde
+3232,2015Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3233,2015Q4,S08000031,Melanoma,99,99,NHS Greater Glasgow and Clyde
+3234,2015Q4,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
+3281,2016Q1,S08000031,Melanoma,5,4,NHS Greater Glasgow and Clyde
+3282,2016Q1,S08000031,Melanoma,91,89,NHS Greater Glasgow and Clyde
+3283,2016Q1,S08000031,Melanoma,8,6,NHS Greater Glasgow and Clyde
+3334,2016Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3335,2016Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3336,2016Q2,S08000031,Melanoma,104,103,NHS Greater Glasgow and Clyde
+3337,2016Q2,S08000031,Melanoma,7,6,NHS Greater Glasgow and Clyde
+3390,2016Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3391,2016Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3392,2016Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3393,2016Q3,S08000031,Melanoma,102,101,NHS Greater Glasgow and Clyde
+3394,2016Q3,S08000031,Melanoma,6,5,NHS Greater Glasgow and Clyde
+3443,2016Q4,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3444,2016Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3445,2016Q4,S08000031,Melanoma,88,84,NHS Greater Glasgow and Clyde
+3446,2016Q4,S08000031,Melanoma,4,3,NHS Greater Glasgow and Clyde
+3501,2017Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3502,2017Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3503,2017Q1,S08000031,Melanoma,76,75,NHS Greater Glasgow and Clyde
+3504,2017Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3555,2017Q2,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+3556,2017Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3557,2017Q2,S08000031,Melanoma,79,75,NHS Greater Glasgow and Clyde
+3558,2017Q2,S08000031,Melanoma,4,3,NHS Greater Glasgow and Clyde
+3603,2017Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3604,2017Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3605,2017Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3606,2017Q3,S08000031,Melanoma,78,77,NHS Greater Glasgow and Clyde
+3607,2017Q3,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
+3657,2017Q4,S08000031,Melanoma,1,0,NHS Greater Glasgow and Clyde
+3658,2017Q4,S08000031,Melanoma,61,61,NHS Greater Glasgow and Clyde
+3659,2017Q4,S08000031,Melanoma,5,4,NHS Greater Glasgow and Clyde
+3712,2018Q1,S08000031,Melanoma,56,56,NHS Greater Glasgow and Clyde
+3713,2018Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3755,2018Q2,S08000031,Melanoma,90,89,NHS Greater Glasgow and Clyde
+3756,2018Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3804,2018Q3,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+3805,2018Q3,S08000031,Melanoma,1,0,NHS Greater Glasgow and Clyde
+3806,2018Q3,S08000031,Melanoma,84,83,NHS Greater Glasgow and Clyde
+3807,2018Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3857,2018Q4,S08000031,Melanoma,71,70,NHS Greater Glasgow and Clyde
+3858,2018Q4,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3907,2019Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3908,2019Q1,S08000031,Melanoma,100,100,NHS Greater Glasgow and Clyde
+3909,2019Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+3961,2019Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+3962,2019Q2,S08000031,Melanoma,87,86,NHS Greater Glasgow and Clyde
+3963,2019Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4011,2019Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+4012,2019Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4013,2019Q3,S08000031,Melanoma,110,109,NHS Greater Glasgow and Clyde
+4062,2019Q4,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
+4063,2019Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4064,2019Q4,S08000031,Melanoma,103,101,NHS Greater Glasgow and Clyde
+4114,2020Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+4115,2020Q1,S08000031,Melanoma,88,88,NHS Greater Glasgow and Clyde
+4167,2020Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4168,2020Q2,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+4169,2020Q2,S08000031,Melanoma,59,56,NHS Greater Glasgow and Clyde
+4219,2020Q3,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+4220,2020Q3,S08000031,Melanoma,75,74,NHS Greater Glasgow and Clyde
+4221,2020Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4266,2020Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4267,2020Q4,S08000031,Melanoma,3,2,NHS Greater Glasgow and Clyde
+4268,2020Q4,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+4269,2020Q4,S08000031,Melanoma,70,70,NHS Greater Glasgow and Clyde
+4322,2021Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4323,2021Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4324,2021Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+4325,2021Q1,S08000031,Melanoma,78,76,NHS Greater Glasgow and Clyde
+4326,2021Q1,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+4371,2021Q2,S08000031,Melanoma,102,102,NHS Greater Glasgow and Clyde
+4420,2021Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4421,2021Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4422,2021Q3,S08000031,Melanoma,89,88,NHS Greater Glasgow and Clyde
+4423,2021Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4472,2021Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4473,2021Q4,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+4474,2021Q4,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
+4475,2021Q4,S08000031,Melanoma,107,106,NHS Greater Glasgow and Clyde
+4476,2021Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4532,2022Q1,S08000031,Melanoma,4,4,NHS Greater Glasgow and Clyde
+4533,2022Q1,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+4534,2022Q1,S08000031,Melanoma,77,77,NHS Greater Glasgow and Clyde
+4535,2022Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4586,2022Q2,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4587,2022Q2,S08000031,Melanoma,76,72,NHS Greater Glasgow and Clyde
+4640,2022Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4641,2022Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4642,2022Q3,S08000031,Melanoma,110,105,NHS Greater Glasgow and Clyde
+4692,2022Q4,S08000031,Melanoma,87,81,NHS Greater Glasgow and Clyde
+4693,2022Q4,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4742,2023Q1,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4743,2023Q1,S08000031,Melanoma,3,3,NHS Greater Glasgow and Clyde
+4744,2023Q1,S08000031,Melanoma,106,104,NHS Greater Glasgow and Clyde
+4793,2023Q2,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+4794,2023Q2,S08000031,Melanoma,86,86,NHS Greater Glasgow and Clyde
+4847,2023Q3,S08000031,Melanoma,2,2,NHS Greater Glasgow and Clyde
+4848,2023Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4849,2023Q3,S08000031,Melanoma,1,0,NHS Greater Glasgow and Clyde
+4850,2023Q3,S08000031,Melanoma,126,125,NHS Greater Glasgow and Clyde
+4851,2023Q3,S08000031,Melanoma,1,1,NHS Greater Glasgow and Clyde
+4875,2012Q1,S08000016,Melanoma,3,3,NHS Borders
+4888,2012Q2,S08000016,Melanoma,14,14,NHS Borders
+4899,2012Q3,S08000016,Melanoma,2,2,NHS Borders
+4909,2012Q4,S08000016,Melanoma,5,5,NHS Borders
+4919,2013Q1,S08000016,Melanoma,7,7,NHS Borders
+4930,2013Q2,S08000016,Melanoma,2,2,NHS Borders
+4941,2013Q3,S08000016,Melanoma,8,8,NHS Borders
+4952,2013Q4,S08000016,Melanoma,3,3,NHS Borders
+4962,2014Q1,S08000016,Melanoma,5,5,NHS Borders
+4973,2014Q2,S08000016,Melanoma,15,15,NHS Borders
+4984,2014Q3,S08000016,Melanoma,4,4,NHS Borders
+4996,2014Q4,S08000016,Melanoma,10,10,NHS Borders
+5008,2015Q1,S08000016,Melanoma,5,4,NHS Borders
+5020,2015Q2,S08000016,Melanoma,12,12,NHS Borders
+5030,2015Q3,S08000016,Melanoma,5,5,NHS Borders
+5041,2015Q4,S08000016,Melanoma,11,11,NHS Borders
+5052,2016Q1,S08000016,Melanoma,6,6,NHS Borders
+5062,2016Q2,S08000016,Melanoma,13,13,NHS Borders
+5074,2016Q3,S08000016,Melanoma,8,8,NHS Borders
+5087,2016Q4,S08000016,Melanoma,3,3,NHS Borders
+5100,2017Q1,S08000016,Melanoma,7,7,NHS Borders
+5112,2017Q2,S08000016,Melanoma,7,7,NHS Borders
+5122,2017Q3,S08000016,Melanoma,11,11,NHS Borders
+5135,2017Q4,S08000016,Melanoma,4,4,NHS Borders
+5146,2018Q1,S08000016,Melanoma,4,4,NHS Borders
+5156,2018Q2,S08000016,Melanoma,10,10,NHS Borders
+5167,2018Q3,S08000016,Melanoma,4,4,NHS Borders
+5176,2018Q4,S08000016,Melanoma,5,5,NHS Borders
+5187,2019Q1,S08000016,Melanoma,7,7,NHS Borders
+5198,2019Q2,S08000016,Melanoma,4,4,NHS Borders
+5207,2019Q3,S08000016,Melanoma,6,6,NHS Borders
+5219,2019Q4,S08000016,Melanoma,5,5,NHS Borders
+5232,2020Q1,S08000016,Melanoma,3,3,NHS Borders
+5242,2020Q2,S08000016,Melanoma,3,3,NHS Borders
+5252,2020Q3,S08000016,Melanoma,3,3,NHS Borders
+5264,2020Q4,S08000016,Melanoma,1,1,NHS Borders
+5274,2021Q1,S08000016,Melanoma,7,7,NHS Borders
+5285,2021Q2,S08000016,Melanoma,15,15,NHS Borders
+5297,2021Q3,S08000016,Melanoma,9,9,NHS Borders
+5310,2021Q4,S08000016,Melanoma,5,5,NHS Borders
+5320,2022Q1,S08000016,Melanoma,4,4,NHS Borders
 5330,2022Q2,S08000016,Melanoma,8,8,NHS Borders
-5341,2022Q3,S08000016,Melanoma,8,8,NHS Borders
-5354,2022Q4,S08000016,Melanoma,7,7,NHS Borders
-5367,2023Q1,S08000016,Melanoma,6,6,NHS Borders
-5379,2023Q2,S08000016,Melanoma,13,13,NHS Borders
-5391,2023Q3,S08000016,Melanoma,5,5,NHS Borders
-5401,2012Q1,S08000024,Melanoma,1,1,NHS Lothian
-5409,2012Q1,S08000024,Melanoma,1,1,NHS Lothian
-5416,2012Q1,S08000024,Melanoma,1,1,NHS Lothian
-5424,2012Q1,S08000024,Melanoma,50,50,NHS Lothian
-5462,2012Q2,S08000024,Melanoma,49,49,NHS Lothian
-5470,2012Q2,S08000024,Melanoma,1,1,NHS Lothian
-5485,2012Q3,S08000024,Melanoma,1,1,NHS Lothian
-5492,2012Q3,S08000024,Melanoma,1,1,NHS Lothian
-5504,2012Q3,S08000024,Melanoma,45,45,NHS Lothian
-5513,2012Q3,S08000024,Melanoma,2,2,NHS Lothian
-5544,2012Q4,S08000024,Melanoma,36,35,NHS Lothian
-5554,2012Q4,S08000024,Melanoma,2,2,NHS Lothian
-5576,2013Q1,S08000024,Melanoma,1,1,NHS Lothian
-5588,2013Q1,S08000024,Melanoma,35,35,NHS Lothian
-5608,2013Q2,S08000024,Melanoma,2,2,NHS Lothian
-5618,2013Q2,S08000024,Melanoma,1,1,NHS Lothian
-5629,2013Q2,S08000024,Melanoma,37,37,NHS Lothian
-5659,2013Q3,S08000024,Melanoma,1,1,NHS Lothian
-5673,2013Q3,S08000024,Melanoma,47,47,NHS Lothian
-5682,2013Q3,S08000024,Melanoma,1,1,NHS Lothian
-5700,2013Q4,S08000024,Melanoma,3,3,NHS Lothian
-5713,2013Q4,S08000024,Melanoma,60,60,NHS Lothian
-5734,2014Q1,S08000024,Melanoma,3,3,NHS Lothian
-5753,2014Q1,S08000024,Melanoma,45,45,NHS Lothian
-5779,2014Q2,S08000024,Melanoma,1,1,NHS Lothian
-5794,2014Q2,S08000024,Melanoma,43,43,NHS Lothian
-5817,2014Q3,S08000024,Melanoma,3,3,NHS Lothian
-5838,2014Q3,S08000024,Melanoma,51,51,NHS Lothian
-5865,2014Q4,S08000024,Melanoma,2,2,NHS Lothian
-5869,2014Q4,S08000024,Melanoma,1,1,NHS Lothian
-5876,2014Q4,S08000024,Melanoma,53,53,NHS Lothian
-5897,2015Q1,S08000024,Melanoma,1,1,NHS Lothian
-5916,2015Q1,S08000024,Melanoma,45,45,NHS Lothian
-5958,2015Q2,S08000024,Melanoma,54,54,NHS Lothian
-5996,2015Q3,S08000024,Melanoma,46,46,NHS Lothian
-6015,2015Q4,S08000024,Melanoma,1,1,NHS Lothian
-6035,2015Q4,S08000024,Melanoma,75,75,NHS Lothian
-6071,2016Q1,S08000024,Melanoma,41,41,NHS Lothian
-6110,2016Q2,S08000024,Melanoma,45,45,NHS Lothian
-6128,2016Q3,S08000024,Melanoma,1,1,NHS Lothian
-6136,2016Q3,S08000024,Melanoma,1,1,NHS Lothian
-6142,2016Q3,S08000024,Melanoma,1,1,NHS Lothian
-6150,2016Q3,S08000024,Melanoma,51,51,NHS Lothian
-6178,2016Q4,S08000024,Melanoma,1,1,NHS Lothian
-6190,2016Q4,S08000024,Melanoma,45,45,NHS Lothian
-6199,2016Q4,S08000024,Melanoma,1,1,NHS Lothian
-6211,2017Q1,S08000024,Melanoma,1,1,NHS Lothian
-6217,2017Q1,S08000024,Melanoma,1,1,NHS Lothian
-6230,2017Q1,S08000024,Melanoma,42,42,NHS Lothian
-6271,2017Q2,S08000024,Melanoma,40,40,NHS Lothian
-6310,2017Q3,S08000024,Melanoma,38,38,NHS Lothian
-6319,2017Q3,S08000024,Melanoma,2,2,NHS Lothian
-6332,2017Q4,S08000024,Melanoma,1,1,NHS Lothian
-6340,2017Q4,S08000024,Melanoma,1,1,NHS Lothian
-6352,2017Q4,S08000024,Melanoma,50,50,NHS Lothian
-6375,2018Q1,S08000024,Melanoma,2,2,NHS Lothian
-6394,2018Q1,S08000024,Melanoma,39,39,NHS Lothian
-6412,2018Q2,S08000024,Melanoma,3,3,NHS Lothian
-6417,2018Q2,S08000024,Melanoma,1,1,NHS Lothian
-6430,2018Q2,S08000024,Melanoma,57,57,NHS Lothian
-6438,2018Q2,S08000024,Melanoma,1,1,NHS Lothian
-6457,2018Q3,S08000024,Melanoma,3,3,NHS Lothian
-6470,2018Q3,S08000024,Melanoma,38,34,NHS Lothian
-6490,2018Q4,S08000024,Melanoma,1,1,NHS Lothian
-6498,2018Q4,S08000024,Melanoma,1,1,NHS Lothian
-6511,2018Q4,S08000024,Melanoma,27,27,NHS Lothian
-6529,2019Q1,S08000024,Melanoma,1,1,NHS Lothian
-6551,2019Q1,S08000024,Melanoma,28,27,NHS Lothian
-6590,2019Q2,S08000024,Melanoma,59,58,NHS Lothian
-6610,2019Q3,S08000024,Melanoma,2,2,NHS Lothian
-6618,2019Q3,S08000024,Melanoma,1,1,NHS Lothian
-6633,2019Q3,S08000024,Melanoma,86,85,NHS Lothian
-6664,2019Q4,S08000024,Melanoma,1,1,NHS Lothian
-6677,2019Q4,S08000024,Melanoma,52,50,NHS Lothian
-6696,2020Q1,S08000024,Melanoma,1,1,NHS Lothian
-6716,2020Q1,S08000024,Melanoma,25,24,NHS Lothian
-6723,2020Q1,S08000024,Melanoma,1,1,NHS Lothian
-6741,2020Q2,S08000024,Melanoma,1,0,NHS Lothian
-6754,2020Q2,S08000024,Melanoma,13,12,NHS Lothian
-6794,2020Q3,S08000024,Melanoma,25,25,NHS Lothian
-7158,2020Q4,S08000024,Melanoma,1,1,NHS Lothian
-7170,2020Q4,S08000024,Melanoma,31,31,NHS Lothian
-7221,2021Q1,S08000024,Melanoma,19,19,NHS Lothian
-7258,2021Q2,S08000024,Melanoma,2,2,NHS Lothian
-7267,2021Q2,S08000024,Melanoma,53,53,NHS Lothian
-7319,2021Q3,S08000024,Melanoma,56,54,NHS Lothian
-7349,2021Q4,S08000024,Melanoma,1,1,NHS Lothian
-7358,2021Q4,S08000024,Melanoma,1,1,NHS Lothian
-7371,2021Q4,S08000024,Melanoma,44,44,NHS Lothian
-7418,2022Q1,S08000024,Melanoma,47,47,NHS Lothian
+5343,2022Q3,S08000016,Melanoma,8,8,NHS Borders
+5356,2022Q4,S08000016,Melanoma,7,7,NHS Borders
+5369,2023Q1,S08000016,Melanoma,6,6,NHS Borders
+5381,2023Q2,S08000016,Melanoma,13,13,NHS Borders
+5393,2023Q3,S08000016,Melanoma,5,5,NHS Borders
+5429,2012Q1,S08000024,Melanoma,1,1,NHS Lothian
+5430,2012Q1,S08000024,Melanoma,1,1,NHS Lothian
+5431,2012Q1,S08000024,Melanoma,1,1,NHS Lothian
+5432,2012Q1,S08000024,Melanoma,50,50,NHS Lothian
+5479,2012Q2,S08000024,Melanoma,49,49,NHS Lothian
+5480,2012Q2,S08000024,Melanoma,1,1,NHS Lothian
+5529,2012Q3,S08000024,Melanoma,1,1,NHS Lothian
+5530,2012Q3,S08000024,Melanoma,1,1,NHS Lothian
+5531,2012Q3,S08000024,Melanoma,45,45,NHS Lothian
+5532,2012Q3,S08000024,Melanoma,2,2,NHS Lothian
+5582,2012Q4,S08000024,Melanoma,36,35,NHS Lothian
+5583,2012Q4,S08000024,Melanoma,2,2,NHS Lothian
+5633,2013Q1,S08000024,Melanoma,1,1,NHS Lothian
+5634,2013Q1,S08000024,Melanoma,35,35,NHS Lothian
+5685,2013Q2,S08000024,Melanoma,2,2,NHS Lothian
+5686,2013Q2,S08000024,Melanoma,1,1,NHS Lothian
+5687,2013Q2,S08000024,Melanoma,37,37,NHS Lothian
+5738,2013Q3,S08000024,Melanoma,1,1,NHS Lothian
+5739,2013Q3,S08000024,Melanoma,47,47,NHS Lothian
+5740,2013Q3,S08000024,Melanoma,1,1,NHS Lothian
+5789,2013Q4,S08000024,Melanoma,3,3,NHS Lothian
+5790,2013Q4,S08000024,Melanoma,60,60,NHS Lothian
+5840,2014Q1,S08000024,Melanoma,3,3,NHS Lothian
+5841,2014Q1,S08000024,Melanoma,45,45,NHS Lothian
+5890,2014Q2,S08000024,Melanoma,1,1,NHS Lothian
+5891,2014Q2,S08000024,Melanoma,43,43,NHS Lothian
+5942,2014Q3,S08000024,Melanoma,3,3,NHS Lothian
+5943,2014Q3,S08000024,Melanoma,51,51,NHS Lothian
+5994,2014Q4,S08000024,Melanoma,2,2,NHS Lothian
+5995,2014Q4,S08000024,Melanoma,1,1,NHS Lothian
+5996,2014Q4,S08000024,Melanoma,53,53,NHS Lothian
+6043,2015Q1,S08000024,Melanoma,1,1,NHS Lothian
+6044,2015Q1,S08000024,Melanoma,45,45,NHS Lothian
+6094,2015Q2,S08000024,Melanoma,54,54,NHS Lothian
+6143,2015Q3,S08000024,Melanoma,46,46,NHS Lothian
+6188,2015Q4,S08000024,Melanoma,1,1,NHS Lothian
+6189,2015Q4,S08000024,Melanoma,75,75,NHS Lothian
+6237,2016Q1,S08000024,Melanoma,41,41,NHS Lothian
+6286,2016Q2,S08000024,Melanoma,45,45,NHS Lothian
+6332,2016Q3,S08000024,Melanoma,1,1,NHS Lothian
+6333,2016Q3,S08000024,Melanoma,1,1,NHS Lothian
+6334,2016Q3,S08000024,Melanoma,1,1,NHS Lothian
+6335,2016Q3,S08000024,Melanoma,51,51,NHS Lothian
+6385,2016Q4,S08000024,Melanoma,1,1,NHS Lothian
+6386,2016Q4,S08000024,Melanoma,45,45,NHS Lothian
+6387,2016Q4,S08000024,Melanoma,1,1,NHS Lothian
+6432,2017Q1,S08000024,Melanoma,1,1,NHS Lothian
+6433,2017Q1,S08000024,Melanoma,1,1,NHS Lothian
+6434,2017Q1,S08000024,Melanoma,42,42,NHS Lothian
+6484,2017Q2,S08000024,Melanoma,40,40,NHS Lothian
+6537,2017Q3,S08000024,Melanoma,38,38,NHS Lothian
+6538,2017Q3,S08000024,Melanoma,2,2,NHS Lothian
+6585,2017Q4,S08000024,Melanoma,1,1,NHS Lothian
+6586,2017Q4,S08000024,Melanoma,1,1,NHS Lothian
+6587,2017Q4,S08000024,Melanoma,50,50,NHS Lothian
+6633,2018Q1,S08000024,Melanoma,2,2,NHS Lothian
+6634,2018Q1,S08000024,Melanoma,39,39,NHS Lothian
+6675,2018Q2,S08000024,Melanoma,3,3,NHS Lothian
+6676,2018Q2,S08000024,Melanoma,1,1,NHS Lothian
+6677,2018Q2,S08000024,Melanoma,57,57,NHS Lothian
+6678,2018Q2,S08000024,Melanoma,1,1,NHS Lothian
+6726,2018Q3,S08000024,Melanoma,3,3,NHS Lothian
+6727,2018Q3,S08000024,Melanoma,38,34,NHS Lothian
+6774,2018Q4,S08000024,Melanoma,1,1,NHS Lothian
+6775,2018Q4,S08000024,Melanoma,1,1,NHS Lothian
+6776,2018Q4,S08000024,Melanoma,27,27,NHS Lothian
+6828,2019Q1,S08000024,Melanoma,1,1,NHS Lothian
+6829,2019Q1,S08000024,Melanoma,28,27,NHS Lothian
+6875,2019Q2,S08000024,Melanoma,59,58,NHS Lothian
+6925,2019Q3,S08000024,Melanoma,2,2,NHS Lothian
+6926,2019Q3,S08000024,Melanoma,1,1,NHS Lothian
+6927,2019Q3,S08000024,Melanoma,86,85,NHS Lothian
+6982,2019Q4,S08000024,Melanoma,1,1,NHS Lothian
+6983,2019Q4,S08000024,Melanoma,52,50,NHS Lothian
+7026,2020Q1,S08000024,Melanoma,1,1,NHS Lothian
+7027,2020Q1,S08000024,Melanoma,25,24,NHS Lothian
+7028,2020Q1,S08000024,Melanoma,1,1,NHS Lothian
+7075,2020Q2,S08000024,Melanoma,1,0,NHS Lothian
+7076,2020Q2,S08000024,Melanoma,13,12,NHS Lothian
+7126,2020Q3,S08000024,Melanoma,25,25,NHS Lothian
+7177,2020Q4,S08000024,Melanoma,1,1,NHS Lothian
+7178,2020Q4,S08000024,Melanoma,31,31,NHS Lothian
+7224,2021Q1,S08000024,Melanoma,19,19,NHS Lothian
+7274,2021Q2,S08000024,Melanoma,2,2,NHS Lothian
+7275,2021Q2,S08000024,Melanoma,53,53,NHS Lothian
+7326,2021Q3,S08000024,Melanoma,56,54,NHS Lothian
+7375,2021Q4,S08000024,Melanoma,1,1,NHS Lothian
+7376,2021Q4,S08000024,Melanoma,1,1,NHS Lothian
+7377,2021Q4,S08000024,Melanoma,44,44,NHS Lothian
+7432,2022Q1,S08000024,Melanoma,47,47,NHS Lothian
 7480,2022Q2,S08000024,Melanoma,42,40,NHS Lothian
-7504,2022Q3,S08000024,Melanoma,1,1,NHS Lothian
-7528,2022Q3,S08000024,Melanoma,64,62,NHS Lothian
-7578,2022Q4,S08000024,Melanoma,54,52,NHS Lothian
-7629,2023Q1,S08000024,Melanoma,34,32,NHS Lothian
-7677,2023Q2,S08000024,Melanoma,51,45,NHS Lothian
-7711,2023Q3,S08000024,Melanoma,1,1,NHS Lothian
-7719,2023Q3,S08000024,Melanoma,1,0,NHS Lothian
-7729,2023Q3,S08000024,Melanoma,74,71,NHS Lothian
-7739,2023Q3,S08000024,Melanoma,1,1,NHS Lothian
-7755,2012Q1,S08000019,Melanoma,9,9,NHS Forth Valley
-7766,2012Q2,S08000019,Melanoma,7,7,NHS Forth Valley
-7779,2012Q3,S08000019,Melanoma,11,11,NHS Forth Valley
-7789,2012Q4,S08000019,Melanoma,15,15,NHS Forth Valley
-7799,2013Q1,S08000019,Melanoma,11,11,NHS Forth Valley
-7808,2013Q2,S08000019,Melanoma,18,15,NHS Forth Valley
-7819,2013Q3,S08000019,Melanoma,10,7,NHS Forth Valley
-7830,2013Q4,S08000019,Melanoma,13,12,NHS Forth Valley
-7842,2014Q1,S08000019,Melanoma,7,6,NHS Forth Valley
-7854,2014Q2,S08000019,Melanoma,9,8,NHS Forth Valley
-7865,2014Q3,S08000019,Melanoma,10,9,NHS Forth Valley
-7876,2014Q4,S08000019,Melanoma,15,14,NHS Forth Valley
-7888,2015Q1,S08000019,Melanoma,16,16,NHS Forth Valley
-7900,2015Q2,S08000019,Melanoma,20,19,NHS Forth Valley
-7910,2015Q3,S08000019,Melanoma,13,12,NHS Forth Valley
-7920,2015Q4,S08000019,Melanoma,16,14,NHS Forth Valley
-7931,2016Q1,S08000019,Melanoma,13,12,NHS Forth Valley
-7941,2016Q2,S08000019,Melanoma,10,10,NHS Forth Valley
-7951,2016Q3,S08000019,Melanoma,20,19,NHS Forth Valley
-7962,2016Q4,S08000019,Melanoma,18,15,NHS Forth Valley
-7974,2017Q1,S08000019,Melanoma,16,15,NHS Forth Valley
-7988,2017Q2,S08000019,Melanoma,16,15,NHS Forth Valley
-7999,2017Q3,S08000019,Melanoma,18,16,NHS Forth Valley
-8009,2017Q4,S08000019,Melanoma,19,19,NHS Forth Valley
-8020,2018Q1,S08000019,Melanoma,23,20,NHS Forth Valley
-8031,2018Q2,S08000019,Melanoma,25,23,NHS Forth Valley
-8042,2018Q3,S08000019,Melanoma,19,17,NHS Forth Valley
-8053,2018Q4,S08000019,Melanoma,19,18,NHS Forth Valley
-8064,2019Q1,S08000019,Melanoma,18,18,NHS Forth Valley
-8076,2019Q2,S08000019,Melanoma,12,11,NHS Forth Valley
-8086,2019Q3,S08000019,Melanoma,15,14,NHS Forth Valley
-8098,2019Q4,S08000019,Melanoma,16,16,NHS Forth Valley
-8110,2020Q1,S08000019,Melanoma,20,17,NHS Forth Valley
-8122,2020Q2,S08000019,Melanoma,18,18,NHS Forth Valley
-8133,2020Q3,S08000019,Melanoma,14,14,NHS Forth Valley
-8225,2020Q4,S08000019,Melanoma,11,11,NHS Forth Valley
-8239,2021Q1,S08000019,Melanoma,7,7,NHS Forth Valley
-8253,2021Q2,S08000019,Melanoma,15,14,NHS Forth Valley
-8266,2021Q3,S08000019,Melanoma,12,11,NHS Forth Valley
-8277,2021Q4,S08000019,Melanoma,31,30,NHS Forth Valley
-8290,2022Q1,S08000019,Melanoma,17,17,NHS Forth Valley
-8303,2022Q2,S08000019,Melanoma,19,18,NHS Forth Valley
-8317,2022Q3,S08000019,Melanoma,27,23,NHS Forth Valley
-8332,2022Q4,S08000019,Melanoma,17,12,NHS Forth Valley
-8346,2023Q1,S08000019,Melanoma,14,13,NHS Forth Valley
-8360,2023Q2,S08000019,Melanoma,18,15,NHS Forth Valley
-8375,2023Q3,S08000019,Melanoma,24,19,NHS Forth Valley
-8385,2023Q3,S08000019,Melanoma,1,1,NHS Forth Valley
-8392,2012Q1,S08000022,Melanoma,14,14,NHS Highland
-8408,2012Q2,S08000022,Melanoma,10,10,NHS Highland
-8423,2012Q3,S08000022,Melanoma,40,40,NHS Highland
-8436,2012Q4,S08000022,Melanoma,17,17,NHS Highland
-8454,2013Q1,S08000022,Melanoma,10,10,NHS Highland
-8470,2013Q2,S08000022,Melanoma,15,15,NHS Highland
-8485,2013Q3,S08000022,Melanoma,12,12,NHS Highland
-8504,2013Q4,S08000022,Melanoma,15,15,NHS Highland
-8520,2014Q1,S08000022,Melanoma,18,18,NHS Highland
-8537,2014Q2,S08000022,Melanoma,15,15,NHS Highland
-8556,2014Q3,S08000022,Melanoma,19,17,NHS Highland
-8571,2014Q4,S08000022,Melanoma,14,11,NHS Highland
-8589,2015Q1,S08000022,Melanoma,12,12,NHS Highland
-8605,2015Q2,S08000022,Melanoma,9,9,NHS Highland
-8619,2015Q3,S08000022,Melanoma,12,12,NHS Highland
-8627,2015Q3,S08000022,Melanoma,1,1,NHS Highland
-8640,2015Q4,S08000022,Melanoma,12,12,NHS Highland
-8653,2016Q1,S08000022,Melanoma,15,13,NHS Highland
-8666,2016Q2,S08000022,Melanoma,14,14,NHS Highland
-8687,2016Q3,S08000022,Melanoma,25,25,NHS Highland
-8701,2016Q4,S08000022,Melanoma,10,9,NHS Highland
-8717,2017Q1,S08000022,Melanoma,9,9,NHS Highland
-8735,2017Q2,S08000022,Melanoma,14,12,NHS Highland
-8751,2017Q3,S08000022,Melanoma,13,13,NHS Highland
-8768,2017Q4,S08000022,Melanoma,16,15,NHS Highland
-8775,2017Q4,S08000022,Melanoma,1,1,NHS Highland
-8786,2018Q1,S08000022,Melanoma,19,18,NHS Highland
-8803,2018Q2,S08000022,Melanoma,19,18,NHS Highland
-8818,2018Q3,S08000022,Melanoma,26,25,NHS Highland
-8825,2018Q3,S08000022,Melanoma,1,1,NHS Highland
-8836,2018Q4,S08000022,Melanoma,20,19,NHS Highland
-8852,2019Q1,S08000022,Melanoma,15,12,NHS Highland
-8870,2019Q2,S08000022,Melanoma,18,14,NHS Highland
-8888,2019Q3,S08000022,Melanoma,19,19,NHS Highland
-8906,2019Q4,S08000022,Melanoma,19,18,NHS Highland
-8923,2020Q1,S08000022,Melanoma,10,10,NHS Highland
-8940,2020Q2,S08000022,Melanoma,10,9,NHS Highland
-8957,2020Q3,S08000022,Melanoma,10,10,NHS Highland
-9092,2020Q4,S08000022,Melanoma,12,12,NHS Highland
-9110,2021Q1,S08000022,Melanoma,15,15,NHS Highland
-9131,2021Q2,S08000022,Melanoma,18,17,NHS Highland
-9151,2021Q3,S08000022,Melanoma,29,28,NHS Highland
-9169,2021Q4,S08000022,Melanoma,19,18,NHS Highland
-9185,2022Q1,S08000022,Melanoma,21,19,NHS Highland
-9202,2022Q2,S08000022,Melanoma,21,19,NHS Highland
-9213,2022Q2,S08000022,Melanoma,1,1,NHS Highland
-9221,2022Q3,S08000022,Melanoma,18,17,NHS Highland
-9240,2022Q4,S08000022,Melanoma,25,24,NHS Highland
-9261,2023Q1,S08000022,Melanoma,20,19,NHS Highland
-9279,2023Q2,S08000022,Melanoma,30,30,NHS Highland
-9297,2023Q3,S08000022,Melanoma,31,31,NHS Highland
-9312,2012Q1,S08000029,Melanoma,9,9,NHS Fife
-9322,2012Q2,S08000029,Melanoma,15,15,NHS Fife
-9332,2012Q3,S08000029,Melanoma,15,14,NHS Fife
-9344,2012Q4,S08000029,Melanoma,12,12,NHS Fife
-9355,2013Q1,S08000029,Melanoma,8,8,NHS Fife
-9366,2013Q2,S08000029,Melanoma,11,11,NHS Fife
-9376,2013Q3,S08000029,Melanoma,10,10,NHS Fife
-9387,2013Q4,S08000029,Melanoma,15,15,NHS Fife
-9398,2014Q1,S08000029,Melanoma,7,7,NHS Fife
-9408,2014Q2,S08000029,Melanoma,8,8,NHS Fife
-9419,2014Q3,S08000029,Melanoma,6,6,NHS Fife
-9431,2014Q4,S08000029,Melanoma,12,11,NHS Fife
-9441,2015Q1,S08000029,Melanoma,13,12,NHS Fife
-9452,2015Q2,S08000029,Melanoma,11,11,NHS Fife
-9463,2015Q3,S08000029,Melanoma,12,12,NHS Fife
-9475,2015Q4,S08000029,Melanoma,21,21,NHS Fife
-9486,2016Q1,S08000029,Melanoma,9,9,NHS Fife
-9498,2016Q2,S08000029,Melanoma,17,17,NHS Fife
-9508,2016Q3,S08000029,Melanoma,16,16,NHS Fife
-9519,2016Q4,S08000029,Melanoma,17,17,NHS Fife
-9530,2017Q1,S08000029,Melanoma,10,10,NHS Fife
-9541,2017Q2,S08000029,Melanoma,9,9,NHS Fife
-9552,2017Q3,S08000029,Melanoma,21,21,NHS Fife
-9562,2017Q4,S08000029,Melanoma,10,10,NHS Fife
-9573,2018Q1,S08000029,Melanoma,7,7,NHS Fife
-9584,2018Q2,S08000029,Melanoma,18,18,NHS Fife
-9596,2018Q3,S08000029,Melanoma,25,25,NHS Fife
-9607,2018Q4,S08000029,Melanoma,16,16,NHS Fife
-9617,2019Q1,S08000029,Melanoma,10,10,NHS Fife
-9628,2019Q2,S08000029,Melanoma,15,15,NHS Fife
-9639,2019Q3,S08000029,Melanoma,14,14,NHS Fife
-9650,2019Q4,S08000029,Melanoma,19,18,NHS Fife
-9661,2020Q1,S08000029,Melanoma,12,10,NHS Fife
-9672,2020Q2,S08000029,Melanoma,8,8,NHS Fife
-9682,2020Q3,S08000029,Melanoma,14,14,NHS Fife
-9763,2020Q4,S08000029,Melanoma,10,10,NHS Fife
-9776,2021Q1,S08000029,Melanoma,12,12,NHS Fife
-9789,2021Q2,S08000029,Melanoma,12,12,NHS Fife
-9802,2021Q3,S08000029,Melanoma,14,14,NHS Fife
-9814,2021Q4,S08000029,Melanoma,15,15,NHS Fife
-9827,2022Q1,S08000029,Melanoma,15,15,NHS Fife
+7530,2022Q3,S08000024,Melanoma,1,1,NHS Lothian
+7531,2022Q3,S08000024,Melanoma,64,62,NHS Lothian
+7582,2022Q4,S08000024,Melanoma,54,52,NHS Lothian
+7631,2023Q1,S08000024,Melanoma,34,32,NHS Lothian
+7679,2023Q2,S08000024,Melanoma,51,45,NHS Lothian
+7728,2023Q3,S08000024,Melanoma,1,1,NHS Lothian
+7729,2023Q3,S08000024,Melanoma,1,0,NHS Lothian
+7730,2023Q3,S08000024,Melanoma,74,71,NHS Lothian
+7731,2023Q3,S08000024,Melanoma,1,1,NHS Lothian
+7758,2012Q1,S08000019,Melanoma,9,9,NHS Forth Valley
+7772,2012Q2,S08000019,Melanoma,7,7,NHS Forth Valley
+7787,2012Q3,S08000019,Melanoma,11,11,NHS Forth Valley
+7800,2012Q4,S08000019,Melanoma,15,15,NHS Forth Valley
+7810,2013Q1,S08000019,Melanoma,11,11,NHS Forth Valley
+7822,2013Q2,S08000019,Melanoma,18,15,NHS Forth Valley
+7835,2013Q3,S08000019,Melanoma,10,7,NHS Forth Valley
+7850,2013Q4,S08000019,Melanoma,13,12,NHS Forth Valley
+7865,2014Q1,S08000019,Melanoma,7,6,NHS Forth Valley
+7878,2014Q2,S08000019,Melanoma,9,8,NHS Forth Valley
+7891,2014Q3,S08000019,Melanoma,10,9,NHS Forth Valley
+7906,2014Q4,S08000019,Melanoma,15,14,NHS Forth Valley
+7921,2015Q1,S08000019,Melanoma,16,16,NHS Forth Valley
+7934,2015Q2,S08000019,Melanoma,20,19,NHS Forth Valley
+7946,2015Q3,S08000019,Melanoma,13,12,NHS Forth Valley
+7958,2015Q4,S08000019,Melanoma,16,14,NHS Forth Valley
+7970,2016Q1,S08000019,Melanoma,13,12,NHS Forth Valley
+7983,2016Q2,S08000019,Melanoma,10,10,NHS Forth Valley
+7996,2016Q3,S08000019,Melanoma,20,19,NHS Forth Valley
+8010,2016Q4,S08000019,Melanoma,18,15,NHS Forth Valley
+8028,2017Q1,S08000019,Melanoma,16,15,NHS Forth Valley
+8041,2017Q2,S08000019,Melanoma,16,15,NHS Forth Valley
+8054,2017Q3,S08000019,Melanoma,18,16,NHS Forth Valley
+8066,2017Q4,S08000019,Melanoma,19,19,NHS Forth Valley
+8079,2018Q1,S08000019,Melanoma,23,20,NHS Forth Valley
+8092,2018Q2,S08000019,Melanoma,25,23,NHS Forth Valley
+8105,2018Q3,S08000019,Melanoma,19,17,NHS Forth Valley
+8118,2018Q4,S08000019,Melanoma,19,18,NHS Forth Valley
+8132,2019Q1,S08000019,Melanoma,18,18,NHS Forth Valley
+8146,2019Q2,S08000019,Melanoma,12,11,NHS Forth Valley
+8160,2019Q3,S08000019,Melanoma,15,14,NHS Forth Valley
+8175,2019Q4,S08000019,Melanoma,16,16,NHS Forth Valley
+8190,2020Q1,S08000019,Melanoma,20,17,NHS Forth Valley
+8205,2020Q2,S08000019,Melanoma,18,18,NHS Forth Valley
+8215,2020Q3,S08000019,Melanoma,14,14,NHS Forth Valley
+8230,2020Q4,S08000019,Melanoma,11,11,NHS Forth Valley
+8242,2021Q1,S08000019,Melanoma,7,7,NHS Forth Valley
+8256,2021Q2,S08000019,Melanoma,15,14,NHS Forth Valley
+8267,2021Q3,S08000019,Melanoma,12,11,NHS Forth Valley
+8280,2021Q4,S08000019,Melanoma,31,30,NHS Forth Valley
+8293,2022Q1,S08000019,Melanoma,17,17,NHS Forth Valley
+8307,2022Q2,S08000019,Melanoma,19,18,NHS Forth Valley
+8321,2022Q3,S08000019,Melanoma,27,23,NHS Forth Valley
+8336,2022Q4,S08000019,Melanoma,17,12,NHS Forth Valley
+8350,2023Q1,S08000019,Melanoma,14,13,NHS Forth Valley
+8364,2023Q2,S08000019,Melanoma,18,15,NHS Forth Valley
+8381,2023Q3,S08000019,Melanoma,24,19,NHS Forth Valley
+8382,2023Q3,S08000019,Melanoma,1,1,NHS Forth Valley
+8398,2012Q1,S08000022,Melanoma,14,14,NHS Highland
+8417,2012Q2,S08000022,Melanoma,10,10,NHS Highland
+8436,2012Q3,S08000022,Melanoma,40,40,NHS Highland
+8454,2012Q4,S08000022,Melanoma,17,17,NHS Highland
+8475,2013Q1,S08000022,Melanoma,10,10,NHS Highland
+8491,2013Q2,S08000022,Melanoma,15,15,NHS Highland
+8514,2013Q3,S08000022,Melanoma,12,12,NHS Highland
+8533,2013Q4,S08000022,Melanoma,15,15,NHS Highland
+8552,2014Q1,S08000022,Melanoma,18,18,NHS Highland
+8580,2014Q2,S08000022,Melanoma,15,15,NHS Highland
+8598,2014Q3,S08000022,Melanoma,19,17,NHS Highland
+8616,2014Q4,S08000022,Melanoma,14,11,NHS Highland
+8636,2015Q1,S08000022,Melanoma,12,12,NHS Highland
+8655,2015Q2,S08000022,Melanoma,9,9,NHS Highland
+8674,2015Q3,S08000022,Melanoma,12,12,NHS Highland
+8675,2015Q3,S08000022,Melanoma,1,1,NHS Highland
+8695,2015Q4,S08000022,Melanoma,12,12,NHS Highland
+8709,2016Q1,S08000022,Melanoma,15,13,NHS Highland
+8730,2016Q2,S08000022,Melanoma,14,14,NHS Highland
+8752,2016Q3,S08000022,Melanoma,25,25,NHS Highland
+8770,2016Q4,S08000022,Melanoma,10,9,NHS Highland
+8789,2017Q1,S08000022,Melanoma,9,9,NHS Highland
+8808,2017Q2,S08000022,Melanoma,14,12,NHS Highland
+8828,2017Q3,S08000022,Melanoma,13,13,NHS Highland
+8850,2017Q4,S08000022,Melanoma,16,15,NHS Highland
+8851,2017Q4,S08000022,Melanoma,1,1,NHS Highland
+8872,2018Q1,S08000022,Melanoma,19,18,NHS Highland
+8891,2018Q2,S08000022,Melanoma,19,18,NHS Highland
+8913,2018Q3,S08000022,Melanoma,26,25,NHS Highland
+8914,2018Q3,S08000022,Melanoma,1,1,NHS Highland
+8934,2018Q4,S08000022,Melanoma,20,19,NHS Highland
+8953,2019Q1,S08000022,Melanoma,15,12,NHS Highland
+8974,2019Q2,S08000022,Melanoma,18,14,NHS Highland
+8999,2019Q3,S08000022,Melanoma,19,19,NHS Highland
+9018,2019Q4,S08000022,Melanoma,19,18,NHS Highland
+9039,2020Q1,S08000022,Melanoma,10,10,NHS Highland
+9062,2020Q2,S08000022,Melanoma,10,9,NHS Highland
+9079,2020Q3,S08000022,Melanoma,10,10,NHS Highland
+9097,2020Q4,S08000022,Melanoma,12,12,NHS Highland
+9117,2021Q1,S08000022,Melanoma,15,15,NHS Highland
+9138,2021Q2,S08000022,Melanoma,18,17,NHS Highland
+9158,2021Q3,S08000022,Melanoma,29,28,NHS Highland
+9173,2021Q4,S08000022,Melanoma,19,18,NHS Highland
+9189,2022Q1,S08000022,Melanoma,21,19,NHS Highland
+9207,2022Q2,S08000022,Melanoma,21,19,NHS Highland
+9208,2022Q2,S08000022,Melanoma,1,1,NHS Highland
+9227,2022Q3,S08000022,Melanoma,18,17,NHS Highland
+9246,2022Q4,S08000022,Melanoma,25,24,NHS Highland
+9266,2023Q1,S08000022,Melanoma,20,19,NHS Highland
+9284,2023Q2,S08000022,Melanoma,30,30,NHS Highland
+9300,2023Q3,S08000022,Melanoma,31,31,NHS Highland
+9314,2012Q1,S08000029,Melanoma,9,9,NHS Fife
+9326,2012Q2,S08000029,Melanoma,15,15,NHS Fife
+9339,2012Q3,S08000029,Melanoma,15,14,NHS Fife
+9352,2012Q4,S08000029,Melanoma,12,12,NHS Fife
+9365,2013Q1,S08000029,Melanoma,8,8,NHS Fife
+9378,2013Q2,S08000029,Melanoma,11,11,NHS Fife
+9390,2013Q3,S08000029,Melanoma,10,10,NHS Fife
+9403,2013Q4,S08000029,Melanoma,15,15,NHS Fife
+9416,2014Q1,S08000029,Melanoma,7,7,NHS Fife
+9427,2014Q2,S08000029,Melanoma,8,8,NHS Fife
+9440,2014Q3,S08000029,Melanoma,6,6,NHS Fife
+9454,2014Q4,S08000029,Melanoma,12,11,NHS Fife
+9466,2015Q1,S08000029,Melanoma,13,12,NHS Fife
+9479,2015Q2,S08000029,Melanoma,11,11,NHS Fife
+9494,2015Q3,S08000029,Melanoma,12,12,NHS Fife
+9507,2015Q4,S08000029,Melanoma,21,21,NHS Fife
+9522,2016Q1,S08000029,Melanoma,9,9,NHS Fife
+9535,2016Q2,S08000029,Melanoma,17,17,NHS Fife
+9547,2016Q3,S08000029,Melanoma,16,16,NHS Fife
+9560,2016Q4,S08000029,Melanoma,17,17,NHS Fife
+9573,2017Q1,S08000029,Melanoma,10,10,NHS Fife
+9588,2017Q2,S08000029,Melanoma,9,9,NHS Fife
+9599,2017Q3,S08000029,Melanoma,21,21,NHS Fife
+9610,2017Q4,S08000029,Melanoma,10,10,NHS Fife
+9623,2018Q1,S08000029,Melanoma,7,7,NHS Fife
+9638,2018Q2,S08000029,Melanoma,18,18,NHS Fife
+9651,2018Q3,S08000029,Melanoma,25,25,NHS Fife
+9664,2018Q4,S08000029,Melanoma,16,16,NHS Fife
+9675,2019Q1,S08000029,Melanoma,10,10,NHS Fife
+9688,2019Q2,S08000029,Melanoma,15,15,NHS Fife
+9701,2019Q3,S08000029,Melanoma,14,14,NHS Fife
+9715,2019Q4,S08000029,Melanoma,19,18,NHS Fife
+9728,2020Q1,S08000029,Melanoma,12,10,NHS Fife
+9741,2020Q2,S08000029,Melanoma,8,8,NHS Fife
+9752,2020Q3,S08000029,Melanoma,14,14,NHS Fife
+9765,2020Q4,S08000029,Melanoma,10,10,NHS Fife
+9778,2021Q1,S08000029,Melanoma,12,12,NHS Fife
+9791,2021Q2,S08000029,Melanoma,12,12,NHS Fife
+9804,2021Q3,S08000029,Melanoma,14,14,NHS Fife
+9816,2021Q4,S08000029,Melanoma,15,15,NHS Fife
+9831,2022Q1,S08000029,Melanoma,15,15,NHS Fife
 9842,2022Q2,S08000029,Melanoma,12,12,NHS Fife
 9854,2022Q3,S08000029,Melanoma,7,7,NHS Fife
-9867,2022Q4,S08000029,Melanoma,6,6,NHS Fife
-9872,2022Q4,S08000029,Melanoma,1,1,NHS Fife
+9868,2022Q4,S08000029,Melanoma,6,6,NHS Fife
+9869,2022Q4,S08000029,Melanoma,1,1,NHS Fife
 9880,2023Q1,S08000029,Melanoma,18,18,NHS Fife
-9893,2023Q2,S08000029,Melanoma,12,12,NHS Fife
+9895,2023Q2,S08000029,Melanoma,12,12,NHS Fife
 9908,2023Q3,S08000029,Melanoma,15,15,NHS Fife
 9922,2012Q1,S08000030,Melanoma,31,30,NHS Tayside
-9934,2012Q2,S08000030,Melanoma,39,36,NHS Tayside
-9940,2012Q3,S08000030,Melanoma,5,5,NHS Tayside
-9948,2012Q3,S08000030,Melanoma,33,29,NHS Tayside
-9960,2012Q4,S08000030,Melanoma,31,28,NHS Tayside
-9967,2013Q1,S08000030,Melanoma,1,0,NHS Tayside
-9975,2013Q1,S08000030,Melanoma,22,21,NHS Tayside
-9988,2013Q2,S08000030,Melanoma,22,20,NHS Tayside
-9994,2013Q3,S08000030,Melanoma,3,3,NHS Tayside
-10002,2013Q3,S08000030,Melanoma,31,30,NHS Tayside
-10008,2013Q4,S08000030,Melanoma,2,2,NHS Tayside
-10017,2013Q4,S08000030,Melanoma,22,20,NHS Tayside
-10021,2014Q1,S08000030,Melanoma,3,3,NHS Tayside
-10027,2014Q1,S08000030,Melanoma,30,30,NHS Tayside
-10034,2014Q2,S08000030,Melanoma,3,3,NHS Tayside
-10041,2014Q2,S08000030,Melanoma,26,24,NHS Tayside
-10053,2014Q3,S08000030,Melanoma,30,28,NHS Tayside
-10063,2014Q4,S08000030,Melanoma,47,44,NHS Tayside
-10070,2015Q1,S08000030,Melanoma,2,1,NHS Tayside
-10078,2015Q1,S08000030,Melanoma,26,24,NHS Tayside
-10084,2015Q2,S08000030,Melanoma,2,1,NHS Tayside
-10092,2015Q2,S08000030,Melanoma,37,37,NHS Tayside
-10097,2015Q3,S08000030,Melanoma,3,3,NHS Tayside
-10104,2015Q3,S08000030,Melanoma,32,29,NHS Tayside
-10110,2015Q4,S08000030,Melanoma,3,1,NHS Tayside
-10118,2015Q4,S08000030,Melanoma,27,27,NHS Tayside
-10127,2016Q1,S08000030,Melanoma,1,1,NHS Tayside
-10134,2016Q1,S08000030,Melanoma,14,13,NHS Tayside
-10149,2016Q2,S08000030,Melanoma,4,4,NHS Tayside
-10156,2016Q3,S08000030,Melanoma,2,2,NHS Tayside
-10165,2016Q3,S08000030,Melanoma,19,17,NHS Tayside
-10173,2016Q4,S08000030,Melanoma,1,1,NHS Tayside
-10180,2016Q4,S08000030,Melanoma,17,16,NHS Tayside
-10186,2017Q1,S08000030,Melanoma,1,1,NHS Tayside
-10193,2017Q1,S08000030,Melanoma,23,22,NHS Tayside
-10207,2017Q2,S08000030,Melanoma,32,30,NHS Tayside
-10215,2017Q3,S08000030,Melanoma,1,1,NHS Tayside
-10223,2017Q3,S08000030,Melanoma,30,29,NHS Tayside
-10231,2017Q4,S08000030,Melanoma,3,3,NHS Tayside
-10238,2017Q4,S08000030,Melanoma,24,23,NHS Tayside
-10246,2018Q1,S08000030,Melanoma,1,1,NHS Tayside
-10253,2018Q1,S08000030,Melanoma,18,16,NHS Tayside
-10261,2018Q2,S08000030,Melanoma,1,0,NHS Tayside
-10268,2018Q2,S08000030,Melanoma,24,21,NHS Tayside
-10276,2018Q3,S08000030,Melanoma,4,4,NHS Tayside
-10283,2018Q3,S08000030,Melanoma,35,33,NHS Tayside
-10298,2018Q4,S08000030,Melanoma,41,37,NHS Tayside
-10312,2019Q1,S08000030,Melanoma,25,23,NHS Tayside
-10326,2019Q2,S08000030,Melanoma,30,29,NHS Tayside
-10342,2019Q3,S08000030,Melanoma,7,6,NHS Tayside
-10349,2019Q4,S08000030,Melanoma,2,2,NHS Tayside
-10356,2019Q4,S08000030,Melanoma,23,21,NHS Tayside
-10370,2020Q1,S08000030,Melanoma,30,30,NHS Tayside
-10377,2020Q2,S08000030,Melanoma,1,1,NHS Tayside
-10385,2020Q2,S08000030,Melanoma,19,18,NHS Tayside
-10392,2020Q3,S08000030,Melanoma,2,2,NHS Tayside
-10399,2020Q3,S08000030,Melanoma,15,15,NHS Tayside
-10513,2020Q4,S08000030,Melanoma,2,2,NHS Tayside
-10521,2020Q4,S08000030,Melanoma,17,17,NHS Tayside
-10529,2021Q1,S08000030,Melanoma,1,1,NHS Tayside
-10536,2021Q1,S08000030,Melanoma,17,17,NHS Tayside
-10551,2021Q2,S08000030,Melanoma,24,24,NHS Tayside
-10562,2021Q3,S08000030,Melanoma,3,3,NHS Tayside
-10569,2021Q3,S08000030,Melanoma,24,18,NHS Tayside
-10578,2021Q4,S08000030,Melanoma,1,1,NHS Tayside
-10586,2021Q4,S08000030,Melanoma,23,19,NHS Tayside
-10603,2022Q1,S08000030,Melanoma,24,20,NHS Tayside
-10615,2022Q2,S08000030,Melanoma,1,1,NHS Tayside
-10623,2022Q2,S08000030,Melanoma,26,25,NHS Tayside
+9938,2012Q2,S08000030,Melanoma,39,36,NHS Tayside
+9953,2012Q3,S08000030,Melanoma,5,5,NHS Tayside
+9954,2012Q3,S08000030,Melanoma,33,29,NHS Tayside
+9969,2012Q4,S08000030,Melanoma,31,28,NHS Tayside
+9987,2013Q1,S08000030,Melanoma,1,0,NHS Tayside
+9988,2013Q1,S08000030,Melanoma,22,21,NHS Tayside
+10005,2013Q2,S08000030,Melanoma,22,20,NHS Tayside
+10021,2013Q3,S08000030,Melanoma,3,3,NHS Tayside
+10022,2013Q3,S08000030,Melanoma,31,30,NHS Tayside
+10039,2013Q4,S08000030,Melanoma,2,2,NHS Tayside
+10040,2013Q4,S08000030,Melanoma,22,20,NHS Tayside
+10053,2014Q1,S08000030,Melanoma,3,3,NHS Tayside
+10054,2014Q1,S08000030,Melanoma,30,30,NHS Tayside
+10069,2014Q2,S08000030,Melanoma,3,3,NHS Tayside
+10070,2014Q2,S08000030,Melanoma,26,24,NHS Tayside
+10084,2014Q3,S08000030,Melanoma,30,28,NHS Tayside
+10097,2014Q4,S08000030,Melanoma,47,44,NHS Tayside
+10115,2015Q1,S08000030,Melanoma,2,1,NHS Tayside
+10116,2015Q1,S08000030,Melanoma,26,24,NHS Tayside
+10130,2015Q2,S08000030,Melanoma,2,1,NHS Tayside
+10131,2015Q2,S08000030,Melanoma,37,37,NHS Tayside
+10145,2015Q3,S08000030,Melanoma,3,3,NHS Tayside
+10146,2015Q3,S08000030,Melanoma,32,29,NHS Tayside
+10161,2015Q4,S08000030,Melanoma,3,1,NHS Tayside
+10162,2015Q4,S08000030,Melanoma,27,27,NHS Tayside
+10182,2016Q1,S08000030,Melanoma,1,1,NHS Tayside
+10183,2016Q1,S08000030,Melanoma,14,13,NHS Tayside
+10202,2016Q2,S08000030,Melanoma,4,4,NHS Tayside
+10219,2016Q3,S08000030,Melanoma,2,2,NHS Tayside
+10220,2016Q3,S08000030,Melanoma,19,17,NHS Tayside
+10240,2016Q4,S08000030,Melanoma,1,1,NHS Tayside
+10241,2016Q4,S08000030,Melanoma,17,16,NHS Tayside
+10255,2017Q1,S08000030,Melanoma,1,1,NHS Tayside
+10256,2017Q1,S08000030,Melanoma,23,22,NHS Tayside
+10274,2017Q2,S08000030,Melanoma,32,30,NHS Tayside
+10291,2017Q3,S08000030,Melanoma,1,1,NHS Tayside
+10292,2017Q3,S08000030,Melanoma,30,29,NHS Tayside
+10310,2017Q4,S08000030,Melanoma,3,3,NHS Tayside
+10311,2017Q4,S08000030,Melanoma,24,23,NHS Tayside
+10328,2018Q1,S08000030,Melanoma,1,1,NHS Tayside
+10329,2018Q1,S08000030,Melanoma,18,16,NHS Tayside
+10346,2018Q2,S08000030,Melanoma,1,0,NHS Tayside
+10347,2018Q2,S08000030,Melanoma,24,21,NHS Tayside
+10364,2018Q3,S08000030,Melanoma,4,4,NHS Tayside
+10365,2018Q3,S08000030,Melanoma,35,33,NHS Tayside
+10385,2018Q4,S08000030,Melanoma,41,37,NHS Tayside
+10401,2019Q1,S08000030,Melanoma,26,24,NHS Tayside
+10418,2019Q2,S08000030,Melanoma,34,33,NHS Tayside
+10438,2019Q3,S08000030,Melanoma,32,31,NHS Tayside
+10455,2019Q4,S08000030,Melanoma,2,2,NHS Tayside
+10456,2019Q4,S08000030,Melanoma,30,28,NHS Tayside
+10472,2020Q1,S08000030,Melanoma,33,32,NHS Tayside
+10489,2020Q2,S08000030,Melanoma,1,1,NHS Tayside
+10490,2020Q2,S08000030,Melanoma,24,23,NHS Tayside
+10507,2020Q3,S08000030,Melanoma,2,2,NHS Tayside
+10508,2020Q3,S08000030,Melanoma,29,29,NHS Tayside
+10521,2020Q4,S08000030,Melanoma,2,2,NHS Tayside
+10522,2020Q4,S08000030,Melanoma,17,17,NHS Tayside
+10538,2021Q1,S08000030,Melanoma,1,1,NHS Tayside
+10539,2021Q1,S08000030,Melanoma,17,17,NHS Tayside
+10554,2021Q2,S08000030,Melanoma,24,24,NHS Tayside
+10570,2021Q3,S08000030,Melanoma,3,3,NHS Tayside
+10571,2021Q3,S08000030,Melanoma,24,18,NHS Tayside
+10587,2021Q4,S08000030,Melanoma,1,1,NHS Tayside
+10588,2021Q4,S08000030,Melanoma,23,19,NHS Tayside
+10606,2022Q1,S08000030,Melanoma,24,20,NHS Tayside
+10621,2022Q2,S08000030,Melanoma,1,1,NHS Tayside
+10622,2022Q2,S08000030,Melanoma,26,25,NHS Tayside
 10639,2022Q3,S08000030,Melanoma,30,29,NHS Tayside
-10647,2022Q4,S08000030,Melanoma,1,1,NHS Tayside
-10656,2022Q4,S08000030,Melanoma,25,23,NHS Tayside
-10664,2023Q1,S08000030,Melanoma,1,1,NHS Tayside
-10673,2023Q1,S08000030,Melanoma,38,34,NHS Tayside
-10689,2023Q2,S08000030,Melanoma,39,33,NHS Tayside
-10698,2023Q3,S08000030,Melanoma,1,1,NHS Tayside
+10654,2022Q4,S08000030,Melanoma,1,1,NHS Tayside
+10655,2022Q4,S08000030,Melanoma,25,23,NHS Tayside
+10671,2023Q1,S08000030,Melanoma,1,1,NHS Tayside
+10672,2023Q1,S08000030,Melanoma,38,34,NHS Tayside
+10688,2023Q2,S08000030,Melanoma,39,33,NHS Tayside
+10706,2023Q3,S08000030,Melanoma,1,1,NHS Tayside
 10707,2023Q3,S08000030,Melanoma,28,26,NHS Tayside
-10723,2012Q4,S08000025,Melanoma,1,1,NHS Orkney
-10731,2013Q3,S08000025,Melanoma,1,1,NHS Orkney
-10734,2013Q4,S08000025,Melanoma,1,1,NHS Orkney
-10749,2015Q1,S08000025,Melanoma,1,1,NHS Orkney
-10761,2015Q4,S08000025,Melanoma,1,1,NHS Orkney
-10776,2017Q1,S08000025,Melanoma,1,1,NHS Orkney
-10779,2017Q2,S08000025,Melanoma,1,1,NHS Orkney
-10782,2017Q2,S08000025,Melanoma,1,1,NHS Orkney
-10791,2018Q1,S08000025,Melanoma,2,2,NHS Orkney
-10809,2019Q1,S08000025,Melanoma,1,1,NHS Orkney
-10813,2019Q2,S08000025,Melanoma,1,1,NHS Orkney
-10821,2019Q4,S08000025,Melanoma,1,1,NHS Orkney
-10830,2020Q2,S08000025,Melanoma,1,1,NHS Orkney
-10834,2020Q3,S08000025,Melanoma,1,1,NHS Orkney
-10896,2021Q1,S08000025,Melanoma,1,1,NHS Orkney
-10903,2021Q2,S08000025,Melanoma,2,2,NHS Orkney
-10913,2021Q4,S08000025,Melanoma,1,1,NHS Orkney
+10729,2012Q4,S08000025,Melanoma,1,1,NHS Orkney
+10741,2013Q3,S08000025,Melanoma,1,1,NHS Orkney
+10745,2013Q4,S08000025,Melanoma,1,1,NHS Orkney
+10768,2015Q1,S08000025,Melanoma,1,1,NHS Orkney
+10782,2015Q4,S08000025,Melanoma,1,1,NHS Orkney
+10806,2017Q1,S08000025,Melanoma,1,1,NHS Orkney
+10813,2017Q2,S08000025,Melanoma,1,1,NHS Orkney
+10814,2017Q2,S08000025,Melanoma,1,1,NHS Orkney
+10827,2018Q1,S08000025,Melanoma,2,2,NHS Orkney
+10850,2019Q1,S08000025,Melanoma,1,1,NHS Orkney
+10856,2019Q2,S08000025,Melanoma,1,1,NHS Orkney
+10867,2019Q4,S08000025,Melanoma,1,1,NHS Orkney
+10878,2020Q2,S08000025,Melanoma,1,1,NHS Orkney
+10883,2020Q3,S08000025,Melanoma,1,1,NHS Orkney
+10897,2021Q1,S08000025,Melanoma,1,1,NHS Orkney
+10904,2021Q2,S08000025,Melanoma,2,2,NHS Orkney
+10915,2021Q4,S08000025,Melanoma,1,1,NHS Orkney
 10933,2022Q3,S08000025,Melanoma,3,3,NHS Orkney
-10950,2023Q1,S08000025,Melanoma,1,1,NHS Orkney
-10956,2023Q2,S08000025,Melanoma,1,1,NHS Orkney
+10949,2023Q1,S08000025,Melanoma,1,1,NHS Orkney
+10955,2023Q2,S08000025,Melanoma,1,1,NHS Orkney
 10963,2023Q3,S08000025,Melanoma,2,2,NHS Orkney
-10970,2012Q1,S08000026,Melanoma,1,1,NHS Shetland
-10976,2012Q2,S08000026,Melanoma,1,1,NHS Shetland
-10980,2012Q3,S08000026,Melanoma,1,1,NHS Shetland
-10984,2012Q4,S08000026,Melanoma,1,1,NHS Shetland
-11020,2014Q3,S08000026,Melanoma,1,1,NHS Shetland
-11025,2014Q4,S08000026,Melanoma,3,3,NHS Shetland
-11031,2015Q1,S08000026,Melanoma,1,1,NHS Shetland
-11037,2015Q2,S08000026,Melanoma,3,3,NHS Shetland
-11043,2015Q3,S08000026,Melanoma,1,1,NHS Shetland
-11048,2015Q4,S08000026,Melanoma,2,2,NHS Shetland
-11053,2016Q1,S08000026,Melanoma,2,2,NHS Shetland
-11064,2016Q3,S08000026,Melanoma,1,1,NHS Shetland
-11071,2016Q4,S08000026,Melanoma,2,2,NHS Shetland
-11078,2017Q1,S08000026,Melanoma,1,1,NHS Shetland
-11096,2018Q1,S08000026,Melanoma,1,1,NHS Shetland
-11102,2018Q2,S08000026,Melanoma,1,1,NHS Shetland
-11110,2018Q3,S08000026,Melanoma,2,2,NHS Shetland
-11118,2018Q4,S08000026,Melanoma,1,1,NHS Shetland
-11126,2019Q1,S08000026,Melanoma,2,2,NHS Shetland
-11147,2019Q4,S08000026,Melanoma,1,1,NHS Shetland
-11158,2020Q2,S08000026,Melanoma,2,2,NHS Shetland
-11164,2020Q3,S08000026,Melanoma,2,2,NHS Shetland
-11250,2021Q4,S08000026,Melanoma,1,1,NHS Shetland
-11258,2022Q1,S08000026,Melanoma,2,2,NHS Shetland
+10971,2012Q1,S08000026,Melanoma,1,1,NHS Shetland
+10978,2012Q2,S08000026,Melanoma,1,1,NHS Shetland
+10983,2012Q3,S08000026,Melanoma,1,1,NHS Shetland
+10988,2012Q4,S08000026,Melanoma,1,1,NHS Shetland
+11036,2014Q3,S08000026,Melanoma,1,1,NHS Shetland
+11043,2014Q4,S08000026,Melanoma,3,3,NHS Shetland
+11050,2015Q1,S08000026,Melanoma,1,1,NHS Shetland
+11057,2015Q2,S08000026,Melanoma,3,3,NHS Shetland
+11065,2015Q3,S08000026,Melanoma,1,1,NHS Shetland
+11071,2015Q4,S08000026,Melanoma,2,2,NHS Shetland
+11077,2016Q1,S08000026,Melanoma,2,2,NHS Shetland
+11092,2016Q3,S08000026,Melanoma,1,1,NHS Shetland
+11101,2016Q4,S08000026,Melanoma,2,2,NHS Shetland
+11109,2017Q1,S08000026,Melanoma,1,1,NHS Shetland
+11132,2018Q1,S08000026,Melanoma,1,1,NHS Shetland
+11139,2018Q2,S08000026,Melanoma,1,1,NHS Shetland
+11149,2018Q3,S08000026,Melanoma,2,2,NHS Shetland
+11159,2018Q4,S08000026,Melanoma,1,1,NHS Shetland
+11169,2019Q1,S08000026,Melanoma,2,2,NHS Shetland
+11196,2019Q4,S08000026,Melanoma,1,1,NHS Shetland
+11210,2020Q2,S08000026,Melanoma,2,2,NHS Shetland
+11217,2020Q3,S08000026,Melanoma,2,2,NHS Shetland
+11251,2021Q4,S08000026,Melanoma,1,1,NHS Shetland
+11259,2022Q1,S08000026,Melanoma,2,2,NHS Shetland
 11267,2022Q2,S08000026,Melanoma,1,1,NHS Shetland
-11277,2022Q3,S08000026,Melanoma,1,1,NHS Shetland
+11276,2022Q3,S08000026,Melanoma,1,1,NHS Shetland
 11285,2022Q4,S08000026,Melanoma,1,1,NHS Shetland
 11294,2023Q1,S08000026,Melanoma,1,1,NHS Shetland
 11300,2023Q2,S08000026,Melanoma,1,1,NHS Shetland
-11312,2012Q1,S08000028,Melanoma,1,1,NHS Western Isles
-11321,2012Q3,S08000028,Melanoma,1,1,NHS Western Isles
-11325,2012Q4,S08000028,Melanoma,2,2,NHS Western Isles
-11336,2013Q2,S08000028,Melanoma,3,3,NHS Western Isles
-11340,2013Q3,S08000028,Melanoma,4,4,NHS Western Isles
-11346,2013Q4,S08000028,Melanoma,1,1,NHS Western Isles
-11352,2014Q1,S08000028,Melanoma,1,1,NHS Western Isles
-11357,2014Q2,S08000028,Melanoma,2,2,NHS Western Isles
-11361,2014Q3,S08000028,Melanoma,1,1,NHS Western Isles
-11378,2015Q2,S08000028,Melanoma,2,2,NHS Western Isles
-11384,2015Q3,S08000028,Melanoma,1,1,NHS Western Isles
-11409,2016Q3,S08000028,Melanoma,1,1,NHS Western Isles
-11424,2017Q2,S08000028,Melanoma,1,1,NHS Western Isles
-11447,2018Q2,S08000028,Melanoma,2,2,NHS Western Isles
-11460,2018Q4,S08000028,Melanoma,1,1,NHS Western Isles
-11465,2019Q1,S08000028,Melanoma,1,1,NHS Western Isles
-11471,2019Q2,S08000028,Melanoma,1,1,NHS Western Isles
-11477,2019Q3,S08000028,Melanoma,3,3,NHS Western Isles
-11484,2019Q4,S08000028,Melanoma,3,3,NHS Western Isles
-11489,2020Q1,S08000028,Melanoma,1,1,NHS Western Isles
-11500,2020Q3,S08000028,Melanoma,2,2,NHS Western Isles
-11564,2020Q4,S08000028,Melanoma,1,1,NHS Western Isles
-11575,2021Q2,S08000028,Melanoma,1,1,NHS Western Isles
-11584,2021Q3,S08000028,Melanoma,1,1,NHS Western Isles
-11596,2022Q1,S08000028,Melanoma,1,1,NHS Western Isles
-11607,2022Q2,S08000028,Melanoma,2,2,NHS Western Isles
-11618,2022Q3,S08000028,Melanoma,1,1,NHS Western Isles
+11313,2012Q1,S08000028,Melanoma,1,1,NHS Western Isles
+11324,2012Q3,S08000028,Melanoma,1,1,NHS Western Isles
+11329,2012Q4,S08000028,Melanoma,2,2,NHS Western Isles
+11344,2013Q2,S08000028,Melanoma,3,3,NHS Western Isles
+11350,2013Q3,S08000028,Melanoma,4,4,NHS Western Isles
+11357,2013Q4,S08000028,Melanoma,1,1,NHS Western Isles
+11364,2014Q1,S08000028,Melanoma,1,1,NHS Western Isles
+11371,2014Q2,S08000028,Melanoma,2,2,NHS Western Isles
+11377,2014Q3,S08000028,Melanoma,1,1,NHS Western Isles
+11399,2015Q2,S08000028,Melanoma,2,2,NHS Western Isles
+11408,2015Q3,S08000028,Melanoma,1,1,NHS Western Isles
+11441,2016Q3,S08000028,Melanoma,1,1,NHS Western Isles
+11463,2017Q2,S08000028,Melanoma,1,1,NHS Western Isles
+11493,2018Q2,S08000028,Melanoma,2,2,NHS Western Isles
+11509,2018Q4,S08000028,Melanoma,1,1,NHS Western Isles
+11516,2019Q1,S08000028,Melanoma,1,1,NHS Western Isles
+11523,2019Q2,S08000028,Melanoma,1,1,NHS Western Isles
+11530,2019Q3,S08000028,Melanoma,3,3,NHS Western Isles
+11538,2019Q4,S08000028,Melanoma,3,3,NHS Western Isles
+11545,2020Q1,S08000028,Melanoma,1,1,NHS Western Isles
+11558,2020Q3,S08000028,Melanoma,2,2,NHS Western Isles
+11565,2020Q4,S08000028,Melanoma,1,1,NHS Western Isles
+11576,2021Q2,S08000028,Melanoma,1,1,NHS Western Isles
+11585,2021Q3,S08000028,Melanoma,1,1,NHS Western Isles
+11597,2022Q1,S08000028,Melanoma,1,1,NHS Western Isles
+11606,2022Q2,S08000028,Melanoma,2,2,NHS Western Isles
+11620,2022Q3,S08000028,Melanoma,1,1,NHS Western Isles
 11629,2022Q4,S08000028,Melanoma,1,1,NHS Western Isles
 11636,2023Q1,S08000028,Melanoma,3,3,NHS Western Isles
 11643,2023Q2,S08000028,Melanoma,4,4,NHS Western Isles
-11653,2023Q3,S08000028,Melanoma,5,5,NHS Western Isles
-11663,2012Q1,S08000032,Melanoma,25,25,NHS Lanarkshire
-11674,2012Q2,S08000032,Melanoma,21,20,NHS Lanarkshire
-11686,2012Q3,S08000032,Melanoma,22,20,NHS Lanarkshire
-11697,2012Q4,S08000032,Melanoma,22,21,NHS Lanarkshire
-11709,2013Q1,S08000032,Melanoma,25,23,NHS Lanarkshire
-11721,2013Q2,S08000032,Melanoma,37,34,NHS Lanarkshire
-11732,2013Q3,S08000032,Melanoma,28,27,NHS Lanarkshire
-11744,2013Q4,S08000032,Melanoma,25,25,NHS Lanarkshire
-11756,2014Q1,S08000032,Melanoma,23,23,NHS Lanarkshire
-11767,2014Q2,S08000032,Melanoma,25,25,NHS Lanarkshire
-11771,2014Q3,S08000032,Melanoma,1,1,NHS Lanarkshire
-11779,2014Q3,S08000032,Melanoma,25,25,NHS Lanarkshire
-11790,2014Q4,S08000032,Melanoma,28,28,NHS Lanarkshire
-11802,2015Q1,S08000032,Melanoma,21,20,NHS Lanarkshire
-11814,2015Q2,S08000032,Melanoma,28,27,NHS Lanarkshire
-11826,2015Q3,S08000032,Melanoma,21,18,NHS Lanarkshire
-11838,2015Q4,S08000032,Melanoma,21,21,NHS Lanarkshire
-11851,2016Q1,S08000032,Melanoma,26,26,NHS Lanarkshire
-11862,2016Q2,S08000032,Melanoma,34,31,NHS Lanarkshire
-11874,2016Q3,S08000032,Melanoma,36,32,NHS Lanarkshire
-11887,2016Q4,S08000032,Melanoma,28,28,NHS Lanarkshire
-11899,2017Q1,S08000032,Melanoma,20,20,NHS Lanarkshire
-11911,2017Q2,S08000032,Melanoma,35,35,NHS Lanarkshire
-11923,2017Q3,S08000032,Melanoma,25,22,NHS Lanarkshire
-11936,2017Q4,S08000032,Melanoma,27,25,NHS Lanarkshire
-11948,2018Q1,S08000032,Melanoma,37,36,NHS Lanarkshire
-11960,2018Q2,S08000032,Melanoma,29,29,NHS Lanarkshire
-11971,2018Q3,S08000032,Melanoma,43,43,NHS Lanarkshire
-11984,2018Q4,S08000032,Melanoma,36,36,NHS Lanarkshire
-11996,2019Q1,S08000032,Melanoma,34,34,NHS Lanarkshire
-12009,2019Q2,S08000032,Melanoma,41,40,NHS Lanarkshire
-12021,2019Q3,S08000032,Melanoma,51,50,NHS Lanarkshire
-12033,2019Q4,S08000032,Melanoma,36,35,NHS Lanarkshire
-12046,2020Q1,S08000032,Melanoma,24,24,NHS Lanarkshire
-12058,2020Q2,S08000032,Melanoma,26,26,NHS Lanarkshire
-12070,2020Q3,S08000032,Melanoma,33,33,NHS Lanarkshire
-12179,2020Q4,S08000032,Melanoma,35,34,NHS Lanarkshire
-12193,2021Q1,S08000032,Melanoma,39,38,NHS Lanarkshire
-12206,2021Q2,S08000032,Melanoma,27,27,NHS Lanarkshire
-12220,2021Q3,S08000032,Melanoma,34,34,NHS Lanarkshire
-12236,2021Q4,S08000032,Melanoma,42,42,NHS Lanarkshire
-12252,2022Q1,S08000032,Melanoma,27,27,NHS Lanarkshire
+11651,2023Q3,S08000028,Melanoma,5,5,NHS Western Isles
+11665,2012Q1,S08000032,Melanoma,25,25,NHS Lanarkshire
+11678,2012Q2,S08000032,Melanoma,21,20,NHS Lanarkshire
+11692,2012Q3,S08000032,Melanoma,22,20,NHS Lanarkshire
+11705,2012Q4,S08000032,Melanoma,22,21,NHS Lanarkshire
+11720,2013Q1,S08000032,Melanoma,25,23,NHS Lanarkshire
+11735,2013Q2,S08000032,Melanoma,37,34,NHS Lanarkshire
+11748,2013Q3,S08000032,Melanoma,28,27,NHS Lanarkshire
+11763,2013Q4,S08000032,Melanoma,25,25,NHS Lanarkshire
+11778,2014Q1,S08000032,Melanoma,23,23,NHS Lanarkshire
+11791,2014Q2,S08000032,Melanoma,25,25,NHS Lanarkshire
+11805,2014Q3,S08000032,Melanoma,1,1,NHS Lanarkshire
+11806,2014Q3,S08000032,Melanoma,25,25,NHS Lanarkshire
+11819,2014Q4,S08000032,Melanoma,28,28,NHS Lanarkshire
+11834,2015Q1,S08000032,Melanoma,21,20,NHS Lanarkshire
+11849,2015Q2,S08000032,Melanoma,28,27,NHS Lanarkshire
+11864,2015Q3,S08000032,Melanoma,21,18,NHS Lanarkshire
+11879,2015Q4,S08000032,Melanoma,21,21,NHS Lanarkshire
+11893,2016Q1,S08000032,Melanoma,26,26,NHS Lanarkshire
+11907,2016Q2,S08000032,Melanoma,34,31,NHS Lanarkshire
+11921,2016Q3,S08000032,Melanoma,36,32,NHS Lanarkshire
+11937,2016Q4,S08000032,Melanoma,28,28,NHS Lanarkshire
+11952,2017Q1,S08000032,Melanoma,20,20,NHS Lanarkshire
+11967,2017Q2,S08000032,Melanoma,35,35,NHS Lanarkshire
+11982,2017Q3,S08000032,Melanoma,25,22,NHS Lanarkshire
+11997,2017Q4,S08000032,Melanoma,27,25,NHS Lanarkshire
+12013,2018Q1,S08000032,Melanoma,37,36,NHS Lanarkshire
+12028,2018Q2,S08000032,Melanoma,29,29,NHS Lanarkshire
+12042,2018Q3,S08000032,Melanoma,43,43,NHS Lanarkshire
+12058,2018Q4,S08000032,Melanoma,36,36,NHS Lanarkshire
+12073,2019Q1,S08000032,Melanoma,34,34,NHS Lanarkshire
+12089,2019Q2,S08000032,Melanoma,41,40,NHS Lanarkshire
+12105,2019Q3,S08000032,Melanoma,51,50,NHS Lanarkshire
+12120,2019Q4,S08000032,Melanoma,36,35,NHS Lanarkshire
+12136,2020Q1,S08000032,Melanoma,24,24,NHS Lanarkshire
+12152,2020Q2,S08000032,Melanoma,26,26,NHS Lanarkshire
+12167,2020Q3,S08000032,Melanoma,33,33,NHS Lanarkshire
+12181,2020Q4,S08000032,Melanoma,35,34,NHS Lanarkshire
+12194,2021Q1,S08000032,Melanoma,39,38,NHS Lanarkshire
+12208,2021Q2,S08000032,Melanoma,27,27,NHS Lanarkshire
+12223,2021Q3,S08000032,Melanoma,34,34,NHS Lanarkshire
+12239,2021Q4,S08000032,Melanoma,42,42,NHS Lanarkshire
+12255,2022Q1,S08000032,Melanoma,27,27,NHS Lanarkshire
 12270,2022Q2,S08000032,Melanoma,42,42,NHS Lanarkshire
 12285,2022Q3,S08000032,Melanoma,51,51,NHS Lanarkshire
-12301,2022Q4,S08000032,Melanoma,26,26,NHS Lanarkshire
+12300,2022Q4,S08000032,Melanoma,26,26,NHS Lanarkshire
 12316,2023Q1,S08000032,Melanoma,29,29,NHS Lanarkshire
 12331,2023Q2,S08000032,Melanoma,31,31,NHS Lanarkshire
 12347,2023Q3,S08000032,Melanoma,36,36,NHS Lanarkshire
