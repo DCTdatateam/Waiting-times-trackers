@@ -1,861 +1,861 @@
 ,Quarter,HBT,Cancer type,Number of eligible referrals,Number of eligible referrals treated within 31 days,Health board
-8,2012Q1,S08000015,Ovarian,6,6,NHS Ayrshire and Arran
-19,2012Q2,S08000015,Ovarian,11,11,NHS Ayrshire and Arran
-30,2012Q3,S08000015,Ovarian,11,11,NHS Ayrshire and Arran
-41,2012Q4,S08000015,Ovarian,2,2,NHS Ayrshire and Arran
-52,2013Q1,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-63,2013Q2,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-74,2013Q3,S08000015,Ovarian,9,9,NHS Ayrshire and Arran
-84,2013Q4,S08000015,Ovarian,7,7,NHS Ayrshire and Arran
-97,2014Q1,S08000015,Ovarian,1,1,NHS Ayrshire and Arran
-108,2014Q2,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-119,2014Q3,S08000015,Ovarian,2,2,NHS Ayrshire and Arran
-130,2014Q4,S08000015,Ovarian,7,7,NHS Ayrshire and Arran
-141,2015Q1,S08000015,Ovarian,6,6,NHS Ayrshire and Arran
-152,2015Q2,S08000015,Ovarian,4,4,NHS Ayrshire and Arran
-163,2015Q3,S08000015,Ovarian,8,8,NHS Ayrshire and Arran
-174,2015Q4,S08000015,Ovarian,8,8,NHS Ayrshire and Arran
-184,2016Q1,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-195,2016Q2,S08000015,Ovarian,2,2,NHS Ayrshire and Arran
-205,2016Q3,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
-216,2016Q4,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-227,2017Q1,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-238,2017Q2,S08000015,Ovarian,1,1,NHS Ayrshire and Arran
-249,2017Q3,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-259,2017Q4,S08000015,Ovarian,6,6,NHS Ayrshire and Arran
-270,2018Q1,S08000015,Ovarian,4,4,NHS Ayrshire and Arran
-280,2018Q2,S08000015,Ovarian,7,7,NHS Ayrshire and Arran
-292,2018Q3,S08000015,Ovarian,1,1,NHS Ayrshire and Arran
-304,2018Q4,S08000015,Ovarian,2,2,NHS Ayrshire and Arran
-315,2019Q1,S08000015,Ovarian,8,8,NHS Ayrshire and Arran
-326,2019Q2,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
-338,2019Q3,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-350,2019Q4,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
-363,2020Q1,S08000015,Ovarian,1,1,NHS Ayrshire and Arran
-374,2020Q2,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
-384,2020Q3,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-395,2020Q4,S08000015,Ovarian,4,4,NHS Ayrshire and Arran
-408,2021Q1,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
-420,2021Q2,S08000015,Ovarian,2,2,NHS Ayrshire and Arran
-431,2021Q3,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-445,2021Q4,S08000015,Ovarian,6,6,NHS Ayrshire and Arran
-458,2022Q1,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
-470,2022Q2,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-481,2022Q3,S08000015,Ovarian,6,6,NHS Ayrshire and Arran
-496,2022Q4,S08000015,Ovarian,4,4,NHS Ayrshire and Arran
-506,2023Q1,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
-517,2023Q2,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-528,2023Q3,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
-540,2012Q1,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-550,2012Q2,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
-563,2012Q3,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-576,2012Q4,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
-587,2013Q1,S08000017,Ovarian,5,4,NHS Dumfries and Galloway
-597,2013Q2,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-609,2013Q3,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
-621,2013Q4,S08000017,Ovarian,5,5,NHS Dumfries and Galloway
-634,2014Q1,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-646,2014Q2,S08000017,Ovarian,8,8,NHS Dumfries and Galloway
-658,2014Q3,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-671,2014Q4,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
-683,2015Q1,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-696,2015Q2,S08000017,Ovarian,5,4,NHS Dumfries and Galloway
-709,2015Q3,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
-722,2015Q4,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-733,2016Q1,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
-745,2016Q2,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-758,2016Q3,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-768,2016Q4,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
-781,2017Q1,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
-794,2017Q2,S08000017,Ovarian,7,7,NHS Dumfries and Galloway
-805,2017Q3,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-818,2017Q4,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-830,2018Q1,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
-843,2018Q2,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
-856,2018Q3,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
-868,2018Q4,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
-880,2019Q1,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
-893,2019Q2,S08000017,Ovarian,6,6,NHS Dumfries and Galloway
-906,2019Q3,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
-916,2019Q4,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
-928,2020Q1,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
-939,2020Q2,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-950,2020Q3,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
-964,2020Q4,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
-977,2021Q1,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
-1001,2021Q3,S08000017,Ovarian,7,7,NHS Dumfries and Galloway
-1013,2021Q4,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
-1036,2022Q2,S08000017,Ovarian,7,7,NHS Dumfries and Galloway
-1050,2022Q3,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
-1063,2022Q4,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
-1073,2023Q1,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
-1083,2023Q2,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
-1096,2023Q3,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
-1123,2012Q1,S08000020,Ovarian,9,9,NHS Grampian
-1124,2012Q1,S08000020,Ovarian,1,1,NHS Grampian
-1147,2012Q2,S08000020,Ovarian,9,9,NHS Grampian
-1148,2012Q2,S08000020,Ovarian,1,1,NHS Grampian
-1149,2012Q2,S08000020,Ovarian,1,1,NHS Grampian
-1170,2012Q3,S08000020,Ovarian,8,8,NHS Grampian
-1171,2012Q3,S08000020,Ovarian,1,1,NHS Grampian
-1172,2012Q3,S08000020,Ovarian,1,1,NHS Grampian
-1200,2012Q4,S08000020,Ovarian,7,7,NHS Grampian
-1201,2012Q4,S08000020,Ovarian,1,1,NHS Grampian
-1224,2013Q1,S08000020,Ovarian,9,9,NHS Grampian
-1225,2013Q1,S08000020,Ovarian,1,1,NHS Grampian
-1248,2013Q2,S08000020,Ovarian,11,11,NHS Grampian
-1249,2013Q2,S08000020,Ovarian,1,1,NHS Grampian
-1272,2013Q3,S08000020,Ovarian,10,10,NHS Grampian
-1273,2013Q3,S08000020,Ovarian,2,2,NHS Grampian
-1295,2013Q4,S08000020,Ovarian,10,10,NHS Grampian
-1296,2013Q4,S08000020,Ovarian,3,3,NHS Grampian
-1297,2013Q4,S08000020,Ovarian,1,1,NHS Grampian
-1324,2014Q1,S08000020,Ovarian,5,5,NHS Grampian
-1350,2014Q2,S08000020,Ovarian,14,14,NHS Grampian
-1351,2014Q2,S08000020,Ovarian,1,1,NHS Grampian
-1382,2014Q3,S08000020,Ovarian,15,15,NHS Grampian
-1383,2014Q3,S08000020,Ovarian,1,1,NHS Grampian
-1410,2014Q4,S08000020,Ovarian,16,15,NHS Grampian
-1429,2015Q1,S08000020,Ovarian,12,12,NHS Grampian
-1454,2015Q2,S08000020,Ovarian,13,12,NHS Grampian
-1455,2015Q2,S08000020,Ovarian,2,2,NHS Grampian
-1481,2015Q3,S08000020,Ovarian,18,18,NHS Grampian
-1509,2015Q4,S08000020,Ovarian,12,12,NHS Grampian
-1510,2015Q4,S08000020,Ovarian,2,2,NHS Grampian
-1511,2015Q4,S08000020,Ovarian,1,1,NHS Grampian
-1538,2016Q1,S08000020,Ovarian,11,11,NHS Grampian
-1539,2016Q1,S08000020,Ovarian,2,2,NHS Grampian
-1560,2016Q2,S08000020,Ovarian,18,18,NHS Grampian
-1561,2016Q2,S08000020,Ovarian,2,2,NHS Grampian
-1587,2016Q3,S08000020,Ovarian,24,24,NHS Grampian
-1588,2016Q3,S08000020,Ovarian,1,1,NHS Grampian
-1617,2016Q4,S08000020,Ovarian,18,18,NHS Grampian
-1618,2016Q4,S08000020,Ovarian,1,1,NHS Grampian
-1648,2017Q1,S08000020,Ovarian,20,20,NHS Grampian
-1649,2017Q1,S08000020,Ovarian,4,4,NHS Grampian
-1650,2017Q1,S08000020,Ovarian,1,1,NHS Grampian
-1679,2017Q2,S08000020,Ovarian,16,15,NHS Grampian
-1680,2017Q2,S08000020,Ovarian,1,1,NHS Grampian
-1704,2017Q3,S08000020,Ovarian,15,15,NHS Grampian
-1705,2017Q3,S08000020,Ovarian,1,1,NHS Grampian
-1733,2017Q4,S08000020,Ovarian,12,11,NHS Grampian
-1734,2017Q4,S08000020,Ovarian,1,1,NHS Grampian
-1761,2018Q1,S08000020,Ovarian,11,11,NHS Grampian
-1762,2018Q1,S08000020,Ovarian,2,2,NHS Grampian
-1793,2018Q2,S08000020,Ovarian,13,13,NHS Grampian
-1794,2018Q2,S08000020,Ovarian,2,2,NHS Grampian
-1795,2018Q2,S08000020,Ovarian,1,1,NHS Grampian
-1796,2018Q2,S08000020,Ovarian,1,1,NHS Grampian
-1818,2018Q3,S08000020,Ovarian,16,16,NHS Grampian
-1819,2018Q3,S08000020,Ovarian,2,2,NHS Grampian
-1847,2018Q4,S08000020,Ovarian,13,13,NHS Grampian
-1848,2018Q4,S08000020,Ovarian,1,1,NHS Grampian
-1876,2019Q1,S08000020,Ovarian,9,9,NHS Grampian
-1877,2019Q1,S08000020,Ovarian,3,3,NHS Grampian
-1908,2019Q2,S08000020,Ovarian,8,8,NHS Grampian
-1909,2019Q2,S08000020,Ovarian,2,2,NHS Grampian
-1910,2019Q2,S08000020,Ovarian,1,1,NHS Grampian
-1937,2019Q3,S08000020,Ovarian,16,16,NHS Grampian
-1938,2019Q3,S08000020,Ovarian,1,1,NHS Grampian
-1939,2019Q3,S08000020,Ovarian,2,2,NHS Grampian
-1971,2019Q4,S08000020,Ovarian,16,16,NHS Grampian
-1972,2019Q4,S08000020,Ovarian,1,1,NHS Grampian
-1973,2019Q4,S08000020,Ovarian,1,1,NHS Grampian
-1974,2019Q4,S08000020,Ovarian,1,1,NHS Grampian
-2004,2020Q1,S08000020,Ovarian,16,16,NHS Grampian
-2005,2020Q1,S08000020,Ovarian,1,1,NHS Grampian
-2025,2020Q2,S08000020,Ovarian,8,7,NHS Grampian
-2026,2020Q2,S08000020,Ovarian,3,3,NHS Grampian
-2055,2020Q3,S08000020,Ovarian,15,15,NHS Grampian
-2056,2020Q3,S08000020,Ovarian,2,2,NHS Grampian
-2057,2020Q3,S08000020,Ovarian,1,1,NHS Grampian
-2082,2020Q4,S08000020,Ovarian,15,15,NHS Grampian
-2083,2020Q4,S08000020,Ovarian,1,1,NHS Grampian
-2084,2020Q4,S08000020,Ovarian,1,1,NHS Grampian
-2085,2020Q4,S08000020,Ovarian,1,1,NHS Grampian
-2109,2021Q1,S08000020,Ovarian,18,18,NHS Grampian
-2110,2021Q1,S08000020,Ovarian,2,2,NHS Grampian
-2111,2021Q1,S08000020,Ovarian,1,1,NHS Grampian
-2141,2021Q2,S08000020,Ovarian,12,12,NHS Grampian
-2142,2021Q2,S08000020,Ovarian,1,1,NHS Grampian
-2143,2021Q2,S08000020,Ovarian,1,1,NHS Grampian
-2172,2021Q3,S08000020,Ovarian,14,14,NHS Grampian
-2173,2021Q3,S08000020,Ovarian,4,4,NHS Grampian
-2174,2021Q3,S08000020,Ovarian,1,1,NHS Grampian
-2175,2021Q3,S08000020,Ovarian,2,2,NHS Grampian
-2201,2021Q4,S08000020,Ovarian,14,14,NHS Grampian
-2202,2021Q4,S08000020,Ovarian,3,3,NHS Grampian
-2203,2021Q4,S08000020,Ovarian,1,1,NHS Grampian
-2232,2022Q1,S08000020,Ovarian,8,8,NHS Grampian
-2233,2022Q1,S08000020,Ovarian,2,2,NHS Grampian
-2258,2022Q2,S08000020,Ovarian,10,9,NHS Grampian
-2259,2022Q2,S08000020,Ovarian,2,2,NHS Grampian
-2287,2022Q3,S08000020,Ovarian,18,18,NHS Grampian
-2288,2022Q3,S08000020,Ovarian,2,2,NHS Grampian
-2314,2022Q4,S08000020,Ovarian,11,10,NHS Grampian
-2315,2022Q4,S08000020,Ovarian,2,2,NHS Grampian
-2316,2022Q4,S08000020,Ovarian,3,3,NHS Grampian
-2342,2023Q1,S08000020,Ovarian,17,16,NHS Grampian
-2368,2023Q2,S08000020,Ovarian,15,14,NHS Grampian
-2369,2023Q2,S08000020,Ovarian,2,2,NHS Grampian
-2370,2023Q2,S08000020,Ovarian,1,1,NHS Grampian
-2400,2023Q3,S08000020,Ovarian,10,10,NHS Grampian
-2401,2023Q3,S08000020,Ovarian,1,1,NHS Grampian
-2402,2023Q3,S08000020,Ovarian,2,2,NHS Grampian
-2444,2012Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-2445,2012Q1,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-2446,2012Q1,S08000031,Ovarian,16,16,NHS Greater Glasgow and Clyde
-2447,2012Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-2497,2012Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-2498,2012Q2,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-2499,2012Q2,S08000031,Ovarian,1,0,NHS Greater Glasgow and Clyde
-2500,2012Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-2501,2012Q2,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
-2502,2012Q2,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-2551,2012Q3,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
-2552,2012Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-2553,2012Q3,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-2554,2012Q3,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-2600,2012Q4,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-2601,2012Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-2602,2012Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-2603,2012Q4,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-2604,2012Q4,S08000031,Ovarian,9,8,NHS Greater Glasgow and Clyde
-2651,2013Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-2652,2013Q1,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-2653,2013Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-2654,2013Q1,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
-2655,2013Q1,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
-2708,2013Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-2709,2013Q2,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-2710,2013Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-2711,2013Q2,S08000031,Ovarian,16,16,NHS Greater Glasgow and Clyde
-2712,2013Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-2763,2013Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-2764,2013Q3,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-2765,2013Q3,S08000031,Ovarian,14,14,NHS Greater Glasgow and Clyde
-2766,2013Q3,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
-2810,2013Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-2811,2013Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-2812,2013Q4,S08000031,Ovarian,14,14,NHS Greater Glasgow and Clyde
-2813,2013Q4,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
-2864,2014Q1,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-2865,2014Q1,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
-2866,2014Q1,S08000031,Ovarian,17,17,NHS Greater Glasgow and Clyde
-2867,2014Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-2919,2014Q2,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-2920,2014Q2,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-2921,2014Q2,S08000031,Ovarian,18,18,NHS Greater Glasgow and Clyde
-2922,2014Q2,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
-2972,2014Q3,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
-2973,2014Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-2974,2014Q3,S08000031,Ovarian,24,24,NHS Greater Glasgow and Clyde
-2975,2014Q3,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-3022,2014Q4,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-3023,2014Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3024,2014Q4,S08000031,Ovarian,20,20,NHS Greater Glasgow and Clyde
-3025,2014Q4,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
-3075,2015Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3076,2015Q1,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-3077,2015Q1,S08000031,Ovarian,19,19,NHS Greater Glasgow and Clyde
-3078,2015Q1,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
-3131,2015Q2,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-3132,2015Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-3133,2015Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-3134,2015Q2,S08000031,Ovarian,29,29,NHS Greater Glasgow and Clyde
-3135,2015Q2,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
-3184,2015Q3,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-3185,2015Q3,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-3186,2015Q3,S08000031,Ovarian,27,27,NHS Greater Glasgow and Clyde
-3187,2015Q3,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
-3235,2015Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-3236,2015Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3237,2015Q4,S08000031,Ovarian,36,36,NHS Greater Glasgow and Clyde
-3238,2015Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-3284,2016Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3285,2016Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3286,2016Q1,S08000031,Ovarian,29,29,NHS Greater Glasgow and Clyde
-3287,2016Q1,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-3338,2016Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3339,2016Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3340,2016Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-3341,2016Q2,S08000031,Ovarian,35,35,NHS Greater Glasgow and Clyde
-3342,2016Q2,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
-3395,2016Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-3396,2016Q3,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-3397,2016Q3,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3398,2016Q3,S08000031,Ovarian,36,36,NHS Greater Glasgow and Clyde
-3399,2016Q3,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-3447,2016Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-3448,2016Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-3449,2016Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3450,2016Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3451,2016Q4,S08000031,Ovarian,35,35,NHS Greater Glasgow and Clyde
-3452,2016Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3505,2017Q1,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-3506,2017Q1,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
-3507,2017Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3508,2017Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3509,2017Q1,S08000031,Ovarian,24,24,NHS Greater Glasgow and Clyde
-3510,2017Q1,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
-3559,2017Q2,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-3560,2017Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3561,2017Q2,S08000031,Ovarian,28,28,NHS Greater Glasgow and Clyde
-3562,2017Q2,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
-3608,2017Q3,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
-3609,2017Q3,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3610,2017Q3,S08000031,Ovarian,33,33,NHS Greater Glasgow and Clyde
-3611,2017Q3,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-3660,2017Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-3661,2017Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-3662,2017Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3663,2017Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3664,2017Q4,S08000031,Ovarian,19,19,NHS Greater Glasgow and Clyde
-3665,2017Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-3714,2018Q1,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-3715,2018Q1,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-3716,2018Q1,S08000031,Ovarian,20,20,NHS Greater Glasgow and Clyde
-3717,2018Q1,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-3757,2018Q2,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-3758,2018Q2,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-3759,2018Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3760,2018Q2,S08000031,Ovarian,26,26,NHS Greater Glasgow and Clyde
-3761,2018Q2,S08000031,Ovarian,9,8,NHS Greater Glasgow and Clyde
-3808,2018Q3,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-3809,2018Q3,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-3810,2018Q3,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3811,2018Q3,S08000031,Ovarian,25,25,NHS Greater Glasgow and Clyde
-3812,2018Q3,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-3859,2018Q4,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
-3860,2018Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-3861,2018Q4,S08000031,Ovarian,31,31,NHS Greater Glasgow and Clyde
-3862,2018Q4,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
-3910,2019Q1,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-3911,2019Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3912,2019Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3913,2019Q1,S08000031,Ovarian,33,33,NHS Greater Glasgow and Clyde
-3914,2019Q1,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
-3964,2019Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-3965,2019Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-3966,2019Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-3967,2019Q2,S08000031,Ovarian,41,38,NHS Greater Glasgow and Clyde
-3968,2019Q2,S08000031,Ovarian,13,12,NHS Greater Glasgow and Clyde
-4014,2019Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-4015,2019Q3,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-4016,2019Q3,S08000031,Ovarian,34,34,NHS Greater Glasgow and Clyde
-4017,2019Q3,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-4065,2019Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-4066,2019Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-4067,2019Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-4068,2019Q4,S08000031,Ovarian,32,30,NHS Greater Glasgow and Clyde
-4069,2019Q4,S08000031,Ovarian,13,12,NHS Greater Glasgow and Clyde
-4116,2020Q1,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-4117,2020Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-4118,2020Q1,S08000031,Ovarian,23,23,NHS Greater Glasgow and Clyde
-4119,2020Q1,S08000031,Ovarian,12,12,NHS Greater Glasgow and Clyde
-4170,2020Q2,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-4171,2020Q2,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-4172,2020Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-4173,2020Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-4174,2020Q2,S08000031,Ovarian,19,19,NHS Greater Glasgow and Clyde
-4175,2020Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-4222,2020Q3,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
-4223,2020Q3,S08000031,Ovarian,4,3,NHS Greater Glasgow and Clyde
-4224,2020Q3,S08000031,Ovarian,27,27,NHS Greater Glasgow and Clyde
-4225,2020Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-4270,2020Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-4271,2020Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-4272,2020Q4,S08000031,Ovarian,23,23,NHS Greater Glasgow and Clyde
-4273,2020Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-4327,2021Q1,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-4328,2021Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-4329,2021Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-4330,2021Q1,S08000031,Ovarian,24,23,NHS Greater Glasgow and Clyde
-4331,2021Q1,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-4372,2021Q2,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-4373,2021Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-4374,2021Q2,S08000031,Ovarian,14,14,NHS Greater Glasgow and Clyde
-4375,2021Q2,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-4424,2021Q3,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-4425,2021Q3,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-4426,2021Q3,S08000031,Ovarian,11,10,NHS Greater Glasgow and Clyde
-4427,2021Q3,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-4477,2021Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-4478,2021Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-4479,2021Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-4480,2021Q4,S08000031,Ovarian,26,25,NHS Greater Glasgow and Clyde
-4481,2021Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-4536,2022Q1,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-4537,2022Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-4538,2022Q1,S08000031,Ovarian,1,0,NHS Greater Glasgow and Clyde
-4539,2022Q1,S08000031,Ovarian,24,24,NHS Greater Glasgow and Clyde
-4540,2022Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-4588,2022Q2,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-4589,2022Q2,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-4590,2022Q2,S08000031,Ovarian,25,25,NHS Greater Glasgow and Clyde
-4591,2022Q2,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-4643,2022Q3,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-4644,2022Q3,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-4645,2022Q3,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
-4646,2022Q3,S08000031,Ovarian,19,19,NHS Greater Glasgow and Clyde
-4647,2022Q3,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
-4694,2022Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-4695,2022Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
-4696,2022Q4,S08000031,Ovarian,26,25,NHS Greater Glasgow and Clyde
-4697,2022Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
-4745,2023Q1,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-4746,2023Q1,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
-4747,2023Q1,S08000031,Ovarian,20,20,NHS Greater Glasgow and Clyde
-4748,2023Q1,S08000031,Ovarian,10,9,NHS Greater Glasgow and Clyde
-4795,2023Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-4796,2023Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
-4797,2023Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-4798,2023Q2,S08000031,Ovarian,19,16,NHS Greater Glasgow and Clyde
-4799,2023Q2,S08000031,Ovarian,8,7,NHS Greater Glasgow and Clyde
-4852,2023Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
-4853,2023Q3,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
-4854,2023Q3,S08000031,Ovarian,31,27,NHS Greater Glasgow and Clyde
-4855,2023Q3,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
-4876,2012Q1,S08000016,Ovarian,3,3,NHS Borders
-4889,2012Q2,S08000016,Ovarian,5,5,NHS Borders
-4900,2012Q3,S08000016,Ovarian,6,6,NHS Borders
-4910,2012Q4,S08000016,Ovarian,6,6,NHS Borders
-4920,2013Q1,S08000016,Ovarian,11,11,NHS Borders
-4931,2013Q2,S08000016,Ovarian,3,2,NHS Borders
-4942,2013Q3,S08000016,Ovarian,7,7,NHS Borders
-4953,2013Q4,S08000016,Ovarian,9,9,NHS Borders
-4963,2014Q1,S08000016,Ovarian,5,5,NHS Borders
-4974,2014Q2,S08000016,Ovarian,7,7,NHS Borders
-4985,2014Q3,S08000016,Ovarian,1,1,NHS Borders
-4997,2014Q4,S08000016,Ovarian,8,8,NHS Borders
-5009,2015Q1,S08000016,Ovarian,2,2,NHS Borders
-5021,2015Q2,S08000016,Ovarian,4,4,NHS Borders
-5031,2015Q3,S08000016,Ovarian,1,1,NHS Borders
-5042,2015Q4,S08000016,Ovarian,7,7,NHS Borders
-5053,2016Q1,S08000016,Ovarian,6,6,NHS Borders
-5063,2016Q2,S08000016,Ovarian,3,3,NHS Borders
-5075,2016Q3,S08000016,Ovarian,5,5,NHS Borders
-5088,2016Q4,S08000016,Ovarian,3,3,NHS Borders
-5101,2017Q1,S08000016,Ovarian,4,4,NHS Borders
-5113,2017Q2,S08000016,Ovarian,2,2,NHS Borders
-5123,2017Q3,S08000016,Ovarian,2,2,NHS Borders
-5136,2017Q4,S08000016,Ovarian,3,3,NHS Borders
-5147,2018Q1,S08000016,Ovarian,4,4,NHS Borders
-5157,2018Q2,S08000016,Ovarian,5,5,NHS Borders
-5168,2018Q3,S08000016,Ovarian,3,3,NHS Borders
-5177,2018Q4,S08000016,Ovarian,1,1,NHS Borders
-5188,2019Q1,S08000016,Ovarian,3,3,NHS Borders
-5199,2019Q2,S08000016,Ovarian,3,3,NHS Borders
-5208,2019Q3,S08000016,Ovarian,2,2,NHS Borders
-5220,2019Q4,S08000016,Ovarian,1,1,NHS Borders
-5233,2020Q1,S08000016,Ovarian,4,4,NHS Borders
-5243,2020Q2,S08000016,Ovarian,2,2,NHS Borders
-5253,2020Q3,S08000016,Ovarian,2,2,NHS Borders
-5265,2020Q4,S08000016,Ovarian,5,5,NHS Borders
-5286,2021Q2,S08000016,Ovarian,5,5,NHS Borders
-5298,2021Q3,S08000016,Ovarian,1,1,NHS Borders
-5311,2021Q4,S08000016,Ovarian,1,1,NHS Borders
-5321,2022Q1,S08000016,Ovarian,3,3,NHS Borders
-5331,2022Q2,S08000016,Ovarian,4,4,NHS Borders
-5344,2022Q3,S08000016,Ovarian,4,4,NHS Borders
-5357,2022Q4,S08000016,Ovarian,5,5,NHS Borders
-5370,2023Q1,S08000016,Ovarian,1,1,NHS Borders
-5382,2023Q2,S08000016,Ovarian,3,3,NHS Borders
-5394,2023Q3,S08000016,Ovarian,1,1,NHS Borders
-5433,2012Q1,S08000024,Ovarian,1,1,NHS Lothian
-5434,2012Q1,S08000024,Ovarian,1,1,NHS Lothian
-5435,2012Q1,S08000024,Ovarian,21,19,NHS Lothian
-5436,2012Q1,S08000024,Ovarian,2,2,NHS Lothian
-5481,2012Q2,S08000024,Ovarian,1,1,NHS Lothian
-5482,2012Q2,S08000024,Ovarian,27,24,NHS Lothian
-5483,2012Q2,S08000024,Ovarian,2,2,NHS Lothian
-5533,2012Q3,S08000024,Ovarian,1,1,NHS Lothian
-5534,2012Q3,S08000024,Ovarian,23,18,NHS Lothian
-5535,2012Q3,S08000024,Ovarian,4,4,NHS Lothian
-5584,2012Q4,S08000024,Ovarian,1,1,NHS Lothian
-5585,2012Q4,S08000024,Ovarian,2,2,NHS Lothian
-5586,2012Q4,S08000024,Ovarian,10,10,NHS Lothian
-5587,2012Q4,S08000024,Ovarian,3,3,NHS Lothian
-5635,2013Q1,S08000024,Ovarian,1,1,NHS Lothian
-5636,2013Q1,S08000024,Ovarian,1,1,NHS Lothian
-5637,2013Q1,S08000024,Ovarian,14,14,NHS Lothian
-5638,2013Q1,S08000024,Ovarian,4,4,NHS Lothian
-5688,2013Q2,S08000024,Ovarian,1,1,NHS Lothian
-5689,2013Q2,S08000024,Ovarian,8,8,NHS Lothian
-5690,2013Q2,S08000024,Ovarian,2,2,NHS Lothian
-5741,2013Q3,S08000024,Ovarian,1,1,NHS Lothian
-5742,2013Q3,S08000024,Ovarian,16,16,NHS Lothian
-5743,2013Q3,S08000024,Ovarian,1,1,NHS Lothian
-5791,2013Q4,S08000024,Ovarian,2,2,NHS Lothian
-5792,2013Q4,S08000024,Ovarian,1,1,NHS Lothian
-5793,2013Q4,S08000024,Ovarian,16,16,NHS Lothian
-5794,2013Q4,S08000024,Ovarian,1,1,NHS Lothian
-5842,2014Q1,S08000024,Ovarian,2,2,NHS Lothian
-5843,2014Q1,S08000024,Ovarian,1,1,NHS Lothian
-5844,2014Q1,S08000024,Ovarian,11,10,NHS Lothian
-5845,2014Q1,S08000024,Ovarian,1,1,NHS Lothian
-5892,2014Q2,S08000024,Ovarian,1,1,NHS Lothian
-5893,2014Q2,S08000024,Ovarian,12,11,NHS Lothian
-5894,2014Q2,S08000024,Ovarian,3,3,NHS Lothian
-5944,2014Q3,S08000024,Ovarian,1,1,NHS Lothian
-5945,2014Q3,S08000024,Ovarian,1,1,NHS Lothian
-5946,2014Q3,S08000024,Ovarian,13,13,NHS Lothian
-5947,2014Q3,S08000024,Ovarian,1,1,NHS Lothian
-5997,2014Q4,S08000024,Ovarian,14,13,NHS Lothian
-5998,2014Q4,S08000024,Ovarian,2,2,NHS Lothian
-6045,2015Q1,S08000024,Ovarian,1,1,NHS Lothian
-6046,2015Q1,S08000024,Ovarian,9,9,NHS Lothian
-6095,2015Q2,S08000024,Ovarian,2,2,NHS Lothian
-6096,2015Q2,S08000024,Ovarian,14,14,NHS Lothian
-6097,2015Q2,S08000024,Ovarian,1,1,NHS Lothian
-6144,2015Q3,S08000024,Ovarian,14,12,NHS Lothian
-6190,2015Q4,S08000024,Ovarian,1,1,NHS Lothian
-6191,2015Q4,S08000024,Ovarian,12,11,NHS Lothian
-6238,2016Q1,S08000024,Ovarian,6,6,NHS Lothian
-6287,2016Q2,S08000024,Ovarian,1,1,NHS Lothian
-6288,2016Q2,S08000024,Ovarian,18,15,NHS Lothian
-6336,2016Q3,S08000024,Ovarian,1,1,NHS Lothian
-6337,2016Q3,S08000024,Ovarian,2,2,NHS Lothian
-6338,2016Q3,S08000024,Ovarian,9,9,NHS Lothian
-6388,2016Q4,S08000024,Ovarian,11,10,NHS Lothian
-6389,2016Q4,S08000024,Ovarian,1,1,NHS Lothian
-6435,2017Q1,S08000024,Ovarian,1,1,NHS Lothian
-6436,2017Q1,S08000024,Ovarian,11,8,NHS Lothian
-6437,2017Q1,S08000024,Ovarian,1,1,NHS Lothian
-6485,2017Q2,S08000024,Ovarian,4,2,NHS Lothian
-6486,2017Q2,S08000024,Ovarian,9,7,NHS Lothian
-6487,2017Q2,S08000024,Ovarian,1,1,NHS Lothian
-6539,2017Q3,S08000024,Ovarian,30,29,NHS Lothian
-6540,2017Q3,S08000024,Ovarian,3,3,NHS Lothian
-6588,2017Q4,S08000024,Ovarian,1,1,NHS Lothian
-6589,2017Q4,S08000024,Ovarian,3,3,NHS Lothian
-6590,2017Q4,S08000024,Ovarian,20,18,NHS Lothian
-6591,2017Q4,S08000024,Ovarian,5,5,NHS Lothian
-6635,2018Q1,S08000024,Ovarian,3,3,NHS Lothian
-6636,2018Q1,S08000024,Ovarian,2,2,NHS Lothian
-6637,2018Q1,S08000024,Ovarian,11,11,NHS Lothian
-6679,2018Q2,S08000024,Ovarian,4,3,NHS Lothian
-6680,2018Q2,S08000024,Ovarian,10,10,NHS Lothian
-6728,2018Q3,S08000024,Ovarian,1,1,NHS Lothian
-6729,2018Q3,S08000024,Ovarian,3,3,NHS Lothian
-6730,2018Q3,S08000024,Ovarian,10,9,NHS Lothian
-6731,2018Q3,S08000024,Ovarian,1,1,NHS Lothian
-6777,2018Q4,S08000024,Ovarian,1,1,NHS Lothian
-6778,2018Q4,S08000024,Ovarian,3,3,NHS Lothian
-6779,2018Q4,S08000024,Ovarian,1,1,NHS Lothian
-6780,2018Q4,S08000024,Ovarian,17,15,NHS Lothian
-6830,2019Q1,S08000024,Ovarian,3,3,NHS Lothian
-6831,2019Q1,S08000024,Ovarian,11,11,NHS Lothian
-6876,2019Q2,S08000024,Ovarian,2,2,NHS Lothian
-6877,2019Q2,S08000024,Ovarian,2,2,NHS Lothian
-6878,2019Q2,S08000024,Ovarian,18,17,NHS Lothian
-6928,2019Q3,S08000024,Ovarian,2,2,NHS Lothian
-6929,2019Q3,S08000024,Ovarian,1,1,NHS Lothian
-6930,2019Q3,S08000024,Ovarian,16,16,NHS Lothian
-6931,2019Q3,S08000024,Ovarian,1,1,NHS Lothian
-6984,2019Q4,S08000024,Ovarian,11,11,NHS Lothian
-7029,2020Q1,S08000024,Ovarian,1,1,NHS Lothian
-7030,2020Q1,S08000024,Ovarian,3,3,NHS Lothian
-7031,2020Q1,S08000024,Ovarian,13,13,NHS Lothian
-7032,2020Q1,S08000024,Ovarian,4,4,NHS Lothian
-7077,2020Q2,S08000024,Ovarian,1,1,NHS Lothian
-7078,2020Q2,S08000024,Ovarian,18,18,NHS Lothian
-7079,2020Q2,S08000024,Ovarian,1,1,NHS Lothian
-7080,2020Q2,S08000024,Ovarian,3,3,NHS Lothian
-7127,2020Q3,S08000024,Ovarian,2,2,NHS Lothian
-7128,2020Q3,S08000024,Ovarian,1,1,NHS Lothian
-7129,2020Q3,S08000024,Ovarian,20,20,NHS Lothian
-7130,2020Q3,S08000024,Ovarian,1,1,NHS Lothian
-7179,2020Q4,S08000024,Ovarian,2,2,NHS Lothian
-7180,2020Q4,S08000024,Ovarian,1,1,NHS Lothian
-7181,2020Q4,S08000024,Ovarian,20,20,NHS Lothian
-7182,2020Q4,S08000024,Ovarian,3,3,NHS Lothian
-7225,2021Q1,S08000024,Ovarian,1,1,NHS Lothian
-7226,2021Q1,S08000024,Ovarian,2,1,NHS Lothian
-7227,2021Q1,S08000024,Ovarian,14,14,NHS Lothian
-7228,2021Q1,S08000024,Ovarian,1,1,NHS Lothian
-7276,2021Q2,S08000024,Ovarian,2,2,NHS Lothian
-7277,2021Q2,S08000024,Ovarian,13,13,NHS Lothian
-7278,2021Q2,S08000024,Ovarian,1,1,NHS Lothian
-7327,2021Q3,S08000024,Ovarian,1,1,NHS Lothian
-7328,2021Q3,S08000024,Ovarian,15,15,NHS Lothian
-7329,2021Q3,S08000024,Ovarian,1,1,NHS Lothian
-7378,2021Q4,S08000024,Ovarian,1,1,NHS Lothian
-7379,2021Q4,S08000024,Ovarian,1,1,NHS Lothian
-7380,2021Q4,S08000024,Ovarian,12,12,NHS Lothian
-7381,2021Q4,S08000024,Ovarian,1,1,NHS Lothian
-7433,2022Q1,S08000024,Ovarian,9,7,NHS Lothian
-7481,2022Q2,S08000024,Ovarian,1,1,NHS Lothian
-7482,2022Q2,S08000024,Ovarian,1,1,NHS Lothian
-7483,2022Q2,S08000024,Ovarian,20,19,NHS Lothian
-7532,2022Q3,S08000024,Ovarian,1,1,NHS Lothian
-7533,2022Q3,S08000024,Ovarian,1,1,NHS Lothian
-7534,2022Q3,S08000024,Ovarian,10,10,NHS Lothian
-7583,2022Q4,S08000024,Ovarian,2,2,NHS Lothian
-7584,2022Q4,S08000024,Ovarian,14,14,NHS Lothian
-7632,2023Q1,S08000024,Ovarian,2,2,NHS Lothian
-7633,2023Q1,S08000024,Ovarian,17,17,NHS Lothian
-7680,2023Q2,S08000024,Ovarian,1,1,NHS Lothian
-7681,2023Q2,S08000024,Ovarian,17,17,NHS Lothian
-7682,2023Q2,S08000024,Ovarian,1,1,NHS Lothian
-7732,2023Q3,S08000024,Ovarian,1,1,NHS Lothian
-7733,2023Q3,S08000024,Ovarian,10,10,NHS Lothian
-7734,2023Q3,S08000024,Ovarian,1,1,NHS Lothian
-7759,2012Q1,S08000019,Ovarian,6,6,NHS Forth Valley
-7773,2012Q2,S08000019,Ovarian,1,1,NHS Forth Valley
-7788,2012Q3,S08000019,Ovarian,1,1,NHS Forth Valley
-7801,2012Q4,S08000019,Ovarian,3,3,NHS Forth Valley
-7811,2013Q1,S08000019,Ovarian,1,1,NHS Forth Valley
-7823,2013Q2,S08000019,Ovarian,5,4,NHS Forth Valley
-7836,2013Q3,S08000019,Ovarian,4,4,NHS Forth Valley
-7851,2013Q4,S08000019,Ovarian,2,2,NHS Forth Valley
-7866,2014Q1,S08000019,Ovarian,1,1,NHS Forth Valley
-7879,2014Q2,S08000019,Ovarian,1,1,NHS Forth Valley
-7892,2014Q3,S08000019,Ovarian,2,2,NHS Forth Valley
-7907,2014Q4,S08000019,Ovarian,5,5,NHS Forth Valley
-7922,2015Q1,S08000019,Ovarian,1,1,NHS Forth Valley
-7935,2015Q2,S08000019,Ovarian,3,3,NHS Forth Valley
-7959,2015Q4,S08000019,Ovarian,1,1,NHS Forth Valley
-7984,2016Q2,S08000019,Ovarian,2,2,NHS Forth Valley
-8011,2016Q4,S08000019,Ovarian,2,2,NHS Forth Valley
-8029,2017Q1,S08000019,Ovarian,6,6,NHS Forth Valley
-8042,2017Q2,S08000019,Ovarian,5,4,NHS Forth Valley
-8055,2017Q3,S08000019,Ovarian,4,3,NHS Forth Valley
-8067,2017Q4,S08000019,Ovarian,1,0,NHS Forth Valley
-8080,2018Q1,S08000019,Ovarian,3,3,NHS Forth Valley
-8093,2018Q2,S08000019,Ovarian,2,2,NHS Forth Valley
-8106,2018Q3,S08000019,Ovarian,2,2,NHS Forth Valley
-8119,2018Q4,S08000019,Ovarian,1,1,NHS Forth Valley
-8133,2019Q1,S08000019,Ovarian,1,1,NHS Forth Valley
-8147,2019Q2,S08000019,Ovarian,2,2,NHS Forth Valley
-8161,2019Q3,S08000019,Ovarian,1,1,NHS Forth Valley
-8176,2019Q4,S08000019,Ovarian,1,1,NHS Forth Valley
-8191,2020Q1,S08000019,Ovarian,1,1,NHS Forth Valley
-8206,2020Q2,S08000019,Ovarian,1,1,NHS Forth Valley
-8216,2020Q3,S08000019,Ovarian,4,4,NHS Forth Valley
-8231,2020Q4,S08000019,Ovarian,4,4,NHS Forth Valley
-8243,2021Q1,S08000019,Ovarian,3,3,NHS Forth Valley
-8257,2021Q2,S08000019,Ovarian,6,6,NHS Forth Valley
-8268,2021Q3,S08000019,Ovarian,1,1,NHS Forth Valley
-8281,2021Q4,S08000019,Ovarian,6,4,NHS Forth Valley
-8294,2022Q1,S08000019,Ovarian,2,2,NHS Forth Valley
-8308,2022Q2,S08000019,Ovarian,4,4,NHS Forth Valley
-8322,2022Q3,S08000019,Ovarian,4,4,NHS Forth Valley
-8337,2022Q4,S08000019,Ovarian,1,1,NHS Forth Valley
-8351,2023Q1,S08000019,Ovarian,1,1,NHS Forth Valley
-8365,2023Q2,S08000019,Ovarian,2,2,NHS Forth Valley
-8383,2023Q3,S08000019,Ovarian,4,4,NHS Forth Valley
-8399,2012Q1,S08000022,Ovarian,4,4,NHS Highland
-8418,2012Q2,S08000022,Ovarian,5,5,NHS Highland
-8437,2012Q3,S08000022,Ovarian,8,8,NHS Highland
-8455,2012Q4,S08000022,Ovarian,4,4,NHS Highland
-8476,2013Q1,S08000022,Ovarian,6,6,NHS Highland
-8492,2013Q2,S08000022,Ovarian,5,5,NHS Highland
-8515,2013Q3,S08000022,Ovarian,5,5,NHS Highland
-8534,2013Q4,S08000022,Ovarian,3,3,NHS Highland
-8535,2013Q4,S08000022,Ovarian,1,1,NHS Highland
-8553,2014Q1,S08000022,Ovarian,3,3,NHS Highland
-8581,2014Q2,S08000022,Ovarian,7,6,NHS Highland
-8599,2014Q3,S08000022,Ovarian,6,6,NHS Highland
-8617,2014Q4,S08000022,Ovarian,9,9,NHS Highland
-8637,2015Q1,S08000022,Ovarian,9,9,NHS Highland
-8656,2015Q2,S08000022,Ovarian,7,7,NHS Highland
-8676,2015Q3,S08000022,Ovarian,4,3,NHS Highland
-8696,2015Q4,S08000022,Ovarian,3,3,NHS Highland
-8710,2016Q1,S08000022,Ovarian,8,8,NHS Highland
-8731,2016Q2,S08000022,Ovarian,5,5,NHS Highland
-8753,2016Q3,S08000022,Ovarian,3,3,NHS Highland
-8771,2016Q4,S08000022,Ovarian,4,4,NHS Highland
-8790,2017Q1,S08000022,Ovarian,2,2,NHS Highland
-8809,2017Q2,S08000022,Ovarian,6,5,NHS Highland
-8829,2017Q3,S08000022,Ovarian,7,6,NHS Highland
-8852,2017Q4,S08000022,Ovarian,8,7,NHS Highland
-8873,2018Q1,S08000022,Ovarian,5,4,NHS Highland
-8892,2018Q2,S08000022,Ovarian,7,7,NHS Highland
-8893,2018Q2,S08000022,Ovarian,1,1,NHS Highland
-8915,2018Q3,S08000022,Ovarian,9,9,NHS Highland
-8935,2018Q4,S08000022,Ovarian,4,4,NHS Highland
-8954,2019Q1,S08000022,Ovarian,3,3,NHS Highland
-8975,2019Q2,S08000022,Ovarian,3,3,NHS Highland
-8976,2019Q2,S08000022,Ovarian,1,1,NHS Highland
-9000,2019Q3,S08000022,Ovarian,3,3,NHS Highland
-9019,2019Q4,S08000022,Ovarian,5,5,NHS Highland
-9040,2020Q1,S08000022,Ovarian,1,1,NHS Highland
-9063,2020Q2,S08000022,Ovarian,4,4,NHS Highland
-9080,2020Q3,S08000022,Ovarian,6,6,NHS Highland
-9098,2020Q4,S08000022,Ovarian,11,11,NHS Highland
-9118,2021Q1,S08000022,Ovarian,6,6,NHS Highland
-9139,2021Q2,S08000022,Ovarian,6,6,NHS Highland
-9159,2021Q3,S08000022,Ovarian,2,2,NHS Highland
-9174,2021Q4,S08000022,Ovarian,6,6,NHS Highland
-9190,2022Q1,S08000022,Ovarian,1,1,NHS Highland
-9209,2022Q2,S08000022,Ovarian,5,5,NHS Highland
-9228,2022Q3,S08000022,Ovarian,6,5,NHS Highland
-9247,2022Q4,S08000022,Ovarian,2,2,NHS Highland
-9267,2023Q1,S08000022,Ovarian,4,4,NHS Highland
-9285,2023Q2,S08000022,Ovarian,10,9,NHS Highland
-9301,2023Q3,S08000022,Ovarian,9,7,NHS Highland
-9315,2012Q1,S08000029,Ovarian,4,3,NHS Fife
-9327,2012Q2,S08000029,Ovarian,4,3,NHS Fife
-9340,2012Q3,S08000029,Ovarian,6,5,NHS Fife
-9353,2012Q4,S08000029,Ovarian,9,9,NHS Fife
-9366,2013Q1,S08000029,Ovarian,9,7,NHS Fife
-9379,2013Q2,S08000029,Ovarian,7,6,NHS Fife
-9391,2013Q3,S08000029,Ovarian,6,5,NHS Fife
-9404,2013Q4,S08000029,Ovarian,1,1,NHS Fife
-9417,2014Q1,S08000029,Ovarian,8,8,NHS Fife
-9428,2014Q2,S08000029,Ovarian,9,9,NHS Fife
-9441,2014Q3,S08000029,Ovarian,6,6,NHS Fife
-9455,2014Q4,S08000029,Ovarian,8,7,NHS Fife
-9467,2015Q1,S08000029,Ovarian,5,5,NHS Fife
-9480,2015Q2,S08000029,Ovarian,7,7,NHS Fife
-9495,2015Q3,S08000029,Ovarian,14,14,NHS Fife
-9508,2015Q4,S08000029,Ovarian,9,8,NHS Fife
-9523,2016Q1,S08000029,Ovarian,11,7,NHS Fife
-9536,2016Q2,S08000029,Ovarian,8,7,NHS Fife
-9548,2016Q3,S08000029,Ovarian,7,7,NHS Fife
-9561,2016Q4,S08000029,Ovarian,11,11,NHS Fife
-9574,2017Q1,S08000029,Ovarian,4,3,NHS Fife
-9589,2017Q2,S08000029,Ovarian,5,5,NHS Fife
-9600,2017Q3,S08000029,Ovarian,7,7,NHS Fife
-9611,2017Q4,S08000029,Ovarian,6,6,NHS Fife
-9624,2018Q1,S08000029,Ovarian,7,5,NHS Fife
-9639,2018Q2,S08000029,Ovarian,9,7,NHS Fife
-9652,2018Q3,S08000029,Ovarian,6,5,NHS Fife
-9665,2018Q4,S08000029,Ovarian,6,5,NHS Fife
-9676,2019Q1,S08000029,Ovarian,5,5,NHS Fife
-9689,2019Q2,S08000029,Ovarian,8,7,NHS Fife
-9702,2019Q3,S08000029,Ovarian,3,3,NHS Fife
-9716,2019Q4,S08000029,Ovarian,4,4,NHS Fife
-9729,2020Q1,S08000029,Ovarian,8,8,NHS Fife
-9742,2020Q2,S08000029,Ovarian,4,4,NHS Fife
-9753,2020Q3,S08000029,Ovarian,11,11,NHS Fife
-9766,2020Q4,S08000029,Ovarian,5,5,NHS Fife
-9779,2021Q1,S08000029,Ovarian,3,3,NHS Fife
-9792,2021Q2,S08000029,Ovarian,5,5,NHS Fife
-9805,2021Q3,S08000029,Ovarian,6,6,NHS Fife
-9817,2021Q4,S08000029,Ovarian,8,8,NHS Fife
-9832,2022Q1,S08000029,Ovarian,5,5,NHS Fife
-9843,2022Q2,S08000029,Ovarian,3,3,NHS Fife
-9855,2022Q3,S08000029,Ovarian,1,1,NHS Fife
-9870,2022Q4,S08000029,Ovarian,7,7,NHS Fife
-9881,2023Q1,S08000029,Ovarian,9,9,NHS Fife
-9896,2023Q2,S08000029,Ovarian,7,7,NHS Fife
-9909,2023Q3,S08000029,Ovarian,8,7,NHS Fife
-9923,2012Q1,S08000030,Ovarian,12,12,NHS Tayside
-9939,2012Q2,S08000030,Ovarian,11,11,NHS Tayside
-9955,2012Q3,S08000030,Ovarian,15,15,NHS Tayside
-9970,2012Q4,S08000030,Ovarian,12,12,NHS Tayside
-9989,2013Q1,S08000030,Ovarian,15,14,NHS Tayside
-10006,2013Q2,S08000030,Ovarian,11,11,NHS Tayside
-10023,2013Q3,S08000030,Ovarian,17,17,NHS Tayside
-10041,2013Q4,S08000030,Ovarian,11,7,NHS Tayside
-10055,2014Q1,S08000030,Ovarian,10,9,NHS Tayside
-10071,2014Q2,S08000030,Ovarian,1,1,NHS Tayside
-10117,2015Q1,S08000030,Ovarian,4,4,NHS Tayside
-10132,2015Q2,S08000030,Ovarian,5,5,NHS Tayside
-10147,2015Q3,S08000030,Ovarian,5,4,NHS Tayside
-10163,2015Q4,S08000030,Ovarian,10,9,NHS Tayside
-10184,2016Q1,S08000030,Ovarian,1,1,NHS Tayside
-10203,2016Q2,S08000030,Ovarian,15,15,NHS Tayside
-10221,2016Q3,S08000030,Ovarian,8,8,NHS Tayside
-10242,2016Q4,S08000030,Ovarian,10,10,NHS Tayside
-10257,2017Q1,S08000030,Ovarian,8,8,NHS Tayside
-10275,2017Q2,S08000030,Ovarian,9,9,NHS Tayside
-10293,2017Q3,S08000030,Ovarian,12,11,NHS Tayside
-10312,2017Q4,S08000030,Ovarian,18,17,NHS Tayside
-10330,2018Q1,S08000030,Ovarian,5,5,NHS Tayside
-10348,2018Q2,S08000030,Ovarian,5,4,NHS Tayside
-10366,2018Q3,S08000030,Ovarian,9,9,NHS Tayside
-10386,2018Q4,S08000030,Ovarian,6,6,NHS Tayside
-10402,2019Q1,S08000030,Ovarian,15,14,NHS Tayside
-10419,2019Q2,S08000030,Ovarian,6,6,NHS Tayside
-10439,2019Q3,S08000030,Ovarian,3,3,NHS Tayside
-10457,2019Q4,S08000030,Ovarian,9,8,NHS Tayside
-10473,2020Q1,S08000030,Ovarian,11,11,NHS Tayside
-10491,2020Q2,S08000030,Ovarian,7,7,NHS Tayside
-10509,2020Q3,S08000030,Ovarian,7,7,NHS Tayside
-10523,2020Q4,S08000030,Ovarian,4,4,NHS Tayside
-10540,2021Q1,S08000030,Ovarian,4,4,NHS Tayside
-10555,2021Q2,S08000030,Ovarian,3,3,NHS Tayside
-10572,2021Q3,S08000030,Ovarian,7,7,NHS Tayside
-10589,2021Q4,S08000030,Ovarian,6,6,NHS Tayside
-10607,2022Q1,S08000030,Ovarian,5,5,NHS Tayside
-10623,2022Q2,S08000030,Ovarian,6,6,NHS Tayside
-10640,2022Q3,S08000030,Ovarian,4,4,NHS Tayside
-10656,2022Q4,S08000030,Ovarian,9,9,NHS Tayside
-10673,2023Q1,S08000030,Ovarian,4,4,NHS Tayside
-10689,2023Q2,S08000030,Ovarian,3,3,NHS Tayside
-10708,2023Q3,S08000030,Ovarian,10,10,NHS Tayside
-10802,2016Q4,S08000025,Ovarian,1,1,NHS Orkney
-10837,2018Q3,S08000025,Ovarian,1,1,NHS Orkney
-10851,2019Q1,S08000025,Ovarian,2,2,NHS Orkney
-10863,2019Q3,S08000025,Ovarian,1,1,NHS Orkney
-10868,2019Q4,S08000025,Ovarian,1,1,NHS Orkney
-10874,2020Q1,S08000025,Ovarian,1,1,NHS Orkney
-10884,2020Q3,S08000025,Ovarian,1,1,NHS Orkney
-10921,2022Q1,S08000025,Ovarian,1,1,NHS Orkney
-10934,2022Q3,S08000025,Ovarian,1,1,NHS Orkney
-10941,2022Q4,S08000025,Ovarian,1,1,NHS Orkney
-11022,2014Q1,S08000026,Ovarian,1,1,NHS Shetland
-11058,2015Q2,S08000026,Ovarian,1,1,NHS Shetland
-11140,2018Q2,S08000026,Ovarian,1,1,NHS Shetland
-11150,2018Q3,S08000026,Ovarian,1,1,NHS Shetland
-11160,2018Q4,S08000026,Ovarian,1,1,NHS Shetland
-11170,2019Q1,S08000026,Ovarian,2,2,NHS Shetland
-11227,2020Q4,S08000026,Ovarian,1,1,NHS Shetland
-11320,2012Q2,S08000028,Ovarian,1,1,NHS Western Isles
-11378,2014Q3,S08000028,Ovarian,1,1,NHS Western Isles
-11431,2016Q2,S08000028,Ovarian,2,2,NHS Western Isles
-11447,2016Q4,S08000028,Ovarian,1,1,NHS Western Isles
-11464,2017Q2,S08000028,Ovarian,1,1,NHS Western Isles
-11503,2018Q3,S08000028,Ovarian,1,1,NHS Western Isles
-11531,2019Q3,S08000028,Ovarian,1,1,NHS Western Isles
-11598,2022Q1,S08000028,Ovarian,1,1,NHS Western Isles
-11621,2022Q3,S08000028,Ovarian,1,1,NHS Western Isles
-11666,2012Q1,S08000032,Ovarian,5,5,NHS Lanarkshire
-11679,2012Q2,S08000032,Ovarian,2,2,NHS Lanarkshire
-11693,2012Q3,S08000032,Ovarian,7,7,NHS Lanarkshire
-11706,2012Q4,S08000032,Ovarian,5,5,NHS Lanarkshire
-11721,2013Q1,S08000032,Ovarian,3,3,NHS Lanarkshire
-11736,2013Q2,S08000032,Ovarian,1,1,NHS Lanarkshire
-11749,2013Q3,S08000032,Ovarian,1,1,NHS Lanarkshire
-11764,2013Q4,S08000032,Ovarian,1,1,NHS Lanarkshire
-11779,2014Q1,S08000032,Ovarian,1,1,NHS Lanarkshire
-11792,2014Q2,S08000032,Ovarian,3,3,NHS Lanarkshire
-11807,2014Q3,S08000032,Ovarian,5,5,NHS Lanarkshire
-11820,2014Q4,S08000032,Ovarian,10,10,NHS Lanarkshire
-11835,2015Q1,S08000032,Ovarian,2,2,NHS Lanarkshire
-11850,2015Q2,S08000032,Ovarian,3,3,NHS Lanarkshire
-11865,2015Q3,S08000032,Ovarian,2,2,NHS Lanarkshire
-11880,2015Q4,S08000032,Ovarian,2,2,NHS Lanarkshire
-11894,2016Q1,S08000032,Ovarian,7,7,NHS Lanarkshire
-11908,2016Q2,S08000032,Ovarian,5,5,NHS Lanarkshire
-11922,2016Q3,S08000032,Ovarian,5,5,NHS Lanarkshire
-11938,2016Q4,S08000032,Ovarian,5,5,NHS Lanarkshire
-11953,2017Q1,S08000032,Ovarian,2,2,NHS Lanarkshire
-11968,2017Q2,S08000032,Ovarian,7,7,NHS Lanarkshire
-11983,2017Q3,S08000032,Ovarian,3,3,NHS Lanarkshire
-11998,2017Q4,S08000032,Ovarian,2,2,NHS Lanarkshire
-12014,2018Q1,S08000032,Ovarian,3,3,NHS Lanarkshire
-12043,2018Q3,S08000032,Ovarian,2,2,NHS Lanarkshire
-12059,2018Q4,S08000032,Ovarian,4,4,NHS Lanarkshire
-12074,2019Q1,S08000032,Ovarian,5,5,NHS Lanarkshire
-12090,2019Q2,S08000032,Ovarian,4,4,NHS Lanarkshire
-12106,2019Q3,S08000032,Ovarian,5,5,NHS Lanarkshire
-12121,2019Q4,S08000032,Ovarian,6,6,NHS Lanarkshire
-12137,2020Q1,S08000032,Ovarian,3,3,NHS Lanarkshire
-12153,2020Q2,S08000032,Ovarian,4,4,NHS Lanarkshire
-12168,2020Q3,S08000032,Ovarian,2,2,NHS Lanarkshire
-12182,2020Q4,S08000032,Ovarian,3,3,NHS Lanarkshire
-12195,2021Q1,S08000032,Ovarian,4,4,NHS Lanarkshire
-12209,2021Q2,S08000032,Ovarian,5,5,NHS Lanarkshire
-12224,2021Q3,S08000032,Ovarian,8,8,NHS Lanarkshire
-12240,2021Q4,S08000032,Ovarian,3,3,NHS Lanarkshire
-12256,2022Q1,S08000032,Ovarian,3,3,NHS Lanarkshire
-12271,2022Q2,S08000032,Ovarian,2,2,NHS Lanarkshire
-12286,2022Q3,S08000032,Ovarian,7,7,NHS Lanarkshire
-12301,2022Q4,S08000032,Ovarian,5,5,NHS Lanarkshire
-12317,2023Q1,S08000032,Ovarian,2,2,NHS Lanarkshire
-12332,2023Q2,S08000032,Ovarian,4,4,NHS Lanarkshire
-12348,2023Q3,S08000032,Ovarian,12,12,NHS Lanarkshire
+188,2012Q1,S08000015,Ovarian,6,6,NHS Ayrshire and Arran
+189,2012Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+190,2012Q1,S08000016,Ovarian,3,3,NHS Borders
+191,2012Q1,S08000024,Ovarian,1,1,NHS Lothian
+192,2012Q1,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+193,2012Q1,S08000024,Ovarian,1,1,NHS Lothian
+194,2012Q1,S08000019,Ovarian,6,6,NHS Forth Valley
+195,2012Q1,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+196,2012Q1,S08000020,Ovarian,9,9,NHS Grampian
+197,2012Q1,S08000020,Ovarian,1,1,NHS Grampian
+198,2012Q1,S08000022,Ovarian,4,4,NHS Highland
+199,2012Q1,S08000024,Ovarian,21,19,NHS Lothian
+200,2012Q1,S08000024,Ovarian,2,2,NHS Lothian
+201,2012Q1,S08000029,Ovarian,4,3,NHS Fife
+202,2012Q1,S08000030,Ovarian,12,12,NHS Tayside
+203,2012Q1,S08000031,Ovarian,16,16,NHS Greater Glasgow and Clyde
+204,2012Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+205,2012Q1,S08000032,Ovarian,5,5,NHS Lanarkshire
+438,2012Q2,S08000015,Ovarian,11,11,NHS Ayrshire and Arran
+439,2012Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+440,2012Q2,S08000016,Ovarian,5,5,NHS Borders
+441,2012Q2,S08000024,Ovarian,1,1,NHS Lothian
+442,2012Q2,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
+443,2012Q2,S08000019,Ovarian,1,1,NHS Forth Valley
+444,2012Q2,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+445,2012Q2,S08000020,Ovarian,9,9,NHS Grampian
+446,2012Q2,S08000020,Ovarian,1,1,NHS Grampian
+447,2012Q2,S08000022,Ovarian,5,5,NHS Highland
+448,2012Q2,S08000031,Ovarian,1,0,NHS Greater Glasgow and Clyde
+449,2012Q2,S08000024,Ovarian,27,24,NHS Lothian
+450,2012Q2,S08000020,Ovarian,1,1,NHS Grampian
+451,2012Q2,S08000028,Ovarian,1,1,NHS Western Isles
+452,2012Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+453,2012Q2,S08000024,Ovarian,2,2,NHS Lothian
+454,2012Q2,S08000029,Ovarian,4,3,NHS Fife
+455,2012Q2,S08000030,Ovarian,11,11,NHS Tayside
+456,2012Q2,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
+457,2012Q2,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+458,2012Q2,S08000032,Ovarian,2,2,NHS Lanarkshire
+696,2012Q3,S08000015,Ovarian,11,11,NHS Ayrshire and Arran
+697,2012Q3,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
+698,2012Q3,S08000016,Ovarian,6,6,NHS Borders
+699,2012Q3,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+700,2012Q3,S08000024,Ovarian,1,1,NHS Lothian
+701,2012Q3,S08000019,Ovarian,1,1,NHS Forth Valley
+702,2012Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+703,2012Q3,S08000020,Ovarian,8,8,NHS Grampian
+704,2012Q3,S08000020,Ovarian,1,1,NHS Grampian
+705,2012Q3,S08000022,Ovarian,8,8,NHS Highland
+706,2012Q3,S08000024,Ovarian,23,18,NHS Lothian
+707,2012Q3,S08000020,Ovarian,1,1,NHS Grampian
+708,2012Q3,S08000024,Ovarian,4,4,NHS Lothian
+709,2012Q3,S08000029,Ovarian,6,5,NHS Fife
+710,2012Q3,S08000030,Ovarian,15,15,NHS Tayside
+711,2012Q3,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+712,2012Q3,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+713,2012Q3,S08000032,Ovarian,7,7,NHS Lanarkshire
+946,2012Q4,S08000015,Ovarian,2,2,NHS Ayrshire and Arran
+947,2012Q4,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+948,2012Q4,S08000016,Ovarian,6,6,NHS Borders
+949,2012Q4,S08000024,Ovarian,1,1,NHS Lothian
+950,2012Q4,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
+951,2012Q4,S08000024,Ovarian,2,2,NHS Lothian
+952,2012Q4,S08000019,Ovarian,3,3,NHS Forth Valley
+953,2012Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+954,2012Q4,S08000020,Ovarian,7,7,NHS Grampian
+955,2012Q4,S08000022,Ovarian,4,4,NHS Highland
+956,2012Q4,S08000024,Ovarian,10,10,NHS Lothian
+957,2012Q4,S08000020,Ovarian,1,1,NHS Grampian
+958,2012Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+959,2012Q4,S08000024,Ovarian,3,3,NHS Lothian
+960,2012Q4,S08000029,Ovarian,9,9,NHS Fife
+961,2012Q4,S08000030,Ovarian,12,12,NHS Tayside
+962,2012Q4,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+963,2012Q4,S08000031,Ovarian,9,8,NHS Greater Glasgow and Clyde
+964,2012Q4,S08000032,Ovarian,5,5,NHS Lanarkshire
+1197,2013Q1,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+1198,2013Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+1199,2013Q1,S08000016,Ovarian,11,11,NHS Borders
+1200,2013Q1,S08000024,Ovarian,1,1,NHS Lothian
+1201,2013Q1,S08000017,Ovarian,5,4,NHS Dumfries and Galloway
+1202,2013Q1,S08000024,Ovarian,1,1,NHS Lothian
+1203,2013Q1,S08000019,Ovarian,1,1,NHS Forth Valley
+1204,2013Q1,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+1205,2013Q1,S08000020,Ovarian,9,9,NHS Grampian
+1206,2013Q1,S08000022,Ovarian,6,6,NHS Highland
+1207,2013Q1,S08000024,Ovarian,14,14,NHS Lothian
+1208,2013Q1,S08000020,Ovarian,1,1,NHS Grampian
+1209,2013Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+1210,2013Q1,S08000024,Ovarian,4,4,NHS Lothian
+1211,2013Q1,S08000029,Ovarian,9,7,NHS Fife
+1212,2013Q1,S08000030,Ovarian,15,14,NHS Tayside
+1213,2013Q1,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
+1214,2013Q1,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
+1215,2013Q1,S08000032,Ovarian,3,3,NHS Lanarkshire
+1455,2013Q2,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+1456,2013Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+1457,2013Q2,S08000016,Ovarian,3,2,NHS Borders
+1458,2013Q2,S08000024,Ovarian,1,1,NHS Lothian
+1459,2013Q2,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+1460,2013Q2,S08000019,Ovarian,5,4,NHS Forth Valley
+1461,2013Q2,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+1462,2013Q2,S08000020,Ovarian,11,11,NHS Grampian
+1463,2013Q2,S08000020,Ovarian,1,1,NHS Grampian
+1464,2013Q2,S08000022,Ovarian,5,5,NHS Highland
+1465,2013Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+1466,2013Q2,S08000024,Ovarian,8,8,NHS Lothian
+1467,2013Q2,S08000024,Ovarian,2,2,NHS Lothian
+1468,2013Q2,S08000029,Ovarian,7,6,NHS Fife
+1469,2013Q2,S08000030,Ovarian,11,11,NHS Tayside
+1470,2013Q2,S08000031,Ovarian,16,16,NHS Greater Glasgow and Clyde
+1471,2013Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+1472,2013Q2,S08000032,Ovarian,1,1,NHS Lanarkshire
+1718,2013Q3,S08000015,Ovarian,9,9,NHS Ayrshire and Arran
+1719,2013Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+1720,2013Q3,S08000016,Ovarian,7,7,NHS Borders
+1721,2013Q3,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
+1722,2013Q3,S08000019,Ovarian,4,4,NHS Forth Valley
+1723,2013Q3,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+1724,2013Q3,S08000020,Ovarian,10,10,NHS Grampian
+1725,2013Q3,S08000020,Ovarian,2,2,NHS Grampian
+1726,2013Q3,S08000022,Ovarian,5,5,NHS Highland
+1727,2013Q3,S08000024,Ovarian,1,1,NHS Lothian
+1728,2013Q3,S08000024,Ovarian,16,16,NHS Lothian
+1729,2013Q3,S08000024,Ovarian,1,1,NHS Lothian
+1730,2013Q3,S08000029,Ovarian,6,5,NHS Fife
+1731,2013Q3,S08000030,Ovarian,17,17,NHS Tayside
+1732,2013Q3,S08000031,Ovarian,14,14,NHS Greater Glasgow and Clyde
+1733,2013Q3,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
+1734,2013Q3,S08000032,Ovarian,1,1,NHS Lanarkshire
+1969,2013Q4,S08000015,Ovarian,7,7,NHS Ayrshire and Arran
+1970,2013Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+1971,2013Q4,S08000016,Ovarian,9,9,NHS Borders
+1972,2013Q4,S08000024,Ovarian,2,2,NHS Lothian
+1973,2013Q4,S08000017,Ovarian,5,5,NHS Dumfries and Galloway
+1974,2013Q4,S08000024,Ovarian,1,1,NHS Lothian
+1975,2013Q4,S08000019,Ovarian,2,2,NHS Forth Valley
+1976,2013Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+1977,2013Q4,S08000020,Ovarian,10,10,NHS Grampian
+1978,2013Q4,S08000020,Ovarian,3,3,NHS Grampian
+1979,2013Q4,S08000022,Ovarian,3,3,NHS Highland
+1980,2013Q4,S08000024,Ovarian,16,16,NHS Lothian
+1981,2013Q4,S08000020,Ovarian,1,1,NHS Grampian
+1982,2013Q4,S08000022,Ovarian,1,1,NHS Highland
+1983,2013Q4,S08000024,Ovarian,1,1,NHS Lothian
+1984,2013Q4,S08000029,Ovarian,1,1,NHS Fife
+1985,2013Q4,S08000030,Ovarian,11,7,NHS Tayside
+1986,2013Q4,S08000031,Ovarian,14,14,NHS Greater Glasgow and Clyde
+1987,2013Q4,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
+1988,2013Q4,S08000032,Ovarian,1,1,NHS Lanarkshire
+2231,2014Q1,S08000015,Ovarian,1,1,NHS Ayrshire and Arran
+2232,2014Q1,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+2233,2014Q1,S08000016,Ovarian,5,5,NHS Borders
+2234,2014Q1,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+2235,2014Q1,S08000024,Ovarian,2,2,NHS Lothian
+2236,2014Q1,S08000019,Ovarian,1,1,NHS Forth Valley
+2237,2014Q1,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
+2238,2014Q1,S08000020,Ovarian,5,5,NHS Grampian
+2239,2014Q1,S08000022,Ovarian,3,3,NHS Highland
+2240,2014Q1,S08000024,Ovarian,1,1,NHS Lothian
+2241,2014Q1,S08000024,Ovarian,11,10,NHS Lothian
+2242,2014Q1,S08000026,Ovarian,1,1,NHS Shetland
+2243,2014Q1,S08000024,Ovarian,1,1,NHS Lothian
+2244,2014Q1,S08000029,Ovarian,8,8,NHS Fife
+2245,2014Q1,S08000030,Ovarian,10,9,NHS Tayside
+2246,2014Q1,S08000031,Ovarian,17,17,NHS Greater Glasgow and Clyde
+2247,2014Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+2248,2014Q1,S08000032,Ovarian,1,1,NHS Lanarkshire
+2496,2014Q2,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+2497,2014Q2,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+2498,2014Q2,S08000016,Ovarian,7,7,NHS Borders
+2499,2014Q2,S08000017,Ovarian,8,8,NHS Dumfries and Galloway
+2500,2014Q2,S08000024,Ovarian,1,1,NHS Lothian
+2501,2014Q2,S08000019,Ovarian,1,1,NHS Forth Valley
+2502,2014Q2,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+2503,2014Q2,S08000020,Ovarian,14,14,NHS Grampian
+2504,2014Q2,S08000022,Ovarian,7,6,NHS Highland
+2505,2014Q2,S08000024,Ovarian,12,11,NHS Lothian
+2506,2014Q2,S08000020,Ovarian,1,1,NHS Grampian
+2507,2014Q2,S08000024,Ovarian,3,3,NHS Lothian
+2508,2014Q2,S08000029,Ovarian,9,9,NHS Fife
+2509,2014Q2,S08000030,Ovarian,1,1,NHS Tayside
+2510,2014Q2,S08000031,Ovarian,18,18,NHS Greater Glasgow and Clyde
+2511,2014Q2,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
+2512,2014Q2,S08000032,Ovarian,3,3,NHS Lanarkshire
+2756,2014Q3,S08000015,Ovarian,2,2,NHS Ayrshire and Arran
+2757,2014Q3,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
+2758,2014Q3,S08000016,Ovarian,1,1,NHS Borders
+2759,2014Q3,S08000024,Ovarian,1,1,NHS Lothian
+2760,2014Q3,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+2761,2014Q3,S08000024,Ovarian,1,1,NHS Lothian
+2762,2014Q3,S08000019,Ovarian,2,2,NHS Forth Valley
+2763,2014Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+2764,2014Q3,S08000020,Ovarian,15,15,NHS Grampian
+2765,2014Q3,S08000020,Ovarian,1,1,NHS Grampian
+2766,2014Q3,S08000022,Ovarian,6,6,NHS Highland
+2767,2014Q3,S08000024,Ovarian,13,13,NHS Lothian
+2768,2014Q3,S08000028,Ovarian,1,1,NHS Western Isles
+2769,2014Q3,S08000024,Ovarian,1,1,NHS Lothian
+2770,2014Q3,S08000029,Ovarian,6,6,NHS Fife
+2771,2014Q3,S08000031,Ovarian,24,24,NHS Greater Glasgow and Clyde
+2772,2014Q3,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+2773,2014Q3,S08000032,Ovarian,5,5,NHS Lanarkshire
+3016,2014Q4,S08000015,Ovarian,7,7,NHS Ayrshire and Arran
+3017,2014Q4,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+3018,2014Q4,S08000016,Ovarian,8,8,NHS Borders
+3019,2014Q4,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
+3020,2014Q4,S08000019,Ovarian,5,5,NHS Forth Valley
+3021,2014Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+3022,2014Q4,S08000020,Ovarian,16,15,NHS Grampian
+3023,2014Q4,S08000022,Ovarian,9,9,NHS Highland
+3024,2014Q4,S08000024,Ovarian,14,13,NHS Lothian
+3025,2014Q4,S08000024,Ovarian,2,2,NHS Lothian
+3026,2014Q4,S08000029,Ovarian,8,7,NHS Fife
+3027,2014Q4,S08000031,Ovarian,20,20,NHS Greater Glasgow and Clyde
+3028,2014Q4,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
+3029,2014Q4,S08000032,Ovarian,10,10,NHS Lanarkshire
+3275,2015Q1,S08000015,Ovarian,6,6,NHS Ayrshire and Arran
+3276,2015Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+3277,2015Q1,S08000016,Ovarian,2,2,NHS Borders
+3278,2015Q1,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+3279,2015Q1,S08000024,Ovarian,1,1,NHS Lothian
+3280,2015Q1,S08000019,Ovarian,1,1,NHS Forth Valley
+3281,2015Q1,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+3282,2015Q1,S08000020,Ovarian,12,12,NHS Grampian
+3283,2015Q1,S08000022,Ovarian,9,9,NHS Highland
+3284,2015Q1,S08000024,Ovarian,9,9,NHS Lothian
+3285,2015Q1,S08000029,Ovarian,5,5,NHS Fife
+3286,2015Q1,S08000030,Ovarian,4,4,NHS Tayside
+3287,2015Q1,S08000031,Ovarian,19,19,NHS Greater Glasgow and Clyde
+3288,2015Q1,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
+3289,2015Q1,S08000032,Ovarian,2,2,NHS Lanarkshire
+3533,2015Q2,S08000015,Ovarian,4,4,NHS Ayrshire and Arran
+3534,2015Q2,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+3535,2015Q2,S08000016,Ovarian,4,4,NHS Borders
+3536,2015Q2,S08000024,Ovarian,2,2,NHS Lothian
+3537,2015Q2,S08000017,Ovarian,5,4,NHS Dumfries and Galloway
+3538,2015Q2,S08000019,Ovarian,3,3,NHS Forth Valley
+3539,2015Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+3540,2015Q2,S08000020,Ovarian,13,12,NHS Grampian
+3541,2015Q2,S08000020,Ovarian,2,2,NHS Grampian
+3542,2015Q2,S08000022,Ovarian,7,7,NHS Highland
+3543,2015Q2,S08000024,Ovarian,14,14,NHS Lothian
+3544,2015Q2,S08000026,Ovarian,1,1,NHS Shetland
+3545,2015Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+3546,2015Q2,S08000024,Ovarian,1,1,NHS Lothian
+3547,2015Q2,S08000029,Ovarian,7,7,NHS Fife
+3548,2015Q2,S08000030,Ovarian,5,5,NHS Tayside
+3549,2015Q2,S08000031,Ovarian,29,29,NHS Greater Glasgow and Clyde
+3550,2015Q2,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
+3551,2015Q2,S08000032,Ovarian,3,3,NHS Lanarkshire
+3796,2015Q3,S08000015,Ovarian,8,8,NHS Ayrshire and Arran
+3797,2015Q3,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+3798,2015Q3,S08000016,Ovarian,1,1,NHS Borders
+3799,2015Q3,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
+3800,2015Q3,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+3801,2015Q3,S08000020,Ovarian,18,18,NHS Grampian
+3802,2015Q3,S08000022,Ovarian,4,3,NHS Highland
+3803,2015Q3,S08000024,Ovarian,14,12,NHS Lothian
+3804,2015Q3,S08000029,Ovarian,14,14,NHS Fife
+3805,2015Q3,S08000030,Ovarian,5,4,NHS Tayside
+3806,2015Q3,S08000031,Ovarian,27,27,NHS Greater Glasgow and Clyde
+3807,2015Q3,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
+3808,2015Q3,S08000032,Ovarian,2,2,NHS Lanarkshire
+4051,2015Q4,S08000015,Ovarian,8,8,NHS Ayrshire and Arran
+4052,2015Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+4053,2015Q4,S08000016,Ovarian,7,7,NHS Borders
+4054,2015Q4,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+4055,2015Q4,S08000024,Ovarian,1,1,NHS Lothian
+4056,2015Q4,S08000019,Ovarian,1,1,NHS Forth Valley
+4057,2015Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+4058,2015Q4,S08000020,Ovarian,12,12,NHS Grampian
+4059,2015Q4,S08000020,Ovarian,2,2,NHS Grampian
+4060,2015Q4,S08000022,Ovarian,3,3,NHS Highland
+4061,2015Q4,S08000024,Ovarian,12,11,NHS Lothian
+4062,2015Q4,S08000020,Ovarian,1,1,NHS Grampian
+4063,2015Q4,S08000029,Ovarian,9,8,NHS Fife
+4064,2015Q4,S08000030,Ovarian,10,9,NHS Tayside
+4065,2015Q4,S08000031,Ovarian,36,36,NHS Greater Glasgow and Clyde
+4066,2015Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+4067,2015Q4,S08000032,Ovarian,2,2,NHS Lanarkshire
+4300,2016Q1,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+4301,2016Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+4302,2016Q1,S08000016,Ovarian,6,6,NHS Borders
+4303,2016Q1,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
+4304,2016Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+4305,2016Q1,S08000020,Ovarian,11,11,NHS Grampian
+4306,2016Q1,S08000020,Ovarian,2,2,NHS Grampian
+4307,2016Q1,S08000022,Ovarian,8,8,NHS Highland
+4308,2016Q1,S08000024,Ovarian,6,6,NHS Lothian
+4309,2016Q1,S08000029,Ovarian,11,7,NHS Fife
+4310,2016Q1,S08000030,Ovarian,1,1,NHS Tayside
+4311,2016Q1,S08000031,Ovarian,29,29,NHS Greater Glasgow and Clyde
+4312,2016Q1,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+4313,2016Q1,S08000032,Ovarian,7,7,NHS Lanarkshire
+4558,2016Q2,S08000015,Ovarian,2,2,NHS Ayrshire and Arran
+4559,2016Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+4560,2016Q2,S08000016,Ovarian,3,3,NHS Borders
+4561,2016Q2,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+4562,2016Q2,S08000024,Ovarian,1,1,NHS Lothian
+4563,2016Q2,S08000019,Ovarian,2,2,NHS Forth Valley
+4564,2016Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+4565,2016Q2,S08000020,Ovarian,18,18,NHS Grampian
+4566,2016Q2,S08000020,Ovarian,2,2,NHS Grampian
+4567,2016Q2,S08000022,Ovarian,5,5,NHS Highland
+4568,2016Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+4569,2016Q2,S08000024,Ovarian,18,15,NHS Lothian
+4570,2016Q2,S08000028,Ovarian,2,2,NHS Western Isles
+4571,2016Q2,S08000029,Ovarian,8,7,NHS Fife
+4572,2016Q2,S08000030,Ovarian,15,15,NHS Tayside
+4573,2016Q2,S08000031,Ovarian,35,35,NHS Greater Glasgow and Clyde
+4574,2016Q2,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
+4575,2016Q2,S08000032,Ovarian,5,5,NHS Lanarkshire
+4831,2016Q3,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
+4832,2016Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+4833,2016Q3,S08000016,Ovarian,5,5,NHS Borders
+4834,2016Q3,S08000024,Ovarian,1,1,NHS Lothian
+4835,2016Q3,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+4836,2016Q3,S08000024,Ovarian,2,2,NHS Lothian
+4837,2016Q3,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+4838,2016Q3,S08000020,Ovarian,24,24,NHS Grampian
+4839,2016Q3,S08000020,Ovarian,1,1,NHS Grampian
+4840,2016Q3,S08000022,Ovarian,3,3,NHS Highland
+4841,2016Q3,S08000024,Ovarian,9,9,NHS Lothian
+4842,2016Q3,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+4843,2016Q3,S08000029,Ovarian,7,7,NHS Fife
+4844,2016Q3,S08000030,Ovarian,8,8,NHS Tayside
+4845,2016Q3,S08000031,Ovarian,36,36,NHS Greater Glasgow and Clyde
+4846,2016Q3,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+4847,2016Q3,S08000032,Ovarian,5,5,NHS Lanarkshire
+5099,2016Q4,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+5100,2016Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+5101,2016Q4,S08000016,Ovarian,3,3,NHS Borders
+5102,2016Q4,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
+5103,2016Q4,S08000019,Ovarian,2,2,NHS Forth Valley
+5104,2016Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+5105,2016Q4,S08000020,Ovarian,18,18,NHS Grampian
+5106,2016Q4,S08000020,Ovarian,1,1,NHS Grampian
+5107,2016Q4,S08000022,Ovarian,4,4,NHS Highland
+5108,2016Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+5109,2016Q4,S08000024,Ovarian,11,10,NHS Lothian
+5110,2016Q4,S08000025,Ovarian,1,1,NHS Orkney
+5111,2016Q4,S08000028,Ovarian,1,1,NHS Western Isles
+5112,2016Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+5113,2016Q4,S08000024,Ovarian,1,1,NHS Lothian
+5114,2016Q4,S08000029,Ovarian,11,11,NHS Fife
+5115,2016Q4,S08000030,Ovarian,10,10,NHS Tayside
+5116,2016Q4,S08000031,Ovarian,35,35,NHS Greater Glasgow and Clyde
+5117,2016Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+5118,2016Q4,S08000032,Ovarian,5,5,NHS Lanarkshire
+5374,2017Q1,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+5375,2017Q1,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+5376,2017Q1,S08000016,Ovarian,4,4,NHS Borders
+5377,2017Q1,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
+5378,2017Q1,S08000024,Ovarian,1,1,NHS Lothian
+5379,2017Q1,S08000019,Ovarian,6,6,NHS Forth Valley
+5380,2017Q1,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
+5381,2017Q1,S08000020,Ovarian,20,20,NHS Grampian
+5382,2017Q1,S08000020,Ovarian,4,4,NHS Grampian
+5383,2017Q1,S08000022,Ovarian,2,2,NHS Highland
+5384,2017Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+5385,2017Q1,S08000024,Ovarian,11,8,NHS Lothian
+5386,2017Q1,S08000020,Ovarian,1,1,NHS Grampian
+5387,2017Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+5388,2017Q1,S08000024,Ovarian,1,1,NHS Lothian
+5389,2017Q1,S08000029,Ovarian,4,3,NHS Fife
+5390,2017Q1,S08000030,Ovarian,8,8,NHS Tayside
+5391,2017Q1,S08000031,Ovarian,24,24,NHS Greater Glasgow and Clyde
+5392,2017Q1,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
+5393,2017Q1,S08000032,Ovarian,2,2,NHS Lanarkshire
+5646,2017Q2,S08000015,Ovarian,1,1,NHS Ayrshire and Arran
+5647,2017Q2,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+5648,2017Q2,S08000016,Ovarian,2,2,NHS Borders
+5649,2017Q2,S08000017,Ovarian,7,7,NHS Dumfries and Galloway
+5650,2017Q2,S08000024,Ovarian,4,2,NHS Lothian
+5651,2017Q2,S08000019,Ovarian,5,4,NHS Forth Valley
+5652,2017Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+5653,2017Q2,S08000020,Ovarian,16,15,NHS Grampian
+5654,2017Q2,S08000022,Ovarian,6,5,NHS Highland
+5655,2017Q2,S08000024,Ovarian,9,7,NHS Lothian
+5656,2017Q2,S08000020,Ovarian,1,1,NHS Grampian
+5657,2017Q2,S08000028,Ovarian,1,1,NHS Western Isles
+5658,2017Q2,S08000024,Ovarian,1,1,NHS Lothian
+5659,2017Q2,S08000029,Ovarian,5,5,NHS Fife
+5660,2017Q2,S08000030,Ovarian,9,9,NHS Tayside
+5661,2017Q2,S08000031,Ovarian,28,28,NHS Greater Glasgow and Clyde
+5662,2017Q2,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
+5663,2017Q2,S08000032,Ovarian,7,7,NHS Lanarkshire
+5902,2017Q3,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+5903,2017Q3,S08000031,Ovarian,10,10,NHS Greater Glasgow and Clyde
+5904,2017Q3,S08000016,Ovarian,2,2,NHS Borders
+5905,2017Q3,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+5906,2017Q3,S08000019,Ovarian,4,3,NHS Forth Valley
+5907,2017Q3,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+5908,2017Q3,S08000020,Ovarian,15,15,NHS Grampian
+5909,2017Q3,S08000020,Ovarian,1,1,NHS Grampian
+5910,2017Q3,S08000022,Ovarian,7,6,NHS Highland
+5911,2017Q3,S08000024,Ovarian,30,29,NHS Lothian
+5912,2017Q3,S08000024,Ovarian,3,3,NHS Lothian
+5913,2017Q3,S08000029,Ovarian,7,7,NHS Fife
+5914,2017Q3,S08000030,Ovarian,12,11,NHS Tayside
+5915,2017Q3,S08000031,Ovarian,33,33,NHS Greater Glasgow and Clyde
+5916,2017Q3,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+5917,2017Q3,S08000032,Ovarian,3,3,NHS Lanarkshire
+6161,2017Q4,S08000015,Ovarian,6,6,NHS Ayrshire and Arran
+6162,2017Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+6163,2017Q4,S08000016,Ovarian,3,3,NHS Borders
+6164,2017Q4,S08000024,Ovarian,1,1,NHS Lothian
+6165,2017Q4,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+6166,2017Q4,S08000024,Ovarian,3,3,NHS Lothian
+6167,2017Q4,S08000019,Ovarian,1,0,NHS Forth Valley
+6168,2017Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+6169,2017Q4,S08000020,Ovarian,12,11,NHS Grampian
+6170,2017Q4,S08000020,Ovarian,1,1,NHS Grampian
+6171,2017Q4,S08000022,Ovarian,8,7,NHS Highland
+6172,2017Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+6173,2017Q4,S08000024,Ovarian,20,18,NHS Lothian
+6174,2017Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+6175,2017Q4,S08000024,Ovarian,5,5,NHS Lothian
+6176,2017Q4,S08000029,Ovarian,6,6,NHS Fife
+6177,2017Q4,S08000030,Ovarian,18,17,NHS Tayside
+6178,2017Q4,S08000031,Ovarian,19,19,NHS Greater Glasgow and Clyde
+6179,2017Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+6180,2017Q4,S08000032,Ovarian,2,2,NHS Lanarkshire
+6426,2018Q1,S08000015,Ovarian,4,4,NHS Ayrshire and Arran
+6427,2018Q1,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+6428,2018Q1,S08000016,Ovarian,4,4,NHS Borders
+6429,2018Q1,S08000024,Ovarian,3,3,NHS Lothian
+6430,2018Q1,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
+6431,2018Q1,S08000024,Ovarian,2,2,NHS Lothian
+6432,2018Q1,S08000019,Ovarian,3,3,NHS Forth Valley
+6433,2018Q1,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+6434,2018Q1,S08000020,Ovarian,11,11,NHS Grampian
+6435,2018Q1,S08000020,Ovarian,2,2,NHS Grampian
+6436,2018Q1,S08000022,Ovarian,5,4,NHS Highland
+6437,2018Q1,S08000024,Ovarian,11,11,NHS Lothian
+6438,2018Q1,S08000029,Ovarian,7,5,NHS Fife
+6439,2018Q1,S08000030,Ovarian,5,5,NHS Tayside
+6440,2018Q1,S08000031,Ovarian,20,20,NHS Greater Glasgow and Clyde
+6441,2018Q1,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+6442,2018Q1,S08000032,Ovarian,3,3,NHS Lanarkshire
+6679,2018Q2,S08000015,Ovarian,7,7,NHS Ayrshire and Arran
+6680,2018Q2,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+6681,2018Q2,S08000016,Ovarian,5,5,NHS Borders
+6682,2018Q2,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
+6683,2018Q2,S08000024,Ovarian,4,3,NHS Lothian
+6684,2018Q2,S08000019,Ovarian,2,2,NHS Forth Valley
+6685,2018Q2,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+6686,2018Q2,S08000020,Ovarian,13,13,NHS Grampian
+6687,2018Q2,S08000020,Ovarian,2,2,NHS Grampian
+6688,2018Q2,S08000022,Ovarian,7,7,NHS Highland
+6689,2018Q2,S08000024,Ovarian,10,10,NHS Lothian
+6690,2018Q2,S08000020,Ovarian,1,1,NHS Grampian
+6691,2018Q2,S08000026,Ovarian,1,1,NHS Shetland
+6692,2018Q2,S08000022,Ovarian,1,1,NHS Highland
+6693,2018Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+6694,2018Q2,S08000029,Ovarian,9,7,NHS Fife
+6695,2018Q2,S08000020,Ovarian,1,1,NHS Grampian
+6696,2018Q2,S08000030,Ovarian,5,4,NHS Tayside
+6697,2018Q2,S08000031,Ovarian,26,26,NHS Greater Glasgow and Clyde
+6698,2018Q2,S08000031,Ovarian,9,8,NHS Greater Glasgow and Clyde
+6943,2018Q3,S08000015,Ovarian,1,1,NHS Ayrshire and Arran
+6944,2018Q3,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+6945,2018Q3,S08000016,Ovarian,3,3,NHS Borders
+6946,2018Q3,S08000024,Ovarian,1,1,NHS Lothian
+6947,2018Q3,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
+6948,2018Q3,S08000024,Ovarian,3,3,NHS Lothian
+6949,2018Q3,S08000019,Ovarian,2,2,NHS Forth Valley
+6950,2018Q3,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+6951,2018Q3,S08000020,Ovarian,16,16,NHS Grampian
+6952,2018Q3,S08000020,Ovarian,2,2,NHS Grampian
+6953,2018Q3,S08000022,Ovarian,9,9,NHS Highland
+6954,2018Q3,S08000024,Ovarian,10,9,NHS Lothian
+6955,2018Q3,S08000025,Ovarian,1,1,NHS Orkney
+6956,2018Q3,S08000026,Ovarian,1,1,NHS Shetland
+6957,2018Q3,S08000028,Ovarian,1,1,NHS Western Isles
+6958,2018Q3,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+6959,2018Q3,S08000024,Ovarian,1,1,NHS Lothian
+6960,2018Q3,S08000029,Ovarian,6,5,NHS Fife
+6961,2018Q3,S08000030,Ovarian,9,9,NHS Tayside
+6962,2018Q3,S08000031,Ovarian,25,25,NHS Greater Glasgow and Clyde
+6963,2018Q3,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+6964,2018Q3,S08000032,Ovarian,2,2,NHS Lanarkshire
+7211,2018Q4,S08000015,Ovarian,2,2,NHS Ayrshire and Arran
+7212,2018Q4,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
+7213,2018Q4,S08000016,Ovarian,1,1,NHS Borders
+7214,2018Q4,S08000024,Ovarian,1,1,NHS Lothian
+7215,2018Q4,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
+7216,2018Q4,S08000024,Ovarian,3,3,NHS Lothian
+7217,2018Q4,S08000019,Ovarian,1,1,NHS Forth Valley
+7218,2018Q4,S08000024,Ovarian,1,1,NHS Lothian
+7219,2018Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+7220,2018Q4,S08000020,Ovarian,13,13,NHS Grampian
+7221,2018Q4,S08000022,Ovarian,4,4,NHS Highland
+7222,2018Q4,S08000024,Ovarian,17,15,NHS Lothian
+7223,2018Q4,S08000026,Ovarian,1,1,NHS Shetland
+7224,2018Q4,S08000029,Ovarian,6,5,NHS Fife
+7225,2018Q4,S08000020,Ovarian,1,1,NHS Grampian
+7226,2018Q4,S08000030,Ovarian,6,6,NHS Tayside
+7227,2018Q4,S08000031,Ovarian,31,31,NHS Greater Glasgow and Clyde
+7228,2018Q4,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
+7229,2018Q4,S08000032,Ovarian,4,4,NHS Lanarkshire
+7477,2019Q1,S08000015,Ovarian,8,8,NHS Ayrshire and Arran
+7478,2019Q1,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+7479,2019Q1,S08000016,Ovarian,3,3,NHS Borders
+7480,2019Q1,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
+7481,2019Q1,S08000024,Ovarian,3,3,NHS Lothian
+7482,2019Q1,S08000019,Ovarian,1,1,NHS Forth Valley
+7483,2019Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+7484,2019Q1,S08000020,Ovarian,9,9,NHS Grampian
+7485,2019Q1,S08000020,Ovarian,3,3,NHS Grampian
+7486,2019Q1,S08000022,Ovarian,3,3,NHS Highland
+7487,2019Q1,S08000024,Ovarian,11,11,NHS Lothian
+7488,2019Q1,S08000025,Ovarian,2,2,NHS Orkney
+7489,2019Q1,S08000026,Ovarian,2,2,NHS Shetland
+7490,2019Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+7491,2019Q1,S08000029,Ovarian,5,5,NHS Fife
+7492,2019Q1,S08000030,Ovarian,15,14,NHS Tayside
+7493,2019Q1,S08000031,Ovarian,33,33,NHS Greater Glasgow and Clyde
+7494,2019Q1,S08000031,Ovarian,9,9,NHS Greater Glasgow and Clyde
+7495,2019Q1,S08000032,Ovarian,5,5,NHS Lanarkshire
+7744,2019Q2,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
+7745,2019Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+7746,2019Q2,S08000016,Ovarian,3,3,NHS Borders
+7747,2019Q2,S08000024,Ovarian,2,2,NHS Lothian
+7748,2019Q2,S08000017,Ovarian,6,6,NHS Dumfries and Galloway
+7749,2019Q2,S08000024,Ovarian,2,2,NHS Lothian
+7750,2019Q2,S08000019,Ovarian,2,2,NHS Forth Valley
+7751,2019Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+7752,2019Q2,S08000020,Ovarian,8,8,NHS Grampian
+7753,2019Q2,S08000020,Ovarian,2,2,NHS Grampian
+7754,2019Q2,S08000022,Ovarian,3,3,NHS Highland
+7755,2019Q2,S08000024,Ovarian,18,17,NHS Lothian
+7756,2019Q2,S08000020,Ovarian,1,1,NHS Grampian
+7757,2019Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+7758,2019Q2,S08000029,Ovarian,8,7,NHS Fife
+7759,2019Q2,S08000030,Ovarian,6,6,NHS Tayside
+7760,2019Q2,S08000022,Ovarian,1,1,NHS Highland
+7761,2019Q2,S08000031,Ovarian,41,38,NHS Greater Glasgow and Clyde
+7762,2019Q2,S08000031,Ovarian,13,12,NHS Greater Glasgow and Clyde
+7763,2019Q2,S08000032,Ovarian,4,4,NHS Lanarkshire
+8019,2019Q3,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+8020,2019Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+8021,2019Q3,S08000016,Ovarian,2,2,NHS Borders
+8022,2019Q3,S08000024,Ovarian,2,2,NHS Lothian
+8023,2019Q3,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
+8024,2019Q3,S08000024,Ovarian,1,1,NHS Lothian
+8025,2019Q3,S08000019,Ovarian,1,1,NHS Forth Valley
+8026,2019Q3,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+8027,2019Q3,S08000020,Ovarian,16,16,NHS Grampian
+8028,2019Q3,S08000020,Ovarian,1,1,NHS Grampian
+8029,2019Q3,S08000022,Ovarian,3,3,NHS Highland
+8030,2019Q3,S08000024,Ovarian,16,16,NHS Lothian
+8031,2019Q3,S08000025,Ovarian,1,1,NHS Orkney
+8032,2019Q3,S08000020,Ovarian,2,2,NHS Grampian
+8033,2019Q3,S08000028,Ovarian,1,1,NHS Western Isles
+8034,2019Q3,S08000024,Ovarian,1,1,NHS Lothian
+8035,2019Q3,S08000029,Ovarian,3,3,NHS Fife
+8036,2019Q3,S08000030,Ovarian,3,3,NHS Tayside
+8037,2019Q3,S08000031,Ovarian,34,34,NHS Greater Glasgow and Clyde
+8038,2019Q3,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+8039,2019Q3,S08000032,Ovarian,5,5,NHS Lanarkshire
+8300,2019Q4,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
+8301,2019Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+8302,2019Q4,S08000016,Ovarian,1,1,NHS Borders
+8303,2019Q4,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
+8304,2019Q4,S08000019,Ovarian,1,1,NHS Forth Valley
+8305,2019Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+8306,2019Q4,S08000020,Ovarian,16,16,NHS Grampian
+8307,2019Q4,S08000020,Ovarian,1,1,NHS Grampian
+8308,2019Q4,S08000022,Ovarian,5,5,NHS Highland
+8309,2019Q4,S08000024,Ovarian,11,11,NHS Lothian
+8310,2019Q4,S08000025,Ovarian,1,1,NHS Orkney
+8311,2019Q4,S08000020,Ovarian,1,1,NHS Grampian
+8312,2019Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+8313,2019Q4,S08000029,Ovarian,4,4,NHS Fife
+8314,2019Q4,S08000020,Ovarian,1,1,NHS Grampian
+8315,2019Q4,S08000030,Ovarian,9,8,NHS Tayside
+8316,2019Q4,S08000031,Ovarian,32,30,NHS Greater Glasgow and Clyde
+8317,2019Q4,S08000031,Ovarian,13,12,NHS Greater Glasgow and Clyde
+8318,2019Q4,S08000032,Ovarian,6,6,NHS Lanarkshire
+8568,2020Q1,S08000015,Ovarian,1,1,NHS Ayrshire and Arran
+8569,2020Q1,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+8570,2020Q1,S08000016,Ovarian,4,4,NHS Borders
+8571,2020Q1,S08000024,Ovarian,1,1,NHS Lothian
+8572,2020Q1,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
+8573,2020Q1,S08000024,Ovarian,3,3,NHS Lothian
+8574,2020Q1,S08000019,Ovarian,1,1,NHS Forth Valley
+8575,2020Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+8576,2020Q1,S08000020,Ovarian,16,16,NHS Grampian
+8577,2020Q1,S08000022,Ovarian,1,1,NHS Highland
+8578,2020Q1,S08000024,Ovarian,13,13,NHS Lothian
+8579,2020Q1,S08000025,Ovarian,1,1,NHS Orkney
+8580,2020Q1,S08000020,Ovarian,1,1,NHS Grampian
+8581,2020Q1,S08000024,Ovarian,4,4,NHS Lothian
+8582,2020Q1,S08000029,Ovarian,8,8,NHS Fife
+8583,2020Q1,S08000030,Ovarian,11,11,NHS Tayside
+8584,2020Q1,S08000031,Ovarian,23,23,NHS Greater Glasgow and Clyde
+8585,2020Q1,S08000031,Ovarian,12,12,NHS Greater Glasgow and Clyde
+8586,2020Q1,S08000032,Ovarian,3,3,NHS Lanarkshire
+8827,2020Q2,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
+8828,2020Q2,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+8829,2020Q2,S08000016,Ovarian,2,2,NHS Borders
+8830,2020Q2,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+8831,2020Q2,S08000024,Ovarian,1,1,NHS Lothian
+8832,2020Q2,S08000019,Ovarian,1,1,NHS Forth Valley
+8833,2020Q2,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+8834,2020Q2,S08000020,Ovarian,8,7,NHS Grampian
+8835,2020Q2,S08000020,Ovarian,3,3,NHS Grampian
+8836,2020Q2,S08000022,Ovarian,4,4,NHS Highland
+8837,2020Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+8838,2020Q2,S08000024,Ovarian,18,18,NHS Lothian
+8839,2020Q2,S08000024,Ovarian,1,1,NHS Lothian
+8840,2020Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+8841,2020Q2,S08000024,Ovarian,3,3,NHS Lothian
+8842,2020Q2,S08000029,Ovarian,4,4,NHS Fife
+8843,2020Q2,S08000030,Ovarian,7,7,NHS Tayside
+8844,2020Q2,S08000031,Ovarian,19,19,NHS Greater Glasgow and Clyde
+8845,2020Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+8846,2020Q2,S08000032,Ovarian,4,4,NHS Lanarkshire
+9079,2020Q3,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+9080,2020Q3,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
+9081,2020Q3,S08000016,Ovarian,2,2,NHS Borders
+9082,2020Q3,S08000024,Ovarian,2,2,NHS Lothian
+9083,2020Q3,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
+9084,2020Q3,S08000024,Ovarian,1,1,NHS Lothian
+9085,2020Q3,S08000019,Ovarian,4,4,NHS Forth Valley
+9086,2020Q3,S08000031,Ovarian,4,3,NHS Greater Glasgow and Clyde
+9087,2020Q3,S08000020,Ovarian,15,15,NHS Grampian
+9088,2020Q3,S08000020,Ovarian,2,2,NHS Grampian
+9089,2020Q3,S08000022,Ovarian,6,6,NHS Highland
+9090,2020Q3,S08000024,Ovarian,20,20,NHS Lothian
+9091,2020Q3,S08000025,Ovarian,1,1,NHS Orkney
+9092,2020Q3,S08000024,Ovarian,1,1,NHS Lothian
+9093,2020Q3,S08000029,Ovarian,11,11,NHS Fife
+9094,2020Q3,S08000020,Ovarian,1,1,NHS Grampian
+9095,2020Q3,S08000030,Ovarian,7,7,NHS Tayside
+9096,2020Q3,S08000031,Ovarian,27,27,NHS Greater Glasgow and Clyde
+9097,2020Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+9098,2020Q3,S08000032,Ovarian,2,2,NHS Lanarkshire
+9341,2020Q4,S08000015,Ovarian,4,4,NHS Ayrshire and Arran
+9342,2020Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+9343,2020Q4,S08000016,Ovarian,5,5,NHS Borders
+9344,2020Q4,S08000024,Ovarian,2,2,NHS Lothian
+9345,2020Q4,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
+9346,2020Q4,S08000024,Ovarian,1,1,NHS Lothian
+9347,2020Q4,S08000019,Ovarian,4,4,NHS Forth Valley
+9348,2020Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+9349,2020Q4,S08000020,Ovarian,15,15,NHS Grampian
+9350,2020Q4,S08000020,Ovarian,1,1,NHS Grampian
+9351,2020Q4,S08000022,Ovarian,11,11,NHS Highland
+9352,2020Q4,S08000024,Ovarian,20,20,NHS Lothian
+9353,2020Q4,S08000020,Ovarian,1,1,NHS Grampian
+9354,2020Q4,S08000026,Ovarian,1,1,NHS Shetland
+9355,2020Q4,S08000024,Ovarian,3,3,NHS Lothian
+9356,2020Q4,S08000029,Ovarian,5,5,NHS Fife
+9357,2020Q4,S08000020,Ovarian,1,1,NHS Grampian
+9358,2020Q4,S08000030,Ovarian,4,4,NHS Tayside
+9359,2020Q4,S08000031,Ovarian,23,23,NHS Greater Glasgow and Clyde
+9360,2020Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+9361,2020Q4,S08000032,Ovarian,3,3,NHS Lanarkshire
+9599,2021Q1,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
+9600,2021Q1,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+9601,2021Q1,S08000024,Ovarian,1,1,NHS Lothian
+9602,2021Q1,S08000017,Ovarian,4,4,NHS Dumfries and Galloway
+9603,2021Q1,S08000024,Ovarian,2,1,NHS Lothian
+9604,2021Q1,S08000019,Ovarian,3,3,NHS Forth Valley
+9605,2021Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+9606,2021Q1,S08000020,Ovarian,18,18,NHS Grampian
+9607,2021Q1,S08000020,Ovarian,2,2,NHS Grampian
+9608,2021Q1,S08000022,Ovarian,6,6,NHS Highland
+9609,2021Q1,S08000024,Ovarian,14,14,NHS Lothian
+9610,2021Q1,S08000020,Ovarian,1,1,NHS Grampian
+9611,2021Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+9612,2021Q1,S08000024,Ovarian,1,1,NHS Lothian
+9613,2021Q1,S08000029,Ovarian,3,3,NHS Fife
+9614,2021Q1,S08000030,Ovarian,4,4,NHS Tayside
+9615,2021Q1,S08000031,Ovarian,24,23,NHS Greater Glasgow and Clyde
+9616,2021Q1,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+9617,2021Q1,S08000032,Ovarian,4,4,NHS Lanarkshire
+9858,2021Q2,S08000015,Ovarian,2,2,NHS Ayrshire and Arran
+9859,2021Q2,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+9860,2021Q2,S08000016,Ovarian,5,5,NHS Borders
+9861,2021Q2,S08000024,Ovarian,2,2,NHS Lothian
+9862,2021Q2,S08000019,Ovarian,6,6,NHS Forth Valley
+9863,2021Q2,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+9864,2021Q2,S08000020,Ovarian,12,12,NHS Grampian
+9865,2021Q2,S08000020,Ovarian,1,1,NHS Grampian
+9866,2021Q2,S08000022,Ovarian,6,6,NHS Highland
+9867,2021Q2,S08000024,Ovarian,13,13,NHS Lothian
+9868,2021Q2,S08000024,Ovarian,1,1,NHS Lothian
+9869,2021Q2,S08000029,Ovarian,5,5,NHS Fife
+9870,2021Q2,S08000020,Ovarian,1,1,NHS Grampian
+9871,2021Q2,S08000030,Ovarian,3,3,NHS Tayside
+9872,2021Q2,S08000031,Ovarian,14,14,NHS Greater Glasgow and Clyde
+9873,2021Q2,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+9874,2021Q2,S08000032,Ovarian,5,5,NHS Lanarkshire
+10121,2021Q3,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+10122,2021Q3,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+10123,2021Q3,S08000016,Ovarian,1,1,NHS Borders
+10124,2021Q3,S08000024,Ovarian,1,1,NHS Lothian
+10125,2021Q3,S08000017,Ovarian,7,7,NHS Dumfries and Galloway
+10126,2021Q3,S08000019,Ovarian,1,1,NHS Forth Valley
+10127,2021Q3,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+10128,2021Q3,S08000020,Ovarian,14,14,NHS Grampian
+10129,2021Q3,S08000020,Ovarian,4,4,NHS Grampian
+10130,2021Q3,S08000022,Ovarian,2,2,NHS Highland
+10131,2021Q3,S08000024,Ovarian,15,15,NHS Lothian
+10132,2021Q3,S08000020,Ovarian,1,1,NHS Grampian
+10133,2021Q3,S08000024,Ovarian,1,1,NHS Lothian
+10134,2021Q3,S08000029,Ovarian,6,6,NHS Fife
+10135,2021Q3,S08000020,Ovarian,2,2,NHS Grampian
+10136,2021Q3,S08000030,Ovarian,7,7,NHS Tayside
+10137,2021Q3,S08000031,Ovarian,11,10,NHS Greater Glasgow and Clyde
+10138,2021Q3,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+10139,2021Q3,S08000032,Ovarian,8,8,NHS Lanarkshire
+10387,2021Q4,S08000015,Ovarian,6,6,NHS Ayrshire and Arran
+10388,2021Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+10389,2021Q4,S08000016,Ovarian,1,1,NHS Borders
+10390,2021Q4,S08000024,Ovarian,1,1,NHS Lothian
+10391,2021Q4,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
+10392,2021Q4,S08000024,Ovarian,1,1,NHS Lothian
+10393,2021Q4,S08000019,Ovarian,6,4,NHS Forth Valley
+10394,2021Q4,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+10395,2021Q4,S08000020,Ovarian,14,14,NHS Grampian
+10396,2021Q4,S08000020,Ovarian,3,3,NHS Grampian
+10397,2021Q4,S08000022,Ovarian,6,6,NHS Highland
+10398,2021Q4,S08000024,Ovarian,12,12,NHS Lothian
+10399,2021Q4,S08000020,Ovarian,1,1,NHS Grampian
+10400,2021Q4,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+10401,2021Q4,S08000024,Ovarian,1,1,NHS Lothian
+10402,2021Q4,S08000029,Ovarian,8,8,NHS Fife
+10403,2021Q4,S08000030,Ovarian,6,6,NHS Tayside
+10404,2021Q4,S08000031,Ovarian,26,25,NHS Greater Glasgow and Clyde
+10405,2021Q4,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+10406,2021Q4,S08000032,Ovarian,3,3,NHS Lanarkshire
+10664,2022Q1,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
+10665,2022Q1,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+10666,2022Q1,S08000016,Ovarian,3,3,NHS Borders
+10667,2022Q1,S08000019,Ovarian,2,2,NHS Forth Valley
+10668,2022Q1,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+10669,2022Q1,S08000020,Ovarian,8,8,NHS Grampian
+10670,2022Q1,S08000020,Ovarian,2,2,NHS Grampian
+10671,2022Q1,S08000022,Ovarian,1,1,NHS Highland
+10672,2022Q1,S08000024,Ovarian,9,7,NHS Lothian
+10673,2022Q1,S08000025,Ovarian,1,1,NHS Orkney
+10674,2022Q1,S08000028,Ovarian,1,1,NHS Western Isles
+10675,2022Q1,S08000031,Ovarian,1,0,NHS Greater Glasgow and Clyde
+10676,2022Q1,S08000029,Ovarian,5,5,NHS Fife
+10677,2022Q1,S08000030,Ovarian,5,5,NHS Tayside
+10678,2022Q1,S08000031,Ovarian,24,24,NHS Greater Glasgow and Clyde
+10679,2022Q1,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+10680,2022Q1,S08000032,Ovarian,3,3,NHS Lanarkshire
+10921,2022Q2,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+10922,2022Q2,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+10923,2022Q2,S08000016,Ovarian,4,4,NHS Borders
+10924,2022Q2,S08000024,Ovarian,1,1,NHS Lothian
+10925,2022Q2,S08000017,Ovarian,7,7,NHS Dumfries and Galloway
+10926,2022Q2,S08000024,Ovarian,1,1,NHS Lothian
+10927,2022Q2,S08000019,Ovarian,4,4,NHS Forth Valley
+10928,2022Q2,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+10929,2022Q2,S08000020,Ovarian,10,9,NHS Grampian
+10930,2022Q2,S08000022,Ovarian,5,5,NHS Highland
+10931,2022Q2,S08000024,Ovarian,20,19,NHS Lothian
+10932,2022Q2,S08000029,Ovarian,3,3,NHS Fife
+10933,2022Q2,S08000020,Ovarian,2,2,NHS Grampian
+10934,2022Q2,S08000030,Ovarian,6,6,NHS Tayside
+10935,2022Q2,S08000031,Ovarian,25,25,NHS Greater Glasgow and Clyde
+10936,2022Q2,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+10937,2022Q2,S08000032,Ovarian,2,2,NHS Lanarkshire
+11201,2022Q3,S08000015,Ovarian,6,6,NHS Ayrshire and Arran
+11202,2022Q3,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+11203,2022Q3,S08000016,Ovarian,4,4,NHS Borders
+11204,2022Q3,S08000024,Ovarian,1,1,NHS Lothian
+11205,2022Q3,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
+11206,2022Q3,S08000024,Ovarian,1,1,NHS Lothian
+11207,2022Q3,S08000019,Ovarian,4,4,NHS Forth Valley
+11208,2022Q3,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+11209,2022Q3,S08000020,Ovarian,18,18,NHS Grampian
+11210,2022Q3,S08000022,Ovarian,6,5,NHS Highland
+11211,2022Q3,S08000024,Ovarian,10,10,NHS Lothian
+11212,2022Q3,S08000025,Ovarian,1,1,NHS Orkney
+11213,2022Q3,S08000028,Ovarian,1,1,NHS Western Isles
+11214,2022Q3,S08000031,Ovarian,1,1,NHS Greater Glasgow and Clyde
+11215,2022Q3,S08000029,Ovarian,1,1,NHS Fife
+11216,2022Q3,S08000020,Ovarian,2,2,NHS Grampian
+11217,2022Q3,S08000030,Ovarian,4,4,NHS Tayside
+11218,2022Q3,S08000031,Ovarian,19,19,NHS Greater Glasgow and Clyde
+11219,2022Q3,S08000031,Ovarian,8,8,NHS Greater Glasgow and Clyde
+11220,2022Q3,S08000032,Ovarian,7,7,NHS Lanarkshire
+11476,2022Q4,S08000015,Ovarian,4,4,NHS Ayrshire and Arran
+11477,2022Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+11478,2022Q4,S08000016,Ovarian,5,5,NHS Borders
+11479,2022Q4,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
+11480,2022Q4,S08000024,Ovarian,2,2,NHS Lothian
+11481,2022Q4,S08000019,Ovarian,1,1,NHS Forth Valley
+11482,2022Q4,S08000031,Ovarian,4,4,NHS Greater Glasgow and Clyde
+11483,2022Q4,S08000020,Ovarian,11,10,NHS Grampian
+11484,2022Q4,S08000020,Ovarian,2,2,NHS Grampian
+11485,2022Q4,S08000022,Ovarian,2,2,NHS Highland
+11486,2022Q4,S08000024,Ovarian,14,14,NHS Lothian
+11487,2022Q4,S08000025,Ovarian,1,1,NHS Orkney
+11488,2022Q4,S08000029,Ovarian,7,7,NHS Fife
+11489,2022Q4,S08000020,Ovarian,3,3,NHS Grampian
+11490,2022Q4,S08000030,Ovarian,9,9,NHS Tayside
+11491,2022Q4,S08000031,Ovarian,26,25,NHS Greater Glasgow and Clyde
+11492,2022Q4,S08000031,Ovarian,5,5,NHS Greater Glasgow and Clyde
+11493,2022Q4,S08000032,Ovarian,5,5,NHS Lanarkshire
+11740,2023Q1,S08000015,Ovarian,5,5,NHS Ayrshire and Arran
+11741,2023Q1,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+11742,2023Q1,S08000016,Ovarian,1,1,NHS Borders
+11743,2023Q1,S08000017,Ovarian,1,1,NHS Dumfries and Galloway
+11744,2023Q1,S08000024,Ovarian,2,2,NHS Lothian
+11745,2023Q1,S08000019,Ovarian,1,1,NHS Forth Valley
+11746,2023Q1,S08000031,Ovarian,7,7,NHS Greater Glasgow and Clyde
+11747,2023Q1,S08000020,Ovarian,17,16,NHS Grampian
+11748,2023Q1,S08000022,Ovarian,4,4,NHS Highland
+11749,2023Q1,S08000024,Ovarian,17,17,NHS Lothian
+11750,2023Q1,S08000029,Ovarian,9,9,NHS Fife
+11751,2023Q1,S08000030,Ovarian,4,4,NHS Tayside
+11752,2023Q1,S08000031,Ovarian,20,20,NHS Greater Glasgow and Clyde
+11753,2023Q1,S08000031,Ovarian,10,9,NHS Greater Glasgow and Clyde
+11754,2023Q1,S08000032,Ovarian,2,2,NHS Lanarkshire
+11994,2023Q2,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+11995,2023Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+11996,2023Q2,S08000016,Ovarian,3,3,NHS Borders
+11997,2023Q2,S08000017,Ovarian,3,3,NHS Dumfries and Galloway
+11998,2023Q2,S08000024,Ovarian,1,1,NHS Lothian
+11999,2023Q2,S08000019,Ovarian,2,2,NHS Forth Valley
+12000,2023Q2,S08000031,Ovarian,6,6,NHS Greater Glasgow and Clyde
+12001,2023Q2,S08000020,Ovarian,15,14,NHS Grampian
+12002,2023Q2,S08000020,Ovarian,2,2,NHS Grampian
+12003,2023Q2,S08000022,Ovarian,10,9,NHS Highland
+12004,2023Q2,S08000024,Ovarian,17,17,NHS Lothian
+12005,2023Q2,S08000020,Ovarian,1,1,NHS Grampian
+12006,2023Q2,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+12007,2023Q2,S08000024,Ovarian,1,1,NHS Lothian
+12008,2023Q2,S08000029,Ovarian,7,7,NHS Fife
+12009,2023Q2,S08000030,Ovarian,3,3,NHS Tayside
+12010,2023Q2,S08000031,Ovarian,19,16,NHS Greater Glasgow and Clyde
+12011,2023Q2,S08000031,Ovarian,8,7,NHS Greater Glasgow and Clyde
+12012,2023Q2,S08000032,Ovarian,4,4,NHS Lanarkshire
+12275,2023Q3,S08000015,Ovarian,3,3,NHS Ayrshire and Arran
+12276,2023Q3,S08000031,Ovarian,3,3,NHS Greater Glasgow and Clyde
+12277,2023Q3,S08000016,Ovarian,1,1,NHS Borders
+12278,2023Q3,S08000024,Ovarian,1,1,NHS Lothian
+12279,2023Q3,S08000017,Ovarian,2,2,NHS Dumfries and Galloway
+12280,2023Q3,S08000019,Ovarian,4,4,NHS Forth Valley
+12281,2023Q3,S08000031,Ovarian,2,2,NHS Greater Glasgow and Clyde
+12282,2023Q3,S08000020,Ovarian,10,10,NHS Grampian
+12283,2023Q3,S08000020,Ovarian,1,1,NHS Grampian
+12284,2023Q3,S08000022,Ovarian,9,7,NHS Highland
+12285,2023Q3,S08000024,Ovarian,10,10,NHS Lothian
+12286,2023Q3,S08000024,Ovarian,1,1,NHS Lothian
+12287,2023Q3,S08000029,Ovarian,8,7,NHS Fife
+12288,2023Q3,S08000020,Ovarian,2,2,NHS Grampian
+12289,2023Q3,S08000030,Ovarian,10,10,NHS Tayside
+12290,2023Q3,S08000031,Ovarian,31,27,NHS Greater Glasgow and Clyde
+12291,2023Q3,S08000031,Ovarian,11,11,NHS Greater Glasgow and Clyde
+12292,2023Q3,S08000032,Ovarian,12,12,NHS Lanarkshire
