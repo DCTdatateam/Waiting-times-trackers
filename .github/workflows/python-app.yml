@@ -11,7 +11,7 @@ on:
   pull_request:
     branches: [ "main" ]
 permissions: write-all
-
+##runs at 1pm GMT, 2pm BST each tuesday, but most of the data is only updated once every quarter
 
 jobs:
   build:
