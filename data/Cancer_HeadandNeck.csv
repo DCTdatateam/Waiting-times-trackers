@@ -947,95 +947,118 @@
 11139,2022Q3,S08000031,Head & Neck,87,86,NHS Greater Glasgow and Clyde
 11140,2022Q3,S08000031,Head & Neck,7,7,NHS Greater Glasgow and Clyde
 11141,2022Q3,S08000032,Head & Neck,8,8,NHS Lanarkshire
-11393,2022Q4,S08000015,Head & Neck,13,13,NHS Ayrshire and Arran
-11394,2022Q4,S08000031,Head & Neck,17,16,NHS Greater Glasgow and Clyde
-11395,2022Q4,S08000016,Head & Neck,1,1,NHS Borders
-11396,2022Q4,S08000024,Head & Neck,2,2,NHS Lothian
-11397,2022Q4,S08000024,Head & Neck,4,4,NHS Lothian
-11398,2022Q4,S08000031,Head & Neck,2,2,NHS Greater Glasgow and Clyde
-11399,2022Q4,S08000019,Head & Neck,8,8,NHS Forth Valley
-11400,2022Q4,S08000031,Head & Neck,10,6,NHS Greater Glasgow and Clyde
-11401,2022Q4,S08000032,Head & Neck,3,3,NHS Lanarkshire
-11402,2022Q4,S08000020,Head & Neck,30,29,NHS Grampian
-11403,2022Q4,S08000022,Head & Neck,17,17,NHS Highland
-11404,2022Q4,S08000030,Head & Neck,3,3,NHS Tayside
-11405,2022Q4,S08000024,Head & Neck,55,55,NHS Lothian
-11406,2022Q4,S08000020,Head & Neck,1,1,NHS Grampian
-11407,2022Q4,S08000020,Head & Neck,2,2,NHS Grampian
-11408,2022Q4,S08000022,Head & Neck,1,1,NHS Highland
-11409,2022Q4,S08000024,Head & Neck,6,6,NHS Lothian
-11410,2022Q4,S08000029,Head & Neck,2,2,NHS Fife
-11411,2022Q4,S08000030,Head & Neck,5,5,NHS Tayside
-11412,2022Q4,S08000030,Head & Neck,22,21,NHS Tayside
-11413,2022Q4,S08000031,Head & Neck,88,85,NHS Greater Glasgow and Clyde
-11414,2022Q4,S08000031,Head & Neck,10,8,NHS Greater Glasgow and Clyde
-11415,2022Q4,S08000032,Head & Neck,20,20,NHS Lanarkshire
-11654,2023Q1,S08000015,Head & Neck,14,14,NHS Ayrshire and Arran
-11655,2023Q1,S08000031,Head & Neck,5,5,NHS Greater Glasgow and Clyde
-11656,2023Q1,S08000016,Head & Neck,3,3,NHS Borders
-11657,2023Q1,S08000024,Head & Neck,1,1,NHS Lothian
-11658,2023Q1,S08000017,Head & Neck,1,1,NHS Dumfries and Galloway
-11659,2023Q1,S08000024,Head & Neck,5,4,NHS Lothian
-11660,2023Q1,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
-11661,2023Q1,S08000019,Head & Neck,4,4,NHS Forth Valley
-11662,2023Q1,S08000031,Head & Neck,9,8,NHS Greater Glasgow and Clyde
-11663,2023Q1,S08000032,Head & Neck,2,2,NHS Lanarkshire
-11664,2023Q1,S08000020,Head & Neck,34,34,NHS Grampian
-11665,2023Q1,S08000022,Head & Neck,8,6,NHS Highland
-11666,2023Q1,S08000024,Head & Neck,1,1,NHS Lothian
-11667,2023Q1,S08000024,Head & Neck,52,52,NHS Lothian
-11668,2023Q1,S08000020,Head & Neck,2,1,NHS Grampian
-11669,2023Q1,S08000022,Head & Neck,1,1,NHS Highland
-11670,2023Q1,S08000031,Head & Neck,2,2,NHS Greater Glasgow and Clyde
-11671,2023Q1,S08000024,Head & Neck,13,13,NHS Lothian
-11672,2023Q1,S08000029,Head & Neck,5,5,NHS Fife
-11673,2023Q1,S08000030,Head & Neck,6,6,NHS Tayside
-11674,2023Q1,S08000030,Head & Neck,22,19,NHS Tayside
-11675,2023Q1,S08000031,Head & Neck,99,97,NHS Greater Glasgow and Clyde
-11676,2023Q1,S08000031,Head & Neck,6,6,NHS Greater Glasgow and Clyde
-11677,2023Q1,S08000032,Head & Neck,14,13,NHS Lanarkshire
-11915,2023Q2,S08000015,Head & Neck,10,9,NHS Ayrshire and Arran
-11916,2023Q2,S08000031,Head & Neck,13,13,NHS Greater Glasgow and Clyde
-11917,2023Q2,S08000016,Head & Neck,1,1,NHS Borders
-11918,2023Q2,S08000024,Head & Neck,1,1,NHS Lothian
-11919,2023Q2,S08000017,Head & Neck,3,3,NHS Dumfries and Galloway
-11920,2023Q2,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
-11921,2023Q2,S08000019,Head & Neck,8,8,NHS Forth Valley
-11922,2023Q2,S08000031,Head & Neck,6,6,NHS Greater Glasgow and Clyde
-11923,2023Q2,S08000032,Head & Neck,3,3,NHS Lanarkshire
-11924,2023Q2,S08000020,Head & Neck,29,28,NHS Grampian
-11925,2023Q2,S08000022,Head & Neck,14,14,NHS Highland
+11283,2022Q4,S08000015,Head & Neck,13,13,NHS Ayrshire and Arran
+11298,2022Q4,S08000031,Head & Neck,17,16,NHS Greater Glasgow and Clyde
+11307,2022Q4,S08000016,Head & Neck,1,1,NHS Borders
+11316,2022Q4,S08000024,Head & Neck,2,2,NHS Lothian
+11335,2022Q4,S08000024,Head & Neck,4,4,NHS Lothian
+11342,2022Q4,S08000031,Head & Neck,2,2,NHS Greater Glasgow and Clyde
+11347,2022Q4,S08000019,Head & Neck,8,8,NHS Forth Valley
+11360,2022Q4,S08000031,Head & Neck,10,6,NHS Greater Glasgow and Clyde
+11366,2022Q4,S08000032,Head & Neck,3,3,NHS Lanarkshire
+11371,2022Q4,S08000020,Head & Neck,30,29,NHS Grampian
+11390,2022Q4,S08000022,Head & Neck,17,17,NHS Highland
+11400,2022Q4,S08000030,Head & Neck,3,3,NHS Tayside
+11412,2022Q4,S08000024,Head & Neck,55,55,NHS Lothian
+11422,2022Q4,S08000020,Head & Neck,1,1,NHS Grampian
+11434,2022Q4,S08000020,Head & Neck,2,2,NHS Grampian
+11446,2022Q4,S08000022,Head & Neck,1,1,NHS Highland
+11462,2022Q4,S08000024,Head & Neck,6,6,NHS Lothian
+11471,2022Q4,S08000029,Head & Neck,2,2,NHS Fife
+11479,2022Q4,S08000030,Head & Neck,5,5,NHS Tayside
+11496,2022Q4,S08000030,Head & Neck,22,21,NHS Tayside
+11515,2022Q4,S08000031,Head & Neck,88,85,NHS Greater Glasgow and Clyde
+11532,2022Q4,S08000031,Head & Neck,10,8,NHS Greater Glasgow and Clyde
+11542,2022Q4,S08000032,Head & Neck,20,20,NHS Lanarkshire
+11552,2023Q1,S08000015,Head & Neck,14,14,NHS Ayrshire and Arran
+11563,2023Q1,S08000031,Head & Neck,5,5,NHS Greater Glasgow and Clyde
+11573,2023Q1,S08000016,Head & Neck,3,3,NHS Borders
+11583,2023Q1,S08000024,Head & Neck,1,1,NHS Lothian
+11590,2023Q1,S08000017,Head & Neck,1,1,NHS Dumfries and Galloway
+11600,2023Q1,S08000024,Head & Neck,5,4,NHS Lothian
+11606,2023Q1,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
+11611,2023Q1,S08000019,Head & Neck,4,4,NHS Forth Valley
+11623,2023Q1,S08000031,Head & Neck,9,8,NHS Greater Glasgow and Clyde
+11631,2023Q1,S08000032,Head & Neck,2,2,NHS Lanarkshire
+11636,2023Q1,S08000020,Head & Neck,34,34,NHS Grampian
+11658,2023Q1,S08000022,Head & Neck,8,6,NHS Highland
+11667,2023Q1,S08000024,Head & Neck,1,1,NHS Lothian
+11682,2023Q1,S08000024,Head & Neck,52,52,NHS Lothian
+11690,2023Q1,S08000020,Head & Neck,2,1,NHS Grampian
+11714,2023Q1,S08000022,Head & Neck,1,1,NHS Highland
+11726,2023Q1,S08000031,Head & Neck,2,2,NHS Greater Glasgow and Clyde
+11731,2023Q1,S08000024,Head & Neck,13,13,NHS Lothian
+11740,2023Q1,S08000029,Head & Neck,5,5,NHS Fife
+11748,2023Q1,S08000030,Head & Neck,6,6,NHS Tayside
+11763,2023Q1,S08000030,Head & Neck,22,19,NHS Tayside
+11780,2023Q1,S08000031,Head & Neck,99,97,NHS Greater Glasgow and Clyde
+11795,2023Q1,S08000031,Head & Neck,6,6,NHS Greater Glasgow and Clyde
+11805,2023Q1,S08000032,Head & Neck,14,13,NHS Lanarkshire
+11816,2023Q2,S08000015,Head & Neck,10,9,NHS Ayrshire and Arran
+11829,2023Q2,S08000031,Head & Neck,13,13,NHS Greater Glasgow and Clyde
+11837,2023Q2,S08000016,Head & Neck,1,1,NHS Borders
+11846,2023Q2,S08000024,Head & Neck,1,1,NHS Lothian
+11854,2023Q2,S08000017,Head & Neck,3,3,NHS Dumfries and Galloway
+11869,2023Q2,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
+11873,2023Q2,S08000019,Head & Neck,8,8,NHS Forth Valley
+11887,2023Q2,S08000031,Head & Neck,6,6,NHS Greater Glasgow and Clyde
+11894,2023Q2,S08000032,Head & Neck,3,3,NHS Lanarkshire
+11899,2023Q2,S08000020,Head & Neck,29,28,NHS Grampian
+11916,2023Q2,S08000022,Head & Neck,14,14,NHS Highland
 11926,2023Q2,S08000030,Head & Neck,3,3,NHS Tayside
-11927,2023Q2,S08000024,Head & Neck,47,47,NHS Lothian
-11928,2023Q2,S08000022,Head & Neck,1,1,NHS Highland
-11929,2023Q2,S08000028,Head & Neck,1,1,NHS Western Isles
-11930,2023Q2,S08000024,Head & Neck,11,10,NHS Lothian
-11931,2023Q2,S08000029,Head & Neck,1,1,NHS Fife
-11932,2023Q2,S08000030,Head & Neck,3,3,NHS Tayside
-11933,2023Q2,S08000030,Head & Neck,22,17,NHS Tayside
-11934,2023Q2,S08000031,Head & Neck,74,69,NHS Greater Glasgow and Clyde
-11935,2023Q2,S08000031,Head & Neck,6,6,NHS Greater Glasgow and Clyde
-11936,2023Q2,S08000032,Head & Neck,16,16,NHS Lanarkshire
-12185,2023Q3,S08000015,Head & Neck,12,12,NHS Ayrshire and Arran
-12186,2023Q3,S08000031,Head & Neck,15,14,NHS Greater Glasgow and Clyde
-12187,2023Q3,S08000024,Head & Neck,4,4,NHS Lothian
-12188,2023Q3,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
-12189,2023Q3,S08000017,Head & Neck,2,2,NHS Dumfries and Galloway
-12190,2023Q3,S08000024,Head & Neck,3,3,NHS Lothian
-12191,2023Q3,S08000019,Head & Neck,5,5,NHS Forth Valley
-12192,2023Q3,S08000031,Head & Neck,13,12,NHS Greater Glasgow and Clyde
-12193,2023Q3,S08000032,Head & Neck,1,1,NHS Lanarkshire
-12194,2023Q3,S08000020,Head & Neck,32,30,NHS Grampian
-12195,2023Q3,S08000022,Head & Neck,10,9,NHS Highland
-12196,2023Q3,S08000030,Head & Neck,1,1,NHS Tayside
-12197,2023Q3,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
-12198,2023Q3,S08000024,Head & Neck,45,45,NHS Lothian
-12199,2023Q3,S08000020,Head & Neck,1,1,NHS Grampian
-12200,2023Q3,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
-12201,2023Q3,S08000024,Head & Neck,7,7,NHS Lothian
-12202,2023Q3,S08000029,Head & Neck,1,1,NHS Fife
-12203,2023Q3,S08000030,Head & Neck,4,4,NHS Tayside
-12204,2023Q3,S08000030,Head & Neck,25,23,NHS Tayside
-12205,2023Q3,S08000031,Head & Neck,87,82,NHS Greater Glasgow and Clyde
-12206,2023Q3,S08000031,Head & Neck,4,3,NHS Greater Glasgow and Clyde
-12207,2023Q3,S08000032,Head & Neck,8,8,NHS Lanarkshire
+11938,2023Q2,S08000024,Head & Neck,47,47,NHS Lothian
+11971,2023Q2,S08000022,Head & Neck,1,1,NHS Highland
+11978,2023Q2,S08000028,Head & Neck,1,1,NHS Western Isles
+11990,2023Q2,S08000024,Head & Neck,11,10,NHS Lothian
+12000,2023Q2,S08000029,Head & Neck,1,1,NHS Fife
+12008,2023Q2,S08000030,Head & Neck,3,3,NHS Tayside
+12022,2023Q2,S08000030,Head & Neck,22,17,NHS Tayside
+12039,2023Q2,S08000031,Head & Neck,74,69,NHS Greater Glasgow and Clyde
+12055,2023Q2,S08000031,Head & Neck,6,6,NHS Greater Glasgow and Clyde
+12065,2023Q2,S08000032,Head & Neck,16,16,NHS Lanarkshire
+12076,2023Q3,S08000015,Head & Neck,12,12,NHS Ayrshire and Arran
+12089,2023Q3,S08000031,Head & Neck,15,14,NHS Greater Glasgow and Clyde
+12108,2023Q3,S08000024,Head & Neck,4,4,NHS Lothian
+12115,2023Q3,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
+12120,2023Q3,S08000017,Head & Neck,2,2,NHS Dumfries and Galloway
+12129,2023Q3,S08000024,Head & Neck,3,3,NHS Lothian
+12140,2023Q3,S08000019,Head & Neck,5,5,NHS Forth Valley
+12152,2023Q3,S08000031,Head & Neck,13,12,NHS Greater Glasgow and Clyde
+12160,2023Q3,S08000032,Head & Neck,1,1,NHS Lanarkshire
+12165,2023Q3,S08000020,Head & Neck,32,30,NHS Grampian
+12183,2023Q3,S08000022,Head & Neck,10,9,NHS Highland
+12199,2023Q3,S08000030,Head & Neck,1,1,NHS Tayside
+12203,2023Q3,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
+12216,2023Q3,S08000024,Head & Neck,45,45,NHS Lothian
+12236,2023Q3,S08000020,Head & Neck,1,1,NHS Grampian
+12260,2023Q3,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
+12266,2023Q3,S08000024,Head & Neck,7,7,NHS Lothian
+12276,2023Q3,S08000029,Head & Neck,1,1,NHS Fife
+12284,2023Q3,S08000030,Head & Neck,4,4,NHS Tayside
+12297,2023Q3,S08000030,Head & Neck,25,23,NHS Tayside
+12314,2023Q3,S08000031,Head & Neck,87,82,NHS Greater Glasgow and Clyde
+12333,2023Q3,S08000031,Head & Neck,4,3,NHS Greater Glasgow and Clyde
+12344,2023Q3,S08000032,Head & Neck,8,8,NHS Lanarkshire
+12355,2023Q4,S08000015,Head & Neck,12,10,NHS Ayrshire and Arran
+12370,2023Q4,S08000031,Head & Neck,10,10,NHS Greater Glasgow and Clyde
+12382,2023Q4,S08000016,Head & Neck,2,2,NHS Borders
+12390,2023Q4,S08000024,Head & Neck,3,3,NHS Lothian
+12399,2023Q4,S08000017,Head & Neck,4,4,NHS Dumfries and Galloway
+12409,2023Q4,S08000024,Head & Neck,2,2,NHS Lothian
+12416,2023Q4,S08000031,Head & Neck,1,1,NHS Greater Glasgow and Clyde
+12423,2023Q4,S08000019,Head & Neck,8,8,NHS Forth Valley
+12436,2023Q4,S08000031,Head & Neck,7,6,NHS Greater Glasgow and Clyde
+12442,2023Q4,S08000032,Head & Neck,2,2,NHS Lanarkshire
+12449,2023Q4,S08000020,Head & Neck,30,30,NHS Grampian
+12468,2023Q4,S08000022,Head & Neck,10,10,NHS Highland
+12481,2023Q4,S08000030,Head & Neck,2,2,NHS Tayside
+12493,2023Q4,S08000024,Head & Neck,38,38,NHS Lothian
+12510,2023Q4,S08000020,Head & Neck,1,1,NHS Grampian
+12522,2023Q4,S08000022,Head & Neck,1,1,NHS Highland
+12540,2023Q4,S08000024,Head & Neck,12,12,NHS Lothian
+12548,2023Q4,S08000029,Head & Neck,3,3,NHS Fife
+12556,2023Q4,S08000030,Head & Neck,2,2,NHS Tayside
+12569,2023Q4,S08000030,Head & Neck,23,20,NHS Tayside
+12588,2023Q4,S08000031,Head & Neck,82,79,NHS Greater Glasgow and Clyde
+12603,2023Q4,S08000031,Head & Neck,10,8,NHS Greater Glasgow and Clyde
+12613,2023Q4,S08000032,Head & Neck,12,12,NHS Lanarkshire

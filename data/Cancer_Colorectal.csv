@@ -1030,95 +1030,117 @@
 11117,2022Q3,S08000024,Colorectal,1,1,NHS Lothian
 11118,2022Q3,S08000031,Colorectal,7,5,NHS Greater Glasgow and Clyde
 11119,2022Q3,S08000032,Colorectal,80,72,NHS Lanarkshire
-11368,2022Q4,S08000015,Colorectal,45,45,NHS Ayrshire and Arran
-11369,2022Q4,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
-11370,2022Q4,S08000016,Colorectal,17,16,NHS Borders
-11371,2022Q4,S08000024,Colorectal,2,2,NHS Lothian
-11372,2022Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-11373,2022Q4,S08000017,Colorectal,33,32,NHS Dumfries and Galloway
-11374,2022Q4,S08000024,Colorectal,3,2,NHS Lothian
-11375,2022Q4,S08000019,Colorectal,38,34,NHS Forth Valley
-11376,2022Q4,S08000024,Colorectal,1,1,NHS Lothian
-11377,2022Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-11378,2022Q4,S08000020,Colorectal,93,91,NHS Grampian
-11379,2022Q4,S08000022,Colorectal,54,53,NHS Highland
-11380,2022Q4,S08000024,Colorectal,132,119,NHS Lothian
-11381,2022Q4,S08000025,Colorectal,2,2,NHS Orkney
-11382,2022Q4,S08000020,Colorectal,4,3,NHS Grampian
-11383,2022Q4,S08000026,Colorectal,3,3,NHS Shetland
-11384,2022Q4,S08000022,Colorectal,4,3,NHS Highland
-11385,2022Q4,S08000028,Colorectal,1,1,NHS Western Isles
-11386,2022Q4,S08000024,Colorectal,4,4,NHS Lothian
-11387,2022Q4,S08000029,Colorectal,49,49,NHS Fife
-11388,2022Q4,S08000030,Colorectal,88,84,NHS Tayside
-11389,2022Q4,S08000015,Colorectal,1,1,NHS Ayrshire and Arran
-11390,2022Q4,S08000031,Colorectal,239,227,NHS Greater Glasgow and Clyde
-11391,2022Q4,S08000031,Colorectal,5,3,NHS Greater Glasgow and Clyde
-11392,2022Q4,S08000032,Colorectal,107,105,NHS Lanarkshire
-11632,2023Q1,S08000015,Colorectal,69,69,NHS Ayrshire and Arran
-11633,2023Q1,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
-11634,2023Q1,S08000016,Colorectal,25,22,NHS Borders
-11635,2023Q1,S08000024,Colorectal,2,2,NHS Lothian
-11636,2023Q1,S08000017,Colorectal,35,34,NHS Dumfries and Galloway
-11637,2023Q1,S08000024,Colorectal,2,2,NHS Lothian
-11638,2023Q1,S08000019,Colorectal,27,27,NHS Forth Valley
-11639,2023Q1,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
-11640,2023Q1,S08000020,Colorectal,90,86,NHS Grampian
-11641,2023Q1,S08000026,Colorectal,1,1,NHS Shetland
-11642,2023Q1,S08000022,Colorectal,55,52,NHS Highland
-11643,2023Q1,S08000024,Colorectal,107,95,NHS Lothian
-11644,2023Q1,S08000025,Colorectal,1,1,NHS Orkney
-11645,2023Q1,S08000020,Colorectal,1,1,NHS Grampian
-11646,2023Q1,S08000026,Colorectal,1,1,NHS Shetland
-11647,2023Q1,S08000022,Colorectal,3,3,NHS Highland
-11648,2023Q1,S08000024,Colorectal,2,2,NHS Lothian
-11649,2023Q1,S08000029,Colorectal,48,47,NHS Fife
-11650,2023Q1,S08000030,Colorectal,73,67,NHS Tayside
-11651,2023Q1,S08000031,Colorectal,232,220,NHS Greater Glasgow and Clyde
-11652,2023Q1,S08000031,Colorectal,11,4,NHS Greater Glasgow and Clyde
-11653,2023Q1,S08000032,Colorectal,98,91,NHS Lanarkshire
-11893,2023Q2,S08000015,Colorectal,49,49,NHS Ayrshire and Arran
-11894,2023Q2,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
-11895,2023Q2,S08000016,Colorectal,25,24,NHS Borders
-11896,2023Q2,S08000024,Colorectal,3,3,NHS Lothian
-11897,2023Q2,S08000017,Colorectal,33,32,NHS Dumfries and Galloway
-11898,2023Q2,S08000019,Colorectal,53,49,NHS Forth Valley
-11899,2023Q2,S08000024,Colorectal,1,1,NHS Lothian
-11900,2023Q2,S08000031,Colorectal,7,6,NHS Greater Glasgow and Clyde
-11901,2023Q2,S08000020,Colorectal,87,82,NHS Grampian
-11902,2023Q2,S08000022,Colorectal,61,60,NHS Highland
-11903,2023Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
-11904,2023Q2,S08000024,Colorectal,116,111,NHS Lothian
-11905,2023Q2,S08000025,Colorectal,1,1,NHS Orkney
-11906,2023Q2,S08000026,Colorectal,5,5,NHS Shetland
-11907,2023Q2,S08000022,Colorectal,5,5,NHS Highland
-11908,2023Q2,S08000028,Colorectal,1,1,NHS Western Isles
-11909,2023Q2,S08000024,Colorectal,5,5,NHS Lothian
-11910,2023Q2,S08000029,Colorectal,51,51,NHS Fife
-11911,2023Q2,S08000030,Colorectal,69,64,NHS Tayside
-11912,2023Q2,S08000031,Colorectal,172,162,NHS Greater Glasgow and Clyde
-11913,2023Q2,S08000031,Colorectal,8,5,NHS Greater Glasgow and Clyde
-11914,2023Q2,S08000032,Colorectal,88,85,NHS Lanarkshire
-12162,2023Q3,S08000015,Colorectal,46,46,NHS Ayrshire and Arran
-12163,2023Q3,S08000031,Colorectal,7,4,NHS Greater Glasgow and Clyde
-12164,2023Q3,S08000016,Colorectal,16,15,NHS Borders
-12165,2023Q3,S08000024,Colorectal,1,1,NHS Lothian
-12166,2023Q3,S08000017,Colorectal,37,37,NHS Dumfries and Galloway
-12167,2023Q3,S08000019,Colorectal,46,45,NHS Forth Valley
-12168,2023Q3,S08000031,Colorectal,5,2,NHS Greater Glasgow and Clyde
-12169,2023Q3,S08000020,Colorectal,77,66,NHS Grampian
-12170,2023Q3,S08000022,Colorectal,62,59,NHS Highland
-12171,2023Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
-12172,2023Q3,S08000024,Colorectal,128,121,NHS Lothian
-12173,2023Q3,S08000025,Colorectal,1,1,NHS Orkney
-12174,2023Q3,S08000020,Colorectal,2,2,NHS Grampian
-12175,2023Q3,S08000026,Colorectal,4,4,NHS Shetland
-12176,2023Q3,S08000022,Colorectal,6,5,NHS Highland
-12177,2023Q3,S08000028,Colorectal,3,3,NHS Western Isles
-12178,2023Q3,S08000024,Colorectal,6,6,NHS Lothian
-12179,2023Q3,S08000029,Colorectal,63,63,NHS Fife
-12180,2023Q3,S08000030,Colorectal,74,72,NHS Tayside
-12181,2023Q3,S08000031,Colorectal,217,216,NHS Greater Glasgow and Clyde
-12182,2023Q3,S08000032,Colorectal,1,1,NHS Lanarkshire
-12183,2023Q3,S08000031,Colorectal,12,10,NHS Greater Glasgow and Clyde
-12184,2023Q3,S08000032,Colorectal,93,91,NHS Lanarkshire
+11282,2022Q4,S08000015,Colorectal,45,45,NHS Ayrshire and Arran
+11297,2022Q4,S08000031,Colorectal,5,5,NHS Greater Glasgow and Clyde
+11306,2022Q4,S08000016,Colorectal,17,16,NHS Borders
+11315,2022Q4,S08000024,Colorectal,2,2,NHS Lothian
+11321,2022Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+11325,2022Q4,S08000017,Colorectal,33,32,NHS Dumfries and Galloway
+11334,2022Q4,S08000024,Colorectal,3,2,NHS Lothian
+11346,2022Q4,S08000019,Colorectal,38,34,NHS Forth Valley
+11355,2022Q4,S08000024,Colorectal,1,1,NHS Lothian
+11359,2022Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+11370,2022Q4,S08000020,Colorectal,93,91,NHS Grampian
+11389,2022Q4,S08000022,Colorectal,54,53,NHS Highland
+11411,2022Q4,S08000024,Colorectal,132,119,NHS Lothian
+11425,2022Q4,S08000025,Colorectal,2,2,NHS Orkney
+11433,2022Q4,S08000020,Colorectal,4,3,NHS Grampian
+11440,2022Q4,S08000026,Colorectal,3,3,NHS Shetland
+11445,2022Q4,S08000022,Colorectal,4,3,NHS Highland
+11451,2022Q4,S08000028,Colorectal,1,1,NHS Western Isles
+11461,2022Q4,S08000024,Colorectal,4,4,NHS Lothian
+11470,2022Q4,S08000029,Colorectal,49,49,NHS Fife
+11495,2022Q4,S08000030,Colorectal,88,84,NHS Tayside
+11504,2022Q4,S08000015,Colorectal,1,1,NHS Ayrshire and Arran
+11514,2022Q4,S08000031,Colorectal,239,227,NHS Greater Glasgow and Clyde
+11531,2022Q4,S08000031,Colorectal,5,3,NHS Greater Glasgow and Clyde
+11541,2022Q4,S08000032,Colorectal,107,105,NHS Lanarkshire
+11551,2023Q1,S08000015,Colorectal,69,69,NHS Ayrshire and Arran
+11562,2023Q1,S08000031,Colorectal,6,6,NHS Greater Glasgow and Clyde
+11572,2023Q1,S08000016,Colorectal,25,22,NHS Borders
+11582,2023Q1,S08000024,Colorectal,2,2,NHS Lothian
+11589,2023Q1,S08000017,Colorectal,35,34,NHS Dumfries and Galloway
+11599,2023Q1,S08000024,Colorectal,2,2,NHS Lothian
+11610,2023Q1,S08000019,Colorectal,27,27,NHS Forth Valley
+11622,2023Q1,S08000031,Colorectal,4,3,NHS Greater Glasgow and Clyde
+11635,2023Q1,S08000020,Colorectal,90,86,NHS Grampian
+11651,2023Q1,S08000026,Colorectal,1,1,NHS Shetland
+11657,2023Q1,S08000022,Colorectal,55,52,NHS Highland
+11681,2023Q1,S08000024,Colorectal,107,95,NHS Lothian
+11694,2023Q1,S08000025,Colorectal,1,1,NHS Orkney
+11699,2023Q1,S08000020,Colorectal,1,1,NHS Grampian
+11705,2023Q1,S08000026,Colorectal,1,1,NHS Shetland
+11713,2023Q1,S08000022,Colorectal,3,3,NHS Highland
+11730,2023Q1,S08000024,Colorectal,2,2,NHS Lothian
+11739,2023Q1,S08000029,Colorectal,48,47,NHS Fife
+11762,2023Q1,S08000030,Colorectal,73,67,NHS Tayside
+11779,2023Q1,S08000031,Colorectal,232,220,NHS Greater Glasgow and Clyde
+11794,2023Q1,S08000031,Colorectal,11,4,NHS Greater Glasgow and Clyde
+11804,2023Q1,S08000032,Colorectal,98,91,NHS Lanarkshire
+11815,2023Q2,S08000015,Colorectal,49,49,NHS Ayrshire and Arran
+11828,2023Q2,S08000031,Colorectal,3,3,NHS Greater Glasgow and Clyde
+11836,2023Q2,S08000016,Colorectal,25,24,NHS Borders
+11845,2023Q2,S08000024,Colorectal,3,3,NHS Lothian
+11853,2023Q2,S08000017,Colorectal,33,32,NHS Dumfries and Galloway
+11872,2023Q2,S08000019,Colorectal,53,49,NHS Forth Valley
+11881,2023Q2,S08000024,Colorectal,1,1,NHS Lothian
+11886,2023Q2,S08000031,Colorectal,7,6,NHS Greater Glasgow and Clyde
+11898,2023Q2,S08000020,Colorectal,87,82,NHS Grampian
+11915,2023Q2,S08000022,Colorectal,61,60,NHS Highland
+11928,2023Q2,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+11937,2023Q2,S08000024,Colorectal,116,111,NHS Lothian
+11953,2023Q2,S08000025,Colorectal,1,1,NHS Orkney
+11963,2023Q2,S08000026,Colorectal,5,5,NHS Shetland
+11970,2023Q2,S08000022,Colorectal,5,5,NHS Highland
+11977,2023Q2,S08000028,Colorectal,1,1,NHS Western Isles
+11989,2023Q2,S08000024,Colorectal,5,5,NHS Lothian
+11999,2023Q2,S08000029,Colorectal,51,51,NHS Fife
+12021,2023Q2,S08000030,Colorectal,69,64,NHS Tayside
+12038,2023Q2,S08000031,Colorectal,172,162,NHS Greater Glasgow and Clyde
+12054,2023Q2,S08000031,Colorectal,8,5,NHS Greater Glasgow and Clyde
+12064,2023Q2,S08000032,Colorectal,88,85,NHS Lanarkshire
+12075,2023Q3,S08000015,Colorectal,46,46,NHS Ayrshire and Arran
+12088,2023Q3,S08000031,Colorectal,7,4,NHS Greater Glasgow and Clyde
+12099,2023Q3,S08000016,Colorectal,16,15,NHS Borders
+12107,2023Q3,S08000024,Colorectal,1,1,NHS Lothian
+12119,2023Q3,S08000017,Colorectal,37,37,NHS Dumfries and Galloway
+12139,2023Q3,S08000019,Colorectal,46,45,NHS Forth Valley
+12151,2023Q3,S08000031,Colorectal,5,2,NHS Greater Glasgow and Clyde
+12164,2023Q3,S08000020,Colorectal,77,66,NHS Grampian
+12182,2023Q3,S08000022,Colorectal,62,59,NHS Highland
+12202,2023Q3,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+12215,2023Q3,S08000024,Colorectal,128,121,NHS Lothian
+12230,2023Q3,S08000025,Colorectal,1,1,NHS Orkney
+12235,2023Q3,S08000020,Colorectal,2,2,NHS Grampian
+12243,2023Q3,S08000026,Colorectal,4,4,NHS Shetland
+12250,2023Q3,S08000022,Colorectal,6,5,NHS Highland
+12254,2023Q3,S08000028,Colorectal,3,3,NHS Western Isles
+12265,2023Q3,S08000024,Colorectal,6,6,NHS Lothian
+12275,2023Q3,S08000029,Colorectal,63,63,NHS Fife
+12296,2023Q3,S08000030,Colorectal,74,72,NHS Tayside
+12313,2023Q3,S08000031,Colorectal,217,216,NHS Greater Glasgow and Clyde
+12323,2023Q3,S08000032,Colorectal,1,1,NHS Lanarkshire
+12332,2023Q3,S08000031,Colorectal,12,10,NHS Greater Glasgow and Clyde
+12343,2023Q3,S08000032,Colorectal,93,91,NHS Lanarkshire
+12354,2023Q4,S08000015,Colorectal,75,75,NHS Ayrshire and Arran
+12369,2023Q4,S08000031,Colorectal,1,1,NHS Greater Glasgow and Clyde
+12381,2023Q4,S08000016,Colorectal,18,17,NHS Borders
+12398,2023Q4,S08000017,Colorectal,45,45,NHS Dumfries and Galloway
+12408,2023Q4,S08000024,Colorectal,1,0,NHS Lothian
+12422,2023Q4,S08000019,Colorectal,37,37,NHS Forth Valley
+12435,2023Q4,S08000031,Colorectal,6,3,NHS Greater Glasgow and Clyde
+12448,2023Q4,S08000020,Colorectal,96,86,NHS Grampian
+12467,2023Q4,S08000022,Colorectal,55,49,NHS Highland
+12484,2023Q4,S08000031,Colorectal,2,2,NHS Greater Glasgow and Clyde
+12492,2023Q4,S08000024,Colorectal,125,120,NHS Lothian
+12505,2023Q4,S08000020,Colorectal,1,1,NHS Grampian
+12515,2023Q4,S08000026,Colorectal,2,2,NHS Shetland
+12521,2023Q4,S08000022,Colorectal,6,5,NHS Highland
+12539,2023Q4,S08000024,Colorectal,7,7,NHS Lothian
+12547,2023Q4,S08000029,Colorectal,51,50,NHS Fife
+12568,2023Q4,S08000030,Colorectal,72,71,NHS Tayside
+12580,2023Q4,S08000022,Colorectal,1,1,NHS Highland
+12582,2023Q4,S08000024,Colorectal,3,3,NHS Lothian
+12587,2023Q4,S08000031,Colorectal,239,225,NHS Greater Glasgow and Clyde
+12602,2023Q4,S08000031,Colorectal,12,8,NHS Greater Glasgow and Clyde
+12612,2023Q4,S08000032,Colorectal,98,95,NHS Lanarkshire

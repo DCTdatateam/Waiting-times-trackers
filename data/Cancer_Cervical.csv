@@ -648,62 +648,76 @@
 11089,2022Q3,S08000031,Cervical,13,13,NHS Greater Glasgow and Clyde
 11090,2022Q3,S08000031,Cervical,6,6,NHS Greater Glasgow and Clyde
 11091,2022Q3,S08000032,Cervical,4,4,NHS Lanarkshire
-11354,2022Q4,S08000015,Cervical,3,3,NHS Ayrshire and Arran
-11355,2022Q4,S08000031,Cervical,6,5,NHS Greater Glasgow and Clyde
-11356,2022Q4,S08000016,Cervical,2,2,NHS Borders
-11357,2022Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-11358,2022Q4,S08000024,Cervical,2,2,NHS Lothian
-11359,2022Q4,S08000019,Cervical,2,1,NHS Forth Valley
-11360,2022Q4,S08000020,Cervical,13,13,NHS Grampian
-11361,2022Q4,S08000022,Cervical,1,1,NHS Highland
-11362,2022Q4,S08000024,Cervical,13,13,NHS Lothian
-11363,2022Q4,S08000024,Cervical,2,2,NHS Lothian
-11364,2022Q4,S08000029,Cervical,1,1,NHS Fife
-11365,2022Q4,S08000030,Cervical,2,2,NHS Tayside
-11366,2022Q4,S08000031,Cervical,11,10,NHS Greater Glasgow and Clyde
-11367,2022Q4,S08000031,Cervical,13,12,NHS Greater Glasgow and Clyde
-11618,2023Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-11619,2023Q1,S08000016,Cervical,1,1,NHS Borders
-11620,2023Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
-11621,2023Q1,S08000020,Cervical,9,7,NHS Grampian
-11622,2023Q1,S08000022,Cervical,5,4,NHS Highland
-11623,2023Q1,S08000024,Cervical,10,9,NHS Lothian
-11624,2023Q1,S08000031,Cervical,1,0,NHS Greater Glasgow and Clyde
-11625,2023Q1,S08000024,Cervical,3,3,NHS Lothian
-11626,2023Q1,S08000029,Cervical,1,1,NHS Fife
-11627,2023Q1,S08000020,Cervical,2,2,NHS Grampian
-11628,2023Q1,S08000030,Cervical,5,5,NHS Tayside
-11629,2023Q1,S08000031,Cervical,20,20,NHS Greater Glasgow and Clyde
-11630,2023Q1,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
-11631,2023Q1,S08000032,Cervical,3,3,NHS Lanarkshire
-11879,2023Q2,S08000015,Cervical,7,7,NHS Ayrshire and Arran
-11880,2023Q2,S08000031,Cervical,2,1,NHS Greater Glasgow and Clyde
-11881,2023Q2,S08000024,Cervical,4,4,NHS Lothian
-11882,2023Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-11883,2023Q2,S08000020,Cervical,6,4,NHS Grampian
-11884,2023Q2,S08000022,Cervical,7,6,NHS Highland
-11885,2023Q2,S08000024,Cervical,9,9,NHS Lothian
-11886,2023Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
-11887,2023Q2,S08000024,Cervical,1,1,NHS Lothian
-11888,2023Q2,S08000029,Cervical,3,3,NHS Fife
-11889,2023Q2,S08000030,Cervical,5,5,NHS Tayside
-11890,2023Q2,S08000031,Cervical,17,13,NHS Greater Glasgow and Clyde
-11891,2023Q2,S08000031,Cervical,6,3,NHS Greater Glasgow and Clyde
-11892,2023Q2,S08000032,Cervical,2,2,NHS Lanarkshire
-12145,2023Q3,S08000015,Cervical,2,2,NHS Ayrshire and Arran
-12146,2023Q3,S08000031,Cervical,2,1,NHS Greater Glasgow and Clyde
-12147,2023Q3,S08000016,Cervical,1,1,NHS Borders
-12148,2023Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
-12149,2023Q3,S08000024,Cervical,2,1,NHS Lothian
-12150,2023Q3,S08000019,Cervical,1,1,NHS Forth Valley
-12151,2023Q3,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
-12152,2023Q3,S08000020,Cervical,5,4,NHS Grampian
-12153,2023Q3,S08000022,Cervical,2,2,NHS Highland
-12154,2023Q3,S08000024,Cervical,6,5,NHS Lothian
-12155,2023Q3,S08000024,Cervical,5,5,NHS Lothian
-12156,2023Q3,S08000029,Cervical,2,2,NHS Fife
-12157,2023Q3,S08000020,Cervical,1,1,NHS Grampian
-12158,2023Q3,S08000030,Cervical,6,6,NHS Tayside
-12159,2023Q3,S08000031,Cervical,17,14,NHS Greater Glasgow and Clyde
-12160,2023Q3,S08000031,Cervical,10,9,NHS Greater Glasgow and Clyde
-12161,2023Q3,S08000032,Cervical,5,5,NHS Lanarkshire
+11281,2022Q4,S08000015,Cervical,3,3,NHS Ayrshire and Arran
+11296,2022Q4,S08000031,Cervical,6,5,NHS Greater Glasgow and Clyde
+11305,2022Q4,S08000016,Cervical,2,2,NHS Borders
+11324,2022Q4,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+11333,2022Q4,S08000024,Cervical,2,2,NHS Lothian
+11345,2022Q4,S08000019,Cervical,2,1,NHS Forth Valley
+11369,2022Q4,S08000020,Cervical,13,13,NHS Grampian
+11388,2022Q4,S08000022,Cervical,1,1,NHS Highland
+11410,2022Q4,S08000024,Cervical,13,13,NHS Lothian
+11460,2022Q4,S08000024,Cervical,2,2,NHS Lothian
+11469,2022Q4,S08000029,Cervical,1,1,NHS Fife
+11494,2022Q4,S08000030,Cervical,2,2,NHS Tayside
+11513,2022Q4,S08000031,Cervical,11,10,NHS Greater Glasgow and Clyde
+11530,2022Q4,S08000031,Cervical,13,12,NHS Greater Glasgow and Clyde
+11561,2023Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+11571,2023Q1,S08000016,Cervical,1,1,NHS Borders
+11621,2023Q1,S08000031,Cervical,3,3,NHS Greater Glasgow and Clyde
+11634,2023Q1,S08000020,Cervical,9,7,NHS Grampian
+11656,2023Q1,S08000022,Cervical,5,4,NHS Highland
+11680,2023Q1,S08000024,Cervical,10,9,NHS Lothian
+11725,2023Q1,S08000031,Cervical,1,0,NHS Greater Glasgow and Clyde
+11729,2023Q1,S08000024,Cervical,3,3,NHS Lothian
+11738,2023Q1,S08000029,Cervical,1,1,NHS Fife
+11754,2023Q1,S08000020,Cervical,2,2,NHS Grampian
+11761,2023Q1,S08000030,Cervical,5,5,NHS Tayside
+11778,2023Q1,S08000031,Cervical,20,20,NHS Greater Glasgow and Clyde
+11793,2023Q1,S08000031,Cervical,5,5,NHS Greater Glasgow and Clyde
+11803,2023Q1,S08000032,Cervical,3,3,NHS Lanarkshire
+11814,2023Q2,S08000015,Cervical,7,7,NHS Ayrshire and Arran
+11827,2023Q2,S08000031,Cervical,2,1,NHS Greater Glasgow and Clyde
+11863,2023Q2,S08000024,Cervical,4,4,NHS Lothian
+11885,2023Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+11897,2023Q2,S08000020,Cervical,6,4,NHS Grampian
+11914,2023Q2,S08000022,Cervical,7,6,NHS Highland
+11936,2023Q2,S08000024,Cervical,9,9,NHS Lothian
+11984,2023Q2,S08000031,Cervical,1,1,NHS Greater Glasgow and Clyde
+11988,2023Q2,S08000024,Cervical,1,1,NHS Lothian
+11998,2023Q2,S08000029,Cervical,3,3,NHS Fife
+12020,2023Q2,S08000030,Cervical,5,5,NHS Tayside
+12037,2023Q2,S08000031,Cervical,17,13,NHS Greater Glasgow and Clyde
+12053,2023Q2,S08000031,Cervical,6,3,NHS Greater Glasgow and Clyde
+12063,2023Q2,S08000032,Cervical,2,2,NHS Lanarkshire
+12074,2023Q3,S08000015,Cervical,2,2,NHS Ayrshire and Arran
+12087,2023Q3,S08000031,Cervical,2,1,NHS Greater Glasgow and Clyde
+12098,2023Q3,S08000016,Cervical,1,1,NHS Borders
+12118,2023Q3,S08000017,Cervical,1,1,NHS Dumfries and Galloway
+12128,2023Q3,S08000024,Cervical,2,1,NHS Lothian
+12138,2023Q3,S08000019,Cervical,1,1,NHS Forth Valley
+12150,2023Q3,S08000031,Cervical,4,4,NHS Greater Glasgow and Clyde
+12163,2023Q3,S08000020,Cervical,5,4,NHS Grampian
+12181,2023Q3,S08000022,Cervical,2,2,NHS Highland
+12214,2023Q3,S08000024,Cervical,6,5,NHS Lothian
+12264,2023Q3,S08000024,Cervical,5,5,NHS Lothian
+12274,2023Q3,S08000029,Cervical,2,2,NHS Fife
+12288,2023Q3,S08000020,Cervical,1,1,NHS Grampian
+12295,2023Q3,S08000030,Cervical,6,6,NHS Tayside
+12312,2023Q3,S08000031,Cervical,17,14,NHS Greater Glasgow and Clyde
+12331,2023Q3,S08000031,Cervical,10,9,NHS Greater Glasgow and Clyde
+12342,2023Q3,S08000032,Cervical,5,5,NHS Lanarkshire
+12353,2023Q4,S08000015,Cervical,4,4,NHS Ayrshire and Arran
+12368,2023Q4,S08000031,Cervical,5,4,NHS Greater Glasgow and Clyde
+12407,2023Q4,S08000024,Cervical,2,2,NHS Lothian
+12421,2023Q4,S08000019,Cervical,1,1,NHS Forth Valley
+12434,2023Q4,S08000031,Cervical,2,2,NHS Greater Glasgow and Clyde
+12447,2023Q4,S08000020,Cervical,8,8,NHS Grampian
+12466,2023Q4,S08000022,Cervical,2,2,NHS Highland
+12491,2023Q4,S08000024,Cervical,6,4,NHS Lothian
+12538,2023Q4,S08000024,Cervical,4,4,NHS Lothian
+12546,2023Q4,S08000029,Cervical,2,2,NHS Fife
+12567,2023Q4,S08000030,Cervical,3,3,NHS Tayside
+12586,2023Q4,S08000031,Cervical,9,9,NHS Greater Glasgow and Clyde
+12601,2023Q4,S08000031,Cervical,13,12,NHS Greater Glasgow and Clyde
+12611,2023Q4,S08000032,Cervical,8,8,NHS Lanarkshire
