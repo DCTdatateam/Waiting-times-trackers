@@ -54,11 +54,11 @@ jobs:
       env:
         key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
         
-#    - name: Run musculoskeletal script
-#      run: |
-#        python 'py/musculoskeletal.py'
-#      env:
-#        key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
+    - name: Run musculoskeletal script
+      run: |
+        python 'py/musculoskeletal.py'
+      env:
+        key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
         
     - name: Run psychological therapies script
       run: |
