@@ -1365,13 +1365,13 @@
 12854,2024Q1,S08000031,Urological,438,381,NHS Greater Glasgow and Clyde
 12869,2024Q1,S08000031,Urological,29,20,NHS Greater Glasgow and Clyde
 12880,2024Q1,S08000032,Urological,101,98,NHS Lanarkshire
-12890,2024Q2,S08000015,Urological,104,96,NHS Ayrshire and Arran
+12890,2024Q2,S08000015,Urological,106,98,NHS Ayrshire and Arran
 12895,2024Q2,S08000024,Urological,1,1,NHS Lothian
 12905,2024Q2,S08000031,Urological,4,3,NHS Greater Glasgow and Clyde
 12915,2024Q2,S08000016,Urological,38,35,NHS Borders
 12922,2024Q2,S08000024,Urological,22,15,NHS Lothian
-12933,2024Q2,S08000017,Urological,58,57,NHS Dumfries and Galloway
-12942,2024Q2,S08000024,Urological,15,9,NHS Lothian
+12933,2024Q2,S08000017,Urological,57,57,NHS Dumfries and Galloway
+12942,2024Q2,S08000024,Urological,16,9,NHS Lothian
 12947,2024Q2,S08000015,Urological,2,2,NHS Ayrshire and Arran
 12957,2024Q2,S08000019,Urological,84,84,NHS Forth Valley
 12970,2024Q2,S08000031,Urological,21,16,NHS Greater Glasgow and Clyde
@@ -1400,3 +1400,34 @@
 13135,2024Q2,S08000031,Urological,415,388,NHS Greater Glasgow and Clyde
 13149,2024Q2,S08000031,Urological,14,12,NHS Greater Glasgow and Clyde
 13160,2024Q2,S08000032,Urological,121,112,NHS Lanarkshire
+13170,2024Q3,S08000015,Urological,102,95,NHS Ayrshire and Arran
+13186,2024Q3,S08000031,Urological,5,4,NHS Greater Glasgow and Clyde
+13196,2024Q3,S08000016,Urological,32,32,NHS Borders
+13205,2024Q3,S08000024,Urological,25,17,NHS Lothian
+13215,2024Q3,S08000017,Urological,70,69,NHS Dumfries and Galloway
+13225,2024Q3,S08000024,Urological,12,4,NHS Lothian
+13239,2024Q3,S08000019,Urological,85,83,NHS Forth Valley
+13242,2024Q3,S08000024,Urological,1,1,NHS Lothian
+13253,2024Q3,S08000031,Urological,15,8,NHS Greater Glasgow and Clyde
+13255,2024Q3,S08000032,Urological,1,1,NHS Lanarkshire
+13268,2024Q3,S08000020,Urological,180,145,NHS Grampian
+13271,2024Q3,S08000024,Urological,1,1,NHS Lothian
+13281,2024Q3,S08000020,Urological,3,3,NHS Grampian
+13292,2024Q3,S08000022,Urological,100,89,NHS Highland
+13295,2024Q3,S08000024,Urological,5,3,NHS Lothian
+13300,2024Q3,S08000031,Urological,4,4,NHS Greater Glasgow and Clyde
+13315,2024Q3,S08000024,Urological,302,262,NHS Lothian
+13321,2024Q3,S08000020,Urological,2,2,NHS Grampian
+13327,2024Q3,S08000025,Urological,1,1,NHS Orkney
+13333,2024Q3,S08000020,Urological,2,1,NHS Grampian
+13342,2024Q3,S08000026,Urological,5,5,NHS Shetland
+13351,2024Q3,S08000022,Urological,3,2,NHS Highland
+13359,2024Q3,S08000028,Urological,7,7,NHS Western Isles
+13370,2024Q3,S08000024,Urological,4,4,NHS Lothian
+13381,2024Q3,S08000029,Urological,125,111,NHS Fife
+13388,2024Q3,S08000020,Urological,4,2,NHS Grampian
+13391,2024Q3,S08000024,Urological,2,1,NHS Lothian
+13402,2024Q3,S08000030,Urological,110,99,NHS Tayside
+13419,2024Q3,S08000031,Urological,395,346,NHS Greater Glasgow and Clyde
+13434,2024Q3,S08000031,Urological,15,11,NHS Greater Glasgow and Clyde
+13445,2024Q3,S08000032,Urological,152,144,NHS Lanarkshire
