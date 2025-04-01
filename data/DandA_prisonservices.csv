@@ -1,321 +1,321 @@
 ,Quarter,HB,Health board,ADP,Service type,Substance type,Measure,Waited_1_week_or_less,Waited_more_than_1_week_but_within_2_weeks,Waited_more_than_2_week_but_within_3_weeks,Waited_more_than_3_week_but_within_4_weeks,Waited_more_than_4_week_but_within_8_weeks,Waited_more_than_8_week_but_within_12_weeks,Waited_more_than_12_week_but_within_26_weeks,Waited_more_than_26_week_but_within_52_weeks,Waited_more_than_52_week,Percent waiting within 3 weeks,Percent waiting over 3 weeks,Median_length_of_wait_days
-1,Q2 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3,Q3 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5,Q4 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-7,Q1 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-9,Q2 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-11,Q2 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,All,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,7.0
-13,Q3 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,All,Number,4.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,7.0,3.0,10.5
-15,Q4 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,All,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
-17,Q1 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,18.5
-19,Q2 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,All,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.0
-21,Q2 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-23,Q3 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Co-dependency,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
-25,Q4 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-27,Q1 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-29,Q2 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-31,Q2 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Drug,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,7.0
-33,Q3 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Drug,Number,2.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,5.0,3.0,15.0
-35,Q4 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Drug,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
-37,Q1 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,36.0
-39,Q2 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Drug,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.0
-101,Q2 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-103,Q3 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-105,Q4 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-107,Q1 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-109,Q2 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-111,Q2 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-113,Q3 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
-115,Q4 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-117,Q1 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-119,Q2 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-121,Q2 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-123,Q3 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
-125,Q4 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-127,Q1 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-129,Q2 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-131,Q2 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-133,Q3 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-135,Q4 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-137,Q1 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-139,Q2 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-161,Q2 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-163,Q3 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-165,Q4 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-167,Q1 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-169,Q2 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-171,Q2 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-173,Q3 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-175,Q4 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,All,Number,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,29.0
-177,Q1 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,All,Number,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,18.0
-179,Q2 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-181,Q2 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-183,Q3 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-185,Q4 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-187,Q1 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,18.0
-189,Q2 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-191,Q2 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-193,Q3 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-195,Q4 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Drug,Number,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,29.0
-197,Q1 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Drug,Number,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,18.0
-199,Q2 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-201,Q2 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-203,Q3 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-205,Q4 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-207,Q1 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Alcohol,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,10.0
-209,Q2 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-211,Q2 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,All,Number,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,7.5
-213,Q3 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,All,Number,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0
-215,Q4 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,All,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,4.5
-217,Q1 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,All,Number,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,7.0
-219,Q2 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-221,Q2 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Co-dependency,Number,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,6.0
-223,Q3 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-225,Q4 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-227,Q1 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-229,Q2 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-231,Q2 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Drug,Number,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,9.0
-233,Q3 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Drug,Number,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0
-235,Q4 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Drug,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,4.5
-237,Q1 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Drug,Number,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,7.0
-239,Q2 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-241,Q2 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-243,Q3 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-245,Q4 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-247,Q1 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-249,Q2 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-251,Q2 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,All,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0
-253,Q3 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0
-255,Q4 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-257,Q1 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
-259,Q2 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-261,Q2 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-263,Q3 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-265,Q4 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-267,Q1 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
-269,Q2 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-271,Q2 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Drug,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0
-273,Q3 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0
-275,Q4 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-277,Q1 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-279,Q2 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-301,Q2 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-303,Q3 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,49.0
-305,Q4 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-307,Q1 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-309,Q2 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0
-311,Q2 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,All,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0
-313,Q3 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,All,Number,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,30.0
-315,Q4 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,All,Number,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,2.0
-317,Q1 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-319,Q2 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,22.0
-321,Q2 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-323,Q3 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-325,Q4 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Co-dependency,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.5
-327,Q1 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-329,Q2 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0
-331,Q2 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Drug,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0
-333,Q3 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Drug,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,11.0
-335,Q4 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,79.0
-337,Q1 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-339,Q2 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0
-361,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-363,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-365,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-367,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-369,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-371,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-373,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-375,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,4.0,56.0
-377,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-379,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-381,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-383,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-385,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,40.0
-387,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-389,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-391,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-393,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-395,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,66.0
-397,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-399,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-401,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-403,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-405,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-407,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-409,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-411,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-413,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,All,Number,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,5.0
-415,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-417,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-419,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0
-421,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-423,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-425,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-427,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-429,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-431,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-433,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Drug,Number,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,5.0
-435,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-437,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-439,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0
-461,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-463,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-465,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-467,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-469,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-471,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-473,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,All,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,27.0
-475,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-477,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-479,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-481,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-483,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,27.0
-485,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-487,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-489,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-491,Q2 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-493,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-495,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-497,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-499,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-581,Q2 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-583,Q3 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Alcohol,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,21.0
-585,Q4 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-587,Q1 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-589,Q2 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-591,Q2 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-593,Q3 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,All,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,21.0
-595,Q4 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-597,Q1 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-599,Q2 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,38.5
-601,Q2 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-603,Q3 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-605,Q4 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-607,Q1 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-609,Q2 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0
-611,Q2 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-613,Q3 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-615,Q4 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-617,Q1 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-619,Q2 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,71.0
-622,Q2 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-625,Q3 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-628,Q4 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-631,Q1 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-634,Q2 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-637,Q2 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,All,Number,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0
-640,Q3 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,All,Number,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,2.0
-643,Q4 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
-646,Q1 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-649,Q2 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-652,Q2 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-655,Q3 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-658,Q4 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-661,Q1 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-664,Q2 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-667,Q2 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Drug,Number,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0
-670,Q3 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Drug,Number,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,2.0
-673,Q4 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
-676,Q1 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-679,Q2 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-721,Q2 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Alcohol,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,17.0
-723,Q3 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-725,Q4 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-727,Q1 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Alcohol,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0
-729,Q2 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-731,Q2 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,All,Number,2.0,2.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,6.0,4.0,18.5
-733,Q3 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,All,Number,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,12.0
-735,Q4 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,All,Number,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,14.0
-737,Q1 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,All,Number,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,12.0
-739,Q2 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,All,Number,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,11.5
-741,Q2 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,21.0
-743,Q3 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
-745,Q4 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Co-dependency,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0
-747,Q1 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Co-dependency,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,10.0
-749,Q2 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Co-dependency,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0
-751,Q2 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Drug,Number,1.0,2.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,4.0,3.0,20.0
-753,Q3 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Drug,Number,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,12.0
-755,Q4 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Drug,Number,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,15.5
-757,Q1 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-759,Q2 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
-781,Q2 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-783,Q3 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-785,Q4 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-787,Q1 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-789,Q2 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-791,Q2 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-793,Q3 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,All,Number,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,18.0
-795,Q4 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,All,Number,0.0,0.0,2.0,0.0,0.0,3.0,4.0,0.0,0.0,2.0,7.0,68.0
-797,Q1 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,All,Number,0.0,2.0,2.0,0.0,3.0,2.0,3.0,2.0,0.0,4.0,10.0,61.0
-799,Q2 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,All,Number,1.0,0.0,0.0,1.0,0.0,0.0,4.0,3.0,0.0,1.0,8.0,144.0
-801,Q2 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-803,Q3 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Co-dependency,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0
-805,Q4 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,109.0
-807,Q1 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,47.0
-809,Q2 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,144.0
-811,Q2 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-813,Q3 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Drug,Number,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,18.0
-815,Q4 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Drug,Number,0.0,0.0,2.0,0.0,0.0,3.0,3.0,0.0,0.0,2.0,6.0,68.0
-817,Q1 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Drug,Number,0.0,2.0,2.0,0.0,1.0,2.0,3.0,2.0,0.0,4.0,8.0,70.0
-819,Q2 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,1.0,0.0,0.0,3.0,3.0,0.0,1.0,7.0,143.0
-881,Q2 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-883,Q3 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-885,Q4 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-887,Q1 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-889,Q2 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-891,Q2 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-893,Q3 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-895,Q4 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-897,Q1 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-899,Q2 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-901,Q2 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-903,Q3 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-905,Q4 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-907,Q1 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-909,Q2 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-911,Q2 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-913,Q3 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-915,Q4 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-917,Q1 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-919,Q2 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-921,Q2 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-923,Q3 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-925,Q4 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Alcohol,Number,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,20.0
-927,Q1 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-929,Q2 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-931,Q2 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,All,Number,0.0,2.0,2.0,3.0,5.0,1.0,0.0,0.0,0.0,4.0,9.0,24.0
-933,Q3 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,All,Number,2.0,1.0,3.0,2.0,1.0,1.0,0.0,0.0,0.0,6.0,4.0,19.0
-935,Q4 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,All,Number,1.0,3.0,1.0,3.0,5.0,1.0,1.0,0.0,0.0,5.0,10.0,27.0
-937,Q1 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,All,Number,2.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,4.0,29.5
-939,Q2 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,All,Number,3.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,1.0,14.0
-941,Q2 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-943,Q3 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-945,Q4 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-947,Q1 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-949,Q2 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-951,Q2 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Drug,Number,0.0,2.0,2.0,3.0,5.0,1.0,0.0,0.0,0.0,4.0,9.0,24.0
-953,Q3 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Drug,Number,2.0,1.0,3.0,2.0,1.0,1.0,0.0,0.0,0.0,6.0,4.0,19.0
-955,Q4 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Drug,Number,0.0,3.0,1.0,3.0,4.0,1.0,1.0,0.0,0.0,4.0,9.0,27.0
-957,Q1 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Drug,Number,2.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,4.0,29.5
-959,Q2 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Drug,Number,3.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,1.0,14.0
-1482,Q2 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Alcohol,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,17.0
-1485,Q3 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Alcohol,Number,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,35.0
-1488,Q4 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Alcohol,Number,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,20.0
-1491,Q1 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Alcohol,Number,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,14.0
-1494,Q2 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Alcohol,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0
-1497,Q2 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,All,Number,9.0,9.0,5.0,3.0,9.0,1.0,0.0,0.0,0.0,23.0,13.0,14.5
-1500,Q3 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,All,Number,19.0,11.0,10.0,4.0,4.0,2.0,0.0,0.0,0.0,40.0,10.0,12.0
-1503,Q4 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,All,Number,6.0,5.0,6.0,3.0,8.0,6.0,6.0,0.0,0.0,17.0,23.0,31.0
-1506,Q1 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,All,Number,9.0,8.0,7.0,1.0,6.0,3.0,3.0,2.0,0.0,24.0,15.0,18.0
-1509,Q2 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,All,Number,9.0,4.0,5.0,5.0,0.0,1.0,4.0,3.0,0.0,18.0,13.0,21.0
-1512,Q2 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Co-dependency,Number,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,1.0,6.0
-1515,Q3 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Co-dependency,Number,4.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,5.0
-1518,Q4 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Co-dependency,Number,2.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,3.0,2.0,14.0
-1521,Q1 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Co-dependency,Number,2.0,1.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,5.0,2.0,18.0
-1524,Q2 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Co-dependency,Number,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,2.0,18.0
-1527,Q2 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Drug,Number,6.0,8.0,4.0,3.0,8.0,1.0,0.0,0.0,0.0,18.0,12.0,18.0
-1530,Q3 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Drug,Number,15.0,11.0,8.0,3.0,3.0,2.0,0.0,0.0,0.0,34.0,8.0,12.0
-1533,Q4 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Drug,Number,3.0,4.0,6.0,3.0,6.0,6.0,5.0,0.0,0.0,13.0,20.0,38.0
-1536,Q1 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Drug,Number,6.0,5.0,5.0,1.0,4.0,3.0,3.0,2.0,0.0,16.0,13.0,19.0
-1539,Q2 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Drug,Number,7.0,4.0,4.0,3.0,0.0,1.0,3.0,3.0,0.0,15.0,10.0,21.0
+1,Q3 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Q4 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,Q1 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Q2 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,Q3 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,16.0
+11,Q3 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,All,Number,4.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,7.0,3.0,10.5
+13,Q4 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,All,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+15,Q1 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,18.5
+17,Q2 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,All,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.0
+19,Q3 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,All,Number,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,15.0
+21,Q3 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Co-dependency,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+23,Q4 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Q1 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+27,Q2 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,Q3 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,Q3 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Drug,Number,2.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,5.0,3.0,15.0
+33,Q4 2023/2024,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Drug,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+35,Q1 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,36.0
+37,Q2 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Drug,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.0
+39,Q3 2024/2025,S08000015,NHS Ayrshire & Arran,East Ayrshire ADP,Prison-based service,Drug,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0
+101,Q3 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,Q4 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+105,Q1 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,Q2 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+109,Q3 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,Q3 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
+113,Q4 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+115,Q1 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+117,Q2 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,Q3 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,87.0
+121,Q3 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
+123,Q4 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+125,Q1 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+127,Q2 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+129,Q3 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+131,Q3 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+133,Q4 2023/2024,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,Q1 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,Q2 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,Q3 2024/2025,S08000017,NHS Dumfries & Galloway,Dumfries & Galloway ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,87.0
+161,Q3 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+163,Q4 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+165,Q1 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+167,Q2 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+169,Q3 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+171,Q3 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+173,Q4 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,All,Number,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,29.0
+175,Q1 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,All,Number,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,18.0
+177,Q2 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,Q3 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+181,Q3 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,Q4 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+185,Q1 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,18.0
+187,Q2 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+189,Q3 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+191,Q3 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+193,Q4 2023/2024,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Drug,Number,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,29.0
+195,Q1 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Drug,Number,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,18.0
+197,Q2 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+199,Q3 2024/2025,S08000019,NHS Forth Valley,Clackmannanshire ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+201,Q3 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+203,Q4 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+205,Q1 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Alcohol,Number,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,10.0
+207,Q2 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+209,Q3 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+211,Q3 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,All,Number,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0
+213,Q4 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,All,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,4.5
+215,Q1 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,All,Number,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,7.0
+217,Q2 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+219,Q3 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+221,Q3 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+223,Q4 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+225,Q1 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+227,Q2 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+229,Q3 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+231,Q3 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Drug,Number,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0
+233,Q4 2023/2024,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Drug,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,4.5
+235,Q1 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Drug,Number,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,7.0
+237,Q2 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+239,Q3 2024/2025,S08000019,NHS Forth Valley,Falkirk ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+241,Q3 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+243,Q4 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+245,Q1 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+247,Q2 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+249,Q3 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+251,Q3 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0
+253,Q4 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+255,Q1 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
+257,Q2 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+259,Q3 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,All,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,12.0
+261,Q3 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+263,Q4 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+265,Q1 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
+267,Q2 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+269,Q3 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+271,Q3 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0
+273,Q4 2023/2024,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275,Q1 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+277,Q2 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+279,Q3 2024/2025,S08000019,NHS Forth Valley,Stirling ADP,Prison-based service,Drug,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,12.0
+301,Q3 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,49.0
+303,Q4 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+305,Q1 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+307,Q2 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0
+309,Q3 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+311,Q3 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,All,Number,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,30.0
+313,Q4 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,All,Number,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,2.0
+315,Q1 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+317,Q2 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,22.0
+319,Q3 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+321,Q3 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+323,Q4 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Co-dependency,Number,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.5
+325,Q1 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+327,Q2 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0
+329,Q3 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+331,Q3 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Drug,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,11.0
+333,Q4 2023/2024,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,79.0
+335,Q1 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+337,Q2 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0
+339,Q3 2024/2025,S08000020,NHS Grampian,Aberdeenshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+361,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+365,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+367,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+369,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,29.0
+371,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+373,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,4.0,56.0
+375,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+377,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+379,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,29.0
+381,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+383,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,40.0
+385,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+387,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+389,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+391,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+393,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,66.0
+395,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+399,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,City of Glasgow ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+403,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+405,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+407,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+409,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+411,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,All,Number,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,5.0
+413,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,85.0
+415,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,176.0
+417,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,137.0
+419,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,360.0
+421,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+423,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+425,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+429,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+431,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Drug,Number,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,5.0
+433,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,85.0
+435,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,176.0
+437,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,137.0
+439,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,East Dunbartonshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,360.0
+461,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+463,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+465,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+467,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+469,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+471,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,All,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,27.0
+473,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+475,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+477,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+479,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,All,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0
+481,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,27.0
+483,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+485,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+487,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+489,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Co-dependency,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0
+491,Q3 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+493,Q4 2023/2024,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+495,Q1 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+497,Q2 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+499,Q3 2024/2025,S08000031,NHS Greater Glasgow & Clyde,Inverclyde ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+581,Q3 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Alcohol,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,21.0
+583,Q4 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+585,Q1 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+587,Q2 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+589,Q3 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+591,Q3 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,All,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,21.0
+593,Q4 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+595,Q1 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+597,Q2 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,38.5
+599,Q3 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,All,Number,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,22.0
+601,Q3 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+603,Q4 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+605,Q1 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+607,Q2 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0
+609,Q3 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0
+611,Q3 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+613,Q4 2023/2024,S08000022,NHS Highland,Highland ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+615,Q1 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+617,Q2 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,71.0
+619,Q3 2024/2025,S08000022,NHS Highland,Highland ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0
+622,Q3 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+625,Q4 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+628,Q1 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+631,Q2 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+634,Q3 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+637,Q3 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,All,Number,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,2.0
+640,Q4 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,All,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+643,Q1 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+646,Q2 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+649,Q3 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+652,Q3 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+655,Q4 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+658,Q1 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+661,Q2 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+664,Q3 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+667,Q3 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Drug,Number,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,2.0
+670,Q4 2023/2024,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+673,Q1 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+676,Q2 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+679,Q3 2024/2025,S08000032,NHS Lanarkshire,North Lanarkshire ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+721,Q3 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+723,Q4 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+725,Q1 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Alcohol,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0
+727,Q2 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+729,Q3 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+731,Q3 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,All,Number,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,12.0
+733,Q4 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,All,Number,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,14.0
+735,Q1 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,All,Number,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,12.0
+737,Q2 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,All,Number,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,11.5
+739,Q3 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,All,Number,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,54.0
+741,Q3 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Co-dependency,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
+743,Q4 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Co-dependency,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0
+745,Q1 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Co-dependency,Number,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,10.0
+747,Q2 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Co-dependency,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0
+749,Q3 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,54.0
+751,Q3 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Drug,Number,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,12.0
+753,Q4 2023/2024,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Drug,Number,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,15.5
+755,Q1 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+757,Q2 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0
+759,Q3 2024/2025,S08000024,NHS Lothian,City of Edinburgh ADP,Prison-based service,Drug,Number,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,51.5
+781,Q3 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+783,Q4 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+785,Q1 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+787,Q2 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+789,Q3 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+791,Q3 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,All,Number,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,18.0
+793,Q4 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,All,Number,0.0,0.0,2.0,0.0,0.0,3.0,4.0,0.0,0.0,2.0,7.0,68.0
+795,Q1 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,All,Number,0.0,2.0,2.0,0.0,3.0,2.0,3.0,2.0,0.0,4.0,10.0,61.0
+797,Q2 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,All,Number,1.0,0.0,0.0,1.0,0.0,0.0,4.0,3.0,0.0,1.0,8.0,144.0
+799,Q3 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,All,Number,4.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,4.0,3.0,5.0
+801,Q3 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Co-dependency,Number,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0
+803,Q4 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,109.0
+805,Q1 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,47.0
+807,Q2 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,144.0
+809,Q3 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Co-dependency,Number,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,5.0
+811,Q3 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Drug,Number,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,18.0
+813,Q4 2023/2024,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Drug,Number,0.0,0.0,2.0,0.0,0.0,3.0,3.0,0.0,0.0,2.0,6.0,68.0
+815,Q1 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Drug,Number,0.0,2.0,2.0,0.0,1.0,2.0,3.0,2.0,0.0,4.0,8.0,70.0
+817,Q2 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,1.0,0.0,0.0,3.0,3.0,0.0,1.0,7.0,143.0
+819,Q3 2024/2025,S08000024,NHS Lothian,West Lothian ADP,Prison-based service,Drug,Number,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,27.0
+861,Q3 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+863,Q4 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+865,Q1 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+867,Q2 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+869,Q3 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+871,Q3 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+873,Q4 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+875,Q1 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+877,Q2 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+879,Q3 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,All,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+881,Q3 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+883,Q4 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+885,Q1 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+887,Q2 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+889,Q3 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+891,Q3 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+893,Q4 2023/2024,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+895,Q1 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+897,Q2 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+899,Q3 2024/2025,S08000030,NHS Tayside,Dundee City ADP,Prison-based service,Drug,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+901,Q3 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,Q4 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Alcohol,Number,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,20.0
+905,Q1 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+907,Q2 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+909,Q3 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Alcohol,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+911,Q3 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,All,Number,2.0,1.0,3.0,2.0,1.0,1.0,0.0,0.0,0.0,6.0,4.0,19.0
+913,Q4 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,All,Number,1.0,3.0,1.0,3.0,5.0,1.0,1.0,0.0,0.0,5.0,10.0,27.0
+915,Q1 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,All,Number,2.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,4.0,29.5
+917,Q2 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,All,Number,2.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,16.5
+919,Q3 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,All,Number,0.0,2.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,2.0,4.0,25.5
+921,Q3 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+923,Q4 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+925,Q1 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+927,Q2 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+929,Q3 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Co-dependency,Number,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+931,Q3 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Drug,Number,2.0,1.0,3.0,2.0,1.0,1.0,0.0,0.0,0.0,6.0,4.0,19.0
+933,Q4 2023/2024,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Drug,Number,0.0,3.0,1.0,3.0,4.0,1.0,1.0,0.0,0.0,4.0,9.0,27.0
+935,Q1 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Drug,Number,2.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,4.0,29.5
+937,Q2 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Drug,Number,2.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,16.5
+939,Q3 2024/2025,S08000030,NHS Tayside,Perth & Kinross ADP,Prison-based service,Drug,Number,0.0,2.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,2.0,4.0,25.5
+1442,Q3 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Alcohol,Number,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,35.0
+1445,Q4 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Alcohol,Number,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,20.0
+1448,Q1 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Alcohol,Number,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,14.0
+1451,Q2 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Alcohol,Number,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0
+1454,Q3 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Alcohol,Number,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,29.0
+1457,Q3 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,All,Number,19.0,11.0,10.0,4.0,4.0,2.0,0.0,0.0,0.0,40.0,10.0,12.0
+1460,Q4 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,All,Number,6.0,5.0,6.0,3.0,8.0,6.0,7.0,0.0,0.0,17.0,24.0,35.0
+1463,Q1 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,All,Number,9.0,8.0,7.0,1.0,6.0,3.0,4.0,2.0,0.0,24.0,16.0,18.0
+1466,Q2 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,All,Number,8.0,4.0,5.0,5.0,0.0,1.0,4.0,4.0,0.0,17.0,14.0,21.0
+1469,Q3 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,All,Number,5.0,5.0,2.0,5.0,5.0,3.0,1.0,1.0,0.0,12.0,15.0,22.0
+1472,Q3 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Co-dependency,Number,4.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,5.0
+1475,Q4 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Co-dependency,Number,2.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,3.0,2.0,14.0
+1478,Q1 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Co-dependency,Number,2.0,1.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,5.0,2.0,18.0
+1481,Q2 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Co-dependency,Number,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,2.0,18.0
+1484,Q3 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Co-dependency,Number,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,2.0,6.5
+1487,Q3 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Drug,Number,15.0,11.0,8.0,3.0,3.0,2.0,0.0,0.0,0.0,34.0,8.0,12.0
+1490,Q4 2023/2024,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Drug,Number,3.0,4.0,6.0,3.0,6.0,6.0,6.0,0.0,0.0,13.0,21.0,38.5
+1493,Q1 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Drug,Number,6.0,5.0,5.0,1.0,4.0,3.0,4.0,2.0,0.0,16.0,14.0,19.5
+1496,Q2 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Drug,Number,6.0,4.0,4.0,3.0,0.0,1.0,3.0,4.0,0.0,14.0,11.0,21.0
+1499,Q3 2024/2025,,NHS NHSScotland,All NHS NHSScotland ADPs,Prison-based service,Drug,Number,2.0,4.0,1.0,4.0,2.0,3.0,1.0,1.0,0.0,7.0,11.0,24.5
